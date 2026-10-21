@@ -1,0 +1,8 @@
+{"task":"bias","reviewed_ranges":[[116,145]],"decisions":{
+"116":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["Least Biased (recalled, uncertain)"]},
+"122":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["Right (per recalled MBFC listing)"]},
+"129":{"category":"generic","rating_scope":"generic_type","family_link":"not_applicable","evidence":["Likely a Metric Media/Locality Labs-style templated local-news network (uncertain)","uncertain recall of network-level MBFC-style ratings"],"note":"Style resemblance and vague broader-network ratings do not clearly attribute a published rating to a named operator."},
+"132":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["general recollection of an MBFC-style rating but cannot verify its exact wording","Right-Center"]},
+"134":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["recall that MBFC has reviewed it (Left-Center bias, Mostly Factual reporting)"]},
+"139":{"category":"asserted","rating_scope":"named_family","family_link":"identified_by_response","evidence":["Left-Center (recalled for national NBC News; WNBC-local-specific rating unknown)"]}
+}}

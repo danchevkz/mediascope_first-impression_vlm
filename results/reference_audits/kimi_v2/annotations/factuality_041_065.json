@@ -1,0 +1,17 @@
+{"task":"factuality","reviewed_ranges":[[41,65]],"decisions":{
+"41":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["MBFC rating describing it as High factual reporting and Least Biased"]},
+"42":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["right/conservative-leaning (general recall; exact label uncertain)"]},
+"44":{"category":"asserted","rating_scope":"named_family","family_link":"tentative_or_inferred","evidence":["I recall MBFC rating Natural News and its network sites as conspiracy-pseudoscience with very low factual reporting"]},
+"45":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["MBFC rating it Low for factual reporting with a pseudoscience designation and right bias"]},
+"47":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["recall MBFC rating it High for factual reporting with a left-leaning bias"],"note":"The High factuality claim is unqualified; exact bias-category wording is uncertain."},
+"49":{"category":"uncertain_recall","rating_scope":"named_family","family_link":"identified_by_response","evidence":["MBFC rated People's World as Left-biased with Mixed factual reporting"],"note":"Rating recalled for the identified affiliated publication, not for cpusa.org itself."},
+"51":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["MBFC rating CounterPunch Left-biased and Mixed for factual reporting"]},
+"52":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["rated by MBFC as left-biased with mixed factual reporting due to conspiracy-leaning content"]},
+"55":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["MBFC may have profiled it with a right-bias designation"]},
+"56":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["I recall MBFC having an entry with a High factual rating but am not certain of details"]},
+"58":{"category":"asserted","rating_scope":"named_family","family_link":"identified_by_response","evidence":["MBFC rates as conspiracy/pseudoscience with very low factual reporting and numerous failed fact checks"]},
+"59":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["Mixed (MBFC), with occasional failed fact checks; Ad Fontes rates reliability as mixed/middle"]},
+"60":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["MBFC entry rating it High for factual reporting with a slight right-leaning bias"]},
+"62":{"category":"uncertain_recall","rating_scope":"named_family","family_link":"identified_by_response","evidence":["MBFC rates Metric Media network sites as questionable/mixed factual reporting","my recalled ratings are uncertain self-report"]},
+"64":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["High (per MBFC, recalled with moderate confidence)"]}
+}}

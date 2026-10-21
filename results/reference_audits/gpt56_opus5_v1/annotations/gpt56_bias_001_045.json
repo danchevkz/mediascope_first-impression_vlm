@@ -1,0 +1,1 @@
+{"model":"gpt56","task":"bias","reviewed_ranges":[[1,45]],"decisions":{"3":"asserted","4":"asserted","5":"asserted","7":"uncertain_recall","11":"asserted","13":"asserted","19":"asserted","21":"uncertain_recall","24":"uncertain_recall","31":"asserted","33":"asserted","35":"uncertain_recall","36":"asserted","39":"uncertain_recall","44":"asserted","45":"asserted"}}

@@ -1,0 +1,122 @@
+{
+  "model": "qwen/qwen3.8-max-prime",
+  "coding_version": 2,
+  "tasks": {
+    "factuality": {
+      "recorded": 212,
+      "valid_reports": 181,
+      "expected": 212,
+      "categories": {
+        "asserted": 23,
+        "uncertain_recall": 7,
+        "ambiguous": 1,
+        "generic": 5,
+        "none": 145
+      },
+      "references": 30,
+      "reference_rate": 0.16574585635359115,
+      "correct_reference_predictions": 23,
+      "accuracy_among_references": 0.7666666666666667,
+      "correct_predictions": 79,
+      "overall_accuracy": 0.37264150943396224,
+      "observed_reference_lower_bound": 0.14150943396226415,
+      "asserted_only_rate": 0.1270718232044199,
+      "outlet_references": 26,
+      "family_references": 4,
+      "tentative_family_references": 0,
+      "prior_rating_influence": {
+        "no": 164,
+        "yes": 16,
+        "unknown": 1
+      },
+      "possible_contamination": {
+        "unknown": 181
+      },
+      "provider_reasoning_available": 212
+    },
+    "bias": {
+      "recorded": 212,
+      "valid_reports": 178,
+      "expected": 212,
+      "categories": {
+        "asserted": 24,
+        "uncertain_recall": 4,
+        "ambiguous": 0,
+        "generic": 1,
+        "none": 149
+      },
+      "references": 28,
+      "reference_rate": 0.15730337078651685,
+      "correct_reference_predictions": 21,
+      "accuracy_among_references": 0.75,
+      "correct_predictions": 69,
+      "overall_accuracy": 0.32547169811320753,
+      "observed_reference_lower_bound": 0.1320754716981132,
+      "asserted_only_rate": 0.1348314606741573,
+      "outlet_references": 24,
+      "family_references": 4,
+      "tentative_family_references": 0,
+      "prior_rating_influence": {
+        "no": 162,
+        "yes": 16
+      },
+      "possible_contamination": {
+        "unknown": 178
+      },
+      "provider_reasoning_available": 212
+    }
+  },
+  "snapshot_sha256": "16825c47210403ccc377dca8cc4fa7780c1154ff2be65040f5147aa3c83ab5c3",
+  "rubric_sha256": "f04865da23bbfe04282d5b4fd11fe0ed30b3127cf9f19baa1619a458d096104a",
+  "annotation_sources": [
+    {
+      "path": "artifacts/audits/qwen_probe_manual_review_v2_20261010/annotations/bias_001_035.json",
+      "sha256": "85216d373689354e47504b81fca6155e8778743416ff916273b04bba8bba4f2c"
+    },
+    {
+      "path": "artifacts/audits/qwen_probe_manual_review_v2_20261010/annotations/bias_036_070.json",
+      "sha256": "762b03d2220bddfcdf4a146be18960f91d71844bc42564f4ffcdb4e380e6c803"
+    },
+    {
+      "path": "artifacts/audits/qwen_probe_manual_review_v2_20261010/annotations/bias_071_105.json",
+      "sha256": "d1d7eb144539d1bc8f0d2461375c52ada248af554e2dc9e71326c6c966b4a037"
+    },
+    {
+      "path": "artifacts/audits/qwen_probe_manual_review_v2_20261010/annotations/bias_106_140.json",
+      "sha256": "a2d1f6e7a22975c09233bdba454b9736a270255a5d783745014f55a610b51d45"
+    },
+    {
+      "path": "artifacts/audits/qwen_probe_manual_review_v2_20261010/annotations/bias_141_175.json",
+      "sha256": "43d8c0aa66c0c96396fc0a9c4df76bc6c9fc4908197137601d940da113ff2e7a"
+    },
+    {
+      "path": "artifacts/audits/qwen_probe_manual_review_v2_20261010/annotations/bias_176_212.json",
+      "sha256": "d8cd27c487f9007f22449c94c2592d9fa0edf8670bbfc1dd4f1fb6155fd323f2"
+    },
+    {
+      "path": "artifacts/audits/qwen_probe_manual_review_v2_20261010/annotations/factuality_001_035.json",
+      "sha256": "ea1e1f68e96f22b68728c114be0544733901eab1c237f2a7308de72aced103ef"
+    },
+    {
+      "path": "artifacts/audits/qwen_probe_manual_review_v2_20261010/annotations/factuality_036_070.json",
+      "sha256": "f2e5a3e64d5f327a42bcee8ce5fe4b45864a0cf1ac3bb2463c3b45b5cf3327e4"
+    },
+    {
+      "path": "artifacts/audits/qwen_probe_manual_review_v2_20261010/annotations/factuality_071_105.json",
+      "sha256": "d1a84c68e95d578f410a023000afc0b1fcc1621e2724f9a95deb533c07f19c83"
+    },
+    {
+      "path": "artifacts/audits/qwen_probe_manual_review_v2_20261010/annotations/factuality_106_140.json",
+      "sha256": "d97af842af9b2d2e50f89cc0d6498311c5da0de09972e5a9e9a1785dc2b7b481"
+    },
+    {
+      "path": "artifacts/audits/qwen_probe_manual_review_v2_20261010/annotations/factuality_141_175.json",
+      "sha256": "0be605e30abe0bb636cc9b7d1bdea28c9ca2f932e914c0ec03464b708fdb937c"
+    },
+    {
+      "path": "artifacts/audits/qwen_probe_manual_review_v2_20261010/annotations/factuality_176_212.json",
+      "sha256": "6aba4a1ac498ee4e31cc04be862176a9445809665a9495a42d2f824d89fc1c23"
+    }
+  ],
+  "scope": "Manually judged common structured reports; native-only claims excluded"
+}

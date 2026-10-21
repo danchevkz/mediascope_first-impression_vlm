@@ -1,0 +1,10 @@
+{"task":"factuality","reviewed_ranges":[[106,140]],"decisions":{
+"108":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["I also recall that MBFC lists it among propaganda/biased sources with low factuality"]},
+"111":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["Right-center / right (recalled MBFC-style bias rating)","I recognize the outlet and recall an external MBFC-style rating"],"note":"The named Peterson site/brand is linked to a recalled bias category; factual details refer less clearly to related outlets."},
+"113":{"category":"asserted","rating_scope":"named_family","family_link":"identified_by_response","evidence":["I recall Sinclair Broadcast Group stations generally being rated by MBFC as mostly factual/local news outlets"]},
+"116":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["I recall MBFC-style assessments generally rating Kyodo News as high factuality with minimal bias"]},
+"119":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["High / Very High factuality (recalled)","Low / Least Biased (recalled)","Media Bias/Fact Check (recalled from general familiarity, not browsed)"]},
+"122":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["I recognize the outlet and recall MBFC-style ratings placing it low on factuality due to failed fact checks and extreme bias"]},
+"130":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["I also recall an existing low factuality rating for this outlet"]},
+"139":{"category":"asserted","rating_scope":"named_family","family_link":"identified_by_response","evidence":["Media Bias/Fact Check (general recollection of NBC-owned station ratings)","Left-Center (recalled, not verified)"]}
+}}

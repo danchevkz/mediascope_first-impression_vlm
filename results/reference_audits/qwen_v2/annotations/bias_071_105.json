@@ -1,0 +1,10 @@
+{"task":"bias","reviewed_ranges":[[71,105]],"decisions":{
+"78":{"category":"uncertain_recall","rating_scope":"named_family","family_link":"identified_by_response","evidence":["Mixed / Low (questionable-source-style rating recalled for Natural News network; uncertain)"]},
+"79":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["Left (recalled)","my recall of an existing external bias rating comes from remembered media-rating literature"]},
+"83":{"category":"generic","rating_scope":"generic_type","family_link":"not_applicable","evidence":["MBFC-style raters typically place such trade outlets near the center, but I do not recall a specific verified external rating entry"]},
+"91":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["Mixed (recalled, unverified)","Right (recalled, unverified)","Media Bias/Fact Check (recalled from general knowledge, not verified here)"]},
+"92":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["Gallup, a polling/research organization typically rated Least Biased with high factuality by MBFC"]},
+"97":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["Mixed (recalled, unverified)","Right (recalled, unverified)","Media Bias/Fact Check (recalled from memory, unverified)"]},
+"99":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["Left-Center","I also recognize the outlet and recall a consistent external rating"],"note":"The Left-Center claim is unqualified; only factual-rating details are recalled approximately."},
+"104":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["I recognize HuffPost and recall MBFC rates it Left-Center"]}
+}}

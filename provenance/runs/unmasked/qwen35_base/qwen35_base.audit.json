@@ -1,0 +1,1629 @@
+{
+  "original_manifest_sha256": "b4196ebe0ff2d40369b0b28973bdaae75daac865c65ddbabb4afb44221c6bd40",
+  "manifest": {
+    "schema_version": 1,
+    "created_at": "2026-10-11T15:26:03.969099+00:00",
+    "identity_sha256": "175cf6c19b595328147a2a1f177682ad413a9d00c75b784efb68e8ae61f7d3c8",
+    "identity": {
+      "tasks": [
+        "factuality",
+        "bias"
+      ],
+      "samples": [
+        {
+          "sample_id": "6523f24cf666d4c5c17497db244832b18336c24a5bbcf93187acf6d486145a0e",
+          "media_name": "site_001",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/AgricultureDive.png",
+          "image_sha256": "ce23ed17e1a3c3bca9743c373ffb83550c0eba3415584859e78b16ba67091477",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEAST BIASED"
+          }
+        },
+        {
+          "sample_id": "8be885c6217ccb64eb33868efa670f1aa623170b068a186bc3fa2ded6f138c49",
+          "media_name": "site_003",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Dissent_Magazine.png",
+          "image_sha256": "a5aacd8e8156dd82e9051d26298768a826f04d7b1457c76827826dad3dce7b61",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEFT"
+          }
+        },
+        {
+          "sample_id": "a9d320482b37dbce1d3fa68fda8a34c2228654932cd621c0c28f6c0353b23842",
+          "media_name": "site_004",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Tyranny.News_1.png",
+          "image_sha256": "9061ab98764f3caec2d8ff136a180b734e0a7e5b8db7caa199343f439ce78449",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "bb6d281f155f6c50149712f1eb98292a32d0f420039b519229272666e979a7a3",
+          "media_name": "site_005",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Grit_Daily_News.png",
+          "image_sha256": "4d6e24e60491a983556eba85837de969abb6d0eee17f9b4ed69fe2693310d5b2",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEFT-CENTER"
+          }
+        },
+        {
+          "sample_id": "5dc21888474517c85d372a3b7f707b680a3567b3a0dc8b0a22c8f787187549dd",
+          "media_name": "site_006",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Peninsula_Daily_News.png",
+          "image_sha256": "5bd453ec28dc9dc29fc86c1ccc78f92a85b57b21f0f53ded3eaa74b86ce348bf",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEAST BIASED"
+          }
+        },
+        {
+          "sample_id": "59096d71984cce0ef48a2bdca7bb801c21ee5ea48ccdf098a94d492512965b64",
+          "media_name": "site_007",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Addiction.News.png",
+          "image_sha256": "f9cace5f1ef601207be10e07b64ccf314f60454ec02616607071a5c492e491e9",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "9adb8adb114f32a4aeac52624d172147012175c5380d24f022ed172c3beb77f3",
+          "media_name": "site_008",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/HistoryNet.png",
+          "image_sha256": "0f5658ac928e308fb7205540804df61352ac1854dfdf51bd67bb006bb781ab50",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEAST BIASED"
+          }
+        },
+        {
+          "sample_id": "c0a2d932d027fbd05aa3a2d946fded2939ecb1ca9539c0d18cf73760e6d0c82d",
+          "media_name": "site_012",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Inside_Higher_Ed.png",
+          "image_sha256": "ef506f494f8c6793b3321ae5e37b71290f629ab86a13de36edfca1758ef4a82f",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEFT-CENTER"
+          }
+        },
+        {
+          "sample_id": "eda94d4742279b18b3b852aa781d6a09e6d7ff828219c818be6218bbfb2a8853",
+          "media_name": "site_013",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Guardian_Nigeria.png",
+          "image_sha256": "5963af849c926df5517e12d9856af82c77a4dbdd8ea66c88bb06b88f9f0e8351",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "LEAST BIASED"
+          }
+        },
+        {
+          "sample_id": "164e2fd826aac718fb71108dc1a960330a4d2b644320655e009bee4cc64c175f",
+          "media_name": "site_014",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Filter_Magazine.png",
+          "image_sha256": "00fd5ec4a4c6e8bc391511183974834ae456573a79ea7a72575bda87d130c9a6",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEFT-CENTER"
+          }
+        },
+        {
+          "sample_id": "0fcd1e19702c1f6fb3d4fbace833d8eb500a7e3d424dda33c5cb9a76b1bd2e72",
+          "media_name": "site_015",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Exopolitics.png",
+          "image_sha256": "f505e702210cd8b8df8200034d0c948211bc0cca116012d1556a30addffa7712",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "cac3ca123e42fb8a223ba02c17926255adfa26dfb67ca73901d6312051708f69",
+          "media_name": "site_016",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Cardinal_Pine.png",
+          "image_sha256": "3b6101791b11bbf17e4f74c049c8f5b9da15f0ddcd33da9770e59d8fca7b3ae2",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "LEFT-CENTER"
+          }
+        },
+        {
+          "sample_id": "5699771b65199fef268daf04f1d4e9ed4eb5fed923e8c652e894c1d139331d36",
+          "media_name": "site_017",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/The_Nevadan.png",
+          "image_sha256": "bbd6cf62d6e09420f392d959f23cea1e5980847b4bb96fe9500a27572e631bbf",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "LEFT-CENTER"
+          }
+        },
+        {
+          "sample_id": "67dd25929d741a14f59c91498438b30a884a94b0f7dc0554c035a2d0e4115a1c",
+          "media_name": "site_018",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/American_Faith.png",
+          "image_sha256": "308af8c32162d7caf3f5695a5d862ca1386ea54671d6d69dc9d033429a7c164c",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "88e306147d6bb356d617a1ed9cc4cdf6335ae6c4a53d714f6975fa699498e97d",
+          "media_name": "site_019",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/East_New_Mexico_News.png",
+          "image_sha256": "bbf6b4bae7ea79525a99cbbfa36ddc2b3684c9b1e2ed499d649d402942bd6be2",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "RIGHT-CENTER"
+          }
+        },
+        {
+          "sample_id": "5e8c0efa35c7c04be6a9321fa1ab1a888b9c4bdd123756cba85cc3dbeb1080ff",
+          "media_name": "site_021",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Deadspin.png",
+          "image_sha256": "a8c323f1db6961ebdffd813866d0e4c6b9f810e5b70ad430367a2d6229afadc2",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEFT"
+          }
+        },
+        {
+          "sample_id": "c6d2393360c3317571f4a3395c8e07c14e3fc67ebf5f3ad9f9fd98107fe3d230",
+          "media_name": "site_022",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Capitol_News_Illinois.png",
+          "image_sha256": "a58bfe764f74396810629280708c266dcbe1eb8a931327443ec874975d01ea71",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEFT-CENTER"
+          }
+        },
+        {
+          "sample_id": "1af1ef9780b85070504370ff79a225b4ba63e1d4dba3909de8a5d42f5dcce107",
+          "media_name": "site_023",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/NYC_Gazette.png",
+          "image_sha256": "1b02be637e912cba00a76c132a3c2fd18451cac345f9015a35b2f4e522e23395",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "RIGHT-CENTER"
+          }
+        },
+        {
+          "sample_id": "fa326835de717b8c5b902589bdcf6715ec7f0dae91783607e96b35f20007c916",
+          "media_name": "site_024",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/York_County_News.png",
+          "image_sha256": "ac241047a5ff46307c53c6cd6d61424f79af5bc263cac28a08e2f2e5fa9adf72",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "RIGHT-CENTER"
+          }
+        },
+        {
+          "sample_id": "6d0dd6da40719b78db2aabeddef6e82eba9e1d9f5f7cad91177b696e7ea428a6",
+          "media_name": "site_025",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Dauphin_News.png",
+          "image_sha256": "f97e7de7d1b6ebc18e5c83a3bb07f684d002592c8594ed681ffadd70a0b05c35",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "RIGHT-CENTER"
+          }
+        },
+        {
+          "sample_id": "a5040218c36878ce1ab1e018312cb87ea10a8085291ea6a855a7c8a0507f08e4",
+          "media_name": "site_026",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Moskva_News.png",
+          "image_sha256": "9c9fb566d2dad974d8387351992f390498e0a05e3bac65b60a0230044e762e86",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "1be017b38ebe3a2a6f6f7157212013a0bc7a92c96fa9d7d6f6deb71eae0fafd8",
+          "media_name": "site_027",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/FDA.News.png",
+          "image_sha256": "afe522aaf25ac9a72ae6fb9f185aed6defa33e925a816fcabb593f401f53f04f",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "61f9130adbe94fd9df3ee16d4c170eec37decbca48788cf73a133385cc1c12f4",
+          "media_name": "site_028",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Oklahoma_Business_Daily.png",
+          "image_sha256": "884ff0182effb4a1b35ade46ac880156dcd13af03e6c13e1f1a21d40be4bd834",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "RIGHT-CENTER"
+          }
+        },
+        {
+          "sample_id": "f74200dcdeb55c0ae5ec962e0d25ebaa649b77f2865146522d1e7ae4294d84cb",
+          "media_name": "site_029",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Biased.News.png",
+          "image_sha256": "3baf952ba0fc144197b74fb92bdc83f8c3f181fd15915cedfd5c08d2c2cc54e0",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "b768d5f68e5be22267511c38ce4d24805f4d9aaf537d6ff66293baa3ce0401eb",
+          "media_name": "site_030",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Truth_Based_Media.png",
+          "image_sha256": "b170c7bb860239194a3e1d303b9708b7f3a1736344949c3dd0f8ccf065cf909d",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "fdd4201bf6d766d5c1c9e3bafe0cf8f9389f163163fbb9e7cae8fcc12681862f",
+          "media_name": "site_031",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Center_for_a_New_American_Security.png",
+          "image_sha256": "6db99b8fd6652627a984cbb1299382bfbeda62b8fbc4d5b2fb740bcadfa63d00",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEFT-CENTER"
+          }
+        },
+        {
+          "sample_id": "2d153b18bc5b86d49783b63a4e8594c75ee3f35d1c435ee178a519f5efbeb711",
+          "media_name": "site_032",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/MR_Online.png",
+          "image_sha256": "391c83076cc83ac831e3528d9d7b4176ba2f4496b478f9865d9fa5d843412b29",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "LEFT"
+          }
+        },
+        {
+          "sample_id": "27cd6c7e5a31d6ba5607e6c02494b442b4031bcac5ec79b021b3626c2694e42c",
+          "media_name": "site_033",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Clima_Fund.png",
+          "image_sha256": "a8ee80de08c995f2043a4c7e1eafbd77027b6316203f48bace81ac0a7f69827b",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEFT"
+          }
+        },
+        {
+          "sample_id": "1a1e0a015cc225750432897234e392b1a4f3605317cfbd41a4358c82ee06fd90",
+          "media_name": "site_034",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Shondaland.png",
+          "image_sha256": "c90ae21840d1c1e4ba8e71642387f21e7dea1f1813e846567f91b841b910406d",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEFT"
+          }
+        },
+        {
+          "sample_id": "85700f7c8fb3e4c3f449890089060871532d09ce64a64641958a5d7ddfd36367",
+          "media_name": "site_035",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Central_Florida_Post.png",
+          "image_sha256": "e0d5fc7c84286b82c2fcf6e59bfd54dc090189706667a0d4275416e57e7c2fe1",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "ef66835963a4aeda4919ba6d7bef925b17bc75592b27a0967535b9ccfad02e52",
+          "media_name": "site_036",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Floricua.png",
+          "image_sha256": "e5890f7790458a722668a21f93e752c27baf71d2ed20cc5945f00f1c080f0c8d",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "LEFT-CENTER"
+          }
+        },
+        {
+          "sample_id": "2046ab9de54085c82312f63d7f38b8878080a536a1fc66b1869133d244ccc0cb",
+          "media_name": "site_037",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Anthropocene_Alliance.png",
+          "image_sha256": "6eb6a8fb4f10189181a9d8b96a29df3e22389f15f7d5c5db6748515c7e4735cb",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEFT"
+          }
+        },
+        {
+          "sample_id": "db9a48290e729c2bd58f16854fee669bbbe111ea3cc478215ece72838d23885a",
+          "media_name": "site_038",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Meditech_Today.png",
+          "image_sha256": "68d13f17cb63aa6e49482622ec46c19ed098ca7b4cf9447d3f325354563b1b34",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEFT-CENTER"
+          }
+        },
+        {
+          "sample_id": "e82615d0e5d088ae0da468b9636a2d9ca8672bcfca051f8f3e4cdb15897faeb1",
+          "media_name": "site_039",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Maryland_Business_Daily.png",
+          "image_sha256": "1687889a9ee0d9dd7fa9bfef2ecee4933d90a117c3ec32bc668fc27540d9f2a8",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "RIGHT-CENTER"
+          }
+        },
+        {
+          "sample_id": "0c0c63d0d1e9c3b3a09e886b4c9ddbf1382dcf894d35f86bddee78e9dc33d804",
+          "media_name": "site_040",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Ecology_News.png",
+          "image_sha256": "64801b90771c457dd48c03c84f60e10c65693b618ea3518f72c75329993c69be",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "8458392171eaf667fabede5d299d308c2bc5b7e62d30cd66382fc0eec9099494",
+          "media_name": "site_041",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Everytown_for_Gun_Safety.png",
+          "image_sha256": "9467872489cea52e378c7b091a74f0f9631ca021bb475b1bc7fde3bbefabbbaa",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "LEFT"
+          }
+        },
+        {
+          "sample_id": "146bd1a616a4219da9f8b9f371cc42495fc5e87e77a407cbb8a9d37c7843d43a",
+          "media_name": "site_042",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Oregon_Business_Daily.png",
+          "image_sha256": "a8c90a5fcb9bbbf668a5b1bf7558ed94cb77c58b21e21ed88a3da03922c7a79a",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "RIGHT-CENTER"
+          }
+        },
+        {
+          "sample_id": "34a57cc1abf3920098441211b6834dbe4b8eb8d5f723c8eb2de1bdf778ab9f5b",
+          "media_name": "site_043",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Americans_for_Truth.png",
+          "image_sha256": "9f23720d966837a999fcc524379ca9631d7f3b9b95b17cd38a515d08e36cefa6",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "d52175fad2513eb2a1ce14952b90807200fedd9bd7d985eb02175e00701be4e0",
+          "media_name": "site_044",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Jakarta_Globe.png",
+          "image_sha256": "35e804e1dcfffb73483513d2af5c564000d19e8ffb997c296338e302f19469d4",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEFT-CENTER"
+          }
+        },
+        {
+          "sample_id": "85b934dab4480487958007e088db0c69866eb1605dc8bcc9f9d28ff83fe6caac",
+          "media_name": "site_046",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Central_Bucks_Today.png",
+          "image_sha256": "4a636911c70e9d68f5f7833ef80a143396bee4b3c5ad5747fcb19f2f1cbf8de8",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "RIGHT-CENTER"
+          }
+        },
+        {
+          "sample_id": "81dde2a947925c7ae2187175dabfdce4298aea78d33dd8250d665a93d534f9fe",
+          "media_name": "site_047",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Daily_Mirror.png",
+          "image_sha256": "fea8a96fd0fc80492dbb27281059ecc13e756389ab65131307c903ef443d2e31",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "LEFT-CENTER"
+          }
+        },
+        {
+          "sample_id": "7119ead896d12e55795c5825cb97ba459d700ebfefd380af43ba99dcdc30b4ed",
+          "media_name": "site_048",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Banned.News.png",
+          "image_sha256": "4e14cc1ba295cad5cdf9d0b3175c311b6dd791abd600cb8569679f301c510552",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "8945396d5f08b3ae34394197f9e5b066c598362d11c277e3bfe23053737d7b4b",
+          "media_name": "site_049",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Gear.News.png",
+          "image_sha256": "2d7d18d4de1df9d6ed72cb11ea618dab26fcfdd99b650b78695cf1aa9863459e",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "061ae61aecfa0fad8131721c6fb4603b5c8298a51f556502c86fd90c4e0d2022",
+          "media_name": "site_050",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Granite_Grok.png",
+          "image_sha256": "5eebfc2149bc802815bf0429153d9f0fc063bed0663b59463945276fdde917f4",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "07862e6fc0dec3447060edce160bb36aba528528d054a7cc26fb51115c16ecd3",
+          "media_name": "site_051",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Abilene_Times.png",
+          "image_sha256": "5ae4e2a27c4456caaac0f7014c16fcccab7a4c67d07115072a1c6d81ce0f3d29",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "RIGHT-CENTER"
+          }
+        },
+        {
+          "sample_id": "4c29700693bd84ea99039367cb17d9386ba411e8fca8784efb52822fec46616b",
+          "media_name": "site_052",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/NC_Business_Daily.png",
+          "image_sha256": "cf9d6f2a0ad146bd43bc81e67e6d5826779b4f1e8955d7d63591706426371e76",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "RIGHT-CENTER"
+          }
+        },
+        {
+          "sample_id": "53f19c8d359267690778b5fb56ba029b5946c794cbb926abd40d087a4e0b385c",
+          "media_name": "site_053",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Law_for_Palestine.png",
+          "image_sha256": "f4ca13d12bd026f6530a2210dae70f60bc129f328d9094b66bc9b150ae03b10e",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEFT-CENTER"
+          }
+        },
+        {
+          "sample_id": "3d141c9cab8fb9f64748cf85f974ffba64d376eb9d8aaaf80291128d3b135a4b",
+          "media_name": "site_055",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Fact_Myth.png",
+          "image_sha256": "995bab80f4045cc52751763b2023aab7a710226841beb13f734dfa39de0c1348",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEFT-CENTER"
+          }
+        },
+        {
+          "sample_id": "cc96d7cc2662d3c82e80a5686aff26fe5e6bc26d074b09434fba94709ac707bc",
+          "media_name": "site_057",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/VaccineDamage.News.png",
+          "image_sha256": "98ed97b67112ea31d094fe26f5a3a302b632b3c88e74156a868d09a5d8c72974",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "e18035a41d0a23fc3f3c7e239f9cda9c66f0ab49ed96f6f730223af235bc2aa1",
+          "media_name": "site_058",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Censorship.News.png",
+          "image_sha256": "f67fb16f21f0de13cf21149c82907729dc6a4202992d3c6e3e2808197238502f",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "4d76adf629f566c9193ad83aec1d40376b1cfe97eae089ad308aead0da8d61f7",
+          "media_name": "site_059",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/WPNM_-_Leipsic_News.png",
+          "image_sha256": "9fa3f6d5b8cd732e52bd68d338a15dbe9d77f60ecd12869d634b2487202bad62",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEAST BIASED"
+          }
+        },
+        {
+          "sample_id": "58289dc27a14a8b35310a6888c266b16668e89ebef195fcd78251e218232fbae",
+          "media_name": "site_060",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/InSight_Crime.png",
+          "image_sha256": "50c93aa3e3ba3ae57667d0cc388a425cc89729eafa448dc935ba2ca757ade986",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "LEFT-CENTER"
+          }
+        },
+        {
+          "sample_id": "723a3840fcfbfc71c7b02a47f75cd73bf2dc5b729c10e423375770467b49dbc5",
+          "media_name": "site_061",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Movement_Advancement_Project.png",
+          "image_sha256": "f3ec882c25faa7ab8c5064f440d48f0a66fdf628e5190b8c7fb8bd222872bbe9",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEFT"
+          }
+        },
+        {
+          "sample_id": "d4e553e1e242b0209760d78784d0373007af3fab97e865d1e4f9504a77531101",
+          "media_name": "site_062",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Suffolk_Reporter.png",
+          "image_sha256": "4b5bb0aff3d55ffb80c4be6c4c498d6b4de5c8532b976483a976a5b7abddff37",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "RIGHT-CENTER"
+          }
+        },
+        {
+          "sample_id": "395bdecc3eb2875f4305e3c8449b665ec25e44ff7f7b9bb5b98fe72d4d41b903",
+          "media_name": "site_063",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Al_Monitor.png",
+          "image_sha256": "9c7f9f013fd7e70464c2a14a401e4efe2950fc755f5407630530fc6943cc1b55",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEFT-CENTER"
+          }
+        },
+        {
+          "sample_id": "c1c4404aba62ee898db4aef5620cce1da1ff499832c2d213f42f1a19307972e1",
+          "media_name": "site_064",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/ScienceClowns.png",
+          "image_sha256": "2c60a4963468b8b173c563baf6124bb06bb15453249cbdcfe47b814c55ad6512",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "a73f751ed42a9e6cf56aaee7de89da95c896d8afb5d2ff6c925947720dbc726a",
+          "media_name": "site_066",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/American_Society_for_the_Defense_of_Tradition_Family_and_Property.png",
+          "image_sha256": "3bf6dd730cb5f4c85ee0b44077762d77f7fe488f6b167aeb0fa33d24ab33fd3b",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "19efc63ef42b0d3969c6dccbdcd0db45f2f31b9d6b3971ee44b464e6291c91c8",
+          "media_name": "site_067",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Toutiao.png",
+          "image_sha256": "e066eee6b4d5c1441d0501c99380fa2266bf68df622d4e05100e3f1159b4de0d",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "LEFT-CENTER"
+          }
+        },
+        {
+          "sample_id": "f0ed9afa6705b5220dede15258bc9e7c19988c81ea71e8ee582b40f7911969ca",
+          "media_name": "site_068",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/National_File.png",
+          "image_sha256": "dc06fe95028bff93fbff51d19eff1fc80c94e6ce7fc38cb66dd0c7183de2c44d",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "e4824ec731f394bb8d57ddc6f537d22632706a807c4bc6e4d2a7143a3b55b6e6",
+          "media_name": "site_069",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Conscious_Life_News.png",
+          "image_sha256": "8395c740641657820a27310edcc77cca5f646da24510f6a4573c3e5c125d8cc3",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "LEFT"
+          }
+        },
+        {
+          "sample_id": "5725fd47df9bce79c61df987b70cd84037268d45115b372f7843f16716ac4f6a",
+          "media_name": "site_070",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/MedicalTyranny.png",
+          "image_sha256": "c4c0cb601cd5603b3a638009db31ae019b3a706a0a59df54635602aaef96d3ee",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "9dfbd6ad5abb41abea9c8891a382c7e60aaf81dad268b3bec207b5220d297bef",
+          "media_name": "site_071",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/VaccineInjuryNews.png",
+          "image_sha256": "21f574e83fc42cde4e8802b61aabfee477a6c4476b1123db8508d5a887f5d618",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "df39d9987d8d994c231ac1507e7cae90d03302b59bb714e2c2c44acaeec8ed84",
+          "media_name": "site_072",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Alternet.png",
+          "image_sha256": "70ac1a44be3ad0eaf2d77c0defdca87fed85cac391a2590d4d61bc36dcd2bffb",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEFT"
+          }
+        },
+        {
+          "sample_id": "716971db838413f5099051c709604d84fe5816a4a2731544869a6e42ef0f2090",
+          "media_name": "site_073",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/The_Daily_Adda.png",
+          "image_sha256": "2ec2b28a284fae8a239cd8c2798bef5b209583a6b0633c3aa53c446da2106c92",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "LEFT-CENTER"
+          }
+        },
+        {
+          "sample_id": "c97bb85346d925c0bfc1599d1ac6bd1983ed944f6d323be15c01ab72ab1c560f",
+          "media_name": "site_074",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Eluxe_Magazine.png",
+          "image_sha256": "a03ecdb923db63c6d5c7f3a89813712fc0b485289e80019b96d5648c915d74bc",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "LEFT"
+          }
+        },
+        {
+          "sample_id": "0d8b2847d7eb72eb2e14b7b47d3d1386d819118ddacaf6cad902229fe3b38aa5",
+          "media_name": "site_075",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Bleeping_Computer.png",
+          "image_sha256": "50aa2e867ad41a212901b123d39edd65e662ebc4dd382de153c704ad96852d20",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEAST BIASED"
+          }
+        },
+        {
+          "sample_id": "489885d08c784acd810fab98f5fcf8da39bef9d8614d47cb6c9b326e847b196f",
+          "media_name": "site_076",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Alabama_Business_Daily.png",
+          "image_sha256": "d2dda911778ed26c55aaee49140302923e09ee1d3639e7b42653081e265bcf74",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "RIGHT-CENTER"
+          }
+        },
+        {
+          "sample_id": "38cada5346121f1970363fc98ac5275758149724620588cb15a4a0cf8be54a24",
+          "media_name": "site_077",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/American_Renaissance_Magazine.png",
+          "image_sha256": "30bdb44e58bfbb58ab814a6da2aef27195c2ff4e53463f0d02ac32e2de87f933",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "489d4036d2c10a0c448770d62bf52e24fa1cd87c9ca02f2e4db29d89be5d7e60",
+          "media_name": "site_079",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Trump.News.png",
+          "image_sha256": "7993b545552d4e3d9a173d8161444fb684c7a47ae3a383e86c6d2c44d4bc96b4",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "ad178e826068da6ab8e2e6f95abafb1fdd38d4af9ffd86bdc16002c4a141e906",
+          "media_name": "site_080",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Georgia_Record.png",
+          "image_sha256": "e27148168c05d118cac656bafaad321160a5addf5bbfb50945f85c82d2f52d8e",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "d0745091d9f56eec51460e88fa7667bc5bae39e6e8392b08da776f1c80d28c6a",
+          "media_name": "site_082",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Daily_Beast.png",
+          "image_sha256": "7e6361b16485da52708ebe7c915af699c5258dbc0dfc0b591d661c6551cf3621",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "LEFT"
+          }
+        },
+        {
+          "sample_id": "0529f73e090685da638a17f5dfc78385518538a43137566ff43c6be630987a83",
+          "media_name": "site_083",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Bioterrorism.News.png",
+          "image_sha256": "200e7be77d446e97e1c4f5dccf23b4694ebf42d8c52798aac09a06dc8293aa71",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "6546efc7471ec7796c81d36d02dab023332fb6346298cd5d5b4ee65ed1efd5f2",
+          "media_name": "site_084",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/BillMoyers.com.png",
+          "image_sha256": "b9b5d66df94c1abc8965abc7262601445bcc2f0d3cec89ac93f1ce6288b4eda8",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEFT"
+          }
+        },
+        {
+          "sample_id": "a23785404c31259b111f5013ab7db4d12c573af37e31848c5c2b5b02436dd53d",
+          "media_name": "site_085",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Mercopress.png",
+          "image_sha256": "20176d2f081d444974acbf5b25d86a23bd34af9a13f9ff375827bcd3a7d7784f",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "LEFT-CENTER"
+          }
+        },
+        {
+          "sample_id": "f4e4fc7fe5d4b320a6de16cb7f2b0e036feacc05c3f4d40fd05b4fb36a5f681e",
+          "media_name": "site_086",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Amnesty_International.png",
+          "image_sha256": "1b9aeb4a2f2d188c0e8e97fe165e53e87b43ba2201daf223a37ca74d2c5cdec9",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEFT-CENTER"
+          }
+        },
+        {
+          "sample_id": "25d8e95d84becb8b19753c349130134fafd7fe05e39678f2f09b64394c6f03ab",
+          "media_name": "site_087",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Mercer_Times.png",
+          "image_sha256": "cbbd5542f8275eab683638ed2e3bd40716ad1172ffd5e934fe2b4d4021d651a6",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "RIGHT-CENTER"
+          }
+        },
+        {
+          "sample_id": "3d218924e53a8106217ae13d44129e13b1d06f1787702bd70788857d30313cc2",
+          "media_name": "site_088",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Health_Insider.png",
+          "image_sha256": "358c8f221430298bbb290b36c56a5ab223c1addf03b95c2a3aef64fb119a82b6",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "LEAST BIASED"
+          }
+        },
+        {
+          "sample_id": "59376069a34998379d53e12024044906001a9fc912b8b8558c0f806f04fc0db7",
+          "media_name": "site_089",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Democracy_Docket.png",
+          "image_sha256": "3156f03cefd496ff3b82ca8db0fb19094f7aeb447865e7ff82359f1012360afc",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEFT"
+          }
+        },
+        {
+          "sample_id": "37018973c2bef13252afffbf53dcf531337d97ecb2cad96116c2dafd26ca0207",
+          "media_name": "site_090",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Kentucky_Business_Daily.png",
+          "image_sha256": "0ec42ae01c7e45b0740cc4053e6dec6876d9b74b2595add01fddf52d7f3a0d10",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "RIGHT-CENTER"
+          }
+        },
+        {
+          "sample_id": "1c58cae709114421df6e341e98daa01c1ff8773784e96d93ac124a4fac9428fd",
+          "media_name": "site_091",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/China_Global_Television_Network.png",
+          "image_sha256": "2c0284c92a3c34e7fc75c14d1cfe104ca0b477b09df9abd5dda87f78ee5387e4",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "LEFT-CENTER"
+          }
+        },
+        {
+          "sample_id": "1da20f8b44c685327808517d8b8290979d37dc505933df5989bc94570c226d17",
+          "media_name": "site_092",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/DailyJournal24hr.png",
+          "image_sha256": "877c3edb51405daaa8d6d03d30fe48039f5a2ffbc9c38ced4cc5288d409fb380",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "LEAST BIASED"
+          }
+        },
+        {
+          "sample_id": "36993319e371dbe7b4dcfcc105deb95ddf5083d9c3877f22a2c091105abf8e07",
+          "media_name": "site_095",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Left_Action.png",
+          "image_sha256": "a37e03a472ff9114066cd62bad9bc921a11fafed2a08dc4b93ccf3f2930af7ac",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "LEFT"
+          }
+        },
+        {
+          "sample_id": "434f819374b884d304c4654d13a684b4f96cf9118e2b62252e7c4acee8a53887",
+          "media_name": "site_096",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Center_for_American_Progress.png",
+          "image_sha256": "8ee340f0fa9cc019da8c94fcda78e6c438fe529584e153bb2b0d9be93c4520b2",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "LEFT"
+          }
+        },
+        {
+          "sample_id": "28cd0afd8d1cf128a2b2476add36a677f52a76bd8fae588bfc88d6f05a5420f9",
+          "media_name": "site_098",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Xinhua_News_Agency.png",
+          "image_sha256": "df95263a9df819a6838d12fa52996be5e69aef5b1daa27fdcd61e8830e732525",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "LEFT"
+          }
+        },
+        {
+          "sample_id": "ffb92ddf996ac8f766a006c5512f11d6114e5e3b96a203c64f6098653efb9e4a",
+          "media_name": "site_099",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/We_Got_This_Covered.png",
+          "image_sha256": "84a5af7f32f8214feba7955c037601bd26175151a2d76e6c79af294e9b1c8172",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEAST BIASED"
+          }
+        },
+        {
+          "sample_id": "f6ad40626a4c547d92c9673b677e57e5989e8e9b74e34812ba65fdf248363686",
+          "media_name": "site_100",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Chinook_Observer.png",
+          "image_sha256": "c4f87786284f4ff8ada36e78b6a05c5ae81445b0969903e1357c0e4fd72baeeb",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEAST BIASED"
+          }
+        },
+        {
+          "sample_id": "5f5ffdc15eb001be235bb30237e8f11526daf03493b634b884c1adb0e5da9206",
+          "media_name": "site_101",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Adams.News.png",
+          "image_sha256": "5ad786aaa1c76fbc5a6f5adbabd3e393ce4ea8076e69279661b88bb48f52983c",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "065213cce769595632dbe4d9f6160989847354e89b34ba8bb69c831edb735ccb",
+          "media_name": "site_102",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/FactCheck.News.png",
+          "image_sha256": "08c1e3fe86d3adc964d08d08080ce9103a74a99b92df2d5c34ae7d1d1d7c498b",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "a79d17bc9eecfe6f8f35f0725ba871db5a33977b45f56093c41249cbcd21724a",
+          "media_name": "site_103",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/CaliforniaCollapse.News.png",
+          "image_sha256": "adca85016296ef6c56ac0a23f1f3dd6ed1ad78cdb2d8f34e3709d90ce03c4cee",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "079bcbbb5e5219bb935f1f9e0f6daffb2359f7b919ef0a75eac21dbbb238b3ae",
+          "media_name": "site_104",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/World_News.png",
+          "image_sha256": "2674481aeea9c9fee286e59b3bc72b69b0c84ebd910bc04d3aeeab760e88c126",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "LEAST BIASED"
+          }
+        },
+        {
+          "sample_id": "855dc0d250d3b43b6563cd0d747364a5f05bd7a78e962db97208a4c01d586968",
+          "media_name": "site_105",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Sixth_Tone.png",
+          "image_sha256": "4dc16f2e8acd1a5c470f7d453a3005376e8ed9643229897b015cfffafef8a074",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "LEFT"
+          }
+        },
+        {
+          "sample_id": "be95c36e0fac31bc202a491a5964cf974c73136b83e235a4174051c77e2ebaf4",
+          "media_name": "site_106",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Denver_Post.png",
+          "image_sha256": "8047f1eef40bb15aaeeac2741a06f181b22ecfc927a880bf16aa7fd968163f6a",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEFT-CENTER"
+          }
+        },
+        {
+          "sample_id": "b4c55f16cfe1f233558d7f17deb64b2169375b91f19459a56812a4a36409086e",
+          "media_name": "site_107",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/West_Essex_News.png",
+          "image_sha256": "e57006082fcb9d6378a0a1f58364fd4c5250e0a4c7c38ae2e6c26a5d3c3dc62e",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "RIGHT-CENTER"
+          }
+        },
+        {
+          "sample_id": "be69b0a4450645f6ace7f3dfffb2bc18e96b6226e015ef022c0bb3d553133d82",
+          "media_name": "site_108",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Morris_Leader.png",
+          "image_sha256": "9bdb0798c0fd0fd083783d4da780ce06391c3517bb04446c329c2fe53eed8e29",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "RIGHT-CENTER"
+          }
+        },
+        {
+          "sample_id": "6f4682bb49b1094c798fe69fef099a888bfeb10697f00c85bc19310347855df7",
+          "media_name": "site_109",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Antioxidants.News.png",
+          "image_sha256": "38492066afd07a2197e4ac6780749e3ebf7a14bfd7cd8278c1a4178a74ae45f9",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "4c21ebf5f81e0f8ba4894d2545755f5d78218c1f9c57ada3e9e411d4848b9346",
+          "media_name": "site_110",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Haaretz.png",
+          "image_sha256": "b0b96c9ca9b7c0f00d92be9f4c3afcfec1ba92b7ed6c416fa9efc42484f9abe0",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEFT"
+          }
+        },
+        {
+          "sample_id": "e8a3b77378decddeb3a588433406842e01eb93d263b1bec60507a80531e5dd5e",
+          "media_name": "site_111",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/SE_Connecticut_News.png",
+          "image_sha256": "71248d3425f5f9562d1922e713ebdc48737335a707c7f572618dcd4f8ca682cc",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "RIGHT-CENTER"
+          }
+        },
+        {
+          "sample_id": "49dc3a31506cfc207a7253dc30c76c77ee3c884489d5421ab2586275b0240624",
+          "media_name": "site_112",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/News_Hour_First.png",
+          "image_sha256": "ae82f22f6a3123597b75781e94c35d3bf8544af88c0a2ab6f2d544d0636ef20a",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "291a9f895e1df095f94ad95e1456cf5dd4175c5a46203de0c36162e46ee4247a",
+          "media_name": "site_113",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/EdScoop.png",
+          "image_sha256": "c030943cd464f9dddf14f12e3b9739a649ff590da126559a639316b14de2834a",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEAST BIASED"
+          }
+        },
+        {
+          "sample_id": "77ff67c1c137ee76a27c7ad6bb21afd8b617f42a9397817b727330590a962ce1",
+          "media_name": "site_115",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Westmoreland_Review.png",
+          "image_sha256": "d8baecdf733ba357eafe5c8aa0e26871f5ebbb7a3634212bc86da93d957c66dd",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "RIGHT-CENTER"
+          }
+        },
+        {
+          "sample_id": "00f2789935b5d99bf694ffb517e8c645c81af228cd10b4bc5258516f2d9c2fd5",
+          "media_name": "site_116",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Der_Status.png",
+          "image_sha256": "59dc1549aecb7e5bde45c534a3a4d9d492b8489a5467cb8ea6551d66b587d0ed",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "03ea2d20674af50b4c887175e883abbe0dd302b9a836e29e9dd165e2f03ca4d9",
+          "media_name": "site_117",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/News_with_Views.png",
+          "image_sha256": "7f9956d7499671e07f2163470d71a660a8007b07d4e9c133dd3ee84254c9d9a3",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "8a1a1689186b73b49497a65e10fb510bc9ec1748e4e3f425288f131e3217e6be",
+          "media_name": "site_118",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/CounterPunch.png",
+          "image_sha256": "d17a51095665f48f0ef3c89e546540e6fa6902b07a55d37b2f9fcd17eaa41b9f",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEFT"
+          }
+        },
+        {
+          "sample_id": "e693913ce63e8055bf6e8ac3715d76967be0ea804a4e2dc42c119b7bb381fc6d",
+          "media_name": "site_119",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/The_Bearded_Patriot.png",
+          "image_sha256": "da1c50b8777925405bc897e3646a42b65ee67586176823616294cb7df7e870b9",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "d931182e7e60edd7bd467528ac6ed941cbb09a1c61254ccd690262f5d1d8653f",
+          "media_name": "site_120",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Daily_Kos.png",
+          "image_sha256": "3197f26fd1be06852c74aaf092541bbe5e85844555d17b16566ba4b1b5a70fce",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "LEFT"
+          }
+        },
+        {
+          "sample_id": "b669d150f9adbc2ee35b8b06e027e9b80a62586f3de6a3f6bd42d8460dfb02b1",
+          "media_name": "site_121",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Wyofile.png",
+          "image_sha256": "15f5350a6be53ac602529a5a9290b8c78d64f7214c2e09579b08f8d4da2ebc99",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEFT"
+          }
+        },
+        {
+          "sample_id": "14ee299a83e5c59dac633d9066d4e95d82293095f8ca83a3a65600247c589bda",
+          "media_name": "site_122",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/TechGiants.News_1.png",
+          "image_sha256": "5a3ae7fa415356ee6c07b95fca85a34aa135f7cc283c3ca95ea3c084c037471b",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "4b517cc0cdaf57e1bca53ab0063a101964c5f933eddf0243ba89982368d395dd",
+          "media_name": "site_123",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Atlas_Obscura.png",
+          "image_sha256": "68eb1691a38b1cb105a2a3a30ea495aa2a7a0fbe5ebfe7073593d32ee44283a4",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEAST BIASED"
+          }
+        },
+        {
+          "sample_id": "1cd4babf09a538191b3c980fc7bc5bac6f55f4063446bda074b8a94d672d14af",
+          "media_name": "site_124",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/The_Burning_Platform.png",
+          "image_sha256": "cdd678ec692c1259aef2957dbadc9657a49e7a336da19a51f50ccab3bde32b9a",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "58531f4974063d11c5c4756c5e29123466a647b70d582f2f6fc16910e71e0836",
+          "media_name": "site_125",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Death_Penalty_Information_Center.png",
+          "image_sha256": "fc7ef9d8bd89d0e3af50466c25afdb86104e37b3ef3edf0a72adfddc4c4d3982",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEFT-CENTER"
+          }
+        },
+        {
+          "sample_id": "1291a257d4525777f26dc735387f1ebff28df299a7ddb0f576991e2cf45a8242",
+          "media_name": "site_126",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/WSAZ_News_Channel.png",
+          "image_sha256": "91da74bdf3c2760c14c9e2878ebe85aec49e30fa5c57cc58598f8cd25d57c4ec",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEAST BIASED"
+          }
+        },
+        {
+          "sample_id": "11bbc27eb90a06425f3d57fb8037b65d2ed0aadba431c0cbc021de5ff9ac8cbe",
+          "media_name": "site_127",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Capital_Gazette.png",
+          "image_sha256": "a3e1549c6e303d5d1f44f5dc504bdd2f18e8dab4934a35ba83a7aad1d3850ad1",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEFT-CENTER"
+          }
+        },
+        {
+          "sample_id": "9828824e7b3166735e46838159e62ddb1bac3e261e0c5f4e9fe38ade8dada02c",
+          "media_name": "site_128",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Awakening.News.png",
+          "image_sha256": "b079f697c2c61bb4bb7ebf0fe9fbff69933e6a32005e6ba5d43e9f687a75f6d6",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "3a51e945fbe2d5ef3bacfff33598fe8dd3f10e0bc3092c277dee55551a1b2f4b",
+          "media_name": "site_129",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Them.us_1.png",
+          "image_sha256": "4c01737d690ef14f99e63d35cda27eb7ac6ae73d075f0d42c355fcccffb7b02a",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEFT"
+          }
+        },
+        {
+          "sample_id": "aef09799a30102941c0103bd338007600de812ac793c4f51f80bc000237cef80",
+          "media_name": "site_130",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Housatonic_Valley_News.png",
+          "image_sha256": "b5edaa99527b1b62cb9c5cedecc16f79411527712040efe161b53187d09a30c5",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "RIGHT-CENTER"
+          }
+        },
+        {
+          "sample_id": "399e53554674cee56b3ce38127f18a7b0cd98ba421eabc32121cedb29362f05d",
+          "media_name": "site_131",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/CNET.png",
+          "image_sha256": "e475c0fffca59c9e429a6612ee080e58b9969f02389177b3dbe1b39007b5551f",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEAST BIASED"
+          }
+        },
+        {
+          "sample_id": "e378c483e917f67a4a98391bc9360eabc655889b59bcbf4756a97ab74550491b",
+          "media_name": "site_132",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Patriot_Fetch.png",
+          "image_sha256": "3e82354c8ae8c23435f4942b532123fedef915b74ddf6721da79e5678ebd86c7",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "b00789f90faa0d80e3bca227eacf9a473bbbb08f9d510c910b2959d155b15414",
+          "media_name": "site_133",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/American_Heritage.png",
+          "image_sha256": "191cde794e81e9f98d07ef3fb15ad178c7e765c5e7111234ab1c51e7fffa95bb",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEAST BIASED"
+          }
+        },
+        {
+          "sample_id": "59a981dcf3c1a958dac44929da3a7a76314a6c88f6e944695b9aba1ab3509d28",
+          "media_name": "site_134",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/WLT_Report.png",
+          "image_sha256": "a021d6d2b51f67ab8e384585044370c6a701e4128bb7cef9b23cfed4633bb0ee",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "004626d797c92a53b8b598dd4396cbbdc18be909f57d0bf79d65e431e7bcf4f3",
+          "media_name": "site_135",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Ceasefire_Magazine.png",
+          "image_sha256": "83457e0e50edb7e0ec50aaf2cf482d4092688bc222bd29ae392ac98bd2f881ba",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEFT"
+          }
+        },
+        {
+          "sample_id": "1f627593336074f5db36854b7f860d7421916b77ed5a32bf9387f966aa4cdfb7",
+          "media_name": "site_136",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Head_Topics.png",
+          "image_sha256": "88e61dd9691bfdcb0ce60e25cae1d0abe359c5031a40f195dcf7ed5ff6d3fb07",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "LEFT-CENTER"
+          }
+        },
+        {
+          "sample_id": "50207670a990198e727a1d135e5ef8cef9ea1438991bcc7b155bb29ec736a296",
+          "media_name": "site_137",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/ClimateScienceNews.png",
+          "image_sha256": "33e6495e26af8f1281fb09df34661a05e15413b8e1f47f60f0d37d7a21a4b2ec",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "7bd6db08f7db755099580c866f4ef95fda1479178475c0cf8a78b73cfdfd370c",
+          "media_name": "site_138",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Bullshido.png",
+          "image_sha256": "a5b14aaddb6780ddc623f7f53888da50354de4f5d545ef685e900638ef58c171",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEAST BIASED"
+          }
+        },
+        {
+          "sample_id": "3871dc20bc34d68655700e4b6efce419d9e6924cbb690a6211c997b5e570091d",
+          "media_name": "site_139",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Pennsylvania_Business_Daily.png",
+          "image_sha256": "09286502cbfe54c8350b41f97585a4d9f3b371299e189c8f4b6cf437ab56025f",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "RIGHT-CENTER"
+          }
+        },
+        {
+          "sample_id": "f0bd427f9168c4291ae3bde637e508a14ffc014733c449ddecdbbf1709046491",
+          "media_name": "site_140",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Trading_Economics.png",
+          "image_sha256": "c4b42dc10c84410f0a3a11f3ac69be1d40ecd18eb04799849cdc89a463f13310",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEAST BIASED"
+          }
+        },
+        {
+          "sample_id": "88293cde24175d4666dab53ca704afef4bc18c71bb769402351fd7c7a1520b68",
+          "media_name": "site_142",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/North_Pocono_News.png",
+          "image_sha256": "3debd6203ee3c96117fce981af0651a30225e6994408a8fe3f6978442b4fc7ee",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "RIGHT-CENTER"
+          }
+        },
+        {
+          "sample_id": "8108ff9af81c7c35be2962b674efe355286a6d3e3bb789496a0e60b29946d65a",
+          "media_name": "site_143",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Pandemic_News.png",
+          "image_sha256": "6eaf085ffb31bd36b3c8ccd0461a0d5f0bfc8c1c57ff3f0cd94fedac336c169d",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "c0ba627670e17c463257ce6e075e3d54a17d2869c5cb7973325650fce3bca203",
+          "media_name": "site_144",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/The_Goldwater.png",
+          "image_sha256": "e48f88cd76408ea2d08fc62f29335c96d06d8e209344cc4dcab55e09b9021849",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "3cbb3aac33b239ae0f72d466572845435dd123ad63acf018fa413f2d2714af6f",
+          "media_name": "site_146",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/First_Coast_News.png",
+          "image_sha256": "db2f0a46bacb35d445fb4070acd9af70ddc73afe0cea1eda87f2ba1d59d434a1",
+          "labels": {
+            "factuality": "HIGH",
+            "bias": "LEAST BIASED"
+          }
+        },
+        {
+          "sample_id": "093c554e36921dd180ee35949b3b8b4529d879556f2d0e4d0fe32872cb8e6d42",
+          "media_name": "site_147",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/SE_Oklahoma_News.png",
+          "image_sha256": "0ac848d90fa4d444791127a1f97bb65aedf5aaba5a80f5fe8167f446ec76e2f8",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "RIGHT-CENTER"
+          }
+        },
+        {
+          "sample_id": "3eda5b786d0bbe87aa569f655b2cd15b82b3b1e41532873356757a8b26941593",
+          "media_name": "site_148",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Northhampton_News.png",
+          "image_sha256": "7a36132c7be1ed78717534dc5e2128199f7deac30a7f20a2e13102d1e3349a05",
+          "labels": {
+            "factuality": "MIXED",
+            "bias": "RIGHT-CENTER"
+          }
+        },
+        {
+          "sample_id": "86a0963ff7a746ec6406ec6f285f44daec129e9c7aade6b148c0bfb58bf4ae49",
+          "media_name": "site_149",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/Here_is_the_Evidence.png",
+          "image_sha256": "dcf3bcdc927dfb77c4df6d7ebcc246e314dac000d6204606e024a9e884df6096",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        },
+        {
+          "sample_id": "6bf7ebd6c187da124186b3c4758f685e3ac4b008865a72ae13b1a2574984d18d",
+          "media_name": "site_150",
+          "url": "",
+          "image_path": "data/incoming/masked_unmasked_dataset_133/unmasked/CyberWar.News.png",
+          "image_sha256": "f18e13783dd1b5de1bfa04c0d3fdf8de0811d65b1f15f352333f18de048306cc",
+          "labels": {
+            "factuality": "LOW",
+            "bias": "RIGHT"
+          }
+        }
+      ],
+      "parser": {
+        "mode": "strict",
+        "version": 1
+      },
+      "predictor": {
+        "backend": "transformers-peft",
+        "model_id": "Qwen/Qwen3.5-4B",
+        "hardware": {
+          "device_type": "cuda",
+          "torch_cuda_runtime": "13.0",
+          "name": "NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition",
+          "capability": [
+            12,
+            0
+          ]
+        },
+        "model_revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a",
+        "adapter_dir": null,
+        "adapter_files_sha256": {},
+        "processor_source": "artifacts/adapters/qwen35_lora_factuality_hf_fullpage_20261001/final_adapter",
+        "processor_class": "Qwen3VLProcessor",
+        "chat_template": "{%- set image_count = namespace(value=0) %}\n{%- set video_count = namespace(value=0) %}\n{%- macro render_content(content, do_vision_count, is_system_content=false) %}\n    {%- if content is string %}\n        {{- content }}\n    {%- elif content is iterable and content is not mapping %}\n        {%- for item in content %}\n            {%- if 'image' in item or 'image_url' in item or item.type == 'image' %}\n                {%- if is_system_content %}\n                    {{- raise_exception('System message cannot contain images.') }}\n                {%- endif %}\n                {%- if do_vision_count %}\n                    {%- set image_count.value = image_count.value + 1 %}\n                {%- endif %}\n                {%- if add_vision_id %}\n                    {{- 'Picture ' ~ image_count.value ~ ': ' }}\n                {%- endif %}\n                {{- '<|vision_start|><|image_pad|><|vision_end|>' }}\n            {%- elif 'video' in item or item.type == 'video' %}\n                {%- if is_system_content %}\n                    {{- raise_exception('System message cannot contain videos.') }}\n                {%- endif %}\n                {%- if do_vision_count %}\n                    {%- set video_count.value = video_count.value + 1 %}\n                {%- endif %}\n                {%- if add_vision_id %}\n                    {{- 'Video ' ~ video_count.value ~ ': ' }}\n                {%- endif %}\n                {{- '<|vision_start|><|video_pad|><|vision_end|>' }}\n            {%- elif 'text' in item %}\n                {{- item.text }}\n            {%- else %}\n                {{- raise_exception('Unexpected item type in content.') }}\n            {%- endif %}\n        {%- endfor %}\n    {%- elif content is none or content is undefined %}\n        {{- '' }}\n    {%- else %}\n        {{- raise_exception('Unexpected content type.') }}\n    {%- endif %}\n{%- endmacro %}\n{%- if not messages %}\n    {{- raise_exception('No messages provided.') }}\n{%- endif %}\n{%- if tools and tools is iterable and tools is not mapping %}\n    {{- '<|im_start|>system\\n' }}\n    {{- \"# Tools\\n\\nYou have access to the following functions:\\n\\n<tools>\" }}\n    {%- for tool in tools %}\n        {{- \"\\n\" }}\n        {{- tool | tojson }}\n    {%- endfor %}\n    {{- \"\\n</tools>\" }}\n    {{- '\\n\\nIf you choose to call a function ONLY reply in the following format with NO suffix:\\n\\n<tool_call>\\n<function=example_function_name>\\n<parameter=example_parameter_1>\\nvalue_1\\n</parameter>\\n<parameter=example_parameter_2>\\nThis is the value for the second parameter\\nthat can span\\nmultiple lines\\n</parameter>\\n</function>\\n</tool_call>\\n\\n<IMPORTANT>\\nReminder:\\n- Function calls MUST follow the specified format: an inner <function=...></function> block must be nested within <tool_call></tool_call> XML tags\\n- Required parameters MUST be specified\\n- You may provide optional reasoning for your function call in natural language BEFORE the function call, but NOT after\\n- If there is no function call available, answer the question like normal with your current knowledge and do not tell the user about function calls\\n</IMPORTANT>' }}\n    {%- if messages[0].role == 'system' %}\n        {%- set content = render_content(messages[0].content, false, true)|trim %}\n        {%- if content %}\n            {{- '\\n\\n' + content }}\n        {%- endif %}\n    {%- endif %}\n    {{- '<|im_end|>\\n' }}\n{%- else %}\n    {%- if messages[0].role == 'system' %}\n        {%- set content = render_content(messages[0].content, false, true)|trim %}\n        {{- '<|im_start|>system\\n' + content + '<|im_end|>\\n' }}\n    {%- endif %}\n{%- endif %}\n{%- set ns = namespace(multi_step_tool=true, last_query_index=messages|length - 1) %}\n{%- for message in messages[::-1] %}\n    {%- set index = (messages|length - 1) - loop.index0 %}\n    {%- if ns.multi_step_tool and message.role == \"user\" %}\n        {%- set content = render_content(message.content, false)|trim %}\n        {%- if not(content.startswith('<tool_response>') and content.endswith('</tool_response>')) %}\n            {%- set ns.multi_step_tool = false %}\n            {%- set ns.last_query_index = index %}\n        {%- endif %}\n    {%- endif %}\n{%- endfor %}\n{%- if ns.multi_step_tool %}\n    {{- raise_exception('No user query found in messages.') }}\n{%- endif %}\n{%- for message in messages %}\n    {%- set content = render_content(message.content, true)|trim %}\n    {%- if message.role == \"system\" %}\n        {%- if not loop.first %}\n            {{- raise_exception('System message must be at the beginning.') }}\n        {%- endif %}\n    {%- elif message.role == \"user\" %}\n        {{- '<|im_start|>' + message.role + '\\n' + content + '<|im_end|>' + '\\n' }}\n    {%- elif message.role == \"assistant\" %}\n        {%- set reasoning_content = '' %}\n        {%- if message.reasoning_content is string %}\n            {%- set reasoning_content = message.reasoning_content %}\n        {%- else %}\n            {%- if '</think>' in content %}\n                {%- set reasoning_content = content.split('</think>')[0].rstrip('\\n').split('<think>')[-1].lstrip('\\n') %}\n                {%- set content = content.split('</think>')[-1].lstrip('\\n') %}\n            {%- endif %}\n        {%- endif %}\n        {%- set reasoning_content = reasoning_content|trim %}\n        {%- if loop.index0 > ns.last_query_index %}\n            {{- '<|im_start|>' + message.role + '\\n<think>\\n' + reasoning_content + '\\n</think>\\n\\n' + content }}\n        {%- else %}\n            {{- '<|im_start|>' + message.role + '\\n' + content }}\n        {%- endif %}\n        {%- if message.tool_calls and message.tool_calls is iterable and message.tool_calls is not mapping %}\n            {%- for tool_call in message.tool_calls %}\n                {%- if tool_call.function is defined %}\n                    {%- set tool_call = tool_call.function %}\n                {%- endif %}\n                {%- if loop.first %}\n                    {%- if content|trim %}\n                        {{- '\\n\\n<tool_call>\\n<function=' + tool_call.name + '>\\n' }}\n                    {%- else %}\n                        {{- '<tool_call>\\n<function=' + tool_call.name + '>\\n' }}\n                    {%- endif %}\n                {%- else %}\n                    {{- '\\n<tool_call>\\n<function=' + tool_call.name + '>\\n' }}\n                {%- endif %}\n                {%- if tool_call.arguments is defined %}\n                    {%- for args_name, args_value in tool_call.arguments|items %}\n                        {{- '<parameter=' + args_name + '>\\n' }}\n                        {%- set args_value = args_value | tojson | safe if args_value is mapping or (args_value is sequence and args_value is not string) else args_value | string %}\n                        {{- args_value }}\n                        {{- '\\n</parameter>\\n' }}\n                    {%- endfor %}\n                {%- endif %}\n                {{- '</function>\\n</tool_call>' }}\n            {%- endfor %}\n        {%- endif %}\n        {{- '<|im_end|>\\n' }}\n    {%- elif message.role == \"tool\" %}\n        {%- if loop.previtem and loop.previtem.role != \"tool\" %}\n            {{- '<|im_start|>user' }}\n        {%- endif %}\n        {{- '\\n<tool_response>\\n' }}\n        {{- content }}\n        {{- '\\n</tool_response>' }}\n        {%- if not loop.last and loop.nextitem.role != \"tool\" %}\n            {{- '<|im_end|>\\n' }}\n        {%- elif loop.last %}\n            {{- '<|im_end|>\\n' }}\n        {%- endif %}\n    {%- else %}\n        {{- raise_exception('Unexpected message role.') }}\n    {%- endif %}\n{%- endfor %}\n{%- if add_generation_prompt %}\n    {{- '<|im_start|>assistant\\n' }}\n    {%- if enable_thinking is defined and enable_thinking is false %}\n        {{- '<think>\\n\\n</think>\\n\\n' }}\n    {%- else %}\n        {{- '<think>\\n' }}\n    {%- endif %}\n{%- endif %}",
+        "quant": "4bit",
+        "thinking": "off",
+        "prompts": {
+          "factuality": "You are an expert media analyst applying Media Bias/Fact Check (MBFC) methodology.\n\nBelow are vertical slices (top to bottom) of a single full-page screenshot of the\nhomepage of a media outlet. Judge its FACTUAL REPORTING level\nfrom what you can see — headline wording, sourcing cues, sensationalism, ads,\nconspiracy/pseudoscience signals, corrections.\n\nChoose EXACTLY ONE label:\n- LOW: poor sourcing, multiple failed fact checks, propaganda or conspiracy/pseudoscience\n- MIXED: some failed fact checks or loaded/unreliable sourcing\n- HIGH: generally-to-highly reliable, strong sourcing, few or no failed fact checks\n\nOutput ONLY the label text (LOW, MIXED, or HIGH), nothing else.",
+          "bias": "You are an expert media analyst applying Media Bias/Fact Check (MBFC) methodology.\n\nBelow are vertical slices (top to bottom) of a single full-page screenshot of the\nhomepage of a media outlet. Judge its POLITICAL BIAS from what\nyou can see — story selection, framing, loaded language, which side is favored.\n\nChoose EXACTLY ONE label:\n- LEFT\n- LEFT-CENTER\n- LEAST BIASED\n- RIGHT-CENTER\n- RIGHT\n\nOutput ONLY the label text, nothing else."
+        },
+        "preprocessing": {
+          "tile_height": 1400,
+          "max_tiles": 6,
+          "max_width": 1024
+        },
+        "generation": {
+          "max_new_tokens": 16,
+          "do_sample": false
+        },
+        "base_generation_config": {
+          "max_length": null,
+          "max_new_tokens": null,
+          "min_length": null,
+          "min_new_tokens": null,
+          "early_stopping": null,
+          "max_time": null,
+          "stop_strings": null,
+          "do_sample": null,
+          "num_beams": null,
+          "use_mtp": null,
+          "use_cache": true,
+          "cache_implementation": null,
+          "cache_config": null,
+          "max_cache_len": null,
+          "temperature": null,
+          "top_k": null,
+          "top_p": null,
+          "min_p": null,
+          "top_h": null,
+          "typical_p": null,
+          "epsilon_cutoff": null,
+          "eta_cutoff": null,
+          "repetition_penalty": null,
+          "encoder_repetition_penalty": null,
+          "length_penalty": null,
+          "no_repeat_ngram_size": null,
+          "bad_words_ids": null,
+          "renormalize_logits": null,
+          "forced_bos_token_id": null,
+          "forced_eos_token_id": null,
+          "remove_invalid_values": null,
+          "exponential_decay_length_penalty": null,
+          "suppress_tokens": null,
+          "begin_suppress_tokens": null,
+          "sequence_bias": null,
+          "token_healing": null,
+          "guidance_scale": null,
+          "watermarking_config": null,
+          "num_return_sequences": null,
+          "output_attentions": null,
+          "output_hidden_states": null,
+          "output_scores": null,
+          "output_logits": null,
+          "return_dict_in_generate": null,
+          "pad_token_id": null,
+          "bos_token_id": null,
+          "eos_token_id": 248044,
+          "encoder_no_repeat_ngram_size": null,
+          "decoder_start_token_id": null,
+          "is_assistant": null,
+          "num_assistant_tokens": null,
+          "num_assistant_tokens_schedule": null,
+          "assistant_confidence_threshold": null,
+          "prompt_lookup_num_tokens": null,
+          "max_matching_ngram_size": null,
+          "assistant_early_exit": null,
+          "assistant_lookbehind": null,
+          "target_lookbehind": null,
+          "assistant_ensemble_weight": null,
+          "speculation_type": null,
+          "compile_config": null,
+          "disable_compile": null,
+          "continuous_batching_config": null,
+          "low_memory": null,
+          "penalty_alpha": null,
+          "dola_layers": null,
+          "diversity_penalty": null,
+          "num_beam_groups": null,
+          "constraints": null,
+          "force_words_ids": null,
+          "prefill_chunk_size": null,
+          "_from_model_config": true,
+          "transformers_version": "5.17.0"
+        }
+      },
+      "context": {
+        "csv_path": "artifacts/datasets/paired-test-133-20261011/unmasked/test.csv",
+        "csv_sha256": "97dd08b59f8d6b18d4eccf0359cf00da238dbac1525618555035de9b63119a46",
+        "adapter_training_config": null,
+        "requested_overrides": {
+          "tile_height": 1400,
+          "max_tiles": 6,
+          "max_width": 1024,
+          "thinking": "off",
+          "quant": "4bit",
+          "revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a",
+          "max_new_tokens": 16
+        }
+      },
+      "source": {
+        "git_commit": "8ef77a7a547e3cce73dd76627b438ba6763543c3",
+        "file_sha256": {
+          "run_config.py": "f23db7672232c417397b5bd0347d0b2b9f4e8b22e645a6a509b19886027f7dcf",
+          "eval_audit.py": "ef1dcb765876f5b780f17f340ade6ee9b3b3143a5cca09a1070663b506929569",
+          "mediascope_eval.py": "918111de7e67af75fc31fc1a0b186b51f1ebe824ef9ebddebec5d33f756fbc7a",
+          "qwen_predictor.py": "f2218075d3b5927b5403d61c1caa84ddd3bf2d69b014799ada3194dd2019551d",
+          "train_peft.py": "a4b800363e53f328ed545a7e029fa751f51e2df9f896877759ee9949ec794665"
+        }
+      },
+      "environment": {
+        "python": "3.10.12",
+        "torch": "2.14.0+cu130",
+        "torchvision": "0.29.0+cu130",
+        "transformers": "5.17.0",
+        "peft": "0.21.0",
+        "accelerate": "1.15.0",
+        "bitsandbytes": "0.50.2",
+        "pillow": "12.3.0",
+        "requests": "2.34.2",
+        "huggingface-hub": "1.33.0",
+        "filelock": "3.32.3"
+      }
+    }
+  }
+}

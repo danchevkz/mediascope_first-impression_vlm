@@ -1,0 +1,440 @@
+{
+  "main": {
+    "qwen35_base": {
+      "factuality": {
+        "model_id": "Qwen/Qwen3.5-4B",
+        "model_revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a",
+        "preprocessing": {
+          "tile_height": 1400,
+          "max_tiles": 6,
+          "max_width": 1024
+        },
+        "quant": "4bit",
+        "thinking": "off",
+        "generation": {
+          "max_new_tokens": 64,
+          "do_sample": false
+        },
+        "adapter_key": null,
+        "adapter_sha256": null
+      },
+      "bias": {
+        "model_id": "Qwen/Qwen3.5-4B",
+        "model_revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a",
+        "preprocessing": {
+          "tile_height": 1400,
+          "max_tiles": 6,
+          "max_width": 1024
+        },
+        "quant": "4bit",
+        "thinking": "off",
+        "generation": {
+          "max_new_tokens": 64,
+          "do_sample": false
+        },
+        "adapter_key": null,
+        "adapter_sha256": null
+      }
+    },
+    "qwen35_finetuned": {
+      "factuality": {
+        "model_id": "Qwen/Qwen3.5-4B",
+        "model_revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a",
+        "preprocessing": {
+          "tile_height": 1400,
+          "max_tiles": 6,
+          "max_width": 1024
+        },
+        "quant": "4bit",
+        "thinking": "off",
+        "generation": {
+          "max_new_tokens": 64,
+          "do_sample": false
+        },
+        "adapter_key": "qwen35_factuality_main",
+        "adapter_sha256": "82d376f8345890d27f37577607cd705d950b3168284a9fcbb133816207365452"
+      },
+      "bias": {
+        "model_id": "Qwen/Qwen3.5-4B",
+        "model_revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a",
+        "preprocessing": {
+          "tile_height": 1400,
+          "max_tiles": 6,
+          "max_width": 1024
+        },
+        "quant": "4bit",
+        "thinking": "off",
+        "generation": {
+          "max_new_tokens": 64,
+          "do_sample": false
+        },
+        "adapter_key": "qwen35_bias",
+        "adapter_sha256": "57ec6ff10f6f5a90be014322b4e599cbc001ec103ff7507766c3457d2476f1cb"
+      }
+    },
+    "ministral_base": {
+      "factuality": {
+        "model_id": "mistralai/Ministral-3-8B-Instruct-2512-BF16",
+        "model_revision": "f6fae9795746f63c9be8344932f01275f3c63734",
+        "preprocessing": {
+          "tile_height": 1400,
+          "max_tiles": 6,
+          "max_width": 1024
+        },
+        "quant": "4bit",
+        "thinking": "off",
+        "generation": {
+          "max_new_tokens": 64,
+          "do_sample": false
+        },
+        "adapter_key": null,
+        "adapter_sha256": null
+      },
+      "bias": {
+        "model_id": "mistralai/Ministral-3-8B-Instruct-2512-BF16",
+        "model_revision": "f6fae9795746f63c9be8344932f01275f3c63734",
+        "preprocessing": {
+          "tile_height": 1400,
+          "max_tiles": 6,
+          "max_width": 1024
+        },
+        "quant": "4bit",
+        "thinking": "off",
+        "generation": {
+          "max_new_tokens": 64,
+          "do_sample": false
+        },
+        "adapter_key": null,
+        "adapter_sha256": null
+      }
+    },
+    "ministral_finetuned": {
+      "bias": {
+        "model_id": "mistralai/Ministral-3-8B-Instruct-2512-BF16",
+        "model_revision": "f6fae9795746f63c9be8344932f01275f3c63734",
+        "preprocessing": {
+          "tile_height": 1400,
+          "max_tiles": 6,
+          "max_width": 1024
+        },
+        "quant": "4bit",
+        "thinking": "off",
+        "generation": {
+          "max_new_tokens": 16,
+          "do_sample": false
+        },
+        "adapter_key": "ministral_bias",
+        "adapter_sha256": "b73c1c089e6972a88f488b3ca49527e22a05b8b92481ade88222042623cff6c2"
+      },
+      "factuality": {
+        "model_id": "mistralai/Ministral-3-8B-Instruct-2512-BF16",
+        "model_revision": "f6fae9795746f63c9be8344932f01275f3c63734",
+        "preprocessing": {
+          "tile_height": 1400,
+          "max_tiles": 6,
+          "max_width": 1024
+        },
+        "quant": "4bit",
+        "thinking": "off",
+        "generation": {
+          "max_new_tokens": 64,
+          "do_sample": false
+        },
+        "adapter_key": "ministral_factuality",
+        "adapter_sha256": "b59081aca7634987e304119e8047911bf4f5012542a55f44b18d8245d7d5c9c7"
+      }
+    }
+  },
+  "masked": {
+    "qwen35_base": {
+      "factuality": {
+        "model_id": "Qwen/Qwen3.5-4B",
+        "model_revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a",
+        "preprocessing": {
+          "tile_height": 1400,
+          "max_tiles": 6,
+          "max_width": 1024
+        },
+        "quant": "4bit",
+        "thinking": "off",
+        "generation": {
+          "max_new_tokens": 16,
+          "do_sample": false
+        },
+        "adapter_key": null,
+        "adapter_sha256": null
+      },
+      "bias": {
+        "model_id": "Qwen/Qwen3.5-4B",
+        "model_revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a",
+        "preprocessing": {
+          "tile_height": 1400,
+          "max_tiles": 6,
+          "max_width": 1024
+        },
+        "quant": "4bit",
+        "thinking": "off",
+        "generation": {
+          "max_new_tokens": 16,
+          "do_sample": false
+        },
+        "adapter_key": null,
+        "adapter_sha256": null
+      }
+    },
+    "qwen35_finetuned": {
+      "factuality": {
+        "model_id": "Qwen/Qwen3.5-4B",
+        "model_revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a",
+        "preprocessing": {
+          "tile_height": 1400,
+          "max_tiles": 6,
+          "max_width": 1024
+        },
+        "quant": "4bit",
+        "thinking": "off",
+        "generation": {
+          "max_new_tokens": 16,
+          "do_sample": false
+        },
+        "adapter_key": "qwen35_factuality",
+        "adapter_sha256": "e74e85680213d670846089fefc8f68db43d23a4599f5098af866242427b859e7"
+      },
+      "bias": {
+        "model_id": "Qwen/Qwen3.5-4B",
+        "model_revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a",
+        "preprocessing": {
+          "tile_height": 1400,
+          "max_tiles": 6,
+          "max_width": 1024
+        },
+        "quant": "4bit",
+        "thinking": "off",
+        "generation": {
+          "max_new_tokens": 16,
+          "do_sample": false
+        },
+        "adapter_key": "qwen35_bias",
+        "adapter_sha256": "57ec6ff10f6f5a90be014322b4e599cbc001ec103ff7507766c3457d2476f1cb"
+      }
+    },
+    "ministral_base": {
+      "factuality": {
+        "model_id": "mistralai/Ministral-3-8B-Instruct-2512-BF16",
+        "model_revision": "f6fae9795746f63c9be8344932f01275f3c63734",
+        "preprocessing": {
+          "tile_height": 1400,
+          "max_tiles": 6,
+          "max_width": 1024
+        },
+        "quant": "4bit",
+        "thinking": "off",
+        "generation": {
+          "max_new_tokens": 16,
+          "do_sample": false
+        },
+        "adapter_key": null,
+        "adapter_sha256": null
+      },
+      "bias": {
+        "model_id": "mistralai/Ministral-3-8B-Instruct-2512-BF16",
+        "model_revision": "f6fae9795746f63c9be8344932f01275f3c63734",
+        "preprocessing": {
+          "tile_height": 1400,
+          "max_tiles": 6,
+          "max_width": 1024
+        },
+        "quant": "4bit",
+        "thinking": "off",
+        "generation": {
+          "max_new_tokens": 16,
+          "do_sample": false
+        },
+        "adapter_key": null,
+        "adapter_sha256": null
+      }
+    },
+    "ministral_finetuned": {
+      "factuality": {
+        "model_id": "mistralai/Ministral-3-8B-Instruct-2512-BF16",
+        "model_revision": "f6fae9795746f63c9be8344932f01275f3c63734",
+        "preprocessing": {
+          "tile_height": 1400,
+          "max_tiles": 6,
+          "max_width": 1024
+        },
+        "quant": "4bit",
+        "thinking": "off",
+        "generation": {
+          "max_new_tokens": 16,
+          "do_sample": false
+        },
+        "adapter_key": "ministral_factuality",
+        "adapter_sha256": "b59081aca7634987e304119e8047911bf4f5012542a55f44b18d8245d7d5c9c7"
+      },
+      "bias": {
+        "model_id": "mistralai/Ministral-3-8B-Instruct-2512-BF16",
+        "model_revision": "f6fae9795746f63c9be8344932f01275f3c63734",
+        "preprocessing": {
+          "tile_height": 1400,
+          "max_tiles": 6,
+          "max_width": 1024
+        },
+        "quant": "4bit",
+        "thinking": "off",
+        "generation": {
+          "max_new_tokens": 16,
+          "do_sample": false
+        },
+        "adapter_key": "ministral_bias",
+        "adapter_sha256": "b73c1c089e6972a88f488b3ca49527e22a05b8b92481ade88222042623cff6c2"
+      }
+    }
+  },
+  "unmasked": {
+    "qwen35_base": {
+      "factuality": {
+        "model_id": "Qwen/Qwen3.5-4B",
+        "model_revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a",
+        "preprocessing": {
+          "tile_height": 1400,
+          "max_tiles": 6,
+          "max_width": 1024
+        },
+        "quant": "4bit",
+        "thinking": "off",
+        "generation": {
+          "max_new_tokens": 16,
+          "do_sample": false
+        },
+        "adapter_key": null,
+        "adapter_sha256": null
+      },
+      "bias": {
+        "model_id": "Qwen/Qwen3.5-4B",
+        "model_revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a",
+        "preprocessing": {
+          "tile_height": 1400,
+          "max_tiles": 6,
+          "max_width": 1024
+        },
+        "quant": "4bit",
+        "thinking": "off",
+        "generation": {
+          "max_new_tokens": 16,
+          "do_sample": false
+        },
+        "adapter_key": null,
+        "adapter_sha256": null
+      }
+    },
+    "qwen35_finetuned": {
+      "factuality": {
+        "model_id": "Qwen/Qwen3.5-4B",
+        "model_revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a",
+        "preprocessing": {
+          "tile_height": 1400,
+          "max_tiles": 6,
+          "max_width": 1024
+        },
+        "quant": "4bit",
+        "thinking": "off",
+        "generation": {
+          "max_new_tokens": 16,
+          "do_sample": false
+        },
+        "adapter_key": "qwen35_factuality",
+        "adapter_sha256": "e74e85680213d670846089fefc8f68db43d23a4599f5098af866242427b859e7"
+      },
+      "bias": {
+        "model_id": "Qwen/Qwen3.5-4B",
+        "model_revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a",
+        "preprocessing": {
+          "tile_height": 1400,
+          "max_tiles": 6,
+          "max_width": 1024
+        },
+        "quant": "4bit",
+        "thinking": "off",
+        "generation": {
+          "max_new_tokens": 16,
+          "do_sample": false
+        },
+        "adapter_key": "qwen35_bias",
+        "adapter_sha256": "57ec6ff10f6f5a90be014322b4e599cbc001ec103ff7507766c3457d2476f1cb"
+      }
+    },
+    "ministral_base": {
+      "factuality": {
+        "model_id": "mistralai/Ministral-3-8B-Instruct-2512-BF16",
+        "model_revision": "f6fae9795746f63c9be8344932f01275f3c63734",
+        "preprocessing": {
+          "tile_height": 1400,
+          "max_tiles": 6,
+          "max_width": 1024
+        },
+        "quant": "4bit",
+        "thinking": "off",
+        "generation": {
+          "max_new_tokens": 16,
+          "do_sample": false
+        },
+        "adapter_key": null,
+        "adapter_sha256": null
+      },
+      "bias": {
+        "model_id": "mistralai/Ministral-3-8B-Instruct-2512-BF16",
+        "model_revision": "f6fae9795746f63c9be8344932f01275f3c63734",
+        "preprocessing": {
+          "tile_height": 1400,
+          "max_tiles": 6,
+          "max_width": 1024
+        },
+        "quant": "4bit",
+        "thinking": "off",
+        "generation": {
+          "max_new_tokens": 16,
+          "do_sample": false
+        },
+        "adapter_key": null,
+        "adapter_sha256": null
+      }
+    },
+    "ministral_finetuned": {
+      "factuality": {
+        "model_id": "mistralai/Ministral-3-8B-Instruct-2512-BF16",
+        "model_revision": "f6fae9795746f63c9be8344932f01275f3c63734",
+        "preprocessing": {
+          "tile_height": 1400,
+          "max_tiles": 6,
+          "max_width": 1024
+        },
+        "quant": "4bit",
+        "thinking": "off",
+        "generation": {
+          "max_new_tokens": 16,
+          "do_sample": false
+        },
+        "adapter_key": "ministral_factuality",
+        "adapter_sha256": "b59081aca7634987e304119e8047911bf4f5012542a55f44b18d8245d7d5c9c7"
+      },
+      "bias": {
+        "model_id": "mistralai/Ministral-3-8B-Instruct-2512-BF16",
+        "model_revision": "f6fae9795746f63c9be8344932f01275f3c63734",
+        "preprocessing": {
+          "tile_height": 1400,
+          "max_tiles": 6,
+          "max_width": 1024
+        },
+        "quant": "4bit",
+        "thinking": "off",
+        "generation": {
+          "max_new_tokens": 16,
+          "do_sample": false
+        },
+        "adapter_key": "ministral_bias",
+        "adapter_sha256": "b73c1c089e6972a88f488b3ca49527e22a05b8b92481ade88222042623cff6c2"
+      }
+    }
+  }
+}

@@ -1,0 +1,1 @@
+{"model":"opus5","task":"factuality","reviewed_ranges":[[141,166]],"decisions":{"143":"uncertain_recall","149":"uncertain_recall","150":"asserted","152":"generic","153":"uncertain_recall","154":"uncertain_recall","157":"asserted","165":"uncertain_recall","166":"uncertain_recall"}}

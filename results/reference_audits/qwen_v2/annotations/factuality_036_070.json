@@ -1,0 +1,9 @@
+{"task":"factuality","reviewed_ranges":[[36,70]],"decisions":{
+"36":{"category":"generic","rating_scope":"generic_type","family_link":"not_applicable","evidence":["matching MBFC's LOW factual-reporting profile for conspiracy/pseudoscience promoters"],"note":"The explanation applies a generic profile; no specific outlet or parent rating is clearly recalled."},
+"39":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["High / very high factuality (recalled impression of MBFC-style rating)"]},
+"45":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["Low / mixed-factual (recalled impression: promotes climate-science misinformation)"]},
+"51":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["I recall that MBFC rates CounterPunch as left-bias with MIXED factual reporting"]},
+"54":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["recall of its MBFC-style profile as a left-wing anarchist/activist collective with mixed factuality"]},
+"55":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["I do recall an existing external rating for this outlet","Mixed"]},
+"59":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["Mostly Factual / Mixed (recalled)","recall MBFC-style ratings (factuality mostly reliable / mixed, bias left)"]}
+}}

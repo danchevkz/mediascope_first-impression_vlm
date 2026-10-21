@@ -1,0 +1,6 @@
+{"task":"bias","reviewed_ranges":[[106,140]],"decisions":{
+"111":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["I recognize the outlet and recall MBFC-style coverage placing Peterson right-center"]},
+"116":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["my recalled external rating of Kyodo News as a least-biased, high-factuality wire service"]},
+"122":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["Right (recalled)","Media Bias/Fact Check (recalled from general familiarity, not browsed)"]},
+"139":{"category":"asserted","rating_scope":"named_family","family_link":"identified_by_response","evidence":["recall general MBFC-style ratings for NBC affiliates from training knowledge","NBC-owned stations are typically rated Left-Center by MBFC"]}
+}}

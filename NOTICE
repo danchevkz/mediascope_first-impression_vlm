@@ -1,0 +1,28 @@
+MediaScope / MeFI
+A Picture Is Worth a Hundred Articles: Media Profiling from First Impressions
+
+MeFI source code is licensed under AI Pubs OpenRAIL-S v0.1.
+MeFI-trained LoRA weight contributions are licensed under AI Pubs OpenRAIL-M v0.1.
+
+Upstream components retained in the companion adapter archive:
+
+Qwen/Qwen3.5-4B
+Copyright 2026 Alibaba Cloud
+Revision: 851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a
+License: Apache License, Version 2.0
+https://huggingface.co/Qwen/Qwen3.5-4B/blob/851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a/LICENSE
+
+mistralai/Ministral-3-8B-Instruct-2512-BF16
+Publisher: Mistral AI
+Revision: f6fae9795746f63c9be8344932f01275f3c63734
+License: Apache License, Version 2.0, as declared in the pinned model card
+https://huggingface.co/mistralai/Ministral-3-8B-Instruct-2512-BF16/blob/f6fae9795746f63c9be8344932f01275f3c63734/README.md
+
+MeFI modifications: task-specific low-rank adapter parameters were trained for
+factuality or political-bias classification. Training metadata was added, and
+local paths in distributed run_config.json files were normalized. Included
+tokenizer, processor and chat-template assets retain their upstream licensing.
+The base-model weight files are not included in the adapter archive.
+
+This notice records attribution and modifications; it does not alter the
+upstream licenses or imply endorsement by the upstream model providers.

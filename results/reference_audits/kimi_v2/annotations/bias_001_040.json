@@ -1,0 +1,12 @@
+{"task":"bias","reviewed_ranges":[[1,40]],"decisions":{
+"3":{"category":"asserted","rating_scope":"named_family","family_link":"identified_by_response","evidence":["MBFC rates Natural News as Very Low factual reporting / conspiracy-pseudoscience"]},
+"4":{"category":"asserted","rating_scope":"named_family","family_link":"tentative_or_inferred","evidence":["For the broader Natural News network: Right; not verified for this exact domain"]},
+"5":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["vaguely recall an MBFC Least Biased/High rating"]},
+"13":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["Left-Center (MBFC, recalled with moderate confidence)"]},
+"19":{"category":"asserted","rating_scope":"named_family","family_link":"tentative_or_inferred","evidence":["I recall MBFC's rating of Natural News from prior knowledge","Right (as recalled from MBFC's rating of Natural News)"]},
+"21":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["MBFC's entry for it rating it an extreme-right Questionable source with low factual reporting"]},
+"24":{"category":"uncertain_recall","rating_scope":"named_family","family_link":"identified_by_response","evidence":["This is uncertain self-report only","Extreme right / far-right (recalled MBFC rating for Natural News network)"]},
+"33":{"category":"uncertain_recall","rating_scope":"named_family","family_link":"tentative_or_inferred","evidence":["Low/Very Low factual for Natural News/NewsTarget network (uncertain network-level recall)"]},
+"34":{"category":"generic","rating_scope":"generic_type","family_link":"not_applicable","evidence":["known automated/pink-slime local news networks that external raters have often rated right-leaning, but I cannot verify which network"]},
+"36":{"category":"asserted","rating_scope":"named_family","family_link":"identified_by_response","evidence":["Natural News/Health Ranger network, which MBFC has rated as Right-biased conspiracy/pseudoscience with very low factuality"]}
+}}

@@ -1,0 +1,294 @@
+{
+  "qwen35_factuality": {
+    "directory": "assets/adapters/qwen35_factuality",
+    "download_url": null,
+    "model_id": "Qwen/Qwen3.5-4B",
+    "task": "factuality",
+    "model_revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a",
+    "original_files": {
+      "adapter_config.json": {
+        "sha256": "a5ed31968e2fdce7c3cf8c91644295fe80eb095b43945a6a58e7568fabb26273",
+        "bytes": 1321
+      },
+      "adapter_model.safetensors": {
+        "sha256": "e74e85680213d670846089fefc8f68db43d23a4599f5098af866242427b859e7",
+        "bytes": 156077736
+      },
+      "chat_template.jinja": {
+        "sha256": "a4aee8afcf2e0711942cf848899be66016f8d14a889ff9ede07bca099c28f715",
+        "bytes": 7756
+      },
+      "processor_config.json": {
+        "sha256": "bfbc24af59a3e73a9cd0653b8d4ae758dfaec4e3e6c15dfb1c6c8ee8d5683c85",
+        "bytes": 1220
+      },
+      "run_config.json": {
+        "sha256": "c8891bb4d69a5c3768dbdca73b85e51aeff61149ad4568f037696936b2b3895f",
+        "bytes": 472308
+      },
+      "tokenizer.json": {
+        "sha256": "06b9509352d2af50381ab2247e083b80d32d5c0aba91c272ca9ff729b6a0e523",
+        "bytes": 19989325
+      },
+      "tokenizer_config.json": {
+        "sha256": "09564f0b57b433b55d536630be3044b4183dbe04d0cbc7b1e9b1154db3671b0b",
+        "bytes": 1165
+      }
+    },
+    "license_status": "assigned",
+    "evaluation_conditions": [
+      "masked",
+      "unmasked"
+    ],
+    "license": {
+      "name": "AI Pubs OpenRAIL-M v0.1",
+      "identifier": "LicenseRef-AI-Pubs-OpenRAIL-M-0.1",
+      "file": "licenses/AI-Pubs-OpenRAIL-M-0.1.txt",
+      "sha256": "27ab45623b2c93779a44b72b0429bf5ecfd8c3853dd8fd6232ff20ed1a03a661",
+      "source_url": "https://www.licenses.ai/ai-pubs-open-railm-vz1",
+      "version_date": "2023-03-02",
+      "scope": "MeFI-trained LoRA weight contributions"
+    },
+    "upstream_license": {
+      "revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a",
+      "license": "Apache-2.0",
+      "license_file": "licenses/Apache-2.0.txt",
+      "source_url": "https://huggingface.co/Qwen/Qwen3.5-4B/blob/851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a/LICENSE",
+      "notice": "Copyright 2026 Alibaba Cloud"
+    }
+  },
+  "qwen35_bias": {
+    "directory": "assets/adapters/qwen35_bias",
+    "download_url": null,
+    "model_id": "Qwen/Qwen3.5-4B",
+    "task": "bias",
+    "model_revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a",
+    "original_files": {
+      "adapter_config.json": {
+        "sha256": "d687119f9e48345da680024b5c57b072288959758b737da5a1fccb344de7d35d",
+        "bytes": 1321
+      },
+      "adapter_model.safetensors": {
+        "sha256": "57ec6ff10f6f5a90be014322b4e599cbc001ec103ff7507766c3457d2476f1cb",
+        "bytes": 156077736
+      },
+      "chat_template.jinja": {
+        "sha256": "a4aee8afcf2e0711942cf848899be66016f8d14a889ff9ede07bca099c28f715",
+        "bytes": 7756
+      },
+      "processor_config.json": {
+        "sha256": "bfbc24af59a3e73a9cd0653b8d4ae758dfaec4e3e6c15dfb1c6c8ee8d5683c85",
+        "bytes": 1220
+      },
+      "run_config.json": {
+        "sha256": "ab70778d2b0975f8dfe966d5a61cb2c458d2f270472ec92e7837830a58b6e971",
+        "bytes": 426704
+      },
+      "tokenizer.json": {
+        "sha256": "06b9509352d2af50381ab2247e083b80d32d5c0aba91c272ca9ff729b6a0e523",
+        "bytes": 19989325
+      },
+      "tokenizer_config.json": {
+        "sha256": "09564f0b57b433b55d536630be3044b4183dbe04d0cbc7b1e9b1154db3671b0b",
+        "bytes": 1165
+      }
+    },
+    "license_status": "assigned",
+    "evaluation_conditions": [
+      "main",
+      "masked",
+      "unmasked"
+    ],
+    "license": {
+      "name": "AI Pubs OpenRAIL-M v0.1",
+      "identifier": "LicenseRef-AI-Pubs-OpenRAIL-M-0.1",
+      "file": "licenses/AI-Pubs-OpenRAIL-M-0.1.txt",
+      "sha256": "27ab45623b2c93779a44b72b0429bf5ecfd8c3853dd8fd6232ff20ed1a03a661",
+      "source_url": "https://www.licenses.ai/ai-pubs-open-railm-vz1",
+      "version_date": "2023-03-02",
+      "scope": "MeFI-trained LoRA weight contributions"
+    },
+    "upstream_license": {
+      "revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a",
+      "license": "Apache-2.0",
+      "license_file": "licenses/Apache-2.0.txt",
+      "source_url": "https://huggingface.co/Qwen/Qwen3.5-4B/blob/851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a/LICENSE",
+      "notice": "Copyright 2026 Alibaba Cloud"
+    }
+  },
+  "ministral_factuality": {
+    "directory": "assets/adapters/ministral_factuality",
+    "download_url": null,
+    "model_id": "mistralai/Ministral-3-8B-Instruct-2512-BF16",
+    "task": "factuality",
+    "model_revision": "f6fae9795746f63c9be8344932f01275f3c63734",
+    "original_files": {
+      "adapter_config.json": {
+        "sha256": "b60f93fd9c9cc756c3a506711c037a1fa897ac408607125a5ffe9ae3d4287e6b",
+        "bytes": 1252
+      },
+      "adapter_model.safetensors": {
+        "sha256": "b59081aca7634987e304119e8047911bf4f5012542a55f44b18d8245d7d5c9c7",
+        "bytes": 215740400
+      },
+      "chat_template.jinja": {
+        "sha256": "74eeb55fd3341286ec3fd44e902b7120721acc81cd394e96b431f85e93a1ea56",
+        "bytes": 11912
+      },
+      "processor_config.json": {
+        "sha256": "84be30b124b50749c56d25fdbec5ccedf564446f6b3b035e88e1e07b986d2491",
+        "bytes": 697
+      },
+      "run_config.json": {
+        "sha256": "51234f58113ac6a0947b032b12127f16cc5e69a4f6b678a6a725095229ee57a6",
+        "bytes": 418144
+      },
+      "tokenizer.json": {
+        "sha256": "d5f6046775b112f0e2d456ee9dba450684ab964fe5c4e231599bdc6773028135",
+        "bytes": 17078128
+      },
+      "tokenizer_config.json": {
+        "sha256": "cecaf23daa7ab2e53e93c2928121b365b41f98c916fa1681ab8dd457d0298075",
+        "bytes": 464
+      }
+    },
+    "license_status": "assigned",
+    "evaluation_conditions": [
+      "main",
+      "masked",
+      "unmasked"
+    ],
+    "license": {
+      "name": "AI Pubs OpenRAIL-M v0.1",
+      "identifier": "LicenseRef-AI-Pubs-OpenRAIL-M-0.1",
+      "file": "licenses/AI-Pubs-OpenRAIL-M-0.1.txt",
+      "sha256": "27ab45623b2c93779a44b72b0429bf5ecfd8c3853dd8fd6232ff20ed1a03a661",
+      "source_url": "https://www.licenses.ai/ai-pubs-open-railm-vz1",
+      "version_date": "2023-03-02",
+      "scope": "MeFI-trained LoRA weight contributions"
+    },
+    "upstream_license": {
+      "revision": "f6fae9795746f63c9be8344932f01275f3c63734",
+      "license": "Apache-2.0",
+      "license_file": "licenses/Apache-2.0.txt",
+      "source_url": "https://huggingface.co/mistralai/Ministral-3-8B-Instruct-2512-BF16/blob/f6fae9795746f63c9be8344932f01275f3c63734/README.md",
+      "notice": "Publisher: Mistral AI"
+    }
+  },
+  "ministral_bias": {
+    "directory": "assets/adapters/ministral_bias",
+    "download_url": null,
+    "model_id": "mistralai/Ministral-3-8B-Instruct-2512-BF16",
+    "task": "bias",
+    "model_revision": "f6fae9795746f63c9be8344932f01275f3c63734",
+    "original_files": {
+      "adapter_config.json": {
+        "sha256": "c7088ea2089c26698b5f747c41691c2a1d7a5d01cec8ada9b80c9975bfc6868c",
+        "bytes": 1252
+      },
+      "adapter_model.safetensors": {
+        "sha256": "b73c1c089e6972a88f488b3ca49527e22a05b8b92481ade88222042623cff6c2",
+        "bytes": 215740400
+      },
+      "chat_template.jinja": {
+        "sha256": "74eeb55fd3341286ec3fd44e902b7120721acc81cd394e96b431f85e93a1ea56",
+        "bytes": 11912
+      },
+      "processor_config.json": {
+        "sha256": "84be30b124b50749c56d25fdbec5ccedf564446f6b3b035e88e1e07b986d2491",
+        "bytes": 697
+      },
+      "run_config.json": {
+        "sha256": "224f7623ff1e75fc51715e6d7aecb6fb7fd18bd2816e116d89d38ad358ebdf83",
+        "bytes": 480922
+      },
+      "tokenizer.json": {
+        "sha256": "d5f6046775b112f0e2d456ee9dba450684ab964fe5c4e231599bdc6773028135",
+        "bytes": 17078128
+      },
+      "tokenizer_config.json": {
+        "sha256": "cecaf23daa7ab2e53e93c2928121b365b41f98c916fa1681ab8dd457d0298075",
+        "bytes": 464
+      }
+    },
+    "license_status": "assigned",
+    "evaluation_conditions": [
+      "main",
+      "masked",
+      "unmasked"
+    ],
+    "license": {
+      "name": "AI Pubs OpenRAIL-M v0.1",
+      "identifier": "LicenseRef-AI-Pubs-OpenRAIL-M-0.1",
+      "file": "licenses/AI-Pubs-OpenRAIL-M-0.1.txt",
+      "sha256": "27ab45623b2c93779a44b72b0429bf5ecfd8c3853dd8fd6232ff20ed1a03a661",
+      "source_url": "https://www.licenses.ai/ai-pubs-open-railm-vz1",
+      "version_date": "2023-03-02",
+      "scope": "MeFI-trained LoRA weight contributions"
+    },
+    "upstream_license": {
+      "revision": "f6fae9795746f63c9be8344932f01275f3c63734",
+      "license": "Apache-2.0",
+      "license_file": "licenses/Apache-2.0.txt",
+      "source_url": "https://huggingface.co/mistralai/Ministral-3-8B-Instruct-2512-BF16/blob/f6fae9795746f63c9be8344932f01275f3c63734/README.md",
+      "notice": "Publisher: Mistral AI"
+    }
+  },
+  "qwen35_factuality_main": {
+    "directory": "assets/adapters/qwen35_factuality_main",
+    "download_url": null,
+    "model_id": "Qwen/Qwen3.5-4B",
+    "task": "factuality",
+    "model_revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a",
+    "original_files": {
+      "adapter_config.json": {
+        "sha256": "ab1b7cc00f67752d539cbd9a0c6402f6c2fae63998eae54465f902f91ad9bedc",
+        "bytes": 1321
+      },
+      "adapter_model.safetensors": {
+        "sha256": "82d376f8345890d27f37577607cd705d950b3168284a9fcbb133816207365452",
+        "bytes": 156077736
+      },
+      "chat_template.jinja": {
+        "sha256": "a4aee8afcf2e0711942cf848899be66016f8d14a889ff9ede07bca099c28f715",
+        "bytes": 7756
+      },
+      "processor_config.json": {
+        "sha256": "bfbc24af59a3e73a9cd0653b8d4ae758dfaec4e3e6c15dfb1c6c8ee8d5683c85",
+        "bytes": 1220
+      },
+      "run_config.json": {
+        "sha256": "ab117f2fbf395b40a3bac8a10a066e05a8d8c01045939456f4e9d4d0a2093529",
+        "bytes": 418117
+      },
+      "tokenizer.json": {
+        "sha256": "06b9509352d2af50381ab2247e083b80d32d5c0aba91c272ca9ff729b6a0e523",
+        "bytes": 19989325
+      },
+      "tokenizer_config.json": {
+        "sha256": "09564f0b57b433b55d536630be3044b4183dbe04d0cbc7b1e9b1154db3671b0b",
+        "bytes": 1165
+      }
+    },
+    "license_status": "assigned",
+    "evaluation_conditions": [
+      "main"
+    ],
+    "license": {
+      "name": "AI Pubs OpenRAIL-M v0.1",
+      "identifier": "LicenseRef-AI-Pubs-OpenRAIL-M-0.1",
+      "file": "licenses/AI-Pubs-OpenRAIL-M-0.1.txt",
+      "sha256": "27ab45623b2c93779a44b72b0429bf5ecfd8c3853dd8fd6232ff20ed1a03a661",
+      "source_url": "https://www.licenses.ai/ai-pubs-open-railm-vz1",
+      "version_date": "2023-03-02",
+      "scope": "MeFI-trained LoRA weight contributions"
+    },
+    "upstream_license": {
+      "revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a",
+      "license": "Apache-2.0",
+      "license_file": "licenses/Apache-2.0.txt",
+      "source_url": "https://huggingface.co/Qwen/Qwen3.5-4B/blob/851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a/LICENSE",
+      "notice": "Copyright 2026 Alibaba Cloud"
+    }
+  }
+}

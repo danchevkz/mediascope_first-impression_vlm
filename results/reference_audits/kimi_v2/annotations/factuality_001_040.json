@@ -1,0 +1,21 @@
+{"task":"factuality","reviewed_ranges":[[1,40]],"decisions":{
+"1":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["MBFC rates nine.com.au around 'Mostly Factual' with Right-Center bias"]},
+"3":{"category":"asserted","rating_scope":"named_family","family_link":"identified_by_response","evidence":["I recall MBFC classifying Natural News as a Questionable conspiracy-pseudoscience source"]},
+"4":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["I recall MBFC rating Natural News and affiliated topic sites (including Addiction.news)"]},
+"5":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["MBFC rated it High for factual reporting with a least-biased/center rating"]},
+"8":{"category":"uncertain_recall","rating_scope":"named_family","family_link":"tentative_or_inferred","evidence":["MBFC and other raters have evaluated Metric Media-network sites (templated local 'Gazette' sites) as questionable with poor sourcing and right-leaning bias"]},
+"9":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["MBFC has an entry for it rating it Right-biased and High for factual reporting"]},
+"11":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["MBFC rating it Questionable with Low factual reporting and extreme-right bias"]},
+"12":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["MBFC has profiled TFP as a Questionable, far-right advocacy source"]},
+"13":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["common third-party bias/factuality characterizations from memory","Media Bias/Fact Check (MBFC), recalled from prior knowledge","High"]},
+"16":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["MBFC entry rating it Left-biased with High factual reporting"]},
+"17":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["MBFC profile rating it Left-biased with Mixed factual reporting"]},
+"19":{"category":"asserted","rating_scope":"named_family","family_link":"tentative_or_inferred","evidence":["external ratings classifying Natural News as very low factual/conspiracy-pseudoscience"]},
+"24":{"category":"asserted","rating_scope":"named_family","family_link":"identified_by_response","evidence":["MBFC rates Natural News as a Conspiracy-Pseudoscience source with very low factual reporting"]},
+"28":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["low-confidence memory that MBFC profiled it as High factual/pro-science"]},
+"31":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["High (uncertain recall)","MBFC-style raters generally treat CTV News as a mainstream high-factuality outlet"]},
+"33":{"category":"asserted","rating_scope":"named_family","family_link":"identified_by_response","evidence":["external ratings for that network as conspiracy/pseudoscience with low factual reporting","Media Bias/Fact Check and similar raters for the Natural News/NewsTarget network"]},
+"34":{"category":"uncertain_recall","rating_scope":"named_family","family_link":"tentative_or_inferred","evidence":["Questionable/Low to Mixed factuality for Metric Media network sites (uncertain)"]},
+"36":{"category":"uncertain_recall","rating_scope":"named_family","family_link":"identified_by_response","evidence":["Very low factual reporting / conspiracy-pseudoscience (recalled, approximate)","Natural News / Health Ranger (Mike Adams) network"]},
+"39":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["MBFC profile rating it Right-Center bias with High factual reporting"]}
+}}

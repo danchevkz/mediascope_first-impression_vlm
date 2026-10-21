@@ -1,0 +1,12 @@
+{"task":"factuality","reviewed_ranges":[[91,115]],"decisions":{
+"92":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["recall MBFC rating it High for factual reporting and Least Biased"]},
+"94":{"category":"asserted","rating_scope":"named_family","family_link":"tentative_or_inferred","evidence":["LOW for Natural News/related Health Ranger network sites, recalled generally; Gear.news-specific rating not recalled"]},
+"99":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["mostly factual to high (low-moderate confidence, uncertain)"]},
+"101":{"category":"asserted","rating_scope":"named_family","family_link":"identified_by_response","evidence":["Natural News network, which I recall MBFC rates as a Low-credibility conspiracy/pseudoscience source"]},
+"102":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["Media Bias/Fact Check (MBFC) — recalled with moderate confidence","Questionable source / very low factual reporting"]},
+"103":{"category":"asserted","rating_scope":"named_family","family_link":"tentative_or_inferred","evidence":["Metric Media network sites, which I recall being rated Questionable/Low factual by MBFC and poorly by NewsGuard"],"note":"Parent factual-rating claim is unqualified; affiliation and exact bias wording are uncertain."},
+"104":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["MBFC 'Left' bias / 'Mostly Factual'"]},
+"109":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["vague, low-confidence recollection of an MBFC right-bias listing"]},
+"112":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["recall MBFC having rated KAIT as High for factual reporting with minimal bias"]},
+"113":{"category":"asserted","rating_scope":"named_family","family_link":"identified_by_response","evidence":["I recall Sinclair stations being assessed as right-center biased by media-rating sites like MBFC/AllSides"],"note":"A network-level bias assessment is explicitly recalled; KVAL-specific and factuality details are uncertain."}
+}}

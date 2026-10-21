@@ -1,0 +1,132 @@
+{
+  "model": "moonshotai/kimi-k3",
+  "coding_version": 2,
+  "tasks": {
+    "factuality": {
+      "recorded": 212,
+      "valid_reports": 212,
+      "expected": 212,
+      "categories": {
+        "asserted": 38,
+        "uncertain_recall": 40,
+        "ambiguous": 0,
+        "generic": 1,
+        "none": 133
+      },
+      "references": 78,
+      "reference_rate": 0.36792452830188677,
+      "correct_reference_predictions": 65,
+      "accuracy_among_references": 0.8333333333333334,
+      "correct_predictions": 158,
+      "overall_accuracy": 0.7452830188679245,
+      "observed_reference_lower_bound": 0.36792452830188677,
+      "asserted_only_rate": 0.1792452830188679,
+      "outlet_references": 53,
+      "family_references": 25,
+      "tentative_family_references": 10,
+      "prior_rating_influence": {
+        "no": 148,
+        "yes": 62,
+        "unknown": 2
+      },
+      "possible_contamination": {
+        "unknown": 212
+      },
+      "provider_reasoning_available": 212
+    },
+    "bias": {
+      "recorded": 212,
+      "valid_reports": 212,
+      "expected": 212,
+      "categories": {
+        "asserted": 19,
+        "uncertain_recall": 31,
+        "ambiguous": 0,
+        "generic": 2,
+        "none": 160
+      },
+      "references": 50,
+      "reference_rate": 0.2358490566037736,
+      "correct_reference_predictions": 39,
+      "accuracy_among_references": 0.78,
+      "correct_predictions": 118,
+      "overall_accuracy": 0.5566037735849056,
+      "observed_reference_lower_bound": 0.2358490566037736,
+      "asserted_only_rate": 0.08962264150943396,
+      "outlet_references": 25,
+      "family_references": 25,
+      "tentative_family_references": 15,
+      "prior_rating_influence": {
+        "no": 176,
+        "yes": 31,
+        "unknown": 5
+      },
+      "possible_contamination": {
+        "unknown": 210,
+        "yes": 2
+      },
+      "provider_reasoning_available": 212
+    }
+  },
+  "snapshot_sha256": "c1a97208686e7019aee6424db076f9e13fdcf5d33e4effc14f4da6ae021255a7",
+  "rubric_sha256": "f04865da23bbfe04282d5b4fd11fe0ed30b3127cf9f19baa1619a458d096104a",
+  "annotation_sources": [
+    {
+      "path": "artifacts/audits/kimi_probe_manual_review_v2_20261010/annotations/bias_001_040.json",
+      "sha256": "201c3733bf1a99918ed9931bd6d74e7c3dfcea135efb9857ea44c44c674370c7"
+    },
+    {
+      "path": "artifacts/audits/kimi_probe_manual_review_v2_20261010/annotations/bias_041_065.json",
+      "sha256": "f5410ad521429159df5782dff87dd2179a6d7101d18224ff724a0d3d75901bd4"
+    },
+    {
+      "path": "artifacts/audits/kimi_probe_manual_review_v2_20261010/annotations/bias_066_090.json",
+      "sha256": "541b54ba3a062d0272a862da53940276ea2f44977875ba21cf1b38321e3f69be"
+    },
+    {
+      "path": "artifacts/audits/kimi_probe_manual_review_v2_20261010/annotations/bias_091_115.json",
+      "sha256": "173aeda9ba6c3abd9e88f9ab5374e153c5decde47fa529025951cac92cf691e0"
+    },
+    {
+      "path": "artifacts/audits/kimi_probe_manual_review_v2_20261010/annotations/bias_116_145.json",
+      "sha256": "b33bfc54fcbdc2282a6f8c08cc3812487752ecc303594e8b8c19f6f3f05d01b4"
+    },
+    {
+      "path": "artifacts/audits/kimi_probe_manual_review_v2_20261010/annotations/bias_146_175.json",
+      "sha256": "2c01106ac2e07d3b84267e771b5818c5ffb4c97ee11e6cdd84bf9500f5286e66"
+    },
+    {
+      "path": "artifacts/audits/kimi_probe_manual_review_v2_20261010/annotations/bias_176_212.json",
+      "sha256": "19c0f1dde5d099b43b971a957c269c6165dd7d93d467afcf05436ad329b63eb7"
+    },
+    {
+      "path": "artifacts/audits/kimi_probe_manual_review_v2_20261010/annotations/factuality_001_040.json",
+      "sha256": "64d7ef8d0982efc28246026525baa0148403835f3ec68651e9b18895c77054aa"
+    },
+    {
+      "path": "artifacts/audits/kimi_probe_manual_review_v2_20261010/annotations/factuality_041_065.json",
+      "sha256": "feeb13057bf0ccb8356d2d6b0adebe712aa638f0f645a6d5209c8243f6c48d18"
+    },
+    {
+      "path": "artifacts/audits/kimi_probe_manual_review_v2_20261010/annotations/factuality_066_090.json",
+      "sha256": "3138888a5f84a394a8453008f051b7e58de6395638dc29a65b5e564025724ca8"
+    },
+    {
+      "path": "artifacts/audits/kimi_probe_manual_review_v2_20261010/annotations/factuality_091_115.json",
+      "sha256": "3ad1fc23f2198e7097c52d395b39946f6607c5597ae85c71a99c470551b6e8b0"
+    },
+    {
+      "path": "artifacts/audits/kimi_probe_manual_review_v2_20261010/annotations/factuality_116_145.json",
+      "sha256": "168101b96ca9fd020b4ea22318027e49dc81924d24d2c87f5537b194bcd40e72"
+    },
+    {
+      "path": "artifacts/audits/kimi_probe_manual_review_v2_20261010/annotations/factuality_146_175.json",
+      "sha256": "4d2e62934f5c99893ad2ac37d3d7f8d91f42a331e055b2f0d5552c85989096fe"
+    },
+    {
+      "path": "artifacts/audits/kimi_probe_manual_review_v2_20261010/annotations/factuality_176_212.json",
+      "sha256": "e6f45b596cb8cd239be04d1c7016c38f264dcf7290a6f3111a1f0626c24ba745"
+    }
+  ],
+  "scope": "Manually judged common structured reports; native-only claims excluded"
+}

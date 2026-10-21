@@ -1,0 +1,424 @@
+media_name,url,timestamp,country,factuality,trustworthiness,bias_rating,MBFC_source,true_label_factuality,true_label_bias,image_path
+9 News,https://www.9news.com.au/,2026-06-03 17:41:34,,HIGH,1.0,RIGHT-CENTER,,HIGH,RIGHT-CENTER,test/9_News.png
+ABC News Australia,https://abc.net.au,2026-06-03 17:41:58,,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/ABC_News_Australia.png
+ABC News/Washington Post Polling,https://langerresearch.com,2026-06-03 17:41:47,,VERY HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/ABC_News_Washington_Post_Polling.png
+ABQ Times,http://abqtimes.com,2026-06-20 19:41:06,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/ABQ_Times.png
+AV Club,https://avclub.com,2026-06-03 17:43:08,USA,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/AV_Club.png
+Abilene Times,http://abilenetimes.com,2026-06-20 21:40:28,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Abilene_Times.png
+Ad Fontes Media,https://adfontesmedia.com,2026-06-03 17:44:20,USA,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/Ad_Fontes_Media.png
+Adams.News,https://adams.news,2026-06-03 17:43:50,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/Adams.News.png
+Addiction.News,https://addiction.news,2026-06-03 17:44:00,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/Addiction.News.png
+Advocates for Self-Government,https://theadvocates.org,2026-06-08 16:41:20,USA,MOSTLY FACTUAL,,RIGHT-CENTER,,HIGH,RIGHT-CENTER,test/Advocates_for_Self-Government.png
+Air Force Times,https://airforcetimes.com,2026-06-03 17:50:12,USA,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/Air_Force_Times.png
+Al Monitor,https://al-monitor.com,2026-06-03 17:50:47,USA,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Al_Monitor.png
+Alabama Business Daily,http://businessdailynetwork.com/states/al,2026-06-20 22:20:52,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Alabama_Business_Daily.png
+Alberta Views,https://albertaviews.ca,2026-06-03 17:51:24,,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Alberta_Views.png
+Altoona Times,http://altoonatimes.com,2026-06-20 21:54:12,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Altoona_Times.png
+Amarillo Gazette,http://amarillogazette.com,2026-06-20 19:12:29,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Amarillo_Gazette.png
+American Affairs Journal,https://americanaffairsjournal.org,2026-06-03 17:53:57,USA,HIGH,1.0,RIGHT-CENTER,,HIGH,RIGHT-CENTER,test/American_Affairs_Journal.png
+American Faith,http://americanfaith.com,2026-06-20 19:47:31,USA,MIXED,,RIGHT,Questionable Source,MIXED,RIGHT,test/American_Faith.png
+American Firearms Institute,https://americanfirearms.org,2026-06-03 17:54:28,USA,HIGH,1.0,RIGHT-CENTER,,HIGH,RIGHT-CENTER,test/American_Firearms_Institute.png
+American Pharmacy News,http://americanpharmacynews.com,2026-06-20 20:45:35,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/American_Pharmacy_News.png
+American Renaissance Magazine,http://www.amren.com,2026-06-20 19:14:22,USA,LOW,,EXTREME RIGHT,Questionable Source,LOW,RIGHT,test/American_Renaissance_Magazine.png
+"American Society for the Defense of Tradition, Family, and Property",http://www.tfp.org,2026-06-20 20:58:14,USA,LOW,,EXTREME RIGHT,Questionable Source,LOW,RIGHT,test/American_Society_for_the_Defense_of_Tradition_Family_and_Property.png
+Americans for Truth,https://americansfortruth.com,2026-06-03 17:55:22,USA,VERY LOW,0.0,EXTREME RIGHT,,LOW,RIGHT,test/Americans_for_Truth.png
+Amnesty International,https://amnesty.org,2026-06-03 17:55:32,,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Amnesty_International.png
+Anthropocene Alliance,https://anthropocenealliance.org,2026-06-03 17:55:50,USA,HIGH,1.0,LEFT,,HIGH,LEFT,test/Anthropocene_Alliance.png
+Antioxidants.News,https://antioxidants.news,2026-06-03 17:56:00,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/Antioxidants.News.png
+ArcaMax,https://arcamax.com,2026-06-08 16:51:36,USA,MOSTLY FACTUAL,,RIGHT-CENTER,,HIGH,RIGHT-CENTER,test/ArcaMax.png
+Arizona Capitol Times,https://azcapitoltimes.com,2026-06-03 17:56:35,USA,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Arizona_Capitol_Times.png
+Arkansas Business Daily,http://businessdailynetwork.com/states/ar,2026-06-20 20:50:21,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Arkansas_Business_Daily.png
+Arkansas Times,https://arktimes.com,2026-06-03 17:57:25,USA,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Arkansas_Times.png
+Ars Technica,https://arstechnica.com,2026-06-03 17:59:31,USA,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/Ars_Technica.png
+Atlanta Black Star,https://atlantablackstar.com,2026-06-08 16:53:35,USA,MOSTLY FACTUAL,,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Atlanta_Black_Star.png
+Atlantic County Times,http://atlanticcotimes.com,2026-06-20 20:35:14,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Atlantic_County_Times.png
+AtlasIntel,https://atlasintel.org,2026-06-03 18:00:43,,VERY HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/AtlasIntel.png
+Auburn Reporter,https://auburn-reporter.com,2026-06-03 18:01:39,USA,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/Auburn_Reporter.png
+Austin News,http://austintxnews.com,2026-06-20 19:46:48,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Austin_News.png
+Awakening.News,https://awakening.news,2026-06-03 18:02:11,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/Awakening.News.png
+Baha Breaking News,https://breakingthenews.net,2026-06-08 16:58:38,,MOSTLY FACTUAL,,LEAST BIASED,,HIGH,LEAST BIASED,test/Baha_Breaking_News.png
+Banned.News,https://banned.news,2026-06-03 18:03:42,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/Banned.News.png
+Baptist News Global,https://baptistnews.com,2026-06-03 18:03:48,USA,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Baptist_News_Global.png
+Bare Naked Islam,https://barenakedislam.com,2026-06-03 18:04:03,USA,LOW,0.0,EXTREME RIGHT,Questionable Source,LOW,RIGHT,test/Bare_Naked_Islam.png
+Bay State News,http://baystatenews.com,2026-06-20 20:27:44,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Bay_State_News.png
+Bean Town Times,http://beantowntimes.com,2026-06-20 20:23:30,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Bean_Town_Times.png
+Bearing Arms,https://bearingarms.com,2026-06-08 17:00:25,USA,MIXED,,RIGHT,,MIXED,RIGHT,test/Bearing_Arms.png
+Being Liberal,https://beingliberal.org,2026-06-08 17:01:14,USA,MOSTLY FACTUAL,,LEFT,,HIGH,LEFT,test/Being_Liberal.png
+Belfer Center for Science and International Affairs,https://belfercenter.org,2026-06-03 18:05:58,USA,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Belfer_Center_for_Science_and_International_Affairs.png
+Berks County News,http://berksconews.com,2026-06-20 19:40:43,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Berks_County_News.png
+Berkshire Eagle,https://berkshireeagle.com,2026-06-03 22:18:06,USA,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Berkshire_Eagle.png
+Biased.News,https://biased.news,2026-06-03 18:22:49,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/Biased.News.png
+Big Government News,https://biggovernment.news,2026-06-03 22:16:34,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/Big_Government_News.png
+Bioterrorism.News,https://bioterrorism.news,2026-06-03 18:23:39,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/Bioterrorism.News.png
+BizPac Review,https://bizpacreview.com,2026-06-08 17:04:21,USA,MIXED,,RIGHT,,MIXED,RIGHT,test/BizPac_Review.png
+Black Community NEws,https://blackcommunitynews.com,2026-06-08 17:05:27,,MIXED,,RIGHT,,MIXED,RIGHT,test/Black_Community_NEws.png
+Blacknews,http://Blacknews.com,2026-06-20 18:58:20,USA,MIXED,,LEFT,Questionable Source,MIXED,LEFT,test/Blacknews.png
+Borgen Project,https://borgenproject.org,2026-06-03 18:25:19,USA,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Borgen_Project.png
+Breakthrough Institute,https://thebreakthrough.org,2026-06-03 18:27:29,USA,HIGH,1.0,RIGHT-CENTER,,HIGH,RIGHT-CENTER,test/Breakthrough_Institute.png
+Breitbart,http://www.breitbart.com,2026-06-20 20:25:02,USA,MIXED,,RIGHT,Questionable Source,MIXED,RIGHT,test/Breitbart.png
+Buffalo Ledger,http://buffaloledger.com,2026-06-20 19:28:29,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Buffalo_Ledger.png
+Bullshido,https://bullshido.net,2026-06-03 18:30:24,USA,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/Bullshido.png
+Burlington Review,http://burlingtonreview.com,2026-06-20 20:53:41,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Burlington_Review.png
+Butler County News,http://butlerconews.com,2026-06-20 21:49:17,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Butler_County_News.png
+CCTV International,https://english.cctv.com,2026-06-08 17:18:16,,MIXED,,LEFT-CENTER,Questionable Source,MIXED,LEFT-CENTER,test/CCTV_International.png
+CDC.News,https://cdc.news,2026-06-03 18:32:30,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/CDC.News.png
+CNET,https://cnet.com,2026-06-03 18:33:20,USA,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/CNET.png
+CNN,https://cnn.com,2026-06-08 17:20:03,USA,MOSTLY FACTUAL,,LEFT-CENTER,,HIGH,LEFT-CENTER,test/CNN.png
+CTV News,https://ctvnews.ca,2026-06-03 18:34:35,,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/CTV_News.png
+CaliforniaCollapse.News,https://californiacollapse.news,2026-06-03 18:34:22,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/CaliforniaCollapse.News.png
+California Business Daily,http://businessdailynetwork.com/states/ca,2026-06-20 21:19:52,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/California_Business_Daily.png
+Cambria Times,http://cambriatimes.com,2026-06-20 22:12:29,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Cambria_Times.png
+Cape Cod Ledger,http://capecodledger.com,2026-06-20 19:31:21,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Cape_Cod_Ledger.png
+Capital District Times,http://capitaldistricttimes.com,2026-06-20 21:05:47,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Capital_District_Times.png
+Capitalism Magazine,https://capitalismmagazine.com,2026-06-08 17:24:32,USA,MOSTLY FACTUAL,,RIGHT-CENTER,,HIGH,RIGHT-CENTER,test/Capitalism_Magazine.png
+Cardinal & Pine,https://cardinalpine.com,2026-06-08 17:25:20,USA,MIXED,,LEFT-CENTER,Questionable Source,MIXED,LEFT-CENTER,test/Cardinal_Pine.png
+Carnegie Endowment for International Peace,https://carnegieendowment.org,2026-06-03 18:36:22,USA,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Carnegie_Endowment_for_International_Peace.png
+Casper Star-Tribune,https://trib.com,2026-06-03 18:36:52,USA,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/Casper_Star-Tribune.png
+Ceasefire Magazine,https://ceasefiremagazine.co.uk,2026-06-03 18:36:37,,HIGH,1.0,LEFT,,HIGH,LEFT,test/Ceasefire_Magazine.png
+Censorship.News,https://censorship.news,2026-06-03 22:18:49,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/Censorship.News.png
+Center for Democracy and Technology,https://cdt.org,2026-06-03 18:37:24,USA,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/Center_for_Democracy_and_Technology.png
+Central Bucks Today,http://centralbuckstoday.com,2026-06-20 19:43:28,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Central_Bucks_Today.png
+Central Chester Today,http://centralchestertoday.com,2026-06-20 22:15:21,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Central_Chester_Today.png
+Central Florida Post,http://centralfloridapost.com,2026-06-20 19:15:40,USA,LOW,,RIGHT,Questionable Source,LOW,RIGHT,test/Central_Florida_Post.png
+Central PA News,http://centralpanews.com,2026-06-20 20:57:40,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Central_PA_News.png
+Central Texas News,http://centraltxnews.com,2026-06-20 22:19:06,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Central_Texas_News.png
+Check Your Fact,https://checkyourfact.com,2026-06-03 18:40:50,USA,HIGH,1.0,RIGHT-CENTER,,HIGH,RIGHT-CENTER,test/Check_Your_Fact.png
+Cherokee Tribune,https://tribuneledgernews.com,2026-06-03 18:41:34,,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/Cherokee_Tribune.png
+Chinook Observer,https://chinookobserver.com,2026-06-03 18:43:16,USA,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/Chinook_Observer.png
+Citizen Free Press,https://citizenfreepress.com,2026-06-08 17:35:19,USA,MIXED,,RIGHT,,MIXED,RIGHT,test/Citizen_Free_Press.png
+Citizens’ Council for Health Freedom,http://cchfreedom.org,2026-06-20 20:19:23,USA,MIXED,,RIGHT,Questionable Source,MIXED,RIGHT,test/Citizens_Council_for_Health_Freedom.png
+Citizens for Tax Justice,https://ctj.org,2026-06-08 17:36:13,USA,MOSTLY FACTUAL,,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Citizens_for_Tax_Justice.png
+CityNews Toronto,https://toronto.citynews.ca,2026-06-03 18:59:07,,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/CityNews_Toronto.png
+Civiqs,https://civiqs.com,2026-06-03 19:03:00,USA,MOSTLY FACTUAL,1.0,LEFT,,HIGH,LEFT,test/Civiqs.png
+Clean Technica,https://cleantechnica.com,2026-06-03 19:09:26,USA,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Clean_Technica.png
+ClimateScienceNews,https://climatesciencenews.com,2026-06-03 19:09:43,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/ClimateScienceNews.png
+Co2 Coalition,http://co2coalition.org,2026-06-20 19:51:44,USA,LOW,,RIGHT,Questionable Source,LOW,RIGHT,test/Co2_Coalition.png
+Coal Region News,http://coalregionnews.com,2026-06-20 19:26:49,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Coal_Region_News.png
+Collin Times,http://collintimes.com,2026-06-20 20:21:04,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Collin_Times.png
+Colorado Business Daily,https://businessdailynetwork.com/states/co,2026-06-20 19:38:09,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Colorado_Business_Daily.png
+Columbia Journalism Review,https://cjr.org,2026-06-03 19:11:57,USA,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Columbia_Journalism_Review.png
+Common Cause,https://commoncause.org,2026-06-03 19:11:50,USA,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Common_Cause.png
+Communist Party USA,https://cpusa.org,2026-06-08 17:39:50,USA,MIXED,,LEFT,,MIXED,LEFT,test/Communist_Party_USA.png
+Concho Valley News,http://conchovalleynews.com,2026-06-20 20:08:46,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Concho_Valley_News.png
+Concord Ledger,http://concordledger.com,2026-06-20 21:03:03,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Concord_Ledger.png
+Connecticut Business Daily,http://businessdailynetwork.com/states/ct,2026-06-20 22:24:14,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Connecticut_Business_Daily.png
+Constitution Daily,https://constitutioncenter.org,2026-06-03 19:14:09,USA,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/Constitution_Daily.png
+Corpus Christi Sun,http://corpuschristisun.com,2026-06-20 19:37:10,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Corpus_Christi_Sun.png
+CounterPunch,https://counterpunch.org,2026-06-08 17:47:53,USA,MOSTLY FACTUAL,,LEFT,,HIGH,LEFT,test/CounterPunch.png
+CovertAction Magazine,http://covertactionmagazine.com,2026-06-20 19:01:24,USA,MIXED,,LEFT,Questionable Source,MIXED,LEFT,test/CovertAction_Magazine.png
+Crawford Times,http://crawfordtimes.com,2026-06-20 21:09:28,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Crawford_Times.png
+CrimethInc,https://crimethinc.com,2026-06-03 19:16:52,USA,HIGH,1.0,LEFT,,HIGH,LEFT,test/CrimethInc.png
+Crisis Magazine,https://crisismagazine.com,2026-06-08 17:49:14,USA,MIXED,,RIGHT,,MIXED,RIGHT,test/Crisis_Magazine.png
+Cronkite News,https://cronkitenews.azpbs.org,2026-06-03 19:16:56,USA,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Cronkite_News.png
+Cumberland Valley News,http://cumberlandvalleynews.com,2026-06-20 20:17:47,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Cumberland_Valley_News.png
+Curve Magazine,https://curvemag.com,2026-06-03 19:18:09,USA,HIGH,1.0,LEFT,,HIGH,LEFT,test/Curve_Magazine.png
+CyberWar.News,https://cyberwar.news,2026-06-03 19:18:11,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/CyberWar.News.png
+DailyJournal24hr,http://DailyJournal24hr.com,2026-06-20 19:02:17,Unknown,LOW,,LEAST BIASED,Questionable Source,LOW,LEAST BIASED,test/DailyJournal24hr.png
+Daily Camera,https://dailycamera.com,2026-06-03 22:22:27,USA,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/Daily_Camera.png
+Daily Dot,https://dailydot.com,2026-06-03 19:20:12,USA,HIGH,1.0,LEFT,,HIGH,LEFT,test/Daily_Dot.png
+Daily Kos,https://dailykos.com,2026-06-08 17:53:05,USA,MIXED,,LEFT,,MIXED,LEFT,test/Daily_Kos.png
+Daily Mirror,https://mirror.co.uk,2026-06-08 17:54:17,,MIXED,,LEFT-CENTER,,MIXED,LEFT-CENTER,test/Daily_Mirror.png
+Daily Nonpareil,https://nonpareilonline.com,2026-06-03 19:21:15,USA,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/Daily_Nonpareil.png
+Daily Post Nigeria,https://dailypost.ng,2026-06-08 17:54:42,,MOSTLY FACTUAL,,LEAST BIASED,,HIGH,LEAST BIASED,test/Daily_Post_Nigeria.png
+Daily Record,https://www.dailyrecord.co.uk,2026-06-08 17:55:06,,MOSTLY FACTUAL,,LEFT,,HIGH,LEFT,test/Daily_Record.png
+Daily Torch,https://dailytorch.com,2026-06-03 19:20:42,USA,HIGH,1.0,RIGHT,,HIGH,RIGHT,test/Daily_Torch.png
+Dallas City Wire,http://dallascitywire.com,2026-06-20 20:28:07,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Dallas_City_Wire.png
+Dauphin News,http://dauphinnews.com,2026-06-20 19:30:30,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Dauphin_News.png
+Debunking Denialism,https://debunkingdenialism.com,2026-06-03 19:23:13,,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Debunking_Denialism.png
+Deccan Herald,https://deccanherald.com,2026-06-08 17:59:44,,MIXED,,LEFT-CENTER,,MIXED,LEFT-CENTER,test/Deccan_Herald.png
+Defend Democracy Press,https://defenddemocracy.press,2026-06-08 18:00:14,,MIXED,,LEFT,,MIXED,LEFT,test/Defend_Democracy_Press.png
+Delaware Business Daily,http://businessdailynetwork.com/states/de,2026-06-20 20:58:20,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Delaware_Business_Daily.png
+Denton Record-Chronicle,https://dentonrc.com,2026-06-03 19:26:20,USA,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/Denton_Record-Chronicle.png
+Der Status,http://derstatus.at,2026-06-20 19:02:34,Austria,LOW,,EXTREME RIGHT,Questionable Source,LOW,RIGHT,test/Der_Status.png
+Discoveries.News,https://discoveries.news,2026-06-03 23:46:25,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/Discoveries.News.png
+Disinformation Social Media Alliance,http://disa.org,2026-06-20 19:02:38,Unknown,MIXED,,LEAST BIASED,Questionable Source,MIXED,LEAST BIASED,test/Disinformation_Social_Media_Alliance.png
+District of Columbia Business Daily,http://businessdailynetwork.com/states/dc,2026-06-20 22:18:40,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/District_of_Columbia_Business_Daily.png
+Doctors Without Borders,https://doctorswithoutborders.org,2026-06-03 19:29:43,,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/Doctors_Without_Borders.png
+Doug Casey’s International Man,http://internationalman.com,2026-06-20 20:06:53,USA,MIXED,,RIGHT,Questionable Source,MIXED,RIGHT,test/Doug_Casey_s_International_Man.png
+Down East Times,http://downeasttimes.com,2026-06-20 19:45:46,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Down_East_Times.png
+ECU Center for Survey Research,https://surveyresearch.ecu.edu,2026-06-03 19:30:21,USA,MOSTLY FACTUAL,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/ECU_Center_for_Survey_Research.png
+EC Oklahoma News,http://ecoklahomanews.com,2026-06-20 20:35:03,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/EC_Oklahoma_News.png
+Earth.org,https://earth.org,2026-06-08 18:13:09,,MOSTLY FACTUAL,,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Earth.org.png
+EarthJustice,https://earthjustice.org,2026-06-03 19:30:47,USA,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/EarthJustice.png
+East Central Texas News,http://ectexasnews.com,2026-06-20 19:18:24,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/East_Central_Texas_News.png
+East DFW News,http://eastdfwnews.com,2026-06-20 20:05:54,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/East_DFW_News.png
+East Houston News,http://easthoustonnews.com,2026-06-20 22:28:11,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/East_Houston_News.png
+East Hudson Valley News,http://easthudvalleynews.com,2026-06-20 21:42:30,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/East_Hudson_Valley_News.png
+East New Mexico News,http://eastnewmexiconews.com,2026-06-20 21:41:47,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/East_New_Mexico_News.png
+East OKC News,http://eastokcnews.com,2026-06-20 21:12:46,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/East_OKC_News.png
+East RGV News,http://eastrgvnews.com,2026-06-20 21:08:15,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/East_RGV_News.png
+Easton Gazette,http://eastongazette.com,2026-06-20 19:25:26,USA,LOW,,EXTREME RIGHT,Questionable Source,LOW,RIGHT,test/Easton_Gazette.png
+Ecology News,https://ecology.news,2026-06-03 19:32:44,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/Ecology_News.png
+El Paso Standard,http://elpasostandard.com,2026-06-20 21:26:28,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/El_Paso_Standard.png
+Electronic Intifada,https://electronicintifada.net,2026-06-08 18:19:40,USA,MOSTLY FACTUAL,,LEFT,,HIGH,LEFT,test/Electronic_Intifada.png
+Empire State Today,http://empirestatetoday.com,2026-06-20 19:40:41,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Empire_State_Today.png
+Enchantment State News,http://enchantmentstatenews.com,2026-06-20 19:58:06,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Enchantment_State_News.png
+Environmental Defense Fund,https://edf.org,2026-06-03 19:38:02,USA,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Environmental_Defense_Fund.png
+Erie County Times,http://eriecotimes.com,2026-06-20 19:17:28,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Erie_County_Times.png
+Euro-Med Human Rights Monitor,https://euromedmonitor.org,2026-06-08 18:25:17,,MOSTLY FACTUAL,,LEFT,,HIGH,LEFT,test/Euro-Med_Human_Rights_Monitor.png
+Everytown for Gun Safety,http://everytown.org/,2026-06-20 19:03:07,USA,MIXED,,LEFT,Questionable Source,MIXED,LEFT,test/Everytown_for_Gun_Safety.png
+Evil.News,https://evil.news,2026-06-03 23:48:41,USA,LOW,0.0,EXTREME RIGHT,Questionable Source,LOW,RIGHT,test/Evil.News.png
+Exopolitics,https://exopolitics.org,2026-06-03 19:41:06,USA,LOW,0.0,RIGHT,,LOW,RIGHT,test/Exopolitics.png
+Extinction.News,https://extinction.news,2026-06-03 23:48:53,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/Extinction.News.png
+FDA.News,https://fda.news,2026-06-03 19:41:31,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/FDA.News.png
+FactCheck.News,https://factcheck.news,2026-06-03 23:48:56,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/FactCheck.News.png
+Factchecker.in,https://factchecker.in,2026-06-03 19:42:35,,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/Factchecker.in.png
+Faith & Freedom Coalition,https://ffcoalition.com,2026-06-08 18:30:27,USA,MIXED,,RIGHT,,MIXED,RIGHT,test/Faith_Freedom_Coalition.png
+Fdesouche,http://fdesouche.com,2026-06-20 20:35:51,France,MIXED,,RIGHT,Questionable Source,MIXED,RIGHT,test/Fdesouche.png
+FedScoop,https://fedscoop.com,2026-06-03 19:43:34,,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/FedScoop.png
+Federal Way Mirror,https://federalwaymirror.com,2026-06-03 19:44:20,USA,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/Federal_Way_Mirror.png
+Federalist Press,http://federalistpress.com,2026-06-20 21:16:55,USA,MIXED,,RIGHT,Questionable Source,MIXED,RIGHT,test/Federalist_Press.png
+Filter Magazine,https://filtermag.org,2026-06-08 18:35:22,USA,MOSTLY FACTUAL,,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Filter_Magazine.png
+Financial Tech Times,https://financialtechtimes.com,2026-06-08 18:35:47,USA,MOSTLY FACTUAL,,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Financial_Tech_Times.png
+Finger Lakes Today,http://fingerlakestoday.com,2026-06-20 19:45:23,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Finger_Lakes_Today.png
+First Coast News,https://firstcoastnews.com,2026-06-03 19:46:03,USA,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/First_Coast_News.png
+Fitchburg Sentinel & Enterprise,https://sentinelandenterprise.com,2026-06-04 00:08:58,USA,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/Fitchburg_Sentinel_Enterprise.png
+Floricua,http://floricuanews.com,2026-06-20 19:20:21,USA,MIXED,,LEFT-CENTER,Questionable Source,MIXED,LEFT-CENTER,test/Floricua.png
+Florida Business Daily,https://businessdailynetwork.com/states/fl,2026-06-08 18:37:52,USA,MIXED,,RIGHT-CENTER,,MIXED,RIGHT-CENTER,test/Florida_Business_Daily.png
+Florida Parish News,http://floridaparishnews.com,2026-06-20 20:18:05,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Florida_Parish_News.png
+Free West Media,http://freewestmedia.com,2026-06-20 20:40:38,Sweden,MIXED,,RIGHT,Questionable Source,MIXED,RIGHT,test/Free_West_Media.png
+Fresh off the Press,http://freshoffthepress.org,2026-06-20 22:24:26,USA,MIXED,,RIGHT,Questionable Source,MIXED,RIGHT,test/Fresh_off_the_Press.png
+FrontPage Magazine,http://www.frontpagemag.com,2026-06-20 22:13:24,USA,LOW,,EXTREME RIGHT,Questionable Source,LOW,RIGHT,test/FrontPage_Magazine.png
+GOPUSA,http://www.gopusa.com,2026-06-20 20:26:22,USA,MIXED,,RIGHT,Questionable Source,MIXED,RIGHT,test/GOPUSA.png
+Gallup,https://gallup.com,2026-06-08 18:53:40,USA,MOSTLY FACTUAL,,LEAST BIASED,,HIGH,LEAST BIASED,test/Gallup.png
+Garden State Times,http://gardenstatetimes.com,2026-06-20 20:26:22,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Garden_State_Times.png
+Gear.News,https://gear.news,2026-06-03 23:49:01,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/Gear.News.png
+Geopolitical Monitor,https://geopoliticalmonitor.com,2026-06-08 18:56:52,,MOSTLY FACTUAL,,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Geopolitical_Monitor.png
+Georgia Business Daily,http://businessdailynetwork.com/states/ga,2026-06-20 20:32:09,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Georgia_Business_Daily.png
+Georgia Record,http://georgiarecord.com,2026-06-20 19:33:55,USA,LOW,,EXTREME RIGHT,Questionable Source,LOW,RIGHT,test/Georgia_Record.png
+Global Citizen,https://globalcitizen.org,2026-06-03 19:49:32,USA,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Global_Citizen.png
+Gloucester Today,http://gloucestertoday.com,2026-06-20 20:56:46,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Gloucester_Today.png
+Gop.gov House Republicans,http://gop.gov,2026-06-20 19:41:03,USA,MIXED,,RIGHT,Questionable Source,MIXED,RIGHT,test/Gop.gov_House_Republicans.png
+Granite Grok,http://granitegrok.com,2026-06-20 19:54:07,USA,LOW,,RIGHT,Questionable Source,LOW,RIGHT,test/Granite_Grok.png
+Green America,https://greenamerica.org,2026-06-03 23:50:09,USA,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Green_America.png
+Green Matters,https://greenmatters.com,2026-06-08 19:03:42,USA,MIXED,,LEFT-CENTER,,MIXED,LEFT-CENTER,test/Green_Matters.png
+Greeneville Sun,https://greenevillesun.com,2026-06-03 23:50:56,USA,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Greeneville_Sun.png
+Greenlining Institute,https://greenlining.org,2026-06-08 19:05:34,USA,MOSTLY FACTUAL,,LEFT,,HIGH,LEFT,test/Greenlining_Institute.png
+Happy Valley Times,http://happyvalleytimes.com,2026-06-20 20:41:21,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Happy_Valley_Times.png
+Hartford Reporter,http://hartfordreporter.com,2026-06-20 19:14:42,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Hartford_Reporter.png
+Hawaii Business Daily,http://businessdailynetwork.com/states/hi,2026-06-20 20:23:11,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Hawaii_Business_Daily.png
+Heartland Institute,http://www.heartland.org,2026-06-20 19:54:52,USA,LOW,,RIGHT,Questionable Source,LOW,RIGHT,test/Heartland_Institute.png
+Herbs.News,https://herbs.news,2026-06-03 23:51:08,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/Herbs.News.png
+Here is the Evidence,http://hereistheevidence.com,2026-06-20 19:15:59,United Kingdom,LOW,,RIGHT,Questionable Source,LOW,RIGHT,test/Here_is_the_Evidence.png
+Heritage Foundation,https://heritage.org,2026-06-08 19:17:09,USA,MIXED,,RIGHT,,MIXED,RIGHT,test/Heritage_Foundation.png
+Hillsborough Sun,http://hillsboroughsun.com,2026-06-20 22:24:24,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Hillsborough_Sun.png
+Hong Kong Standard,https://thestandard.com.hk,2026-06-08 19:22:42,,MIXED,,LEFT-CENTER,,MIXED,LEFT-CENTER,test/Hong_Kong_Standard.png
+Housatonic Valley News,http://housatonicvalleynews.com,2026-06-20 22:16:53,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Housatonic_Valley_News.png
+Hudson Today,http://hudsontoday.com,2026-06-20 21:17:12,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Hudson_Today.png
+Huffington Post,https://huffpost.com,2026-06-08 19:26:29,USA,MOSTLY FACTUAL,,LEFT,,HIGH,LEFT,test/Huffington_Post.png
+Idaho Business Daily,https://businessdailynetwork.com/states/id,2026-06-08 19:29:32,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Idaho_Business_Daily.png
+Illinois Business Daily,http://businessdailynetwork.com/states/il,2026-06-20 19:42:26,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Illinois_Business_Daily.png
+Indiana Business Daily,http://businessdailynetwork.com/states/in,2026-06-20 20:23:18,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Indiana_Business_Daily.png
+Innocence Project,https://innocenceproject.org,2026-06-03 19:58:50,USA,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Innocence_Project.png
+Investopedia,https://investopedia.com,2026-06-03 20:01:15,USA,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/Investopedia.png
+Iowa Business Daily,http://businessdailynetwork.com/states/ia,2026-06-20 22:06:41,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Iowa_Business_Daily.png
+Israel War Room,http://israelwarroom.com,2026-06-20 19:34:48,USA,MIXED,,RIGHT,Questionable Source,MIXED,RIGHT,test/Israel_War_Room.png
+J Street,https://jstreet.org,2026-06-03 20:02:18,USA,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/J_Street.png
+Jewish Telegraphic Agency,https://www.jta.org/,2026-06-03 20:03:03,USA,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/Jewish_Telegraphic_Agency.png
+Jewish Voice for Peace,https://jewishvoiceforpeace.org,2026-06-08 19:50:33,,MOSTLY FACTUAL,,LEFT,,HIGH,LEFT,test/Jewish_Voice_for_Peace.png
+Jewish World Review,https://jewishworldreview.com,2026-06-08 19:50:52,USA,MIXED,,RIGHT,,MIXED,RIGHT,test/Jewish_World_Review.png
+Johnstown Tribune-Democrat,https://tribdem.com,2026-06-03 20:04:10,USA,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Johnstown_Tribune-Democrat.png
+JordanBPeterson,http://JordanBPeterson.com,2026-06-20 19:24:02,USA,MIXED,,RIGHT,Questionable Source,MIXED,RIGHT,test/JordanBPeterson.png
+Judicial Watch,https://judicialwatch.org,2026-06-03 20:03:28,USA,LOW,0.0,RIGHT,Questionable Source,LOW,RIGHT,test/Judicial_Watch.png
+Just the News,http://justthenews.com,2026-06-20 21:09:01,USA,MIXED,,RIGHT,Questionable Source,MIXED,RIGHT,test/Just_the_News.png
+KAIT8-TV,https://kait8.com,2026-06-03 20:05:03,USA,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/KAIT8-TV.png
+KVAL - Eugene News,https://kval.com,2026-06-03 20:09:00,USA,HIGH,1.0,RIGHT-CENTER,,HIGH,RIGHT-CENTER,test/KVAL_-_Eugene_News.png
+Kansas Business Daily,http://businessdailynetwork.com/states/ks,2026-06-20 19:55:30,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Kansas_Business_Daily.png
+Kentucky Business Daily,http://businessdailynetwork.com/states/ky,2026-06-20 20:54:32,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Kentucky_Business_Daily.png
+Keystone Today,http://keystonetoday.com,2026-06-20 19:15:12,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Keystone_Today.png
+Knowhere,http://knowherenews.com,2026-06-20 20:18:42,USA,MIXED,,LEAST BIASED,Questionable Source,MIXED,LEAST BIASED,test/Knowhere.png
+Kyodo News Plus,https://english.kyodonews.net,2026-06-03 20:10:01,,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/Kyodo_News_Plus.png
+LaGrange Daily News,https://lagrangenews.com,2026-06-03 20:10:41,USA,HIGH,1.0,RIGHT-CENTER,,HIGH,RIGHT-CENTER,test/LaGrange_Daily_News.png
+Laurel Highlands Today,http://laurelhighlandstoday.com,2026-06-20 20:10:35,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Laurel_Highlands_Today.png
+Law for Palestine,https://law4palestine.org,2026-06-03 20:11:22,,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Law_for_Palestine.png
+Lawrence Times,http://lawrencetimes.com,2026-06-20 21:52:42,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Lawrence_Times.png
+Lead Stories,https://leadstories.com,2026-06-03 20:11:43,USA,VERY HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/Lead_Stories.png
+Lebanon PA News,http://lebanonpanews.com,2026-06-20 21:17:15,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Lebanon_PA_News.png
+Left Action,http://leftaction.com,2026-06-20 19:06:53,USA,LOW,,EXTREME LEFT,Questionable Source,LOW,LEFT,test/Left_Action.png
+LegalDive,https://legaldive.com,2026-06-03 20:12:51,USA,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/LegalDive.png
+Lehigh Times,http://lehightimes.com,2026-06-20 22:22:42,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Lehigh_Times.png
+Lewiston Times,http://lewistontimes.com,2026-06-20 22:06:09,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Lewiston_Times.png
+Life News,http://www.lifenews.com,2026-06-20 19:45:24,USA,LOW,,RIGHT,Questionable Source,LOW,RIGHT,test/Life_News.png
+Litchfield Hills Today,http://litchfieldhillstoday.com,2026-06-20 22:01:46,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Litchfield_Hills_Today.png
+Loudon County News-Herald,https://news-herald.net,2026-06-03 23:23:10,USA,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Loudon_County_News-Herald.png
+Louisiana Business Daily,http://businessdailynetwork.com/states/la,2026-06-20 19:45:11,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Louisiana_Business_Daily.png
+Lower Bucks Today,http://lowerbuckstoday.com,2026-06-20 20:24:54,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Lower_Bucks_Today.png
+Lucianne.com,https://www.lucianne.com,2026-06-21 17:44:46,USA,MIXED,,RIGHT,Questionable Source,MIXED,RIGHT,test/Lucianne.com.png
+Luzerne Times,http://luzernetimes.com,2026-06-20 22:31:30,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Luzerne_Times.png
+Lycoming News,http://lycomingnews.com,2026-06-20 19:27:11,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Lycoming_News.png
+Maine Business Daily,https://mainebusinessdaily.com,2026-06-08 20:08:53,USA,MIXED,,RIGHT-CENTER,,MIXED,RIGHT-CENTER,test/Maine_Business_Daily.png
+Maine Highlands News,http://mainehighlandsnews.com,2026-06-20 19:50:08,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Maine_Highlands_News.png
+Maine Lakes News,http://mainelakesnews.com,2026-06-20 22:24:18,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Maine_Lakes_News.png
+Marietta Daily Journal,https://mdjonline.com,2026-06-03 20:17:18,USA,HIGH,1.0,RIGHT-CENTER,,HIGH,RIGHT-CENTER,test/Marietta_Daily_Journal.png
+Maryland Business Daily,http://mdbusinessdaily.com,2026-06-20 20:51:22,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Maryland_Business_Daily.png
+Mass Daily News,http://massdailynews.com,2026-06-20 20:43:51,USA,MIXED,,RIGHT,Questionable Source,MIXED,RIGHT,test/Mass_Daily_News.png
+Massachusetts Business Daily,http://mabusinessdaily.com,2026-06-20 22:04:32,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Massachusetts_Business_Daily.png
+Mat-Su Times,https://matsutimes.com,2026-06-08 20:11:08,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Mat-Su_Times.png
+MedicalTyranny,https://medicaltyranny.com,2026-06-03 23:57:36,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/MedicalTyranny.png
+Mehr News Agency,http://en.mehrnews.com,2026-06-20 20:18:36,Iran,MIXED,,RIGHT,Questionable Source,MIXED,RIGHT,test/Mehr_News_Agency.png
+Mercer Times,http://mercertimes.com,2026-06-20 20:39:44,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Mercer_Times.png
+Mercopress,http://en.mercopress.com,2026-06-20 19:07:12,Uruguay,MIXED,,LEFT-CENTER,Questionable Source,MIXED,LEFT-CENTER,test/Mercopress.png
+Merrimack Valley News,http://merrimackvalleynews.com,2026-06-20 20:14:11,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Merrimack_Valley_News.png
+Metro West Times,http://metrowesttimes.com,2026-06-20 21:48:41,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Metro_West_Times.png
+Michigan Business Daily,http://mibusinessdaily.com,2026-06-20 20:10:11,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Michigan_Business_Daily.png
+Mid Coast Today,http://midcoasttoday.com,2026-06-20 19:07:44,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Mid_Coast_Today.png
+Mid Massachusetts News,http://midmassnews.com,2026-06-20 20:37:38,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Mid_Massachusetts_News.png
+Minnesota Business Daily,http://mnbusinessdaily.com,2026-06-20 21:56:15,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Minnesota_Business_Daily.png
+Mississippi Business Daily,http://msbusinessdaily.com,2026-06-20 21:33:22,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Mississippi_Business_Daily.png
+Missouri Business Daily,http://mobusinessdaily.com,2026-06-20 22:03:18,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Missouri_Business_Daily.png
+Modern Diplomacy,https://moderndiplomacy.eu,2026-06-08 20:18:29,,MIXED,,RIGHT,,MIXED,RIGHT,test/Modern_Diplomacy.png
+Mohawk Valley Times,http://mohawkvalleytimes.com,2026-06-20 19:07:47,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Mohawk_Valley_Times.png
+Monmouth Times,http://monmouthtimes.com,2026-06-20 20:09:40,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Monmouth_Times.png
+Monroe County News,http://monroeconews.com,2026-06-20 21:55:06,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Monroe_County_News.png
+Monroe NY News,http://monroenynews.com,2026-06-20 20:33:43,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Monroe_NY_News.png
+Morelos Daily Post,http://morelosdailypost.com,2026-06-20 20:41:15,Unknown,MIXED,,LEFT-CENTER,Questionable Source,MIXED,LEFT-CENTER,test/Morelos_Daily_Post.png
+Morris Leader,http://morrisleader.com,2026-06-20 20:28:30,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Morris_Leader.png
+Moskva News,http://moskva-news.com,2026-06-20 19:22:37,Russia,VERY LOW,,RIGHT,Questionable Source,LOW,RIGHT,test/Moskva_News.png
+NBCNewYork.com,https://nbcnewyork.com,2026-06-03 20:21:27,USA,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/NBCNewYork.com.png
+NC Business Daily,http://ncbusinessdaily.com,2026-06-20 20:53:58,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/NC_Business_Daily.png
+NC Massachusetts News,http://ncmassnews.com,2026-06-20 20:41:06,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/NC_Massachusetts_News.png
+NC Oklahoma News,http://ncoklahomanews.com,2026-06-20 19:54:12,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/NC_Oklahoma_News.png
+NE Bergen News,http://nebergennews.com,2026-06-20 20:21:41,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/NE_Bergen_News.png
+NE Connecticut News,http://neconnnews.com,2026-06-20 19:19:49,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/NE_Connecticut_News.png
+NE New Mexico News,http://nenewmexiconews.com,2026-06-20 19:50:29,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/NE_New_Mexico_News.png
+NE New York Today,http://nenewyorktoday.com,2026-06-20 20:49:59,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/NE_New_York_Today.png
+NGO Monitor,https://ngo-monitor.org,2026-06-08 20:29:54,,MIXED,,RIGHT,,MIXED,RIGHT,test/NGO_Monitor.png
+NW Bergen News,http://nwbergennews.com,2026-06-20 20:12:28,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/NW_Bergen_News.png
+NW Connecticut News,http://nwconnnews.com,2026-06-20 20:52:45,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/NW_Connecticut_News.png
+NW Jersey News,http://nwjerseynews.com,2026-06-20 20:03:58,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/NW_Jersey_News.png
+NW New Mexico News,http://nwnewmexiconews.com,2026-06-20 22:00:03,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/NW_New_Mexico_News.png
+NW Oklahoma News,http://nwoklahomanews.com,2026-06-20 21:21:42,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/NW_Oklahoma_News.png
+NYC Gazette,http://nycgazette.com,2026-06-20 21:39:09,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/NYC_Gazette.png
+Nassau Standard,http://nassaustandard.com,2026-06-20 21:19:02,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Nassau_Standard.png
+National Association of Scholars,https://nas.org,2026-06-08 20:36:36,USA,MIXED,,RIGHT,,MIXED,RIGHT,test/National_Association_of_Scholars.png
+National File,https://nationalfile.com,2026-06-03 23:59:13,USA,LOW,0.0,RIGHT,,LOW,RIGHT,test/National_File.png
+Naugatuck Times,http://naugatucktimes.com,2026-06-20 21:50:49,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Naugatuck_Times.png
+Nebraska Business Daily,http://nebraskabusinessdaily.com,2026-06-20 21:56:15,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Nebraska_Business_Daily.png
+Nevada Business Daily,http://nvbusinessdaily.com,2026-06-20 19:11:41,,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Nevada_Business_Daily.png
+New Hampshire Business Daily,http://nhbusinessdaily.com,2026-06-20 19:17:15,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/New_Hampshire_Business_Daily.png
+New Lines Magazine,https://newlinesmag.com,2026-06-03 20:22:52,USA,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/New_Lines_Magazine.png
+New Mexico Business Daily –,http://nmbusinessdaily.com,2026-06-20 22:27:15,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/New_Mexico_Business_Daily.png
+Newark Reporter,http://newarkreporter.com,2026-06-20 19:38:31,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Newark_Reporter.png
+News Hour First,http://newshourfirst.com,2026-06-20 20:27:25,USA,LOW,,RIGHT,Questionable Source,LOW,RIGHT,test/News_Hour_First.png
+News with Views,http://www.newswithviews.com,2026-06-20 22:20:45,USA,LOW,,RIGHT,Questionable Source,LOW,RIGHT,test/News_with_Views.png
+Niagara Leader,http://niagaraleader.com,2026-06-20 21:41:19,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Niagara_Leader.png
+Nordic Monitor,http://nordicmonitor.com,2026-06-20 22:03:45,Sweden,MIXED,,LEFT-CENTER,Questionable Source,MIXED,LEFT-CENTER,test/Nordic_Monitor.png
+Norfolk Reporter,http://norfolkreporter.com,2026-06-20 19:57:32,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Norfolk_Reporter.png
+North Allegheny News,http://northalleghenynews.com,2026-06-20 19:54:48,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/North_Allegheny_News.png
+North Boston News,http://northbostonnews.com,2026-06-20 21:45:25,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/North_Boston_News.png
+North Central PA Times,http://ncpatimes.com,2026-06-20 19:29:28,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/North_Central_PA_Times.png
+North Chester Today,http://northchestertoday.com,2026-06-20 22:23:23,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/North_Chester_Today.png
+North Country Leader,http://northcountryleader.com,2026-06-20 21:22:04,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/North_Country_Leader.png
+North Dakota Business Daily,http://ndbusinessdaily.com,2026-06-20 21:59:00,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/North_Dakota_Business_Daily.png
+North Essex News,http://northessexnews.com,2026-06-20 22:21:45,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/North_Essex_News.png
+North Lancaster News,http://northlancasternews.com,2026-06-20 20:26:40,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/North_Lancaster_News.png
+North OKC News,http://northokcnews.com,2026-06-20 20:30:32,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/North_OKC_News.png
+North Pocono News,http://northpocononews.com,2026-06-20 21:59:18,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/North_Pocono_News.png
+North Tulsa Today,http://northtulsatoday.com,2026-06-20 19:10:44,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/North_Tulsa_Today.png
+Northern Tier News,http://northerntiernews.com,2026-06-20 20:19:49,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Northern_Tier_News.png
+Northhampton News,http://northhamptonnews.com,2026-06-20 21:55:16,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Northhampton_News.png
+Northwest PA News,http://nwpanews.com,2026-06-20 21:17:15,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Northwest_PA_News.png
+OKC Standard,http://okcstandard.com,2026-06-20 20:16:18,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/OKC_Standard.png
+O’Keefe Media Group,http://okeefemediagroup.com,2026-06-20 19:24:57,USA,MIXED,,RIGHT,Questionable Source,MIXED,RIGHT,test/O_Keefe_Media_Group.png
+Ocean County Leader,http://oceancountyleader.com,2026-06-20 20:18:09,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Ocean_County_Leader.png
+Oh!MyMag,https://ohmymag.co.uk,2026-06-08 21:01:58,,MIXED,,LEAST BIASED,,MIXED,LEAST BIASED,test/Oh_MyMag.png
+Ohio Business Daily,http://businessdailynetwork.com/states/oh/,2026-06-20 21:23:09,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Ohio_Business_Daily.png
+Oklahoma Business Daily,http://businessdailynetwork.com/states/ok/,2026-06-20 20:10:49,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Oklahoma_Business_Daily.png
+Oneida Times,http://oneidatimes.com,2026-06-20 20:09:56,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Oneida_Times.png
+Oregon Business Daily,http://businessdailynetwork.com/states/or/,2026-06-20 20:49:35,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Oregon_Business_Daily.png
+Pandemic News,https://pandemic.news,2026-06-04 00:01:52,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/Pandemic_News.png
+Patriot Fetch,http://patriotfetch.com,2026-06-20 20:03:35,USA,LOW,,EXTREME RIGHT,Questionable Source,LOW,RIGHT,test/Patriot_Fetch.png
+Patriot Pulse,http://patriotpulse.net,2026-06-20 22:17:22,USA,MIXED,,RIGHT,Questionable Source,MIXED,RIGHT,test/Patriot_Pulse.png
+Pennsylvania Business Daily,http://businessdailynetwork.com/states/pa/,2026-06-20 20:11:10,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Pennsylvania_Business_Daily.png
+SC Connecticut News,http://scconnnews.com,2026-06-20 22:02:08,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/SC_Connecticut_News.png
+SC New York News,http://scnewyorknews.com,2026-06-20 19:23:39,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/SC_New_York_News.png
+SC Oklahoma News,http://scoklahomanews.com,2026-06-20 20:34:52,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/SC_Oklahoma_News.png
+SE Connecticut News,http://seconnnews.com,2026-06-20 20:48:14,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/SE_Connecticut_News.png
+SE Oklahoma News,http://seoklahomanews.com,2026-06-20 20:23:37,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/SE_Oklahoma_News.png
+SW Connecticut News,http://swconnnews.com,2026-06-20 19:55:49,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/SW_Connecticut_News.png
+SW New Mexico News,http://swnewmexiconews.com,2026-06-20 20:06:38,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/SW_New_Mexico_News.png
+SW Oklahoma News,http://swoklahomanews.com,2026-06-20 19:58:42,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/SW_Oklahoma_News.png
+ScienceClowns,https://scienceclowns.com,2026-06-04 00:07:35,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/ScienceClowns.png
+Scranton Reporter,http://scrantonreporter.com,2026-06-20 21:52:14,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Scranton_Reporter.png
+Shenango Valley News,http://shenangovalleynews.com,2026-06-20 21:18:02,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Shenango_Valley_News.png
+Shondaland,https://shondaland.com,2026-06-08 21:45:16,USA,MOSTLY FACTUAL,,LEFT,,HIGH,LEFT,test/Shondaland.png
+Somerset Times,http://somersettimes.com,2026-06-20 21:41:11,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Somerset_Times.png
+Sooner State News,http://soonerstatenews.com,2026-06-20 21:34:07,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Sooner_State_News.png
+South ABQ News,http://southabqnews.com,2026-06-20 20:11:50,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/South_ABQ_News.png
+South Bergen News,http://southbergennews.com,2026-06-20 20:50:07,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/South_Bergen_News.png
+South Carolina Business Daily,http://businessdailynetwork.com/states/sc,2026-06-20 21:06:34,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/South_Carolina_Business_Daily.png
+South Central PA News,http://scpanews.com,2026-06-20 20:46:37,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/South_Central_PA_News.png
+South Chester Today,http://southchestertoday.com,2026-06-20 21:55:40,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/South_Chester_Today.png
+South County Times,http://southcotimes.com,2026-06-20 22:19:38,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/South_County_Times.png
+South Dakota Business Daily,http://businessdailynetwork.com/states/sd,2026-06-20 21:42:19,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/South_Dakota_Business_Daily.png
+South Delco News,http://southdelconews.com,2026-06-20 22:02:30,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/South_Delco_News.png
+South Jersey Sun,http://southjerseysun.com,2026-06-20 21:14:43,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/South_Jersey_Sun.png
+South Maine News,http://southmainenews.com,2026-06-20 21:03:36,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/South_Maine_News.png
+South OKC News,http://southokcnews.com,2026-06-20 19:55:43,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/South_OKC_News.png
+South Tulsa Today,http://southtulsatoday.com,2026-06-20 21:42:09,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/South_Tulsa_Today.png
+Southwest PA news,http://swpanews.com,2026-06-20 21:06:18,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Southwest_PA_news.png
+Stares at the World,http://www.staresattheworld.com,2026-06-20 20:03:02,Canada,LOW,,EXTREME RIGHT,Questionable Source,LOW,RIGHT,test/Stares_at_the_World.png
+Staten Island Reporter,http://statenislandreporter.com,2026-06-20 21:53:22,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Staten_Island_Reporter.png
+Strafford News,http://straffordnews.com,2026-06-20 19:15:10,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Strafford_News.png
+Suffolk Reporter,http://suffolkreporter.com,2026-06-20 19:36:09,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Suffolk_Reporter.png
+Survival.News,https://survival.news,2026-06-04 00:09:12,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/Survival.News_1.png
+Syracuse Sun,http://syracusesun.com,2026-06-20 20:00:05,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Syracuse_Sun.png
+TechGiants.News,https://techgiants.news,2026-06-04 00:09:39,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/TechGiants.News_1.png
+Technocrats.News,https://technocrats.news,2026-06-04 00:09:52,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/Technocrats.News_1.png
+Tennessee Business Daily,http://businessdailynetwork.com/states/tn,2026-06-20 21:51:05,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Tennessee_Business_Daily.png
+The African Exponent,https://www.africanexponent.com/,2026-06-20 21:24:30,Tanzania,MIXED,,LEFT,Questionable Source,MIXED,LEFT,test/The_African_Exponent.png
+The Bearded Patriot,http://thebeardedpatriot.com,2026-06-20 19:46:28,USA,LOW,,RIGHT,Questionable Source,LOW,RIGHT,test/The_Bearded_Patriot.png
+The Burning Platform,http://theburningplatform.com,2026-06-20 21:01:04,USA,LOW,,EXTREME RIGHT,Questionable Source,LOW,RIGHT,test/The_Burning_Platform.png
+The Daily Adda,http://thedailyadda.com,2026-06-20 20:55:21,Unknown,MIXED,,LEFT-CENTER,Questionable Source,MIXED,LEFT-CENTER,test/The_Daily_Adda.png
+The Daily Boulder,http://DailyBoulder.com,2026-06-20 20:10:17,USA,MIXED,,LEFT,Questionable Source,MIXED,LEFT,test/The_Daily_Boulder.png
+The Epoch Times,https://theepochtimes.com,2026-06-08 22:07:17,USA,MOSTLY FACTUAL,,RIGHT-CENTER,,HIGH,RIGHT-CENTER,test/The_Epoch_Times.png
+The Goldwater,http://thegoldwater.com,2026-06-20 20:02:24,USA,LOW,,EXTREME RIGHT,Questionable Source,LOW,RIGHT,test/The_Goldwater.png
+The Jewish Press,https://jewishpress.com,2026-06-03 21:00:30,USA,HIGH,1.0,RIGHT-CENTER,,HIGH,RIGHT-CENTER,test/The_Jewish_Press.png
+The Liberty Revolution,http://thelibertyrevolution.com,2026-06-20 20:36:27,USA,LOW,,RIGHT,Questionable Source,LOW,RIGHT,test/The_Liberty_Revolution.png
+The Prepared,https://theprepared.com,2026-06-03 21:02:42,USA,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/The_Prepared.png
+The Ron Paul Institute,http://www.ronpaulinstitute.org,2026-06-20 21:12:51,,MIXED,,RIGHT,Questionable Source,MIXED,RIGHT,test/The_Ron_Paul_Institute.png
+The Tehran Times,http://www.tehrantimes.com,2026-06-20 21:46:29,Iran,MIXED,,RIGHT,Questionable Source,MIXED,RIGHT,test/The_Tehran_Times.png
+The Vindicator,https://vindy.com,2026-06-03 21:04:25,USA,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/The_Vindicator.png
+The Voice,https://thevoice.us,2026-06-03 21:04:40,,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/The_Voice.png
+This Day Live,https://thisdaylive.com,2026-06-08 22:17:01,,MOSTLY FACTUAL,,RIGHT-CENTER,,HIGH,RIGHT-CENTER,test/This_Day_Live.png
+Today is America,http://todayisamerica.com,2026-06-20 19:50:34,USA,MIXED,,RIGHT,Questionable Source,MIXED,RIGHT,test/Today_is_America.png
+ToddStarnes,http://ToddStarnes.com,2026-06-20 19:30:33,USA,MIXED,,EXTREME RIGHT,Questionable Source,MIXED,RIGHT,test/ToddStarnes.png
+Trump.News,http://trump.news,2026-06-20 22:03:56,USA,VERY LOW,,EXTREME RIGHT,Questionable Source,LOW,RIGHT,test/Trump.News.png
+Truth Based Media,http://truthbasedmedia.com,2026-06-20 20:49:49,Unknown,VERY LOW,,EXTREME RIGHT,Questionable Source,LOW,RIGHT,test/Truth_Based_Media.png
+Tsarizm,http://tsarizm.com,2026-06-21 17:53:20,USA,LOW,,EXTREME RIGHT,Questionable Source,LOW,RIGHT,test/Tsarizm.png
+Tulsa Standard,http://tulsastandard.com,2026-06-20 20:24:33,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Tulsa_Standard.png
+Turley Talks,http://turleytalks.com,2026-06-20 19:09:23,USA,LOW,,EXTREME RIGHT,Questionable Source,LOW,RIGHT,test/Turley_Talks.png
+Tyranny.News,https://tyranny.news,2026-06-04 00:12:22,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/Tyranny.News_1.png
+U.S. Right to Know,https://usrtk.org,2026-06-08 22:22:21,USA,MOSTLY FACTUAL,,LEFT,,HIGH,LEFT,test/U.S._Right_to_Know.png
+USNI News,https://news.usni.org,2026-06-03 21:09:53,USA,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/USNI_News.png
+Union County Review,http://unioncountyreview.com,2026-06-20 20:12:52,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Union_County_Review.png
+United Voice,http://unitedvoice.com,2026-06-20 20:37:57,USA,MIXED,,RIGHT,Questionable Source,MIXED,RIGHT,test/United_Voice.png
+Unlimited Hangout,https://unlimitedhangout.com,2026-06-08 22:23:47,USA,MIXED,,RIGHT,,MIXED,RIGHT,test/Unlimited_Hangout.png
+Unmuzzled News,http://unmuzzlednews.com,2026-06-20 21:46:50,USA,MIXED,,RIGHT,Questionable Source,MIXED,RIGHT,test/Unmuzzled_News.png
+Upward News,https://upward.news,2026-06-08 22:24:50,USA,MOSTLY FACTUAL,,RIGHT-CENTER,,HIGH,RIGHT-CENTER,test/Upward_News.png
+Utah Business Daily,http://businessdailynetwork.com/states/ut,2026-06-20 20:40:21,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Utah_Business_Daily.png
+VaccineDamage.News,https://vaccinedamage.news,2026-06-03 21:11:26,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/VaccineDamage.News.png
+VaccineInjuryNews,https://vaccineinjurynews.com,2026-06-03 21:10:45,USA,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/VaccineInjuryNews.png
+Vigilante.TV,https://vigilante.TV,2026-06-03 21:12:05,,VERY LOW,0.0,RIGHT,,LOW,RIGHT,test/Vigilante.TV.png
+Vinton County Courier,https://vintonjacksoncourier.com,2026-06-03 23:29:36,USA,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/Vinton_County_Courier.png
+WC New Mexico News –,http://wcnewmexiconews.com,2026-06-20 20:27:04,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/WC_New_Mexico_News.png
+WDJT - CBS - Milwaukee,https://cbs58.com,2026-06-03 21:13:32,USA,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/WDJT_-_CBS_-_Milwaukee.png
+WJCT - NPR - Jacksonville,https://news.wjct.org,2026-06-03 21:14:42,USA,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/WJCT_-_NPR_-_Jacksonville.png
+WLT Report,http://wltreport.com,2026-06-20 22:05:00,USA,LOW,,EXTREME RIGHT,Questionable Source,LOW,RIGHT,test/WLT_Report.png
+WPNM - Leipsic News,https://hometownstations.com,2026-06-03 21:16:46,USA,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/WPNM_-_Leipsic_News.png
+WTXF-TV Fox 29,https://fox29.com,2026-06-03 21:18:38,USA,HIGH,1.0,LEAST BIASED,,HIGH,LEAST BIASED,test/WTXF-TV_Fox_29.png
+WalesOnline,https://walesonline.co.uk,2026-06-03 21:18:34,,HIGH,1.0,LEFT-CENTER,,HIGH,LEFT-CENTER,test/WalesOnline.png
+We Got This Covered,https://wegotthiscovered.com,2026-06-08 22:32:38,,MOSTLY FACTUAL,,LEAST BIASED,,HIGH,LEAST BIASED,test/We_Got_This_Covered.png
+Wellington Advertiser,https://wellingtonadvertiser.com,2026-06-08 22:33:43,,MOSTLY FACTUAL,,LEAST BIASED,,HIGH,LEAST BIASED,test/Wellington_Advertiser.png
+West Central PA News,http://wcpanews.com,2026-06-20 22:00:59,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/West_Central_PA_News.png
+West Essex News,http://westessexnews.com,2026-06-20 22:01:09,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/West_Essex_News.png
+West Hudson Valley News,http://westhudvalleynews.com,2026-06-20 19:12:50,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/West_Hudson_Valley_News.png
+West Massachusetts News,http://westmassnews.com,2026-06-20 19:38:58,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/West_Massachusetts_News.png
+West Montgomery Times,http://westmonttimes.com,2026-06-20 20:40:53,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/West_Montgomery_Times.png
+West NY News,http://westnynews.com,2026-06-20 19:42:51,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/West_NY_News.png
+Westchester Reporter,http://westchesterreporter.com,2026-06-20 22:31:17,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Westchester_Reporter.png
+Westmoreland Review,http://westmorelandreview.com,2026-06-20 21:21:48,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/Westmoreland_Review.png
+Wyofile,https://wyofile.com,2026-06-03 21:23:22,USA,HIGH,1.0,LEFT,,HIGH,LEFT,test/Wyofile.png
+Yellow Hammer News,https://yellowhammernews.com,2026-06-03 21:24:47,USA,HIGH,1.0,RIGHT,,HIGH,RIGHT,test/Yellow_Hammer_News.png
+York County News,http://yorkconews.com,2026-06-20 20:34:05,USA,MIXED,,RIGHT-CENTER,Questionable Source,MIXED,RIGHT-CENTER,test/York_County_News.png
+Young Conservatives,http://analyzingamerica.org/youngconservatives,2026-06-20 19:20:20,USA,MIXED,,EXTREME RIGHT,Questionable Source,MIXED,RIGHT,test/Young_Conservatives.png

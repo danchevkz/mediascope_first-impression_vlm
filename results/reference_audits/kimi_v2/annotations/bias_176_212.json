@@ -1,0 +1,11 @@
+{"task":"bias","reviewed_ranges":[[176,212]],"decisions":{
+"179":{"category":"uncertain_recall","rating_scope":"named_family","family_link":"tentative_or_inferred","evidence":["Right / Conspiracy-Pseudoscience for Natural News specifically; uncertain and not directly verified for ScienceClowns","network/rating recall is uncertain"]},
+"185":{"category":"uncertain_recall","rating_scope":"named_family","family_link":"tentative_or_inferred","evidence":["right-leaning for the Metric Media network overall (uncertain; not recalled for this specific outlet)"]},
+"196":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["Right (uncertain recall; not verified)"]},
+"199":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["low-confidence recollection that MBFC has rated this small outlet as right-biased and questionable for factuality"]},
+"200":{"category":"asserted","rating_scope":"named_family","family_link":"tentative_or_inferred","evidence":["Right/conspiracy-pseudoscience recalled for Natural News network, not certain for this exact site"]},
+"202":{"category":"uncertain_recall","rating_scope":"named_family","family_link":"identified_by_response","evidence":["Media Bias/Fact Check (MBFC) rating of NPR, recalled approximately","Left-Center (recalled for NPR network; no specific rating recalled for WJCT itself)"]},
+"204":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["believe I have seen its MBFC profile (Questionable/low factuality), but my recall is uncertain"]},
+"210":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["Left-Center (MBFC, as recalled)","the recalled rating is uncertain self-report"]},
+"211":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["my recalled MBFC rating of Yellowhammer News as Right-biased"]}
+}}

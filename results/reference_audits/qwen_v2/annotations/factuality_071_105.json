@@ -1,0 +1,10 @@
+{"task":"factuality","reviewed_ranges":[[71,105]],"decisions":{
+"78":{"category":"asserted","rating_scope":"named_family","family_link":"identified_by_response","evidence":["I recall that MBFC and other fact-checkers rate Natural News as low factuality / conspiracy-pseudoscience prone"]},
+"79":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["Mixed (recalled MBFC-style assessment; propagandistic/one-sided framing)"]},
+"83":{"category":"ambiguous","rating_scope":"unclear","family_link":"not_applicable","evidence":["general external characterizations of such trade press as reliable/least-biased","recall MBFC-style ratings placing it high factuality/least-biased"],"note":"The basis limits memory to a trade-press genre while the explanation suggests a specific score; prior profile recall versus inference is unclear."},
+"87":{"category":"generic","rating_scope":"generic_type","family_link":"not_applicable","evidence":["General recollection of MBFC-style assessments of U.S. local TV news outlets as reliable","High (recalled general assessment for local broadcast news; not verified against a specific published rating)"]},
+"92":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["Gallup is widely regarded as highly factual and least-biased in external ratings"]},
+"97":{"category":"generic","rating_scope":"generic_type","family_link":"not_applicable","evidence":["Mixed (recalled impression of MBFC-style treatment of party-official outlets; not verified)"]},
+"101":{"category":"generic","rating_scope":"generic_type","family_link":"not_applicable","evidence":["matches MBFC-style LOW factual reporting for pseudoscience promotion"],"note":"Network recognition and a genre-profile match are offered, without clear recall of a rating attributed to Herbs.news or Natural News."},
+"104":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["I recognize HuffPost and recall MBFC rates its factuality as High (bias Left)"]}
+}}

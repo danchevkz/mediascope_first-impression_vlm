@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.cache/
+.env
+.env.*
+!.env.example
+work/
+assets/
+*.tar
+*.tar.gz

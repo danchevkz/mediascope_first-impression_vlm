@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying paper when using this code."
+title: "A Picture Is Worth a Hundred Articles: Media Profiling from First Impressions"
+type: software
+license-url: "https://www.licenses.ai/ai-pubs-open-rails-vz1"
+authors:
+  - family-names: Danchev
+    given-names: Alexander
+  - family-names: Hristov
+    given-names: Delyan
+  - family-names: Shchendrigin
+    given-names: Oleg
+  - family-names: Kanev
+    given-names: Ivan Diyanov
+  - family-names: Alsagoff
+    given-names: Syed Ali Redha
+  - family-names: Tabassum
+    given-names: Ahmer
+  - family-names: Orel
+    given-names: Daniil
+  - family-names: Sahnan
+    given-names: Dhruv
+  - family-names: Kementchedjhieva
+    given-names: Yova
+  - family-names: Nakov
+    given-names: Preslav

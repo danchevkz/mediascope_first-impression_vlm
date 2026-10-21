@@ -1,0 +1,12 @@
+{"task":"factuality","reviewed_ranges":[[176,212]],"decisions":{
+"179":{"category":"asserted","rating_scope":"named_family","family_link":"tentative_or_inferred","evidence":["I recall MBFC rating Natural News as conspiracy-pseudoscience with very low factual reporting"]},
+"196":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["recall an MBFC-style rating placing it in the conspiracy/pseudoscience or questionable category with low factual reporting"]},
+"197":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["vaguely recall an MBFC-style profile rating it right-biased and questionable/low in factual reporting"]},
+"200":{"category":"asserted","rating_scope":"named_family","family_link":"identified_by_response","evidence":["I recall MBFC rating Natural News and related network sites as low-factual conspiracy/pseudoscience sources"]},
+"201":{"category":"asserted","rating_scope":"named_family","family_link":"identified_by_response","evidence":["I recall MBFC and similar raters classifying Natural News and its affiliated sites as conspiracy/pseudoscience with very low factual reporting"]},
+"202":{"category":"asserted","rating_scope":"named_family","family_link":"identified_by_response","evidence":["I recall MBFC rating NPR as High factual with left-center bias"]},
+"203":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["I recall MBFC having rated it High for factual reporting with a left-center bias"]},
+"204":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["Mixed factual reporting (MBFC, recalled with moderate confidence)"]},
+"210":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["moderate-confidence recollection that MBFC rates it High for factual reporting with minimal bias"]},
+"211":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["recall an MBFC profile describing it as right-biased with mixed factual reporting"]}
+}}

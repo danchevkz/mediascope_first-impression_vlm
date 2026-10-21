@@ -1,0 +1,11 @@
+{"task":"bias","reviewed_ranges":[[91,115]],"decisions":{
+"91":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["RIGHT bias, per MBFC — recalled with moderate confidence"]},
+"92":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["recall MBFC classifying it as least biased/high factual"]},
+"94":{"category":"asserted","rating_scope":"named_family","family_link":"tentative_or_inferred","evidence":["Right/conspiracy-pseudoscience leaning for Natural News network (recalled, not outlet-specific)"]},
+"98":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["vaguely recall an MBFC-style rating","Questionable / Mixed factual reporting (uncertain recall)"]},
+"101":{"category":"asserted","rating_scope":"named_family","family_link":"identified_by_response","evidence":["Natural News and its affiliated sites have been rated by Media Bias/Fact Check as Right/Far-Right bias with Low factual credibility"]},
+"104":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["Left (MBFC/AllSides, recalled; uncertain)"]},
+"106":{"category":"uncertain_recall","rating_scope":"named_family","family_link":"tentative_or_inferred","evidence":["uncertain recollection that MBFC rates this Business Daily network as Right-Center"],"note":"Named Business Daily family is claimed; actual operator and affiliation are uncertain."},
+"107":{"category":"uncertain_recall","rating_scope":"named_family","family_link":"tentative_or_inferred","evidence":["My tentative recognition of the Business Daily/LGIS network and my uncertain recall that MBFC rates such sites as Right-Center/Questionable"]},
+"113":{"category":"asserted","rating_scope":"named_family","family_link":"identified_by_response","evidence":["Right (recalled for Sinclair Broadcast Group; KVAL individually may be rated Right-Center or Right — uncertain)"],"note":"The network-level claim is distinguished from uncertain station-specific ratings."}
+}}

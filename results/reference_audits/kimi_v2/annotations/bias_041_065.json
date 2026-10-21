@@ -1,0 +1,11 @@
+{"task":"bias","reviewed_ranges":[[41,65]],"decisions":{
+"42":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["recall an external Right bias rating","this is an uncertain self-report of memory"]},
+"44":{"category":"asserted","rating_scope":"named_family","family_link":"tentative_or_inferred","evidence":["MBFC rates Natural News far-right / extreme right bias; no specific rating recalled for this exact outlet"]},
+"45":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["MBFC: Right bias - recalled with moderate confidence"]},
+"48":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["Left-Center (MBFC, uncertain recall)"]},
+"51":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["Media Bias/Fact Check has rated CounterPunch with a Left bias and a Mixed factuality rating","Left (MBFC, recalled with uncertainty)"]},
+"58":{"category":"asserted","rating_scope":"named_family","family_link":"identified_by_response","evidence":["I recall MBFC listing Natural News/related Mike Adams properties as Right-biased and Conspiracy-Pseudoscience/Very Low factual"]},
+"59":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["unverified recollection of an MBFC left-bias entry"]},
+"62":{"category":"uncertain_recall","rating_scope":"named_family","family_link":"identified_by_response","evidence":["my (uncertain) recall of MBFC's Right-Center/Mixed rating"]},
+"64":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["uncertain recollection of an MBFC profile rating it Left-Center/High"]}
+}}

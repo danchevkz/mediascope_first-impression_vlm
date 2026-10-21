@@ -1,0 +1,3335 @@
+{
+  "protocol": "paired-masked-unmasked-test-v1",
+  "n": 133,
+  "pairs": [
+    {
+      "pair_id": "site_001",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEAST BIASED"
+      },
+      "masked": {
+        "filename": "site_001.png",
+        "image_path": "masked/site_001.png",
+        "image_sha256": "e4a73fcbfc7b3563c3bad1b2294044036a7a4a3a5b98f418e2227551085aa1d3",
+        "width": 1366,
+        "height": 7640,
+        "full_tiles": 5
+      },
+      "unmasked": {
+        "filename": "AgricultureDive.png",
+        "image_path": "unmasked/AgricultureDive.png",
+        "image_sha256": "ce23ed17e1a3c3bca9743c373ffb83550c0eba3415584859e78b16ba67091477",
+        "width": 1366,
+        "height": 7640,
+        "full_tiles": 5
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_003",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEFT"
+      },
+      "masked": {
+        "filename": "site_003.png",
+        "image_path": "masked/site_003.png",
+        "image_sha256": "0411cd5fe6f3363d8fb781fc01884bc7584df852082ba5e51114613684690e50",
+        "width": 1366,
+        "height": 3676,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "Dissent_Magazine.png",
+        "image_path": "unmasked/Dissent_Magazine.png",
+        "image_sha256": "a5aacd8e8156dd82e9051d26298768a826f04d7b1457c76827826dad3dce7b61",
+        "width": 1366,
+        "height": 3676,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_004",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_004.png",
+        "image_path": "masked/site_004.png",
+        "image_sha256": "ccec9f1231ae064fcd39e0c13bcb0995bbdc207d3c8b6b3a84130cc64772d344",
+        "width": 1366,
+        "height": 3862,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "Tyranny.News_1.png",
+        "image_path": "unmasked/Tyranny.News_1.png",
+        "image_sha256": "9061ab98764f3caec2d8ff136a180b734e0a7e5b8db7caa199343f439ce78449",
+        "width": 1366,
+        "height": 3862,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_005",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEFT-CENTER"
+      },
+      "masked": {
+        "filename": "site_005.png",
+        "image_path": "masked/site_005.png",
+        "image_sha256": "91d392f1e32b4a072272c964c3b9e0f38dd637558bf3ecd43430325368a24917",
+        "width": 1366,
+        "height": 4967,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "Grit_Daily_News.png",
+        "image_path": "unmasked/Grit_Daily_News.png",
+        "image_sha256": "4d6e24e60491a983556eba85837de969abb6d0eee17f9b4ed69fe2693310d5b2",
+        "width": 1366,
+        "height": 4967,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_006",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEAST BIASED"
+      },
+      "masked": {
+        "filename": "site_006.png",
+        "image_path": "masked/site_006.png",
+        "image_sha256": "c5e63deae3443612f72aa3cb9828e20004c2ec105848c42a9f58c8932c4e33a8",
+        "width": 1366,
+        "height": 5687,
+        "full_tiles": 4
+      },
+      "unmasked": {
+        "filename": "Peninsula_Daily_News.png",
+        "image_path": "unmasked/Peninsula_Daily_News.png",
+        "image_sha256": "5bd453ec28dc9dc29fc86c1ccc78f92a85b57b21f0f53ded3eaa74b86ce348bf",
+        "width": 1366,
+        "height": 5687,
+        "full_tiles": 4
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_007",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_007.png",
+        "image_path": "masked/site_007.png",
+        "image_sha256": "f84e8c43fd56618a28c543197740a693488cd4bcf5391783539db11817484bcb",
+        "width": 1366,
+        "height": 3829,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "Addiction.News.png",
+        "image_path": "unmasked/Addiction.News.png",
+        "image_sha256": "f9cace5f1ef601207be10e07b64ccf314f60454ec02616607071a5c492e491e9",
+        "width": 1366,
+        "height": 3829,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_008",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEAST BIASED"
+      },
+      "masked": {
+        "filename": "site_008.png",
+        "image_path": "masked/site_008.png",
+        "image_sha256": "1afd1dd4248c784b334ccf0ef7d8f2c11765dc8f9a3e798221ae77b13e3e6aea",
+        "width": 1366,
+        "height": 6768,
+        "full_tiles": 4
+      },
+      "unmasked": {
+        "filename": "HistoryNet.png",
+        "image_path": "unmasked/HistoryNet.png",
+        "image_sha256": "0f5658ac928e308fb7205540804df61352ac1854dfdf51bd67bb006bb781ab50",
+        "width": 1366,
+        "height": 6768,
+        "full_tiles": 4
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_012",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEFT-CENTER"
+      },
+      "masked": {
+        "filename": "site_012.png",
+        "image_path": "masked/site_012.png",
+        "image_sha256": "75fec39b8908ff6bee143adcf9961d8bb3ef7f6d155648fb2f3922f7c6e9309e",
+        "width": 1366,
+        "height": 9100,
+        "full_tiles": 5
+      },
+      "unmasked": {
+        "filename": "Inside_Higher_Ed.png",
+        "image_path": "unmasked/Inside_Higher_Ed.png",
+        "image_sha256": "ef506f494f8c6793b3321ae5e37b71290f629ab86a13de36edfca1758ef4a82f",
+        "width": 1366,
+        "height": 9100,
+        "full_tiles": 5
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_013",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "LEAST BIASED"
+      },
+      "masked": {
+        "filename": "site_013.png",
+        "image_path": "masked/site_013.png",
+        "image_sha256": "adbb366f95ecb21f4695770b5d327e21c611f2c49eee90a503e19944acc717c4",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "unmasked": {
+        "filename": "Guardian_Nigeria.png",
+        "image_path": "unmasked/Guardian_Nigeria.png",
+        "image_sha256": "5963af849c926df5517e12d9856af82c77a4dbdd8ea66c88bb06b88f9f0e8351",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_014",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEFT-CENTER"
+      },
+      "masked": {
+        "filename": "site_014.png",
+        "image_path": "masked/site_014.png",
+        "image_sha256": "a9c3fe4260572d1e2a712c58138d52aede5265c9d50225a329c16e00b5c341f8",
+        "width": 1366,
+        "height": 6296,
+        "full_tiles": 4
+      },
+      "unmasked": {
+        "filename": "Filter_Magazine.png",
+        "image_path": "unmasked/Filter_Magazine.png",
+        "image_sha256": "00fd5ec4a4c6e8bc391511183974834ae456573a79ea7a72575bda87d130c9a6",
+        "width": 1366,
+        "height": 6296,
+        "full_tiles": 4
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_015",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_015.png",
+        "image_path": "masked/site_015.png",
+        "image_sha256": "63da1936f4563d9bc53339b55469fc13815bb53842b771b352d2028c5f650e61",
+        "width": 1366,
+        "height": 7005,
+        "full_tiles": 4
+      },
+      "unmasked": {
+        "filename": "Exopolitics.png",
+        "image_path": "unmasked/Exopolitics.png",
+        "image_sha256": "f505e702210cd8b8df8200034d0c948211bc0cca116012d1556a30addffa7712",
+        "width": 1366,
+        "height": 7005,
+        "full_tiles": 4
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_016",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "LEFT-CENTER"
+      },
+      "masked": {
+        "filename": "site_016.png",
+        "image_path": "masked/site_016.png",
+        "image_sha256": "c03b08116a2584e88158291408b62b2f86cf031c8a39b32e8d88d6b183f39712",
+        "width": 1366,
+        "height": 5267,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "Cardinal_Pine.png",
+        "image_path": "unmasked/Cardinal_Pine.png",
+        "image_sha256": "3b6101791b11bbf17e4f74c049c8f5b9da15f0ddcd33da9770e59d8fca7b3ae2",
+        "width": 1366,
+        "height": 5267,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_017",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "LEFT-CENTER"
+      },
+      "masked": {
+        "filename": "site_017.png",
+        "image_path": "masked/site_017.png",
+        "image_sha256": "15b47dcab648da295372c70fc0340d42231b81e378433a43cd146c0adb300a33",
+        "width": 1366,
+        "height": 5182,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "The_Nevadan.png",
+        "image_path": "unmasked/The_Nevadan.png",
+        "image_sha256": "bbd6cf62d6e09420f392d959f23cea1e5980847b4bb96fe9500a27572e631bbf",
+        "width": 1366,
+        "height": 5182,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_018",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_018.png",
+        "image_path": "masked/site_018.png",
+        "image_sha256": "32b4c57561d99f7b9cde7762e0234f70f230ee8b117c587a960c056440528f6b",
+        "width": 1366,
+        "height": 5062,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "American_Faith.png",
+        "image_path": "unmasked/American_Faith.png",
+        "image_sha256": "308af8c32162d7caf3f5695a5d862ca1386ea54671d6d69dc9d033429a7c164c",
+        "width": 1366,
+        "height": 5062,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_019",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "RIGHT-CENTER"
+      },
+      "masked": {
+        "filename": "site_019.png",
+        "image_path": "masked/site_019.png",
+        "image_sha256": "d329f45b5f453f18cfb4bc956d82cd718434c002df67974d33fd7cf3865774ec",
+        "width": 1366,
+        "height": 2678,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "East_New_Mexico_News.png",
+        "image_path": "unmasked/East_New_Mexico_News.png",
+        "image_sha256": "bbf6b4bae7ea79525a99cbbfa36ddc2b3684c9b1e2ed499d649d402942bd6be2",
+        "width": 1366,
+        "height": 2678,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_021",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEFT"
+      },
+      "masked": {
+        "filename": "site_021.png",
+        "image_path": "masked/site_021.png",
+        "image_sha256": "6be028e8b76da227aa54e57f5995e182412b0e77cf22594bd45c9282a116cdee",
+        "width": 1366,
+        "height": 7226,
+        "full_tiles": 4
+      },
+      "unmasked": {
+        "filename": "Deadspin.png",
+        "image_path": "unmasked/Deadspin.png",
+        "image_sha256": "a8c323f1db6961ebdffd813866d0e4c6b9f810e5b70ad430367a2d6229afadc2",
+        "width": 1366,
+        "height": 7226,
+        "full_tiles": 4
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_022",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEFT-CENTER"
+      },
+      "masked": {
+        "filename": "site_022.png",
+        "image_path": "masked/site_022.png",
+        "image_sha256": "0f8b58f1866d6ba195407e48310db097dc2dd6ae399f1b4f4045fb456a54dcc8",
+        "width": 1366,
+        "height": 4329,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "Capitol_News_Illinois.png",
+        "image_path": "unmasked/Capitol_News_Illinois.png",
+        "image_sha256": "a58bfe764f74396810629280708c266dcbe1eb8a931327443ec874975d01ea71",
+        "width": 1366,
+        "height": 4329,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_023",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "RIGHT-CENTER"
+      },
+      "masked": {
+        "filename": "site_023.png",
+        "image_path": "masked/site_023.png",
+        "image_sha256": "86e0df87fbff1400f7d5ef39030b8f7bb50dd2d780baf9d1cc03fa2df6c789d0",
+        "width": 1366,
+        "height": 2754,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "NYC_Gazette.png",
+        "image_path": "unmasked/NYC_Gazette.png",
+        "image_sha256": "1b02be637e912cba00a76c132a3c2fd18451cac345f9015a35b2f4e522e23395",
+        "width": 1366,
+        "height": 2754,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_024",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "RIGHT-CENTER"
+      },
+      "masked": {
+        "filename": "site_024.png",
+        "image_path": "masked/site_024.png",
+        "image_sha256": "6686e8384092a16d37c3fd298207510e2cf714eaeb263bb17af58ee578031275",
+        "width": 1366,
+        "height": 2596,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "York_County_News.png",
+        "image_path": "unmasked/York_County_News.png",
+        "image_sha256": "ac241047a5ff46307c53c6cd6d61424f79af5bc263cac28a08e2f2e5fa9adf72",
+        "width": 1366,
+        "height": 2596,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_025",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "RIGHT-CENTER"
+      },
+      "masked": {
+        "filename": "site_025.png",
+        "image_path": "masked/site_025.png",
+        "image_sha256": "aa0580a93e0ba73554200f1110c70b588516f69c1b865b350b928d2bf3c19071",
+        "width": 1366,
+        "height": 2647,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "Dauphin_News.png",
+        "image_path": "unmasked/Dauphin_News.png",
+        "image_sha256": "f97e7de7d1b6ebc18e5c83a3bb07f684d002592c8594ed681ffadd70a0b05c35",
+        "width": 1366,
+        "height": 2647,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_026",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_026.png",
+        "image_path": "masked/site_026.png",
+        "image_sha256": "123abdf8b0e8a975d062d2c9f4a9ea8461d173f82a630c1e9941f5ea7081c3cb",
+        "width": 1366,
+        "height": 4558,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "Moskva_News.png",
+        "image_path": "unmasked/Moskva_News.png",
+        "image_sha256": "9c9fb566d2dad974d8387351992f390498e0a05e3bac65b60a0230044e762e86",
+        "width": 1366,
+        "height": 4558,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_027",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_027.png",
+        "image_path": "masked/site_027.png",
+        "image_sha256": "be225c60852a7d41ab6564d037baba41094f917c263adf2f17d5f8717765f4ba",
+        "width": 1366,
+        "height": 3882,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "FDA.News.png",
+        "image_path": "unmasked/FDA.News.png",
+        "image_sha256": "afe522aaf25ac9a72ae6fb9f185aed6defa33e925a816fcabb593f401f53f04f",
+        "width": 1366,
+        "height": 3882,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_028",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "RIGHT-CENTER"
+      },
+      "masked": {
+        "filename": "site_028.png",
+        "image_path": "masked/site_028.png",
+        "image_sha256": "748f6df8225967c577e7ab3fbde8da9ec5dbb0fb52159aa8cede58f10dcd3aee",
+        "width": 1366,
+        "height": 3250,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "Oklahoma_Business_Daily.png",
+        "image_path": "unmasked/Oklahoma_Business_Daily.png",
+        "image_sha256": "884ff0182effb4a1b35ade46ac880156dcd13af03e6c13e1f1a21d40be4bd834",
+        "width": 1366,
+        "height": 3250,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_029",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_029.png",
+        "image_path": "masked/site_029.png",
+        "image_sha256": "97f11a7b20554ae52bb99f61db6057aed239cc42e665835836fdd7b4cbf714fd",
+        "width": 1366,
+        "height": 3840,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "Biased.News.png",
+        "image_path": "unmasked/Biased.News.png",
+        "image_sha256": "3baf952ba0fc144197b74fb92bdc83f8c3f181fd15915cedfd5c08d2c2cc54e0",
+        "width": 1366,
+        "height": 3840,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_030",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_030.png",
+        "image_path": "masked/site_030.png",
+        "image_sha256": "224b1171ac77c46cb05673d55cfcf5ce16aae6b5cdd72d7b8cf617fddd5aab40",
+        "width": 1366,
+        "height": 2224,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "Truth_Based_Media.png",
+        "image_path": "unmasked/Truth_Based_Media.png",
+        "image_sha256": "b170c7bb860239194a3e1d303b9708b7f3a1736344949c3dd0f8ccf065cf909d",
+        "width": 1366,
+        "height": 2224,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_031",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEFT-CENTER"
+      },
+      "masked": {
+        "filename": "site_031.png",
+        "image_path": "masked/site_031.png",
+        "image_sha256": "f24bf4f9fe5abce087f7e948956c6d9a68ee455ea492a44f958fa4ad530ddfe2",
+        "width": 1366,
+        "height": 7705,
+        "full_tiles": 5
+      },
+      "unmasked": {
+        "filename": "Center_for_a_New_American_Security.png",
+        "image_path": "unmasked/Center_for_a_New_American_Security.png",
+        "image_sha256": "6db99b8fd6652627a984cbb1299382bfbeda62b8fbc4d5b2fb740bcadfa63d00",
+        "width": 1366,
+        "height": 7705,
+        "full_tiles": 5
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_032",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "LEFT"
+      },
+      "masked": {
+        "filename": "site_032.png",
+        "image_path": "masked/site_032.png",
+        "image_sha256": "d03afed49502b24e0b5f93d4b31d5439e9190b02bc3e2dee3f162289e913710c",
+        "width": 1435,
+        "height": 4854,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "MR_Online.png",
+        "image_path": "unmasked/MR_Online.png",
+        "image_sha256": "391c83076cc83ac831e3528d9d7b4176ba2f4496b478f9865d9fa5d843412b29",
+        "width": 1435,
+        "height": 4854,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_033",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEFT"
+      },
+      "masked": {
+        "filename": "site_033.png",
+        "image_path": "masked/site_033.png",
+        "image_sha256": "bbc232e7e315c3d0de0b5bb7fbce8972cd5f317336af362a8fd8082fff877663",
+        "width": 1366,
+        "height": 3957,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "Clima_Fund.png",
+        "image_path": "unmasked/Clima_Fund.png",
+        "image_sha256": "a8ee80de08c995f2043a4c7e1eafbd77027b6316203f48bace81ac0a7f69827b",
+        "width": 1366,
+        "height": 3957,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_034",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEFT"
+      },
+      "masked": {
+        "filename": "site_034.png",
+        "image_path": "masked/site_034.png",
+        "image_sha256": "4ee31919e67d097e689c97b3e4385d3d0fb703ccfbc2e6dae4e3a54751009135",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "unmasked": {
+        "filename": "Shondaland.png",
+        "image_path": "unmasked/Shondaland.png",
+        "image_sha256": "c90ae21840d1c1e4ba8e71642387f21e7dea1f1813e846567f91b841b910406d",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_035",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_035.png",
+        "image_path": "masked/site_035.png",
+        "image_sha256": "395f656603678d578bcb02934b1c391eab1330f0c59d37bc665e0882d54c7c81",
+        "width": 1366,
+        "height": 3822,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "Central_Florida_Post.png",
+        "image_path": "unmasked/Central_Florida_Post.png",
+        "image_sha256": "e0d5fc7c84286b82c2fcf6e59bfd54dc090189706667a0d4275416e57e7c2fe1",
+        "width": 1366,
+        "height": 3822,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_036",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "LEFT-CENTER"
+      },
+      "masked": {
+        "filename": "site_036.png",
+        "image_path": "masked/site_036.png",
+        "image_sha256": "dba01d6b6469615bc5903244acbe415c5cfdabf7e83301aef9b9b6b1b067b254",
+        "width": 1366,
+        "height": 4149,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "Floricua.png",
+        "image_path": "unmasked/Floricua.png",
+        "image_sha256": "e5890f7790458a722668a21f93e752c27baf71d2ed20cc5945f00f1c080f0c8d",
+        "width": 1366,
+        "height": 4149,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_037",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEFT"
+      },
+      "masked": {
+        "filename": "site_037.png",
+        "image_path": "masked/site_037.png",
+        "image_sha256": "b4cab6ae4a5859b3635025ae37ca407a96241b6ff8b981c04a9ef73e55270fe3",
+        "width": 1366,
+        "height": 2216,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "Anthropocene_Alliance.png",
+        "image_path": "unmasked/Anthropocene_Alliance.png",
+        "image_sha256": "6eb6a8fb4f10189181a9d8b96a29df3e22389f15f7d5c5db6748515c7e4735cb",
+        "width": 1366,
+        "height": 2216,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_038",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEFT-CENTER"
+      },
+      "masked": {
+        "filename": "site_038.png",
+        "image_path": "masked/site_038.png",
+        "image_sha256": "cfbb8e03f9014c5bfc984600858814e0656f2849a47f9ad065eda16cd4f9bc16",
+        "width": 1366,
+        "height": 2959,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "Meditech_Today.png",
+        "image_path": "unmasked/Meditech_Today.png",
+        "image_sha256": "68d13f17cb63aa6e49482622ec46c19ed098ca7b4cf9447d3f325354563b1b34",
+        "width": 1366,
+        "height": 2959,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_039",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "RIGHT-CENTER"
+      },
+      "masked": {
+        "filename": "site_039.png",
+        "image_path": "masked/site_039.png",
+        "image_sha256": "d3553b432114530d6fca7ba2b227abfb0dbe8c787dec34046f10987fbfb56370",
+        "width": 1366,
+        "height": 3157,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "Maryland_Business_Daily.png",
+        "image_path": "unmasked/Maryland_Business_Daily.png",
+        "image_sha256": "1687889a9ee0d9dd7fa9bfef2ecee4933d90a117c3ec32bc668fc27540d9f2a8",
+        "width": 1366,
+        "height": 3157,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_040",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_040.png",
+        "image_path": "masked/site_040.png",
+        "image_sha256": "24cd996bcfbf19db41b2d87f9d3819aacadc22d9da5d2bea3781148f3c2c1f8f",
+        "width": 1366,
+        "height": 3899,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "Ecology_News.png",
+        "image_path": "unmasked/Ecology_News.png",
+        "image_sha256": "64801b90771c457dd48c03c84f60e10c65693b618ea3518f72c75329993c69be",
+        "width": 1366,
+        "height": 3899,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_041",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "LEFT"
+      },
+      "masked": {
+        "filename": "site_041.png",
+        "image_path": "masked/site_041.png",
+        "image_sha256": "92d037dde9703f34d54e6747769af4a3bf1bfbec16b7ca94bf19a46d36f969e6",
+        "width": 1366,
+        "height": 4934,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "Everytown_for_Gun_Safety.png",
+        "image_path": "unmasked/Everytown_for_Gun_Safety.png",
+        "image_sha256": "9467872489cea52e378c7b091a74f0f9631ca021bb475b1bc7fde3bbefabbbaa",
+        "width": 1366,
+        "height": 4934,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_042",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "RIGHT-CENTER"
+      },
+      "masked": {
+        "filename": "site_042.png",
+        "image_path": "masked/site_042.png",
+        "image_sha256": "76f576af6c3eeae760a928c68bf07839d0afcc2bdd5f33bda1feb3f621f13cac",
+        "width": 1366,
+        "height": 3175,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "Oregon_Business_Daily.png",
+        "image_path": "unmasked/Oregon_Business_Daily.png",
+        "image_sha256": "a8c90a5fcb9bbbf668a5b1bf7558ed94cb77c58b21e21ed88a3da03922c7a79a",
+        "width": 1366,
+        "height": 3175,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_043",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_043.png",
+        "image_path": "masked/site_043.png",
+        "image_sha256": "a57367da165e7f2631916cbce588fa286bd28e06410521f78e5a9cc6e187b8c0",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "unmasked": {
+        "filename": "Americans_for_Truth.png",
+        "image_path": "unmasked/Americans_for_Truth.png",
+        "image_sha256": "9f23720d966837a999fcc524379ca9631d7f3b9b95b17cd38a515d08e36cefa6",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_044",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEFT-CENTER"
+      },
+      "masked": {
+        "filename": "site_044.png",
+        "image_path": "masked/site_044.png",
+        "image_sha256": "e4f58a56f9bb0d99d9c0bb78678d9b4d710d76b78fea340e342dda8f354b8638",
+        "width": 1366,
+        "height": 5989,
+        "full_tiles": 4
+      },
+      "unmasked": {
+        "filename": "Jakarta_Globe.png",
+        "image_path": "unmasked/Jakarta_Globe.png",
+        "image_sha256": "35e804e1dcfffb73483513d2af5c564000d19e8ffb997c296338e302f19469d4",
+        "width": 1366,
+        "height": 5989,
+        "full_tiles": 4
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_046",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "RIGHT-CENTER"
+      },
+      "masked": {
+        "filename": "site_046.png",
+        "image_path": "masked/site_046.png",
+        "image_sha256": "e1c17113e56c984309f3e765c9db0d0c7ff24ad261dc29b363a4b7b151a80565",
+        "width": 1366,
+        "height": 2671,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "Central_Bucks_Today.png",
+        "image_path": "unmasked/Central_Bucks_Today.png",
+        "image_sha256": "4a636911c70e9d68f5f7833ef80a143396bee4b3c5ad5747fcb19f2f1cbf8de8",
+        "width": 1366,
+        "height": 2671,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_047",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "LEFT-CENTER"
+      },
+      "masked": {
+        "filename": "site_047.png",
+        "image_path": "masked/site_047.png",
+        "image_sha256": "81dd91baae06bcd92ed79f061578ca03e40ab2168fd10e82d2fd62ef8bb2a78e",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "unmasked": {
+        "filename": "Daily_Mirror.png",
+        "image_path": "unmasked/Daily_Mirror.png",
+        "image_sha256": "fea8a96fd0fc80492dbb27281059ecc13e756389ab65131307c903ef443d2e31",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_048",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_048.png",
+        "image_path": "masked/site_048.png",
+        "image_sha256": "e3a2a6ff3d82b15b9560a007332e9cd15b286b6e2a65f461dc37bd3f9fbe38a7",
+        "width": 1366,
+        "height": 3829,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "Banned.News.png",
+        "image_path": "unmasked/Banned.News.png",
+        "image_sha256": "4e14cc1ba295cad5cdf9d0b3175c311b6dd791abd600cb8569679f301c510552",
+        "width": 1366,
+        "height": 3829,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_049",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_049.png",
+        "image_path": "masked/site_049.png",
+        "image_sha256": "c55c0deb512a14ec60259cb5d3e22f86790f906cb79111edfd4b093318d96a84",
+        "width": 1366,
+        "height": 3831,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "Gear.News.png",
+        "image_path": "unmasked/Gear.News.png",
+        "image_sha256": "2d7d18d4de1df9d6ed72cb11ea618dab26fcfdd99b650b78695cf1aa9863459e",
+        "width": 1366,
+        "height": 3831,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_050",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_050.png",
+        "image_path": "masked/site_050.png",
+        "image_sha256": "0a404c0ac84f43691c7a0fe27386996b7aa82a0cd7d61b3192897ee711296422",
+        "width": 1366,
+        "height": 4692,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "Granite_Grok.png",
+        "image_path": "unmasked/Granite_Grok.png",
+        "image_sha256": "5eebfc2149bc802815bf0429153d9f0fc063bed0663b59463945276fdde917f4",
+        "width": 1366,
+        "height": 4692,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_051",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "RIGHT-CENTER"
+      },
+      "masked": {
+        "filename": "site_051.png",
+        "image_path": "masked/site_051.png",
+        "image_sha256": "2f8c892612901cfd7c8f2a25f094d636282e590919fe10b0c2556d1d6de9d29c",
+        "width": 1366,
+        "height": 2716,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "Abilene_Times.png",
+        "image_path": "unmasked/Abilene_Times.png",
+        "image_sha256": "5ae4e2a27c4456caaac0f7014c16fcccab7a4c67d07115072a1c6d81ce0f3d29",
+        "width": 1366,
+        "height": 2716,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_052",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "RIGHT-CENTER"
+      },
+      "masked": {
+        "filename": "site_052.png",
+        "image_path": "masked/site_052.png",
+        "image_sha256": "21e9160ce285e61670be57563df21951b3f7a8beb1e7dfab0df9de3278653f48",
+        "width": 1366,
+        "height": 3175,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "NC_Business_Daily.png",
+        "image_path": "unmasked/NC_Business_Daily.png",
+        "image_sha256": "cf9d6f2a0ad146bd43bc81e67e6d5826779b4f1e8955d7d63591706426371e76",
+        "width": 1366,
+        "height": 3175,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_053",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEFT-CENTER"
+      },
+      "masked": {
+        "filename": "site_053.png",
+        "image_path": "masked/site_053.png",
+        "image_sha256": "7f9d94f47d43a53b8ca67fdef1a39687f39cd502f596bf48cc5a05597cc91e4d",
+        "width": 1366,
+        "height": 2976,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "Law_for_Palestine.png",
+        "image_path": "unmasked/Law_for_Palestine.png",
+        "image_sha256": "f4ca13d12bd026f6530a2210dae70f60bc129f328d9094b66bc9b150ae03b10e",
+        "width": 1366,
+        "height": 2976,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_055",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEFT-CENTER"
+      },
+      "masked": {
+        "filename": "site_055.png",
+        "image_path": "masked/site_055.png",
+        "image_sha256": "5cb8b96659ec4b5d233d82c9b6a1efc92af5225f815913bf12e243e37175d78e",
+        "width": 1366,
+        "height": 5621,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "Fact_Myth.png",
+        "image_path": "unmasked/Fact_Myth.png",
+        "image_sha256": "995bab80f4045cc52751763b2023aab7a710226841beb13f734dfa39de0c1348",
+        "width": 1366,
+        "height": 5621,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_057",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_057.png",
+        "image_path": "masked/site_057.png",
+        "image_sha256": "7e85e15ec53b84a9edb24cb2ffba4cbc8f368b566f7c49a1222385181fe765a0",
+        "width": 1366,
+        "height": 3927,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "VaccineDamage.News.png",
+        "image_path": "unmasked/VaccineDamage.News.png",
+        "image_sha256": "98ed97b67112ea31d094fe26f5a3a302b632b3c88e74156a868d09a5d8c72974",
+        "width": 1366,
+        "height": 3927,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_058",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_058.png",
+        "image_path": "masked/site_058.png",
+        "image_sha256": "0729d6904dce0417cb399c3124c91b6cdad96db8b6dc91b2e02f94bf1f5f5b08",
+        "width": 1366,
+        "height": 3929,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "Censorship.News.png",
+        "image_path": "unmasked/Censorship.News.png",
+        "image_sha256": "f67fb16f21f0de13cf21149c82907729dc6a4202992d3c6e3e2808197238502f",
+        "width": 1366,
+        "height": 3929,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_059",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEAST BIASED"
+      },
+      "masked": {
+        "filename": "site_059.png",
+        "image_path": "masked/site_059.png",
+        "image_sha256": "a52dc3f77e75e149ec508009eb6b52a990a02f57e493fc7ae6379ae875c4a14b",
+        "width": 1609,
+        "height": 7303,
+        "full_tiles": 4
+      },
+      "unmasked": {
+        "filename": "WPNM_-_Leipsic_News.png",
+        "image_path": "unmasked/WPNM_-_Leipsic_News.png",
+        "image_sha256": "9fa3f6d5b8cd732e52bd68d338a15dbe9d77f60ecd12869d634b2487202bad62",
+        "width": 1609,
+        "height": 7303,
+        "full_tiles": 4
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_060",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "LEFT-CENTER"
+      },
+      "masked": {
+        "filename": "site_060.png",
+        "image_path": "masked/site_060.png",
+        "image_sha256": "bea6e2a424519a3e8e00b5989613a5f6f5691ab32254e863f21d5093e680d1f2",
+        "width": 1366,
+        "height": 4427,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "InSight_Crime.png",
+        "image_path": "unmasked/InSight_Crime.png",
+        "image_sha256": "50c93aa3e3ba3ae57667d0cc388a425cc89729eafa448dc935ba2ca757ade986",
+        "width": 1366,
+        "height": 4427,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_061",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEFT"
+      },
+      "masked": {
+        "filename": "site_061.png",
+        "image_path": "masked/site_061.png",
+        "image_sha256": "e75d9139894cc2a16277e78e4e4489cb501889a5b176b3297acdbca2fd32244c",
+        "width": 1366,
+        "height": 4208,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "Movement_Advancement_Project.png",
+        "image_path": "unmasked/Movement_Advancement_Project.png",
+        "image_sha256": "f3ec882c25faa7ab8c5064f440d48f0a66fdf628e5190b8c7fb8bd222872bbe9",
+        "width": 1366,
+        "height": 4208,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_062",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "RIGHT-CENTER"
+      },
+      "masked": {
+        "filename": "site_062.png",
+        "image_path": "masked/site_062.png",
+        "image_sha256": "12ba72d41cf06dc12458172ddf5d3afe83c9af09f8c18cf809133be84159bbf3",
+        "width": 1366,
+        "height": 2729,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "Suffolk_Reporter.png",
+        "image_path": "unmasked/Suffolk_Reporter.png",
+        "image_sha256": "4b5bb0aff3d55ffb80c4be6c4c498d6b4de5c8532b976483a976a5b7abddff37",
+        "width": 1366,
+        "height": 2729,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_063",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEFT-CENTER"
+      },
+      "masked": {
+        "filename": "site_063.png",
+        "image_path": "masked/site_063.png",
+        "image_sha256": "b4b3fe4a6a8a3673218c5331d54bb4b184a27857aecc1cc1e900edcd193dc336",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "unmasked": {
+        "filename": "Al_Monitor.png",
+        "image_path": "unmasked/Al_Monitor.png",
+        "image_sha256": "9c7f9f013fd7e70464c2a14a401e4efe2950fc755f5407630530fc6943cc1b55",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_064",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_064.png",
+        "image_path": "masked/site_064.png",
+        "image_sha256": "06eeec937173631aca4d8ced5aaf501874d556f81772561ebc76e2671dd9c5a1",
+        "width": 1366,
+        "height": 3950,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "ScienceClowns.png",
+        "image_path": "unmasked/ScienceClowns.png",
+        "image_sha256": "2c60a4963468b8b173c563baf6124bb06bb15453249cbdcfe47b814c55ad6512",
+        "width": 1366,
+        "height": 3950,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_066",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_066.png",
+        "image_path": "masked/site_066.png",
+        "image_sha256": "20d4b0e7ddceef4941f8d92a8ee49435d2dff01c95ff98c2c1dc4e9049e8cd08",
+        "width": 1366,
+        "height": 3218,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "American_Society_for_the_Defense_of_Tradition_Family_and_Property.png",
+        "image_path": "unmasked/American_Society_for_the_Defense_of_Tradition_Family_and_Property.png",
+        "image_sha256": "3bf6dd730cb5f4c85ee0b44077762d77f7fe488f6b167aeb0fa33d24ab33fd3b",
+        "width": 1366,
+        "height": 3218,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_067",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "LEFT-CENTER"
+      },
+      "masked": {
+        "filename": "site_067.png",
+        "image_path": "masked/site_067.png",
+        "image_sha256": "3740ce158e778d9c93e70a6a5c87733bd26899266f780665ac44c0a0a3b5eb83",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "unmasked": {
+        "filename": "Toutiao.png",
+        "image_path": "unmasked/Toutiao.png",
+        "image_sha256": "e066eee6b4d5c1441d0501c99380fa2266bf68df622d4e05100e3f1159b4de0d",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_068",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_068.png",
+        "image_path": "masked/site_068.png",
+        "image_sha256": "db06625d4f331df55eec0038ab045e091616a4932b4259c73d820f67680187c1",
+        "width": 1366,
+        "height": 7662,
+        "full_tiles": 5
+      },
+      "unmasked": {
+        "filename": "National_File.png",
+        "image_path": "unmasked/National_File.png",
+        "image_sha256": "dc06fe95028bff93fbff51d19eff1fc80c94e6ce7fc38cb66dd0c7183de2c44d",
+        "width": 1366,
+        "height": 7662,
+        "full_tiles": 5
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_069",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "LEFT"
+      },
+      "masked": {
+        "filename": "site_069.png",
+        "image_path": "masked/site_069.png",
+        "image_sha256": "1499224778a5e63aa10d65ac0ff2f21973669e8204848d309bb28a531a1d0507",
+        "width": 1366,
+        "height": 10345,
+        "full_tiles": 6
+      },
+      "unmasked": {
+        "filename": "Conscious_Life_News.png",
+        "image_path": "unmasked/Conscious_Life_News.png",
+        "image_sha256": "8395c740641657820a27310edcc77cca5f646da24510f6a4573c3e5c125d8cc3",
+        "width": 1366,
+        "height": 10345,
+        "full_tiles": 6
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_070",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_070.png",
+        "image_path": "masked/site_070.png",
+        "image_sha256": "5c45a0e65c16d0ea30f04e8f7a11246e493c0bb60b80d7e059fdbb64a64779c6",
+        "width": 1366,
+        "height": 3990,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "MedicalTyranny.png",
+        "image_path": "unmasked/MedicalTyranny.png",
+        "image_sha256": "c4c0cb601cd5603b3a638009db31ae019b3a706a0a59df54635602aaef96d3ee",
+        "width": 1366,
+        "height": 3990,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_071",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_071.png",
+        "image_path": "masked/site_071.png",
+        "image_sha256": "58511632db52490d03ccb6737c3062761d9f748412a67c75abac559891944952",
+        "width": 1366,
+        "height": 3737,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "VaccineInjuryNews.png",
+        "image_path": "unmasked/VaccineInjuryNews.png",
+        "image_sha256": "21f574e83fc42cde4e8802b61aabfee477a6c4476b1123db8508d5a887f5d618",
+        "width": 1366,
+        "height": 3737,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_072",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEFT"
+      },
+      "masked": {
+        "filename": "site_072.png",
+        "image_path": "masked/site_072.png",
+        "image_sha256": "87fe967f5d3e02f468b89de1f5fe79a8ce92f6acab266790a2a1f7a82da7c1ab",
+        "width": 1366,
+        "height": 8663,
+        "full_tiles": 5
+      },
+      "unmasked": {
+        "filename": "Alternet.png",
+        "image_path": "unmasked/Alternet.png",
+        "image_sha256": "70ac1a44be3ad0eaf2d77c0defdca87fed85cac391a2590d4d61bc36dcd2bffb",
+        "width": 1366,
+        "height": 8663,
+        "full_tiles": 5
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_073",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "LEFT-CENTER"
+      },
+      "masked": {
+        "filename": "site_073.png",
+        "image_path": "masked/site_073.png",
+        "image_sha256": "8c686b04330959b895a9dc0a5921f3a966c0b40bbaa3d52d2cd4936581231340",
+        "width": 1366,
+        "height": 10134,
+        "full_tiles": 6
+      },
+      "unmasked": {
+        "filename": "The_Daily_Adda.png",
+        "image_path": "unmasked/The_Daily_Adda.png",
+        "image_sha256": "2ec2b28a284fae8a239cd8c2798bef5b209583a6b0633c3aa53c446da2106c92",
+        "width": 1366,
+        "height": 10134,
+        "full_tiles": 6
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_074",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "LEFT"
+      },
+      "masked": {
+        "filename": "site_074.png",
+        "image_path": "masked/site_074.png",
+        "image_sha256": "4cce1f6f49eb7cab6a3a58214b2ca2c2e4bd47a24006aa1699da1c07e7728145",
+        "width": 1366,
+        "height": 8044,
+        "full_tiles": 5
+      },
+      "unmasked": {
+        "filename": "Eluxe_Magazine.png",
+        "image_path": "unmasked/Eluxe_Magazine.png",
+        "image_sha256": "a03ecdb923db63c6d5c7f3a89813712fc0b485289e80019b96d5648c915d74bc",
+        "width": 1366,
+        "height": 8044,
+        "full_tiles": 5
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_075",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEAST BIASED"
+      },
+      "masked": {
+        "filename": "site_075.png",
+        "image_path": "masked/site_075.png",
+        "image_sha256": "f9aadc586636a709b6df509b4866119b4cce59f638ac25653ec52c9b09d09b39",
+        "width": 1366,
+        "height": 6456,
+        "full_tiles": 4
+      },
+      "unmasked": {
+        "filename": "Bleeping_Computer.png",
+        "image_path": "unmasked/Bleeping_Computer.png",
+        "image_sha256": "50aa2e867ad41a212901b123d39edd65e662ebc4dd382de153c704ad96852d20",
+        "width": 1366,
+        "height": 6456,
+        "full_tiles": 4
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_076",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "RIGHT-CENTER"
+      },
+      "masked": {
+        "filename": "site_076.png",
+        "image_path": "masked/site_076.png",
+        "image_sha256": "b094f7e092d45f436e793000bd24c26fcaa927f034b11bbe4761546bce517f18",
+        "width": 1366,
+        "height": 3175,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "Alabama_Business_Daily.png",
+        "image_path": "unmasked/Alabama_Business_Daily.png",
+        "image_sha256": "d2dda911778ed26c55aaee49140302923e09ee1d3639e7b42653081e265bcf74",
+        "width": 1366,
+        "height": 3175,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_077",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_077.png",
+        "image_path": "masked/site_077.png",
+        "image_sha256": "9c29d0c20813ef527352de48816706aafce23e41cd2f879a4b6dee80cb7ac048",
+        "width": 1366,
+        "height": 8621,
+        "full_tiles": 5
+      },
+      "unmasked": {
+        "filename": "American_Renaissance_Magazine.png",
+        "image_path": "unmasked/American_Renaissance_Magazine.png",
+        "image_sha256": "30bdb44e58bfbb58ab814a6da2aef27195c2ff4e53463f0d02ac32e2de87f933",
+        "width": 1366,
+        "height": 8621,
+        "full_tiles": 5
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_079",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_079.png",
+        "image_path": "masked/site_079.png",
+        "image_sha256": "641dd937a226c6e32dff7c337ba1932b311a3ddb2b6de5e49c94cb8142dc4117",
+        "width": 1366,
+        "height": 3908,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "Trump.News.png",
+        "image_path": "unmasked/Trump.News.png",
+        "image_sha256": "7993b545552d4e3d9a173d8161444fb684c7a47ae3a383e86c6d2c44d4bc96b4",
+        "width": 1366,
+        "height": 3908,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_080",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_080.png",
+        "image_path": "masked/site_080.png",
+        "image_sha256": "1b7f887e51139bd88b31162fd5f743781efb22e3b69f452dd083b4afed416c02",
+        "width": 1366,
+        "height": 6844,
+        "full_tiles": 4
+      },
+      "unmasked": {
+        "filename": "Georgia_Record.png",
+        "image_path": "unmasked/Georgia_Record.png",
+        "image_sha256": "e27148168c05d118cac656bafaad321160a5addf5bbfb50945f85c82d2f52d8e",
+        "width": 1366,
+        "height": 6844,
+        "full_tiles": 4
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_082",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "LEFT"
+      },
+      "masked": {
+        "filename": "site_082.png",
+        "image_path": "masked/site_082.png",
+        "image_sha256": "938ead12eea7b2799a4c76d12b4c3044b946b80e5b341fd1935b2b84fd64ed65",
+        "width": 1366,
+        "height": 10439,
+        "full_tiles": 6
+      },
+      "unmasked": {
+        "filename": "Daily_Beast.png",
+        "image_path": "unmasked/Daily_Beast.png",
+        "image_sha256": "7e6361b16485da52708ebe7c915af699c5258dbc0dfc0b591d661c6551cf3621",
+        "width": 1366,
+        "height": 10439,
+        "full_tiles": 6
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_083",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_083.png",
+        "image_path": "masked/site_083.png",
+        "image_sha256": "057f49b173bc119c72a2d58e7be7576714e0ae3c02b44ae85dd3851c00ae271c",
+        "width": 1366,
+        "height": 3927,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "Bioterrorism.News.png",
+        "image_path": "unmasked/Bioterrorism.News.png",
+        "image_sha256": "200e7be77d446e97e1c4f5dccf23b4694ebf42d8c52798aac09a06dc8293aa71",
+        "width": 1366,
+        "height": 3927,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_084",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEFT"
+      },
+      "masked": {
+        "filename": "site_084.png",
+        "image_path": "masked/site_084.png",
+        "image_sha256": "36f516025474af7ab451bd9c4fd025102888adc9367523467a9f95a66e0350ef",
+        "width": 1366,
+        "height": 1603,
+        "full_tiles": 1
+      },
+      "unmasked": {
+        "filename": "BillMoyers.com.png",
+        "image_path": "unmasked/BillMoyers.com.png",
+        "image_sha256": "b9b5d66df94c1abc8965abc7262601445bcc2f0d3cec89ac93f1ce6288b4eda8",
+        "width": 1366,
+        "height": 1603,
+        "full_tiles": 1
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_085",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "LEFT-CENTER"
+      },
+      "masked": {
+        "filename": "site_085.png",
+        "image_path": "masked/site_085.png",
+        "image_sha256": "e7e6b415ba5fb2d4e800b170915076bee4cd6f58119c4896815f2fc4e0f0958b",
+        "width": 1883,
+        "height": 5108,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "Mercopress.png",
+        "image_path": "unmasked/Mercopress.png",
+        "image_sha256": "20176d2f081d444974acbf5b25d86a23bd34af9a13f9ff375827bcd3a7d7784f",
+        "width": 1883,
+        "height": 5108,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_086",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEFT-CENTER"
+      },
+      "masked": {
+        "filename": "site_086.png",
+        "image_path": "masked/site_086.png",
+        "image_sha256": "84e186492495aa4872f71e39c43336a7281bab9d97e504f8c485f2867d219a21",
+        "width": 1366,
+        "height": 3747,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "Amnesty_International.png",
+        "image_path": "unmasked/Amnesty_International.png",
+        "image_sha256": "1b9aeb4a2f2d188c0e8e97fe165e53e87b43ba2201daf223a37ca74d2c5cdec9",
+        "width": 1366,
+        "height": 3747,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_087",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "RIGHT-CENTER"
+      },
+      "masked": {
+        "filename": "site_087.png",
+        "image_path": "masked/site_087.png",
+        "image_sha256": "284378c049c1960a2b350d3ccec63d35d3341047c7c7d145f72e49b8b9ddc099",
+        "width": 1366,
+        "height": 2649,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "Mercer_Times.png",
+        "image_path": "unmasked/Mercer_Times.png",
+        "image_sha256": "cbbd5542f8275eab683638ed2e3bd40716ad1172ffd5e934fe2b4d4021d651a6",
+        "width": 1366,
+        "height": 2649,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_088",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "LEAST BIASED"
+      },
+      "masked": {
+        "filename": "site_088.png",
+        "image_path": "masked/site_088.png",
+        "image_sha256": "e84b0e6929aced0464a832bc1264ea198d0fd8df8a97f91f180979e3dc9a8486",
+        "width": 1366,
+        "height": 7433,
+        "full_tiles": 4
+      },
+      "unmasked": {
+        "filename": "Health_Insider.png",
+        "image_path": "unmasked/Health_Insider.png",
+        "image_sha256": "358c8f221430298bbb290b36c56a5ab223c1addf03b95c2a3aef64fb119a82b6",
+        "width": 1366,
+        "height": 7433,
+        "full_tiles": 4
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_089",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEFT"
+      },
+      "masked": {
+        "filename": "site_089.png",
+        "image_path": "masked/site_089.png",
+        "image_sha256": "afc9dc298c16830e790c5f1deed043c2090b64b8e9e5790ec0f198fa95b06f86",
+        "width": 1366,
+        "height": 6185,
+        "full_tiles": 4
+      },
+      "unmasked": {
+        "filename": "Democracy_Docket.png",
+        "image_path": "unmasked/Democracy_Docket.png",
+        "image_sha256": "3156f03cefd496ff3b82ca8db0fb19094f7aeb447865e7ff82359f1012360afc",
+        "width": 1366,
+        "height": 6185,
+        "full_tiles": 4
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_090",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "RIGHT-CENTER"
+      },
+      "masked": {
+        "filename": "site_090.png",
+        "image_path": "masked/site_090.png",
+        "image_sha256": "dcdbe5b195757f1bb8f6990cf6fdd7073829f5ad41a94c4eee1c0a28267b73e7",
+        "width": 1366,
+        "height": 3194,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "Kentucky_Business_Daily.png",
+        "image_path": "unmasked/Kentucky_Business_Daily.png",
+        "image_sha256": "0ec42ae01c7e45b0740cc4053e6dec6876d9b74b2595add01fddf52d7f3a0d10",
+        "width": 1366,
+        "height": 3194,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_091",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "LEFT-CENTER"
+      },
+      "masked": {
+        "filename": "site_091.png",
+        "image_path": "masked/site_091.png",
+        "image_sha256": "a188a75b80b9025ba8a3b08db58f67032227b5952e559939e688123bf220b403",
+        "width": 1366,
+        "height": 5019,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "China_Global_Television_Network.png",
+        "image_path": "unmasked/China_Global_Television_Network.png",
+        "image_sha256": "2c0284c92a3c34e7fc75c14d1cfe104ca0b477b09df9abd5dda87f78ee5387e4",
+        "width": 1366,
+        "height": 5019,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_092",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "LEAST BIASED"
+      },
+      "masked": {
+        "filename": "site_092.png",
+        "image_path": "masked/site_092.png",
+        "image_sha256": "1d05423ec660d619ef83bee43a8a5315b26ca634d32320de9934aad34d4d9fb6",
+        "width": 1366,
+        "height": 4708,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "DailyJournal24hr.png",
+        "image_path": "unmasked/DailyJournal24hr.png",
+        "image_sha256": "877c3edb51405daaa8d6d03d30fe48039f5a2ffbc9c38ced4cc5288d409fb380",
+        "width": 1366,
+        "height": 4708,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_095",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "LEFT"
+      },
+      "masked": {
+        "filename": "site_095.png",
+        "image_path": "masked/site_095.png",
+        "image_sha256": "377134b9527d06c0c0d8042db09feaf1a3c6f34b0dc1774700f8fc678c18d130",
+        "width": 1366,
+        "height": 1722,
+        "full_tiles": 1
+      },
+      "unmasked": {
+        "filename": "Left_Action.png",
+        "image_path": "unmasked/Left_Action.png",
+        "image_sha256": "a37e03a472ff9114066cd62bad9bc921a11fafed2a08dc4b93ccf3f2930af7ac",
+        "width": 1366,
+        "height": 1722,
+        "full_tiles": 1
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_096",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "LEFT"
+      },
+      "masked": {
+        "filename": "site_096.png",
+        "image_path": "masked/site_096.png",
+        "image_sha256": "90b88e4d1279c4ac57f1ab75efc252a44960d9cf8bd813c3bc33dda60edb9717",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "unmasked": {
+        "filename": "Center_for_American_Progress.png",
+        "image_path": "unmasked/Center_for_American_Progress.png",
+        "image_sha256": "8ee340f0fa9cc019da8c94fcda78e6c438fe529584e153bb2b0d9be93c4520b2",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_098",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "LEFT"
+      },
+      "masked": {
+        "filename": "site_098.png",
+        "image_path": "masked/site_098.png",
+        "image_sha256": "9e12daf26fc797757e05188c062e4df2b13d3d9923a46c77dd3dd13c9f44d251",
+        "width": 1380,
+        "height": 8170,
+        "full_tiles": 5
+      },
+      "unmasked": {
+        "filename": "Xinhua_News_Agency.png",
+        "image_path": "unmasked/Xinhua_News_Agency.png",
+        "image_sha256": "df95263a9df819a6838d12fa52996be5e69aef5b1daa27fdcd61e8830e732525",
+        "width": 1380,
+        "height": 8170,
+        "full_tiles": 5
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_099",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEAST BIASED"
+      },
+      "masked": {
+        "filename": "site_099.png",
+        "image_path": "masked/site_099.png",
+        "image_sha256": "b8b2d69f4e3454cc397eb6a395f089eadd094f1a885636564427d902eb5ba010",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "unmasked": {
+        "filename": "We_Got_This_Covered.png",
+        "image_path": "unmasked/We_Got_This_Covered.png",
+        "image_sha256": "84a5af7f32f8214feba7955c037601bd26175151a2d76e6c79af294e9b1c8172",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_100",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEAST BIASED"
+      },
+      "masked": {
+        "filename": "site_100.png",
+        "image_path": "masked/site_100.png",
+        "image_sha256": "58edf73766b884d34105d5938d6123108919186ba48207c6d91bf77eeceab2b8",
+        "width": 1366,
+        "height": 6548,
+        "full_tiles": 4
+      },
+      "unmasked": {
+        "filename": "Chinook_Observer.png",
+        "image_path": "unmasked/Chinook_Observer.png",
+        "image_sha256": "c4f87786284f4ff8ada36e78b6a05c5ae81445b0969903e1357c0e4fd72baeeb",
+        "width": 1366,
+        "height": 6548,
+        "full_tiles": 4
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_101",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_101.png",
+        "image_path": "masked/site_101.png",
+        "image_sha256": "9b4fcb37d1ba645225d1583ec1d077fc393cf3db4e5763be15c12106c8b2430a",
+        "width": 1366,
+        "height": 3724,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "Adams.News.png",
+        "image_path": "unmasked/Adams.News.png",
+        "image_sha256": "5ad786aaa1c76fbc5a6f5adbabd3e393ce4ea8076e69279661b88bb48f52983c",
+        "width": 1366,
+        "height": 3724,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_102",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_102.png",
+        "image_path": "masked/site_102.png",
+        "image_sha256": "d598e26b301f3427d7220f91e5abc98f890278866ebdcdd49927c2ae7771853f",
+        "width": 1366,
+        "height": 3829,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "FactCheck.News.png",
+        "image_path": "unmasked/FactCheck.News.png",
+        "image_sha256": "08c1e3fe86d3adc964d08d08080ce9103a74a99b92df2d5c34ae7d1d1d7c498b",
+        "width": 1366,
+        "height": 3829,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_103",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_103.png",
+        "image_path": "masked/site_103.png",
+        "image_sha256": "a5527586c51b81563e2d3a42ee2d944dd7f71bda4e919a5fb957db508eacd165",
+        "width": 1366,
+        "height": 3941,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "CaliforniaCollapse.News.png",
+        "image_path": "unmasked/CaliforniaCollapse.News.png",
+        "image_sha256": "adca85016296ef6c56ac0a23f1f3dd6ed1ad78cdb2d8f34e3709d90ce03c4cee",
+        "width": 1366,
+        "height": 3941,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_104",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "LEAST BIASED"
+      },
+      "masked": {
+        "filename": "site_104.png",
+        "image_path": "masked/site_104.png",
+        "image_sha256": "bdd0151c1882ed9da1125819429c2bf85b35bf9a7094e1c0e7182051720f5108",
+        "width": 1366,
+        "height": 5493,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "World_News.png",
+        "image_path": "unmasked/World_News.png",
+        "image_sha256": "2674481aeea9c9fee286e59b3bc72b69b0c84ebd910bc04d3aeeab760e88c126",
+        "width": 1366,
+        "height": 5493,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_105",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "LEFT"
+      },
+      "masked": {
+        "filename": "site_105.png",
+        "image_path": "masked/site_105.png",
+        "image_sha256": "471ea189ea880cdd670b24c874caf39973ec3207786d02ca4730eb388be89277",
+        "width": 1366,
+        "height": 7216,
+        "full_tiles": 4
+      },
+      "unmasked": {
+        "filename": "Sixth_Tone.png",
+        "image_path": "unmasked/Sixth_Tone.png",
+        "image_sha256": "4dc16f2e8acd1a5c470f7d453a3005376e8ed9643229897b015cfffafef8a074",
+        "width": 1366,
+        "height": 7216,
+        "full_tiles": 4
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_106",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEFT-CENTER"
+      },
+      "masked": {
+        "filename": "site_106.png",
+        "image_path": "masked/site_106.png",
+        "image_sha256": "5b01a2ffc86841ee68a3ab71a8ee151bd262ff807a4bc8d639b7ce0ae891272b",
+        "width": 1366,
+        "height": 8823,
+        "full_tiles": 5
+      },
+      "unmasked": {
+        "filename": "Denver_Post.png",
+        "image_path": "unmasked/Denver_Post.png",
+        "image_sha256": "8047f1eef40bb15aaeeac2741a06f181b22ecfc927a880bf16aa7fd968163f6a",
+        "width": 1366,
+        "height": 8823,
+        "full_tiles": 5
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_107",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "RIGHT-CENTER"
+      },
+      "masked": {
+        "filename": "site_107.png",
+        "image_path": "masked/site_107.png",
+        "image_sha256": "1c75007827df741a97da5a2c30d479e74c7ae9dc730360d1e2940b610aec5564",
+        "width": 1366,
+        "height": 2671,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "West_Essex_News.png",
+        "image_path": "unmasked/West_Essex_News.png",
+        "image_sha256": "e57006082fcb9d6378a0a1f58364fd4c5250e0a4c7c38ae2e6c26a5d3c3dc62e",
+        "width": 1366,
+        "height": 2671,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_108",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "RIGHT-CENTER"
+      },
+      "masked": {
+        "filename": "site_108.png",
+        "image_path": "masked/site_108.png",
+        "image_sha256": "f56f528ce381710119c9b66169c8441546842b1c5ad29b46f65d5ebde170f260",
+        "width": 1366,
+        "height": 2681,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "Morris_Leader.png",
+        "image_path": "unmasked/Morris_Leader.png",
+        "image_sha256": "9bdb0798c0fd0fd083783d4da780ce06391c3517bb04446c329c2fe53eed8e29",
+        "width": 1366,
+        "height": 2681,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_109",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_109.png",
+        "image_path": "masked/site_109.png",
+        "image_sha256": "e741a8774ce118fbf9a9573029a76e07549f7dcd6c57d0b3f9190ffc768368cc",
+        "width": 1366,
+        "height": 3994,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "Antioxidants.News.png",
+        "image_path": "unmasked/Antioxidants.News.png",
+        "image_sha256": "38492066afd07a2197e4ac6780749e3ebf7a14bfd7cd8278c1a4178a74ae45f9",
+        "width": 1366,
+        "height": 3994,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_110",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEFT"
+      },
+      "masked": {
+        "filename": "site_110.png",
+        "image_path": "masked/site_110.png",
+        "image_sha256": "2cb9a666f28c537dd99211690c099be6f7493ea493d6167fad233c08961d6fb4",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "unmasked": {
+        "filename": "Haaretz.png",
+        "image_path": "unmasked/Haaretz.png",
+        "image_sha256": "b0b96c9ca9b7c0f00d92be9f4c3afcfec1ba92b7ed6c416fa9efc42484f9abe0",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_111",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "RIGHT-CENTER"
+      },
+      "masked": {
+        "filename": "site_111.png",
+        "image_path": "masked/site_111.png",
+        "image_sha256": "858e2d4a0c385e2cc8287ede5c6d1564b7ac384cf4f4d4efb9024ba105c57d94",
+        "width": 1366,
+        "height": 2764,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "SE_Connecticut_News.png",
+        "image_path": "unmasked/SE_Connecticut_News.png",
+        "image_sha256": "71248d3425f5f9562d1922e713ebdc48737335a707c7f572618dcd4f8ca682cc",
+        "width": 1366,
+        "height": 2764,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_112",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_112.png",
+        "image_path": "masked/site_112.png",
+        "image_sha256": "987e2856fb3ddfccb95c37a1f1ea5b2510f73859c9b851771c818a8da03a00e2",
+        "width": 1366,
+        "height": 4004,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "News_Hour_First.png",
+        "image_path": "unmasked/News_Hour_First.png",
+        "image_sha256": "ae82f22f6a3123597b75781e94c35d3bf8544af88c0a2ab6f2d544d0636ef20a",
+        "width": 1366,
+        "height": 4004,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_113",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEAST BIASED"
+      },
+      "masked": {
+        "filename": "site_113.png",
+        "image_path": "masked/site_113.png",
+        "image_sha256": "61fc2797b97307eef55dcb5dd7649d20687eae61c404627403cf34004ce0da6d",
+        "width": 1366,
+        "height": 4897,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "EdScoop.png",
+        "image_path": "unmasked/EdScoop.png",
+        "image_sha256": "c030943cd464f9dddf14f12e3b9739a649ff590da126559a639316b14de2834a",
+        "width": 1366,
+        "height": 4897,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_115",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "RIGHT-CENTER"
+      },
+      "masked": {
+        "filename": "site_115.png",
+        "image_path": "masked/site_115.png",
+        "image_sha256": "e63ce215ddbac19b6a4b20e63b1de8ebba41fa7f129e697240c1f38ed487d58c",
+        "width": 1366,
+        "height": 2672,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "Westmoreland_Review.png",
+        "image_path": "unmasked/Westmoreland_Review.png",
+        "image_sha256": "d8baecdf733ba357eafe5c8aa0e26871f5ebbb7a3634212bc86da93d957c66dd",
+        "width": 1366,
+        "height": 2672,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_116",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_116.png",
+        "image_path": "masked/site_116.png",
+        "image_sha256": "bba4fe12ccffa5b39eddb1b1cdff3d1772686cb55bf25ad39fd63d277ea16bf6",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "unmasked": {
+        "filename": "Der_Status.png",
+        "image_path": "unmasked/Der_Status.png",
+        "image_sha256": "59dc1549aecb7e5bde45c534a3a4d9d492b8489a5467cb8ea6551d66b587d0ed",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_117",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_117.png",
+        "image_path": "masked/site_117.png",
+        "image_sha256": "2bc2defa25d24d12be636e552f539ef5cc8e0881c5d027425f9d3c9bc9c260f3",
+        "width": 1366,
+        "height": 7629,
+        "full_tiles": 5
+      },
+      "unmasked": {
+        "filename": "News_with_Views.png",
+        "image_path": "unmasked/News_with_Views.png",
+        "image_sha256": "7f9956d7499671e07f2163470d71a660a8007b07d4e9c133dd3ee84254c9d9a3",
+        "width": 1366,
+        "height": 7629,
+        "full_tiles": 5
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_118",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEFT"
+      },
+      "masked": {
+        "filename": "site_118.png",
+        "image_path": "masked/site_118.png",
+        "image_sha256": "1f182782572b18bf6aaa592257bdd4bdb7c43ca4076e8fbd9356fef173f045b7",
+        "width": 1366,
+        "height": 6773,
+        "full_tiles": 4
+      },
+      "unmasked": {
+        "filename": "CounterPunch.png",
+        "image_path": "unmasked/CounterPunch.png",
+        "image_sha256": "d17a51095665f48f0ef3c89e546540e6fa6902b07a55d37b2f9fcd17eaa41b9f",
+        "width": 1366,
+        "height": 6773,
+        "full_tiles": 4
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_119",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_119.png",
+        "image_path": "masked/site_119.png",
+        "image_sha256": "320d83dc93c999df6cfac7f9014078878980130c26bd91d0b5c86714cc5e8e81",
+        "width": 1366,
+        "height": 3822,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "The_Bearded_Patriot.png",
+        "image_path": "unmasked/The_Bearded_Patriot.png",
+        "image_sha256": "da1c50b8777925405bc897e3646a42b65ee67586176823616294cb7df7e870b9",
+        "width": 1366,
+        "height": 3822,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_120",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "LEFT"
+      },
+      "masked": {
+        "filename": "site_120.png",
+        "image_path": "masked/site_120.png",
+        "image_sha256": "8b01796b42d21f3560bdd40c0975f61b75ac2e45b0c33e31df70aab8255f6e4e",
+        "width": 1366,
+        "height": 10170,
+        "full_tiles": 6
+      },
+      "unmasked": {
+        "filename": "Daily_Kos.png",
+        "image_path": "unmasked/Daily_Kos.png",
+        "image_sha256": "3197f26fd1be06852c74aaf092541bbe5e85844555d17b16566ba4b1b5a70fce",
+        "width": 1366,
+        "height": 10170,
+        "full_tiles": 6
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_121",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEFT"
+      },
+      "masked": {
+        "filename": "site_121.png",
+        "image_path": "masked/site_121.png",
+        "image_sha256": "b495ec95a6f91944debf3652fefeea6086a53b19ac452a99a19979f23d5c63c8",
+        "width": 1366,
+        "height": 1042,
+        "full_tiles": 1
+      },
+      "unmasked": {
+        "filename": "Wyofile.png",
+        "image_path": "unmasked/Wyofile.png",
+        "image_sha256": "15f5350a6be53ac602529a5a9290b8c78d64f7214c2e09579b08f8d4da2ebc99",
+        "width": 1366,
+        "height": 1042,
+        "full_tiles": 1
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_122",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_122.png",
+        "image_path": "masked/site_122.png",
+        "image_sha256": "91be1a1ab45b6281a189cdb08b1db7365221ae498cd4e886e967cb355c489243",
+        "width": 1366,
+        "height": 3857,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "TechGiants.News_1.png",
+        "image_path": "unmasked/TechGiants.News_1.png",
+        "image_sha256": "5a3ae7fa415356ee6c07b95fca85a34aa135f7cc283c3ca95ea3c084c037471b",
+        "width": 1366,
+        "height": 3857,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_123",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEAST BIASED"
+      },
+      "masked": {
+        "filename": "site_123.png",
+        "image_path": "masked/site_123.png",
+        "image_sha256": "d3291b7b7c71ea220c5805386a80e222f057c9418a90c6572490504f12cfa9f9",
+        "width": 1366,
+        "height": 10233,
+        "full_tiles": 6
+      },
+      "unmasked": {
+        "filename": "Atlas_Obscura.png",
+        "image_path": "unmasked/Atlas_Obscura.png",
+        "image_sha256": "68eb1691a38b1cb105a2a3a30ea495aa2a7a0fbe5ebfe7073593d32ee44283a4",
+        "width": 1366,
+        "height": 10233,
+        "full_tiles": 6
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_124",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_124.png",
+        "image_path": "masked/site_124.png",
+        "image_sha256": "eb6eebba823ce954a66b1278d73fbfb6d4a9776bb74a874d13ddfa1cefdd0ebc",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "unmasked": {
+        "filename": "The_Burning_Platform.png",
+        "image_path": "unmasked/The_Burning_Platform.png",
+        "image_sha256": "cdd678ec692c1259aef2957dbadc9657a49e7a336da19a51f50ccab3bde32b9a",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_125",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEFT-CENTER"
+      },
+      "masked": {
+        "filename": "site_125.png",
+        "image_path": "masked/site_125.png",
+        "image_sha256": "b09fda7754cce24c5b3fb446e64789f9d99a4c82448b41ff2672e5cc85114d35",
+        "width": 1366,
+        "height": 6908,
+        "full_tiles": 4
+      },
+      "unmasked": {
+        "filename": "Death_Penalty_Information_Center.png",
+        "image_path": "unmasked/Death_Penalty_Information_Center.png",
+        "image_sha256": "fc7ef9d8bd89d0e3af50466c25afdb86104e37b3ef3edf0a72adfddc4c4d3982",
+        "width": 1366,
+        "height": 6908,
+        "full_tiles": 4
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_126",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEAST BIASED"
+      },
+      "masked": {
+        "filename": "site_126.png",
+        "image_path": "masked/site_126.png",
+        "image_sha256": "89b2ad7bfd9055f4717d003adfec0d01b02e661ba2e756e7cd612efc9d2c3e21",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "unmasked": {
+        "filename": "WSAZ_News_Channel.png",
+        "image_path": "unmasked/WSAZ_News_Channel.png",
+        "image_sha256": "91da74bdf3c2760c14c9e2878ebe85aec49e30fa5c57cc58598f8cd25d57c4ec",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_127",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEFT-CENTER"
+      },
+      "masked": {
+        "filename": "site_127.png",
+        "image_path": "masked/site_127.png",
+        "image_sha256": "217800bd922d71f9c61ac3ff276782cd82a3013239e0b05decedca8c3c159b97",
+        "width": 1366,
+        "height": 9209,
+        "full_tiles": 5
+      },
+      "unmasked": {
+        "filename": "Capital_Gazette.png",
+        "image_path": "unmasked/Capital_Gazette.png",
+        "image_sha256": "a3e1549c6e303d5d1f44f5dc504bdd2f18e8dab4934a35ba83a7aad1d3850ad1",
+        "width": 1366,
+        "height": 9209,
+        "full_tiles": 5
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_128",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_128.png",
+        "image_path": "masked/site_128.png",
+        "image_sha256": "610913393394a55ec2ff6d8ebdaf6b2545dc6755837afde84a79234482733e4e",
+        "width": 1366,
+        "height": 3840,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "Awakening.News.png",
+        "image_path": "unmasked/Awakening.News.png",
+        "image_sha256": "b079f697c2c61bb4bb7ebf0fe9fbff69933e6a32005e6ba5d43e9f687a75f6d6",
+        "width": 1366,
+        "height": 3840,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_129",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEFT"
+      },
+      "masked": {
+        "filename": "site_129.png",
+        "image_path": "masked/site_129.png",
+        "image_sha256": "7015af4173f7ff4768ae3b47c4f734da2a457b62e3492a64f7d2bf2dafd4a58b",
+        "width": 1366,
+        "height": 7871,
+        "full_tiles": 5
+      },
+      "unmasked": {
+        "filename": "Them.us_1.png",
+        "image_path": "unmasked/Them.us_1.png",
+        "image_sha256": "4c01737d690ef14f99e63d35cda27eb7ac6ae73d075f0d42c355fcccffb7b02a",
+        "width": 1366,
+        "height": 7871,
+        "full_tiles": 5
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_130",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "RIGHT-CENTER"
+      },
+      "masked": {
+        "filename": "site_130.png",
+        "image_path": "masked/site_130.png",
+        "image_sha256": "575b8e2a0987a8db76056d357e76e8c22a6a17df2c7a16324d51ffd8e3c42282",
+        "width": 1366,
+        "height": 2714,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "Housatonic_Valley_News.png",
+        "image_path": "unmasked/Housatonic_Valley_News.png",
+        "image_sha256": "b5edaa99527b1b62cb9c5cedecc16f79411527712040efe161b53187d09a30c5",
+        "width": 1366,
+        "height": 2714,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_131",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEAST BIASED"
+      },
+      "masked": {
+        "filename": "site_131.png",
+        "image_path": "masked/site_131.png",
+        "image_sha256": "3343710c7c3cb0af26a1fbea0e89e2ad98d98013d0c6aad571821e10e920712d",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "unmasked": {
+        "filename": "CNET.png",
+        "image_path": "unmasked/CNET.png",
+        "image_sha256": "e475c0fffca59c9e429a6612ee080e58b9969f02389177b3dbe1b39007b5551f",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_132",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_132.png",
+        "image_path": "masked/site_132.png",
+        "image_sha256": "5c8f5008ba9461ee822585d6c6408c3b8afcdd524c5143166e516f39ee5015de",
+        "width": 1366,
+        "height": 3831,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "Patriot_Fetch.png",
+        "image_path": "unmasked/Patriot_Fetch.png",
+        "image_sha256": "3e82354c8ae8c23435f4942b532123fedef915b74ddf6721da79e5678ebd86c7",
+        "width": 1366,
+        "height": 3831,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_133",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEAST BIASED"
+      },
+      "masked": {
+        "filename": "site_133.png",
+        "image_path": "masked/site_133.png",
+        "image_sha256": "41b662bdb8ede5eb03a43d9e4a90fb5e313f983f9863597db81be62a24344100",
+        "width": 1366,
+        "height": 3438,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "American_Heritage.png",
+        "image_path": "unmasked/American_Heritage.png",
+        "image_sha256": "191cde794e81e9f98d07ef3fb15ad178c7e765c5e7111234ab1c51e7fffa95bb",
+        "width": 1366,
+        "height": 3438,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_134",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_134.png",
+        "image_path": "masked/site_134.png",
+        "image_sha256": "bb3f0bd2325404f40612f1f7c5367001bd1201471f4f9744efba96e7cd9ae4cd",
+        "width": 1366,
+        "height": 10135,
+        "full_tiles": 6
+      },
+      "unmasked": {
+        "filename": "WLT_Report.png",
+        "image_path": "unmasked/WLT_Report.png",
+        "image_sha256": "a021d6d2b51f67ab8e384585044370c6a701e4128bb7cef9b23cfed4633bb0ee",
+        "width": 1366,
+        "height": 10135,
+        "full_tiles": 6
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_135",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEFT"
+      },
+      "masked": {
+        "filename": "site_135.png",
+        "image_path": "masked/site_135.png",
+        "image_sha256": "5c5ee1c8f55ae53ab097758512294cf6c15c9c4007c389fcc3409f14b379c901",
+        "width": 1366,
+        "height": 1840,
+        "full_tiles": 1
+      },
+      "unmasked": {
+        "filename": "Ceasefire_Magazine.png",
+        "image_path": "unmasked/Ceasefire_Magazine.png",
+        "image_sha256": "83457e0e50edb7e0ec50aaf2cf482d4092688bc222bd29ae392ac98bd2f881ba",
+        "width": 1366,
+        "height": 1840,
+        "full_tiles": 1
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_136",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "LEFT-CENTER"
+      },
+      "masked": {
+        "filename": "site_136.png",
+        "image_path": "masked/site_136.png",
+        "image_sha256": "3ff853e9040af31efc9bdab695b6f59b59072b44e07bcfa48f917b2047d376f7",
+        "width": 1366,
+        "height": 2896,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "Head_Topics.png",
+        "image_path": "unmasked/Head_Topics.png",
+        "image_sha256": "88e61dd9691bfdcb0ce60e25cae1d0abe359c5031a40f195dcf7ed5ff6d3fb07",
+        "width": 1366,
+        "height": 2896,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_137",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_137.png",
+        "image_path": "masked/site_137.png",
+        "image_sha256": "97169f7d10140d7e2d85e6f9f27b36a6fd0d8b2e98c6a7fb42637cc5958c61cb",
+        "width": 1366,
+        "height": 3791,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "ClimateScienceNews.png",
+        "image_path": "unmasked/ClimateScienceNews.png",
+        "image_sha256": "33e6495e26af8f1281fb09df34661a05e15413b8e1f47f60f0d37d7a21a4b2ec",
+        "width": 1366,
+        "height": 3791,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_138",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEAST BIASED"
+      },
+      "masked": {
+        "filename": "site_138.png",
+        "image_path": "masked/site_138.png",
+        "image_sha256": "b5b780e9df7f4756ee38a86b76cab63ef1fded492b32ff6fd0f17e0b4d0ef2ad",
+        "width": 1366,
+        "height": 5259,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "Bullshido.png",
+        "image_path": "unmasked/Bullshido.png",
+        "image_sha256": "a5b14aaddb6780ddc623f7f53888da50354de4f5d545ef685e900638ef58c171",
+        "width": 1366,
+        "height": 5259,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_139",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "RIGHT-CENTER"
+      },
+      "masked": {
+        "filename": "site_139.png",
+        "image_path": "masked/site_139.png",
+        "image_sha256": "f89e635ce9bc9c5bd96faf00bf83dfe5f2b5fbc0f31286c2da251dc28ff6d8ab",
+        "width": 1366,
+        "height": 3194,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "Pennsylvania_Business_Daily.png",
+        "image_path": "unmasked/Pennsylvania_Business_Daily.png",
+        "image_sha256": "09286502cbfe54c8350b41f97585a4d9f3b371299e189c8f4b6cf437ab56025f",
+        "width": 1366,
+        "height": 3194,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_140",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEAST BIASED"
+      },
+      "masked": {
+        "filename": "site_140.png",
+        "image_path": "masked/site_140.png",
+        "image_sha256": "9ad7e827829f1e579429a2949cf6477c1736a100805253b1ac502e043d43d1c6",
+        "width": 1366,
+        "height": 2103,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "Trading_Economics.png",
+        "image_path": "unmasked/Trading_Economics.png",
+        "image_sha256": "c4b42dc10c84410f0a3a11f3ac69be1d40ecd18eb04799849cdc89a463f13310",
+        "width": 1366,
+        "height": 2103,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": true,
+      "pixel_identical_training_image": true
+    },
+    {
+      "pair_id": "site_142",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "RIGHT-CENTER"
+      },
+      "masked": {
+        "filename": "site_142.png",
+        "image_path": "masked/site_142.png",
+        "image_sha256": "553810a0b1e378468907777e0e3c19108f5a563eb3e2e03335c92bb0badff34e",
+        "width": 1366,
+        "height": 2669,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "North_Pocono_News.png",
+        "image_path": "unmasked/North_Pocono_News.png",
+        "image_sha256": "3debd6203ee3c96117fce981af0651a30225e6994408a8fe3f6978442b4fc7ee",
+        "width": 1366,
+        "height": 2669,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_143",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_143.png",
+        "image_path": "masked/site_143.png",
+        "image_sha256": "2b9069041dde76aa29f7506a5210e1c21351b6efa8a4df9a26ab56e1bf6e7b8a",
+        "width": 1366,
+        "height": 3948,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "Pandemic_News.png",
+        "image_path": "unmasked/Pandemic_News.png",
+        "image_sha256": "6eaf085ffb31bd36b3c8ccd0461a0d5f0bfc8c1c57ff3f0cd94fedac336c169d",
+        "width": 1366,
+        "height": 3948,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_144",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_144.png",
+        "image_path": "masked/site_144.png",
+        "image_sha256": "20058c620d960b5bcf9a5cbe7aca60cfee79fcee192399e39f46403fe486d601",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "unmasked": {
+        "filename": "The_Goldwater.png",
+        "image_path": "unmasked/The_Goldwater.png",
+        "image_sha256": "e48f88cd76408ea2d08fc62f29335c96d06d8e209344cc4dcab55e09b9021849",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_146",
+      "labels": {
+        "factuality": "HIGH",
+        "bias": "LEAST BIASED"
+      },
+      "masked": {
+        "filename": "site_146.png",
+        "image_path": "masked/site_146.png",
+        "image_sha256": "4b54224e2a7e7d4b94efc19fe4deea52702ec1db2e03ebd1108710343a72a7b3",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "unmasked": {
+        "filename": "First_Coast_News.png",
+        "image_path": "unmasked/First_Coast_News.png",
+        "image_sha256": "db2f0a46bacb35d445fb4070acd9af70ddc73afe0cea1eda87f2ba1d59d434a1",
+        "width": 1366,
+        "height": 10716,
+        "full_tiles": 6
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_147",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "RIGHT-CENTER"
+      },
+      "masked": {
+        "filename": "site_147.png",
+        "image_path": "masked/site_147.png",
+        "image_sha256": "eff26008329bcd52659657a570c6ade6f3f6db04b720424e01e385959c1e454b",
+        "width": 1366,
+        "height": 2724,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "SE_Oklahoma_News.png",
+        "image_path": "unmasked/SE_Oklahoma_News.png",
+        "image_sha256": "0ac848d90fa4d444791127a1f97bb65aedf5aaba5a80f5fe8167f446ec76e2f8",
+        "width": 1366,
+        "height": 2724,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_148",
+      "labels": {
+        "factuality": "MIXED",
+        "bias": "RIGHT-CENTER"
+      },
+      "masked": {
+        "filename": "site_148.png",
+        "image_path": "masked/site_148.png",
+        "image_sha256": "1bff42f53f523f0db785869496bfd61baaea62daeee5550d3da918a08957a3ee",
+        "width": 1366,
+        "height": 2649,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "Northhampton_News.png",
+        "image_path": "unmasked/Northhampton_News.png",
+        "image_sha256": "7a36132c7be1ed78717534dc5e2128199f7deac30a7f20a2e13102d1e3349a05",
+        "width": 1366,
+        "height": 2649,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_149",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_149.png",
+        "image_path": "masked/site_149.png",
+        "image_sha256": "c0b44cc17c055f05b6f45a294221cdc5547a6281b43e2577ce6821fe8b03abe3",
+        "width": 1366,
+        "height": 2354,
+        "full_tiles": 2
+      },
+      "unmasked": {
+        "filename": "Here_is_the_Evidence.png",
+        "image_path": "unmasked/Here_is_the_Evidence.png",
+        "image_sha256": "dcf3bcdc927dfb77c4df6d7ebcc246e314dac000d6204606e024a9e884df6096",
+        "width": 1366,
+        "height": 2354,
+        "full_tiles": 2
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    },
+    {
+      "pair_id": "site_150",
+      "labels": {
+        "factuality": "LOW",
+        "bias": "RIGHT"
+      },
+      "masked": {
+        "filename": "site_150.png",
+        "image_path": "masked/site_150.png",
+        "image_sha256": "ae5e9ebc10aa9e91885a2bbab9134ef018fcbfbf730dc83b214eac412382767d",
+        "width": 1366,
+        "height": 3889,
+        "full_tiles": 3
+      },
+      "unmasked": {
+        "filename": "CyberWar.News.png",
+        "image_path": "unmasked/CyberWar.News.png",
+        "image_sha256": "f18e13783dd1b5de1bfa04c0d3fdf8de0811d65b1f15f352333f18de048306cc",
+        "width": 1366,
+        "height": 3889,
+        "full_tiles": 3
+      },
+      "training_seen_outlet": false,
+      "pixel_identical_training_image": false
+    }
+  ],
+  "source_manifest_sha256": "7ea989d1cf8c5abe6f94f4c1f030a5b7dca0a200c2ddcbc21f7845b8bf17b2bb",
+  "training_seen_outlets": 43,
+  "pixel_identical_training_images": 42,
+  "unseen_outlets": 90
+}

@@ -1,0 +1,368 @@
+{
+  "available": [
+    {
+      "condition": "main",
+      "method": "gpt56",
+      "task": "factuality"
+    },
+    {
+      "condition": "main",
+      "method": "gpt56",
+      "task": "bias"
+    },
+    {
+      "condition": "main",
+      "method": "opus5",
+      "task": "factuality"
+    },
+    {
+      "condition": "main",
+      "method": "opus5",
+      "task": "bias"
+    },
+    {
+      "condition": "main",
+      "method": "kimi",
+      "task": "factuality"
+    },
+    {
+      "condition": "main",
+      "method": "kimi",
+      "task": "bias"
+    },
+    {
+      "condition": "main",
+      "method": "qwen",
+      "task": "factuality"
+    },
+    {
+      "condition": "main",
+      "method": "qwen",
+      "task": "bias"
+    },
+    {
+      "condition": "main",
+      "method": "qwen35_base",
+      "task": "factuality"
+    },
+    {
+      "condition": "main",
+      "method": "qwen35_base",
+      "task": "bias"
+    },
+    {
+      "condition": "main",
+      "method": "qwen35_finetuned",
+      "task": "factuality"
+    },
+    {
+      "condition": "main",
+      "method": "qwen35_finetuned",
+      "task": "bias"
+    },
+    {
+      "condition": "main",
+      "method": "ministral_base",
+      "task": "factuality"
+    },
+    {
+      "condition": "main",
+      "method": "ministral_base",
+      "task": "bias"
+    },
+    {
+      "condition": "main",
+      "method": "ministral_finetuned",
+      "task": "bias"
+    },
+    {
+      "condition": "main",
+      "method": "ministral_finetuned",
+      "task": "factuality"
+    },
+    {
+      "condition": "masked",
+      "method": "gpt56",
+      "task": "factuality"
+    },
+    {
+      "condition": "masked",
+      "method": "gpt56",
+      "task": "bias"
+    },
+    {
+      "condition": "masked",
+      "method": "opus5",
+      "task": "factuality"
+    },
+    {
+      "condition": "masked",
+      "method": "opus5",
+      "task": "bias"
+    },
+    {
+      "condition": "masked",
+      "method": "kimi",
+      "task": "factuality"
+    },
+    {
+      "condition": "masked",
+      "method": "kimi",
+      "task": "bias"
+    },
+    {
+      "condition": "masked",
+      "method": "qwen",
+      "task": "factuality"
+    },
+    {
+      "condition": "masked",
+      "method": "qwen",
+      "task": "bias"
+    },
+    {
+      "condition": "masked",
+      "method": "qwen35_base",
+      "task": "factuality"
+    },
+    {
+      "condition": "masked",
+      "method": "qwen35_base",
+      "task": "bias"
+    },
+    {
+      "condition": "masked",
+      "method": "qwen35_finetuned",
+      "task": "factuality"
+    },
+    {
+      "condition": "masked",
+      "method": "qwen35_finetuned",
+      "task": "bias"
+    },
+    {
+      "condition": "masked",
+      "method": "ministral_base",
+      "task": "factuality"
+    },
+    {
+      "condition": "masked",
+      "method": "ministral_base",
+      "task": "bias"
+    },
+    {
+      "condition": "masked",
+      "method": "ministral_finetuned",
+      "task": "factuality"
+    },
+    {
+      "condition": "masked",
+      "method": "ministral_finetuned",
+      "task": "bias"
+    },
+    {
+      "condition": "unmasked",
+      "method": "gpt56",
+      "task": "factuality"
+    },
+    {
+      "condition": "unmasked",
+      "method": "gpt56",
+      "task": "bias"
+    },
+    {
+      "condition": "unmasked",
+      "method": "opus5",
+      "task": "factuality"
+    },
+    {
+      "condition": "unmasked",
+      "method": "opus5",
+      "task": "bias"
+    },
+    {
+      "condition": "unmasked",
+      "method": "kimi",
+      "task": "factuality"
+    },
+    {
+      "condition": "unmasked",
+      "method": "kimi",
+      "task": "bias"
+    },
+    {
+      "condition": "unmasked",
+      "method": "qwen",
+      "task": "factuality"
+    },
+    {
+      "condition": "unmasked",
+      "method": "qwen",
+      "task": "bias"
+    },
+    {
+      "condition": "unmasked",
+      "method": "qwen35_base",
+      "task": "factuality"
+    },
+    {
+      "condition": "unmasked",
+      "method": "qwen35_base",
+      "task": "bias"
+    },
+    {
+      "condition": "unmasked",
+      "method": "qwen35_finetuned",
+      "task": "factuality"
+    },
+    {
+      "condition": "unmasked",
+      "method": "qwen35_finetuned",
+      "task": "bias"
+    },
+    {
+      "condition": "unmasked",
+      "method": "ministral_base",
+      "task": "factuality"
+    },
+    {
+      "condition": "unmasked",
+      "method": "ministral_base",
+      "task": "bias"
+    },
+    {
+      "condition": "unmasked",
+      "method": "ministral_finetuned",
+      "task": "factuality"
+    },
+    {
+      "condition": "unmasked",
+      "method": "ministral_finetuned",
+      "task": "bias"
+    }
+  ],
+  "missing_main_prediction_artifacts": [],
+  "note": "Main-test groups without included prediction artifacts are listed separately.",
+  "sources": [
+    {
+      "path": "artifacts/evaluations/api-full-hf-gpt56-opus5-20261006/gpt56.audit/predictions.jsonl",
+      "sha256": "643288478bf45d4f6aca98ea110a756155724d396df7cb1577e3e6be7bc6eabf"
+    },
+    {
+      "path": "artifacts/evaluations/api-full-hf-gpt56-opus5-20261006/opus5.audit/predictions.jsonl",
+      "sha256": "0c2e4b2d45bfa03fa2cce912dc8ec4b0f368efef7a45e14b921d24eca9f6f57e"
+    },
+    {
+      "path": "artifacts/evaluations/api-full-hf-20261001/kimi.audit/predictions.jsonl",
+      "sha256": "51cd571f3ca496d9c1ffb8ec4e76741c4e656cf042111886ba26439fdd865638"
+    },
+    {
+      "path": "artifacts/evaluations/qwen-recovery-hf-20261002/qwen.audit/predictions.jsonl",
+      "sha256": "b037b5cbad59fd7d7eb65bcd4a8e14b1b705645685a9f30bfedf29432a90859b"
+    },
+    {
+      "path": "artifacts/evaluations/recovered-runpod-main-20261021/qwen35/zero_shot.audit/predictions.jsonl",
+      "sha256": "3ffdb943a58bf000b37aea378b673937240b6f8574301ba94229996591fd1617"
+    },
+    {
+      "path": "artifacts/evaluations/recovered-runpod-main-20261021/qwen35/finetuned_factuality.audit/predictions.jsonl",
+      "sha256": "b55c0329a857dfde5a480f75e4cdab2a89b5ff75c63abaee6faa69c7e348d238"
+    },
+    {
+      "path": "artifacts/evaluations/recovered-runpod-main-20261021/qwen35/finetuned_bias.audit/predictions.jsonl",
+      "sha256": "71eeb79bcc1d6f6e8f9b42300a66a76b927690098de2a9cb993090df522527e2"
+    },
+    {
+      "path": "artifacts/evaluations/recovered-runpod-main-20261021/ministral/zero_shot.audit/predictions.jsonl",
+      "sha256": "aac551e51e9165c549ba86603ab631961860b4bcecf46f1d61c116e9f8ee0e3a"
+    },
+    {
+      "path": "artifacts/evaluations/ministral_bias_hf_20261005.audit/predictions.jsonl",
+      "sha256": "632dd9a6eaf0e75d3f009d764d9830984a930961c3bb9d8d6dba894039eb04c1"
+    },
+    {
+      "path": "artifacts/evaluations/recovered-runpod-main-20261021/ministral/finetuned_factuality.audit/predictions.jsonl",
+      "sha256": "45dba54af591a5b8ced06c48c7ed53fccbe004f54bb67bcf22f4b8f2cf879b57"
+    },
+    {
+      "path": "artifacts/evaluations/api-masked-test-gpt56-opus5-20261010/gpt56.audit/predictions.jsonl",
+      "sha256": "1d834a88ad29a35943c5aef9b990eedf09d8d8dd249d2d79b23cbf4c21434685"
+    },
+    {
+      "path": "artifacts/evaluations/api-masked-test-gpt56-opus5-20261010/opus5.audit/predictions.jsonl",
+      "sha256": "b6c43615682c407ef056bd4148e6b7baf0202d4965615d518990a5469f7944aa"
+    },
+    {
+      "path": "artifacts/evaluations/api-masked-test-20261009/kimi.audit/predictions.jsonl",
+      "sha256": "3c1b40fdf7ad5f10dbcdcce332dd9805416e28f4b24284f0f0c194d9ba17faca"
+    },
+    {
+      "path": "artifacts/evaluations/api-masked-test-qwen-recovery-20261009/qwen.audit/predictions.jsonl",
+      "sha256": "ab6c15ca645db8307089c295980d2ef910d3c3d32e5b8d44552c1904eea12b6b"
+    },
+    {
+      "path": "artifacts/evaluations/masked-local-20261009/qwen35_base.audit/predictions.jsonl",
+      "sha256": "2288934920e9e4172784086289086b8d45c0ef777b236693631be686cd65cd07"
+    },
+    {
+      "path": "artifacts/evaluations/masked-local-20261009/qwen35_finetuned_factuality.audit/predictions.jsonl",
+      "sha256": "5b9a9dfe8b0d58610d6f0df6c83f28046fd769d2f29ebc181fd05b6d5a9c10b8"
+    },
+    {
+      "path": "artifacts/evaluations/masked-local-20261009/qwen35_finetuned_bias.audit/predictions.jsonl",
+      "sha256": "9ad2c0d4a0862b031cdc80f56a3780c3b5b8ece352c519fbeb44d2498bd56f9e"
+    },
+    {
+      "path": "artifacts/evaluations/masked-local-20261009/ministral_base.audit/predictions.jsonl",
+      "sha256": "db4c0c036219c326cf73988ff92ea6d79646e10d046abb1abaafe616ab6020d8"
+    },
+    {
+      "path": "artifacts/evaluations/masked-local-20261009/ministral_finetuned_factuality.audit/predictions.jsonl",
+      "sha256": "57a9e4d7e171fc0a5f7bd3149cfc62c16e8c55e5c805bb0c1c413c31c1eced03"
+    },
+    {
+      "path": "artifacts/evaluations/masked-local-20261009/ministral_finetuned_bias.audit/predictions.jsonl",
+      "sha256": "70404b82abfddc7af144afa099bf70c6aa6a4112613bd06717670330bb2be65e"
+    },
+    {
+      "path": "artifacts/evaluations/paired-unmasked-133-api-20261011/gpt56/predictions.audit/predictions.jsonl",
+      "sha256": "d7923c1ed70e73ac279691abb59a65f997d4d9741a3f2d85011bedc3f2c84f1a"
+    },
+    {
+      "path": "artifacts/evaluations/paired-unmasked-133-api-20261011/opus5/predictions.audit/predictions.jsonl",
+      "sha256": "ba26e03354d2207beb15dc2934b708598f33461f0d8dc4ccdc17d55a482ed1d4"
+    },
+    {
+      "path": "artifacts/evaluations/paired-unmasked-133-api-20261011/kimi/predictions.audit/predictions.jsonl",
+      "sha256": "bfc19b685e749ba8fb6feba35a293cdd6d7c2bf71bd89829df34eb5e9bcfa32b"
+    },
+    {
+      "path": "artifacts/evaluations/paired-unmasked-133-api-20261011/qwen/predictions.audit/predictions.jsonl",
+      "sha256": "b98b0c0b2596300753182294b7a77c4531c773f90aaaa372200f9307d09ce73e"
+    },
+    {
+      "path": "artifacts/evaluations/paired-unmasked-133-local-20261011/qwen35_base.audit/predictions.jsonl",
+      "sha256": "17bf3756b425eca7d6e7e0393cacfd1a5a6db5275ce6c40372497cdd9efddf86"
+    },
+    {
+      "path": "artifacts/evaluations/paired-unmasked-133-local-20261011/qwen35_finetuned_factuality.audit/predictions.jsonl",
+      "sha256": "42d4b7678249e28d88186b1cfccd11344bb950e652050beb517953eb10add5b7"
+    },
+    {
+      "path": "artifacts/evaluations/paired-unmasked-133-local-20261011/qwen35_finetuned_bias.audit/predictions.jsonl",
+      "sha256": "3efd9de8ceea645e9ebb841f7ad128245267b8135dcb8b9e228ba2bb518b4084"
+    },
+    {
+      "path": "artifacts/evaluations/paired-unmasked-133-local-20261011/ministral_base.audit/predictions.jsonl",
+      "sha256": "554e14b11fb896c8f2b1a143c23c8b9d479c706fb70323b5ee9c09a06fdc048a"
+    },
+    {
+      "path": "artifacts/evaluations/paired-unmasked-133-local-20261011/ministral_finetuned_factuality.audit/predictions.jsonl",
+      "sha256": "81266ffbd195445349fdbfa50df2344eb6b4397dfc6bb2d0c192427e6859bed3"
+    },
+    {
+      "path": "artifacts/evaluations/paired-unmasked-133-local-20261011/ministral_finetuned_bias.audit/predictions.jsonl",
+      "sha256": "d479e94f4214f91952233775a95f46df18a25df32877423a3acb7e6d35104106"
+    }
+  ]
+}

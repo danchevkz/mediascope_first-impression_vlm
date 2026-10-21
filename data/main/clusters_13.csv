@@ -1,0 +1,1075 @@
+cluster,split,image,media_name,url,factuality,bias,linked_by
+cluster_00_train,train,ATL_Standard.png,ATL Standard,http://atlstandard.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Ada_Reporter.png,Ada Reporter,http://adareporter.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Adams_County_Times.png,Adams County Times,http://adamscountytimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Aiken_Times.png,Aiken Times,http://aikentimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Albany_Standard.png,Albany Standard,http://albanystandard.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Aloha_State_News.png,Aloha State News,http://alohastatenews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Anderson_Reporter.png,Anderson Reporter,http://andersonreporter.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Ann_Arbor_Times.png,Ann Arbor Times,http://annarbortimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Anne_Arundel_Today.png,Anne Arundel Today,http://annearundeltoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Anoka_Times.png,Anoka Times,http://anokatimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Asheville_Reporter.png,Asheville Reporter,http://Ashevillereporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Athens_Reporter.png,Athens Reporter,http://athensreporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Auburn_Times.png,Auburn Times,http://auburntimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Baltimore_City_Wire.png,Baltimore City Wire,http://baltimorecitywire.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,BankingDive.png,BankingDive,https://bankingdive.com,HIGH,LEAST BIASED,cluster
+cluster_00_train,train,Baton_Rouge_Reporter.png,Baton Rouge Reporter,http://batonrougereporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Battle_Creek_Times.png,Battle Creek Times,http://battlecreektimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Beaver_County_News.png,Beaver County News,http://beaverconews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Beaver_State_News.png,Beaver State News,http://beaverstatenews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Berkeley_Leader.png,Berkeley Leader,http://Berkeleyleader.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,BioPharmaDive.png,BioPharmaDive,https://biopharmadive.com,HIGH,LEAST BIASED,cluster
+cluster_00_train,train,Bloomington_Leader.png,Bloomington Leader,http://bloomingtonleader.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Bluegrass_Times.png,Bluegrass Times,http://bluegrasstimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Boise_City_Wire.png,Boise City Wire,http://boisecitywire.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Bowling_Green_Today.png,Bowling Green Today,http://bowlinggreentoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Branson_Times.png,Branson Times,http://bransontimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Brevard_Sun.png,Brevard Sun,http://brevardsun.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Bridgeport_Times.png,Bridgeport Times,http://bridgeporttimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Bristol_Reporter.png,Bristol Reporter,http://bristolreporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Buckeye_Reporter.png,Buckeye Reporter,http://buckeyereporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Burlington_Reporter.png,Burlington Reporter,http://burlingtonreporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Butler_County_Today.png,Butler County Today,http://butlercountytoday.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,C-StoreDive.png,C-StoreDive,https://cstoredive.com,HIGH,LEAST BIASED,cluster
+cluster_00_train,train,CDA_Reporter.png,CDA Reporter,http://cdareporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,CFO_Dive.png,CFO Dive,https://cfo.com,HIGH,LEAST BIASED,cluster
+cluster_00_train,train,CX_Dive.png,CX Dive,https://customerexperiencedive.com,HIGH,LEAST BIASED,cluster
+cluster_00_train,train,Cabarrus_Today.png,Cabarrus Today,http://cabarrustoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Canton_Reporter.png,Canton Reporter,http://cantonreporter.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Cape_News.png,Cape News,http://capemonews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Capitol_News.png,Capitol News,http://micapitolnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Carbondale_Reporter.png,Carbondale Reporter,http://carbondalereporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Centennial_State_News.png,Centennial State News,http://centennialstatenews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Central_Broward_News.png,Central Broward News,http://centralbrowardnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Central_Colorado_News.png,Central Colorado News,http://centralcoloradonews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Central_Georgia_News.png,Central Georgia News,http://centralgeorgianews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Central_Idaho_Times.png,Central Idaho Times,http://centralidahotimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Central_Iowa_Times.png,Central Iowa Times,http://centraliowatimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Central_Louisiana_News.png,Central Louisiana News,https://centrallouisiananews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Central_Missouri_News.png,Central Missouri News,http://centralmissourinews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Central_Montana_Times.png,Central Montana Times,http://centralmontanatimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Central_ND_News.png,Central ND News,http://centralndnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Central_OC_Times.png,Central OC Times,http://centraloctimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Central_Ohio_Today.png,Central Ohio Today,http://centralohiotoday.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Central_Oregon_Times.png,Central Oregon Times,https://centraloregontimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Central_STL_News.png,Central STL News,http://centralstlnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Central_South_Dakota_News.png,Central South Dakota News,http://centralsdnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Central_Utah_News.png,Central Utah News,http://centralutahnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Chambana_Sun.png,Chambana Sun,https://chambanasun.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Chapel_Hill_Review.png,Chapel Hill Review,http://chapelhillreview.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Charleston_Reporter.png,Charleston Reporter,http://charlestonreporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Chicago_City_Wire.png,Chicago City Wire,http://chicagocitywire.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Chico_Times.png,Chico Times,http://chicotimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Cincy_Reporter.png,Cincy Reporter,http://cincyreporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,CioDive.png,CioDive,https://ciodive.com,HIGH,LEAST BIASED,cluster
+cluster_00_train,train,Clarksville_Times.png,Clarksville Times,http://clarksvilletimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Clay_County_Times.png,Clay County Times,http://claycotimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Clay_Reporter.png,Clay Reporter,http://clayreporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Clermont_Times.png,Clermont Times,http://clermonttimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Cleveland_Reporter.png,Cleveland Reporter,http://Clevelandreporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Coachella_Today.png,Coachella Today,http://coachellatoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Coastal_GA_News.png,Coastal GA News,http://coastalganews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Coconino_News.png,Coconino News,http://coconinonews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Columbia_Standard.png,Columbia Standard,http://columbiastandard.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Columbus_Standard.png,Columbus Standard,http://columbusstandard.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Constitution_State_News.png,Constitution State News,http://constitutionstatenews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,ConstructionDive.png,ConstructionDive,https://constructiondive.com,HIGH,LEAST BIASED,cluster
+cluster_00_train,train,Cornhusker_State_News.png,Cornhusker State News,http://cornhuskerstatenews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Dakota_Times.png,Dakota Times,http://dakotatimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Dartmouth_Times.png,Dartmouth Times,https://dartmouthtimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Davis_Times.png,Davis Times,http://davistimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Dayton_Reporter.png,Dayton Reporter,http://daytonreporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,DeKalb_GA_News.png,DeKalb GA News,http://dekalbganews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Decatur_Times.png,Decatur Times,http://decaturtimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Delaware_County_Review.png,Delaware County Review,http://delcoreview.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Denver_City_Wire.png,Denver City Wire,http://denvercitywire.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Des_Moines_Sun.png,Des Moines Sun,http://desmoinessun.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Detroit_City_Wire.png,Detroit City Wire,http://detroitcitywire.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Dorchester_Today.png,Dorchester Today,http://dorchestertoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Down_River_Today.png,Down River Today,http://downrivertoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Dupage_Policy_Journal.png,Dupage Policy Journal,http://dupagepolicyjournal.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Durham_Reporter.png,Durham Reporter,http://durhamreporter.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Duval_Times.png,Duval Times,http://duvaltimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,EC_Georgia_News.png,EC Georgia News,http://ecgeorgianews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,EC_Kansas_News.png,EC Kansas News,http://eckansasnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,EC_Nebraska_News.png,EC Nebraska News,http://ecnebraskanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,EC_North_Carolina_News.png,EC North Carolina News,http://ecnorthcarolinanews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,EC_Ohio_News.png,EC Ohio News,http://ecohionews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,ESG_Dive.png,ESG Dive,https://esgdive.com,HIGH,LEAST BIASED,cluster
+cluster_00_train,train,Eagle_Valley_Times.png,Eagle Valley Times,http://eaglevalleytimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,East_Alameda_News.png,East Alameda News,http://eastalamedanews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,East_Arapahoe_News.png,East Arapahoe News,http://eastarapahoenews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,East_Arizona_News.png,East Arizona News,http://eastarizonanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,East_Central_Alabama_News.png,East Central Alabama News,http://ecalabamanews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,East_Central_Iowa_News.png,East Central Iowa News,https://eciowanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,East_Central_Reporter.png,East Central Reporter,http://eastcentralreporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,East_Cleveland_News.png,East Cleveland News,http://eastclevelandnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,East_Contra_Costa_News.png,East Contra Costa News,http://eastcontracostanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,East_Hillsborough_News.png,East Hillsborough News,http://easthillsboroughnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,East_Idaho_Times.png,East Idaho Times,http://eastidahotimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,East_Indy_News.png,East Indy News,http://eastindynews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,East_Lake_Norman_News.png,East Lake Norman News,http://eastlakenormannews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,East_Little_Rock_Times.png,East Little Rock Times,http://eastlittlerocktimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,East_Michigan_News.png,East Michigan News,http://eastmichigannews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,East_Oregon_News.png,East Oregon News,http://eastoregonnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,East_PDX_Today.png,East PDX Today,http://eastpdxtoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,East_Panhandle_News.png,East Panhandle News,http://eastpanhandlenews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,East_SBV_Times.png,East SBV Times,http://eastsbvtimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,East_SFV_Today.png,East SFV Today,http://eastsfvtoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,East_SLC_News.png,East SLC News,http://eastslcnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,East_San_Diego_News.png,East San Diego News,http://eastsandiegonews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,East_Sierra_News.png,East Sierra News,http://eastsierranews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,East_Twin_Cities.png,East Twin Cities,http://easttwincities.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,East_Ventura_News.png,East Ventura News,http://eastventuranews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,East_Volusia_News.png,East Volusia News,http://eastvolusianews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,East_Wake_Times.png,East Wake Times,http://Eastwaketimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Eastern_Wayne_Today.png,Eastern Wayne Today,http://easternwaynetoday.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Elizabethtown_Times.png,Elizabethtown Times,http://elizabethtowntimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Elkhart_Times.png,Elkhart Times,http://elkharttimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Emerald_Coast_Times.png,Emerald Coast Times,http://emeraldcoasttimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,FT_Wayne_Times.png,FT Wayne Times,http://ftwaynetimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Facilities_Dive.png,Facilities Dive,https://facilitiesdive.com,HIGH,LEAST BIASED,cluster
+cluster_00_train,train,Fairfield_Reporter.png,Fairfield Reporter,http://fairfieldreporter.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Fargo_Standard.png,Fargo Standard,http://fargostandard.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Fayetteville_Standard.png,Fayetteville Standard,http://fayettevillestandard.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Findlay_Times.png,Findlay Times,http://findlaytimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,First_State_Times.png,First State Times,http://firststatetimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,FoodDive.png,FoodDive,https://fooddive.com,HIGH,LEAST BIASED,cluster
+cluster_00_train,train,Foothills_Review.png,Foothills Review,http://foothillsreview.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Fort_Smith_Times.png,Fort Smith Times,http://fortsmithtimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Fresno_Leader.png,Fresno Leader,http://fresnoleader.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,GTR_Times.png,GTR Times,http://gtrtimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Gadsden_Today.png,Gadsden Today,http://gadsdentoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Galesburg_Reporter.png,Galesburg Reporter,http://galesburgreporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Gastonia_Times.png,Gastonia Times,http://gastoniatimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Gem_State_Wire.png,Gem State Wire,http://gemstatewire.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Genesee_News.png,Genesee News,http://geneseenews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Georgia_Mountain_News.png,Georgia Mountain News,http://georgiamountainnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Gold_Country_Today.png,Gold Country Today,http://goldcountrytoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Golden_State_Today.png,Golden State Today,http://goldenstatetoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Grand_Canyon_Times.png,Grand Canyon Times,http://grandcanyontimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Grand_Junction_Times.png,Grand Junction Times,http://grandjunctiontimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Grand_Rapids_Reporter.png,Grand Rapids Reporter,http://grandrapidsreporter.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Granite_State_Times.png,Granite State Times,https://granitestatetimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Great_Lakes_Wire.png,Great Lakes Wire,http://greatlakeswire.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Greene_County_Times.png,Greene County Times,https://greenecotimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Greensboro_Reporter.png,Greensboro Reporter,http://greensbororeporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Greenville_Leader.png,Greenville Leader,http://greenvilleleader.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Greenville_Reporter.png,Greenville Reporter,http://greenvillereporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,GroceryDive.png,GroceryDive,https://grocerydive.com,HIGH,LEAST BIASED,cluster
+cluster_00_train,train,Grundy_Reporter.png,Grundy Reporter,http://grundyreporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,HRDive.png,HRDive,https://hrdive.com,HIGH,LEAST BIASED,cluster
+cluster_00_train,train,Hamilton_Reporter.png,Hamilton Reporter,http://hamiltonreporter.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Harford_News.png,Harford News,http://harfordnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Hawkeye_Reporter.png,Hawkeye Reporter,http://hawkeyereporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Hernando_Reporter.png,Hernando Reporter,http://hernandoreporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Hickory_Sun.png,Hickory Sun,http://hickorysun.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,High_Country_Times.png,High Country Times,http://highcountrytimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,HigherEd_Dive.png,HigherEd Dive,https://highereddive.com,HIGH,LEAST BIASED,cluster
+cluster_00_train,train,Hinds_Today.png,Hinds Today,https://hindstoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Holland_Reporter.png,Holland Reporter,http://hollandreporter.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Honolulu_Reporter.png,Honolulu Reporter,http://honolulureporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Hoosier_State_Today.png,Hoosier State Today,http://hoosierstatetoday.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Hopkinsville_Times.png,Hopkinsville Times,http://hopkinsvilletimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,HotelDive.png,HotelDive,https://hoteldive.com,HIGH,LEAST BIASED,cluster
+cluster_00_train,train,Houma_Thibodaux_News.png,Houma Thibodaux News,http://houmathibodauxnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Howard_County_News.png,Howard County News,http://howardconews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Huntsville_Leader.png,Huntsville Leader,http://huntsvilleleader.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Hutch_Today.png,Hutch Today,http://hutchtoday.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,IBX_News.png,IBX News,http://ibxnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Illinois_Valley_Times.png,Illinois Valley Times,http://illinoisvalleytimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Imperial_CA_News.png,Imperial CA News,http://imperialcanews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Indy_Standard.png,Indy Standard,http://indystandard.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Interior_Alaska_News.png,Interior Alaska News,http://interioralaskanews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Iowa_City_Today.png,Iowa City Today,http://iowacitytoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Jackson_Purchase_News.png,Jackson Purchase News,http://jacksonpurchasenews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Jefferson_City_News.png,Jefferson City News,http://jeffcitynews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Jefferson_County_Times.png,Jefferson County Times,http://jeffcotimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Jefferson_Reporter.png,Jefferson Reporter,http://jeffersonreporter.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Joco_Today.png,Joco Today,http://jocotoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Johnson_City_Times.png,Johnson City Times,http://johnsoncitytimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Johnston_Reporter.png,Johnston Reporter,http://johnstonreporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Jonesboro_Times.png,Jonesboro Times,http://jonesborotimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,K-12_Dive.png,K-12 Dive,https://k12dive.com,HIGH,LEAST BIASED,cluster
+cluster_00_train,train,KC_Reporter.png,KC Reporter,http://kcreporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Kalamazoo_Times.png,Kalamazoo Times,http://kalamazootimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Kane_County_Reporter.png,Kane County Reporter,http://kanecountyreporter.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Kankakee_Times.png,Kankakee Times,http://kankakeetimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Kauai_Sun.png,Kauai Sun,http://kauaisun.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Kendall_County_Times.png,Kendall County Times,http://kendallcountytimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Kent_County_Times.png,Kent County Times,http://kentcotimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Kentuckiana_Times.png,Kentuckiana Times,http://kentuckianatimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Kern_County_Times.png,Kern County Times,http://kerncountytimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Key_West_Reporter.png,Key West Reporter,http://keywestreporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Kings_County_Times.png,Kings County Times,http://kingscountytimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Knox_Times.png,Knox Times,http://knoxtimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Kokomo_Standard.png,Kokomo Standard,http://Kokomostandard.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,LAX_Leader.png,LAX Leader,http://laxleader.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,LA_Harbor_News.png,LA Harbor News,http://laharbornews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Lafayette_Reporter.png,Lafayette Reporter,http://lafayettereporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Lafayette_Times.png,Lafayette Times,http://Lafayettetimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Lake_County_Gazette.png,Lake County Gazette,http://lakecountygazette.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Lake_County_Times.png,Lake County Times,http://lakecountytimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Lake_Region_News.png,Lake Region News,http://lakeregionnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Lake_Tahoe_Sun.png,Lake Tahoe Sun,http://laketahoesun.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Lane_County_News.png,Lane County News,http://laneconews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Lansing_Sun.png,Lansing Sun,http://lansingsun.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Larimer_News.png,Larimer News,http://larimernews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Las_Vegas_City_Wire.png,Las Vegas City Wire,http://lasvegascitywire.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Last_Frontier_News.png,Last Frontier News,http://lastfrontiernews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Lawrence_Reporter.png,Lawrence Reporter,http://lawrencereporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Licking_Today.png,Licking Today,http://lickingtoday.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Lima_Reporter.png,Lima Reporter,http://limareporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Little_Apple_Times.png,Little Apple Times,http://littleappletimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Livingston_Today.png,Livingston Today,https://livingstontoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Lorain_Times.png,Lorain Times,http://loraintimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Louisville_City_Wire.png,Louisville City Wire,http://louisvillecitywire.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Lowe_Delta_News.png,Lowe Delta News,http://lowedeltanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Lower_West_SC_News.png,Lower West SC News,http://lowerwestscnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Macomb_Today.png,Macomb Today,http://macombtoday.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Macon_Reporter.png,Macon Reporter,http://maconreporter.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Macon_Times.png,Macon Times,http://macontimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Magic_Valley_Times.png,Magic Valley Times,http://magicvalleytimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Magnolia_State_News.png,Magnolia State News,http://magnoliastatenews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Manatee_Review.png,Manatee Review,http://manateereview.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Mansfield_Times.png,Mansfield Times,http://mansfieldtimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,ManufacturingDive.png,ManufacturingDive,https://manufacturingdive.com,HIGH,LEAST BIASED,cluster
+cluster_00_train,train,Marin_Leader.png,Marin Leader,http://marinleader.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Marion-Morrow_Times.png,Marion-Morrow Times,http://marionmorrowtimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,MarketingDive.png,MarketingDive,https://marketingdive.com,HIGH,LEAST BIASED,cluster
+cluster_00_train,train,Maryland_State_Wire.png,Maryland State Wire,http://mdstatewire.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Maui_Reporter.png,Maui Reporter,http://mauireporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,McHenry_Times.png,McHenry Times,http://mchenrytimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,McLean_County_Times.png,McLean County Times,http://mcleancountytimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,MedTechDive.png,MedTechDive,https://medtechdive.com,HIGH,LEAST BIASED,cluster
+cluster_00_train,train,Medina_Today.png,Medina Today,http://medinatoday.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Memphis_Standard.png,Memphis Standard,http://memphisstandard.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Merced_Times.png,Merced Times,http://mercedtimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Metro_East_Sun.png,Metro East Sun,http://metroeastsun.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Metro_Lex_News.png,Metro Lex News,http://metrolexnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Miami_Courant.png,Miami Courant,http://miamicourant.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Mid_Coast_Times.png,Mid Coast Times,http://midcoasttimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Mid_Valley_Reporter.png,Mid Valley Reporter,http://midvalleyreporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Minneapolis_Review.png,Minneapolis Review,http://minneapolisreview.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Minnesota_State_Wire.png,Minnesota State Wire,http://minnesotastatewire.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Mississippi_Gulf_News.png,Mississippi Gulf News,http://msgulfnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Mobile_Courant.png,Mobile Courant,http://mobilecourant.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Mohave_Today.png,Mohave Today,http://mohavetoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Monroe_Review.png,Monroe Review,http://monroereview.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Monterey_Times.png,Monterey Times,http://montereytimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Montgomery_News.png,Montgomery News,http://montgomerymdnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Morristown_Times.png,Morristown Times,http://morristowntimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,MultiFamilyDive.png,MultiFamilyDive,https://multifamilydive.com,HIGH,LEAST BIASED,cluster
+cluster_00_train,train,Muncie_Reporter.png,Muncie Reporter,http://munciereporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Muskegon_Sun.png,Muskegon Sun,http://Muskegonsun.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Myrtle_Beach_Leader.png,Myrtle Beach Leader,http://myrtlebeachleader.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NC_Florida_News.png,NC Florida News,http://ncfloridanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,NC_Georgia_News.png,NC Georgia News,http://ncgeorgianews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NC_Indiana_News.png,NC Indiana News,http://ncindiananews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NC_Kansas_News.png,NC Kansas News,http://nckansasnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NC_Kentucky_News.png,NC Kentucky News,http://nckentuckynews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NC_Minnesota_News.png,NC Minnesota News,http://ncminnesotanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,NC_Mississippi_News.png,NC Mississippi News,http://ncmissnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NC_North_Carolina_News.png,NC North Carolina News,http://ncncnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,NC_South_Carolina_Times.png,NC South Carolina Times,http://ncsctimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NC_Tennessee_News.png,NC Tennessee News,http://nctennnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NC_Union_News.png,NC Union News,http://ncunionnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,ND_North_News.png,ND North News,http://ndnorthnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NE_Alabama_News.png,NE Alabama News,http://nealabamanews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NE_Atlanta_News.png,NE Atlanta News,http://neatlantanews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NE_Cali_News.png,NE Cali News,http://necalinews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NE_Colorado_News.png,NE Colorado News,http://necoloradonews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NE_Florida_News.png,NE Florida News,http://nefloridanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,NE_Franklin_News.png,NE Franklin News,http://nefranklinnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,NE_Indiana_News.png,NE Indiana News,http://neindiananews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,NE_Iowa_News.png,NE Iowa News,http://neiowanews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NE_Kansas_News.png,NE Kansas News,http://nekansasnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,NE_Kentucky_News.png,NE Kentucky News,http://nekentuckynews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NE_Louisiana_News.png,NE Louisiana News,http://nelouisiananews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NE_Mississippi_News.png,NE Mississippi News,http://nemissnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NE_Missouri_News.png,NE Missouri News,http://nemissourinews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NE_Nashville_News.png,NE Nashville News,http://nenashvillenews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,NE_Nebraska_News.png,NE Nebraska News,http://nenebraskanews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NE_North_Dakota_News.png,NE North Dakota News,http://nenorthdakotanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,NE_Ohio_Times.png,NE Ohio Times,http://neohiotimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NE_Piedmont_News.png,NE Piedmont News,http://nepiedmontnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NE_Sacramento_News.png,NE Sacramento News,http://nesacramentonews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NE_Valley_Times.png,NE Valley Times,http://nevalleytimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NW_Alabama_News.png,NW Alabama News,http://nwalabamanews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NW_Arkansas_News.png,NW Arkansas News,http://nwarkansasnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,NW_Atlanta_News.png,NW Atlanta News,http://nwatlantanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,NW_Clark_News.png,NW Clark News,http://nwclarknews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,NW_Georgia_News.png,NW Georgia News,http://nwgeorgianews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NW_Illinois_News.png,NW Illinois News,http://nwillinoisnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,NW_Kansas_News.png,NW Kansas News,http://nwkansasnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,NW_Kentucky_News.png,NW Kentucky News,http://nwkentuckynews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NW_LA_Times.png,NW LA Times,http://nwlatimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,NW_Louisiana_News.png,NW Louisiana News,http://nwlouisiananews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,NW_Minnesota_News.png,NW Minnesota News,http://nwminnesotanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,NW_Mississippi_News.png,NW Mississippi News,http://nwmissnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NW_Missouri_Times.png,NW Missouri Times,http://nwmissouritimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,NW_Ohio_Times.png,NW Ohio Times,http://nwohiotimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NW_Riverside_News.png,NW Riverside News,http://nwriversidenews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,NW_Twin_Cities.png,NW Twin Cities,https://nwtwincities.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,NW_Valley_Times.png,NW Valley Times,http://nwvalleytimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Nantahala_News.png,Nantahala News,http://nantahalanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Naples_Standard.png,Naples Standard,http://naplesstandard.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Nashville_Standard.png,Nashville Standard,http://nashvillestandard.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Natural_State_News.png,Natural State News,http://naturalstatenews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Nature_Coast_Times.png,Nature Coast Times,http://naturecoasttimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Nebraska_Panhandle_News.png,Nebraska Panhandle News,http://nepanhandlenews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,New_Jersey_Business_Daily.png,New Jersey Business Daily,http://njbusinessdaily.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Nola_Reporter.png,Nola Reporter,http://nolareporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Acadiana_News.png,North Acadiana News,http://northacadiananews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,North_Baltimore_Journal.png,North Baltimore Journal,http://northbaltimorejournal.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,North_Birmingham_Times.png,North Birmingham Times,http://northbirminghamtimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Bluegrass_News.png,North Bluegrass News,http://northbluegrassnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,North_Broward_News.png,North Broward News,http://northbrowardnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Central_Arkansas_News.png,North Central Arkansas News,http://ncarkansasnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,North_Charlotte_Today.png,North Charlotte Today,http://northcharlottetoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Cincy_News.png,North Cincy News,http://northcincynews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,North_Coast_California_News.png,North Coast California News,http://northcoastcanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Coast_Today.png,North Coast Today,http://northcoasttoday.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,North_Columbus_News.png,North Columbus News,http://northcolumbusnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,North_Cook_News.png,North Cook News,http://northcooknews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_DSM_News.png,North DSM News,http://northdsmnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Dayton_News.png,North Dayton News,http://northdaytonnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Delco_News.png,North Delco News,http://northdelconews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,North_Egypt_News.png,North Egypt News,http://northegyptnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Fulton_Today.png,North Fulton Today,http://northfultontoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Guilford_News.png,North Guilford News,http://northguilfordnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,North_Gwinnett_News.png,North Gwinnett News,http://northgwinnettnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Hennepin_News.png,North Hennepin News,http://northhennepinnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Idaho_Times.png,North Idaho Times,http://northidahotimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,North_Indy_News.png,North Indy News,http://northindynews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,North_Inland_News.png,North Inland News,http://northinlandnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,North_Iowa_Reporter.png,North Iowa Reporter,http://northiowareporter.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,North_Iredell_News.png,North Iredell News,http://northiredellnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Jefferson_County_News.png,North Jefferson County News,http://northjeffconews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Kentucky_News.png,North Kentucky News,http://northkentuckynews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Knoxville_News.png,North Knoxville News,http://northknoxnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,North_Lake_Times.png,North Lake Times,http://northlaketimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Little_Rock_Times.png,North Little Rock Times,http://northlittlerocktimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Mecklenburg_News.png,North Mecklenburg News,http://northmecklenburgnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Miami-Dade_News.png,North Miami-Dade News,http://northmianews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Michigan_News.png,North Michigan News,http://northmichigannews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,North_Middlesex_Times.png,North Middlesex Times,http://northmiddlesextimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,North_Nevada_News.png,North Nevada News,http://northnevadanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_New_Castle_News.png,North New Castle News,http://northnewcastlenews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_OC_Times.png,North OC Times,http://northoctimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Omaha_Times.png,North Omaha Times,http://northomahatimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Orlando_News.png,North Orlando News,http://northorlandonews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Palm_Beach_Today.png,North Palm Beach Today,http://northpalmbeachtoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Panhandle_News.png,North Panhandle News,http://northpanhandlenews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,North_Pima_News.png,North Pima News,http://northpimanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Pinellas_News.png,North Pinellas News,http://northpinellasnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Raleigh_Today.png,North Raleigh Today,http://northraleightoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Ramsey_News.png,North Ramsey News,http://northramseynews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_SFV_Today.png,North SFV Today,http://northsfvtoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_SGV_News.png,North SGV News,http://northsgvnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_STL_News.png,North STL News,http://northstlnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,North_Sacramento_Today.png,North Sacramento Today,http://northsactoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Shore_Louisiana_News.png,North Shore Louisiana News,http://northshorelanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Summit_News.png,North Summit News,http://northsummitnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,North_Triangle_News.png,North Triangle News,http://northtrianglenews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,North_Utah_News.png,North Utah News,http://northutahnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Vegas_Times.png,North Vegas Times,http://northvegastimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,North_Wake_News.png,North Wake News,http://northwakenews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Northeast_Montana_News.png,Northeast Montana News,http://nemontananews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Northeast_South_Dakota_News.png,Northeast South Dakota News,http://nesdnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Northwest_Montana_News.png,Northwest Montana News,http://nwmontananews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Northwest_Wayne_News.png,Northwest Wayne News,http://nwwaynenews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Novi_Times.png,Novi Times,http://novitimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Nw_Iowa_News.png,Nw Iowa News,http://nwiowanews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Oakland_City_Wire.png,Oakland City Wire,http://oaklandcitywire.com,MIXED,RIGHT-CENTER,near_duplicate
+cluster_00_train,train,Ocala_Standard.png,Ocala Standard,http://ocalastandard.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Ocean_State_Today.png,Ocean State Today,http://oceanstatetoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Okeechobee_Times.png,Okeechobee Times,http://okeechobeetimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Old_North_News.png,Old North News,http://oldnorthnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Omaha_City_Wire.png,Omaha City Wire,https://omahacitywire.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Onslow_News.png,Onslow News,http://onslownews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Orlando_Standard.png,Orlando Standard,http://orlandostandard.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Outer_Banks_Times.png,Outer Banks Times,http://outerbankstimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Oxford_Reporter.png,Oxford Reporter,http://oxfordreporter.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,PackagingDive.png,PackagingDive,https://packagingdive.com,HIGH,LEAST BIASED,cluster
+cluster_00_train,train,Palm_Coast_Times.png,Palm Coast Times,http://palmcoasttimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Palmetto_State_News.png,Palmetto State News,http://palmettostatenews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Panama_City_Reporter.png,Panama City Reporter,http://panamacityreporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Pasco_Reporter.png,Pasco Reporter,http://pascoreporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,PaymentsDive.png,PaymentsDive,https://paymentsdive.com,HIGH,LEAST BIASED,cluster
+cluster_00_train,train,Peace_Garden_News.png,Peace Garden News,http://peacegardennews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Peach_Tree_Times.png,Peach Tree Times,http://peachtreetimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Pee_Dee_News.png,Pee Dee News,http://peedeenews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Pelican_State_News.png,Pelican State News,http://pelicanstatenews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,SC_Alaska_News.png,SC Alaska News,http://scalaskanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,SC_Kansas_News.png,SC Kansas News,http://sckansasnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,SC_Midland_News.png,SC Midland News,http://scmidlandnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,SC_Minnesota_News.png,SC Minnesota News,http://scminnesotanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,SC_Mississippi_News.png,SC Mississippi News,http://SCmissnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,SC_Missouri_News.png,SC Missouri News,http://scmissourinews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,SC_Nebraska_News.png,SC Nebraska News,http://scnebraskanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,SC_Tennessee_News.png,SC Tennessee News,http://sctennnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,SE_Alaska_News.png,SE Alaska News,http://sealaskanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,SE_Arizona_News.png,SE Arizona News,http://searizonanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,SE_Atlanta_News.png,SE Atlanta News,http://seatlantanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,SE_Bluegrass_News.png,SE Bluegrass News,http://sebluegrassnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,SE_Denver_News.png,SE Denver News,http://sedenvernews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,SE_Georgia_News.png,SE Georgia News,http://segeorgianews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,SE_Grand_Rapids_News.png,SE Grand Rapids News,http://segrandrapids.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,SE_Illinois_News.png,SE Illinois News,http://seillinoisnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,SE_Indiana_News.png,SE Indiana News,http://seindiananews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,SE_Iowa_News.png,SE Iowa News,http://seiowanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,SE_Kansas_City_News.png,SE Kansas City News,http://sekansascitynews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,SE_Kansas_News.png,SE Kansas News,http://sekansasnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,SE_Kentucky_News.png,SE Kentucky News,http://sekentuckynews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,SE_LA_Times.png,SE LA Times,http://selatimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,SE_Minnesota_News.png,SE Minnesota News,http://seminnesotanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,SE_Missouri_News.png,SE Missouri News,http://semissourinews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,SE_Nebraska_News.png,SE Nebraska News,http://senebraskanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,SE_North_Carolina_News.png,SE North Carolina News,http://senorthcarolinanews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,SE_Oakland_News.png,SE Oakland News,http://seoaklandnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,SE_Ohio_Times.png,SE Ohio Times,http://seohiotimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,SE_Tennessee_News.png,SE Tennessee News,http://setennnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,SE_Twin_Cities.png,SE Twin Cities,http://setwincities.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,SE_Vegas_News.png,SE Vegas News,http://sevegasnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,SFV_Today.png,SFV Today,http://sfvtoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,SGV_Standard.png,SGV Standard,http://sgvstandard.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,SLO_Reporter.png,SLO Reporter,http://sloreporter.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,SW_Arizona_News.png,SW Arizona News,http://swarizonanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,SW_Arkansas_Times.png,SW Arkansas Times,http://swarkansastimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,SW_Bluegrass_News.png,SW Bluegrass News,http://swbluegrassnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,SW_Colorado_News.png,SW Colorado News,http://swcoloradonews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,SW_Georgia_News.png,SW Georgia News,http://swgeorgianews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,SW_Indiana_News.png,SW Indiana News,http://swindiananews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,SW_Iowa_Times.png,SW Iowa Times,http://swiowatimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,SW_Kansas_News.png,SW Kansas News,http://swkansasnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,SW_Louisiana_News.png,SW Louisiana News,http://swlouisiananews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,SW_Minnesota_Today.png,SW Minnesota Today,http://swminnesotatoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,SW_Mississippi_News.png,SW Mississippi News,http://swmissnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,SW_Missouri_News.png,SW Missouri News,https://swmissourinews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,SW_New_Hampshire_News.png,SW New Hampshire News,http://swnewhampshirenews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,SW_Riverside_News.png,SW Riverside News,http://swriversidenews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,SW_Tennessee_News.png,SW Tennessee News,http://swtennnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,SW_Valley_Times.png,SW Valley Times,http://swvalleytimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,SW_Vegas_News.png,SW Vegas News,http://swvegasnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Shelby_Review.png,Shelby Review,http://shelbyreview.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Shiawassee_Times.png,Shiawassee Times,http://shiawasseetimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Shoals_Today.png,Shoals Today,http://shoalstoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Show-Me_State_Times.png,Show-Me State Times,https://showmestatetimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Shreveport_Reporter.png,Shreveport Reporter,http://shreveportreporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Silver_State_Times.png,Silver State Times,http://silverstatetimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Sioux_City_Times.png,Sioux City Times,http://siouxcitytimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Sioux_Empire_Today.png,Sioux Empire Today,http://siouxempiretoday.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,SmartCitiesDive.png,SmartCitiesDive,https://smartcitiesdive.com,HIGH,LEAST BIASED,cluster
+cluster_00_train,train,Smoky_Mountain_Today.png,Smoky Mountain Today,http://smokymountaintoday.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Solano_Sun.png,Solano Sun,https://solanosun.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_Alabama_Times.png,South Alabama Times,http://southalabamatimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_Alameda_News.png,South Alameda News,http://southalamedanews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,South_Asheville_News.png,South Asheville News,http://southashevillenews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_Atlanta_News.png,South Atlanta News,http://southatlantanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_Bay_Leader.png,South Bay Leader,http://southbayleader.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_Bay_SD_News.png,South Bay SD News,http://southbaysdnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_Bend_Times.png,South Bend Times,http://southbendtimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,South_Birmingham_Times.png,South Birmingham Times,http://southbirminghamtimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_Broward_News.png,South Broward News,http://southbrowardnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,South_Central_Reporter.png,South Central Reporter,http://southcentralreporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_Charlotte_Today.png,South Charlotte Today,http://southcharlottetoday.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,South_Coast_Times.png,South Coast Times,http://southcoasttimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_Cook_News.png,South Cook News,http://southcooknews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_Cumberland_News.png,South Cumberland News,http://southcumberlandnews.com,MIXED,RIGHT-CENTER,near_duplicate
+cluster_00_train,train,South_Cuyahoga_News.png,South Cuyahoga News,http://southcuyahoganews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_Dayton_News.png,South Dayton News,http://southdaytonnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,South_Franklin_News.png,South Franklin News,http://southfranklinnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,South_Fulton_Today.png,South Fulton Today,http://southfultontoday.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,South_Georgia_Times.png,South Georgia Times,http://southgeorgiatimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,South_Guilford_News.png,South Guilford News,http://southguilfordnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_Gwinnett_News.png,South Gwinnett News,http://southgwinnettnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_Hennepin_News.png,South Hennepin News,http://southhennepinnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_Indy_News.png,South Indy News,http://southindynews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,South_Iowa_News.png,South Iowa News,http://southiowanews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,South_Jefferson_County_News.png,South Jefferson County News,http://southjeffconews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_Kent_News.png,South Kent News,http://southkentnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,South_Knoxville_News.png,South Knoxville News,http://southknoxnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_Lake_Today.png,South Lake Today,http://southlaketoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_Louisiana_News.png,South Louisiana News,http://southlouisiananews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,South_Miami-Dade_News.png,South Miami-Dade News,https://southmianews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_Michigan_News.png,South Michigan News,http://southmichigannews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_New_Castle_News.png,South New Castle News,http://southnewcastlenews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_North_Carolina_News.png,South North Carolina News,http://southncnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_OC_Times.png,South OC Times,http://southoctimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,South_Ohio_News.png,South Ohio News,http://southohionews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,South_Omaha_Times.png,South Omaha Times,http://Southomahatimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,South_Oregon_News.png,South Oregon News,http://southoregonnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_Orlando_News.png,South Orlando News,http://southorlandonews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,South_Palm_Beach_Today.png,South Palm Beach Today,http://southpalmbeachtoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_Pima_News.png,South Pima News,http://southpimanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_Pinellas_Times.png,South Pinellas Times,http://southpinellastimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_Raleigh_News.png,South Raleigh News,http://southraleighnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_SFV_Today.png,South SFV Today,http://southsfvtoday.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,South_SF_Bay_News.png,South SF Bay News,http://southsfbaynews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_SGV_News.png,South SGV News,http://southsgvnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_Sacramento_Today.png,South Sacramento Today,http://southsactoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_Triangle_News.png,South Triangle News,http://southtrianglenews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_West_Illinois_News.png,South West Illinois News,http://swillinoisnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,South_Wichita_News.png,South Wichita News,http://southwichitanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,South_Winston-Salem_News.png,South Winston-Salem News,http://southwinstonsalemnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Southeast_Montana_News.png,Southeast Montana News,http://semontananews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Southeast_South_Dakota_News.png,Southeast South Dakota News,http://sesdnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Southern_Illinois_News.png,Southern Illinois News,http://silnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Southern_Indiana_Today.png,Southern Indiana Today,http://southernindianatoday.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Southwest_Montana_News.png,Southwest Montana News,http://swmontanatimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Spartanburg_Reporter.png,Spartanburg Reporter,http://spartanburgreporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Spring_Times.png,Spring Times,http://springstimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Springfield_City_Wire.png,Springfield City Wire,http://springfieldcitywire.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Springfield_Standard.png,Springfield Standard,http://springfieldstandard.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,St._Cloud_Sun.png,St. Cloud Sun,http://stcloudsun.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,St._Paul_Reporter.png,St. Paul Reporter,http://stpaulreporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,St._Pete_Standard.png,St. Pete Standard,http://stpetestandard.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Stanislaus_News.png,Stanislaus News,http://stanislausnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Sturgis-Coldwater_News.png,Sturgis-Coldwater News,http://sturgiscoldwaternews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Sumter_Times.png,Sumter Times,http://sumtertimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Sunflower_State_News.png,Sunflower State News,http://sunflowerstatenews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Sunshine_Sentinel.png,Sunshine Sentinel,http://sunshinesentinel.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,SupplyChainDive.png,SupplyChainDive,https://supplychaindive.com,HIGH,LEAST BIASED,cluster
+cluster_00_train,train,Sussex_Review.png,Sussex Review,http://sussexreview.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Tallahassee_Sun.png,Tallahassee Sun,http://tallahasseesun.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Tampa_Republic.png,Tampa Republic,http://tamparepublic.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,The_Region_News.png,The Region News,http://theregionnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,The_Warren_Sun.png,The Warren Sun,http://warrensun.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Thumb_Reporter.png,Thumb Reporter,http://thumbreporter.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Toledo_Reporter.png,Toledo Reporter,https://toledoreporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Topeka_Sun.png,Topeka Sun,http://topekasun.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Treasure_Coast_Sun.png,Treasure Coast Sun,http://treasurecoastsun.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Treasure_Valley_Times.png,Treasure Valley Times,http://treasurevalleytimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Tri-City_Sun.png,Tri-City Sun,http://tricitysun.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Tri_County_News.png,Tri County News,http://triconews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,TruckingDive.png,TruckingDive,https://truckingdive.com,HIGH,LEAST BIASED,cluster
+cluster_00_train,train,Trumball_News.png,Trumball News,http://trumballnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Tucson_Standard.png,Tucson Standard,http://tucsonstandard.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Tulare_Times.png,Tulare Times,http://tularetimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Tuscaloosa_Leader.png,Tuscaloosa Leader,http://tuscaloosaleader.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,UP_Gazette.png,UP Gazette,http://upgazette.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Upper_Delta_News.png,Upper Delta News,http://upperdeltanews.com,MIXED,RIGHT-CENTER,near_duplicate
+cluster_00_train,train,Upper_West_SC_News.png,Upper West SC News,http://upperwestscnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Upstate_SC_News.png,Upstate SC News,http://upstatescnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Utah_Valley_Times.png,Utah Valley Times,http://utahvalleytimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,UtilityDive.png,UtilityDive,https://utilitydive.com,HIGH,LEAST BIASED,cluster
+cluster_00_train,train,Vacationland_Times.png,Vacationland Times,http://vacationlandtimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Verdugos_News.png,Verdugos News,http://verdugosnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Victor_Valley_Times.png,Victor Valley Times,http://victorvalleytimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Volunteer_State_News.png,Volunteer State News,http://volunteerstatenews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,WC_Georgia_News.png,WC Georgia News,http://wcgeorgianews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,WC_Indiana_News.png,WC Indiana News,http://wcindiananews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,WC_Iowa_News.png,WC Iowa News,http://wciowanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,WC_Minnesota_News.png,WC Minnesota News,http://wcminnesotanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,WC_Missouri_News.png,WC Missouri News,http://wcmissourinews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Warner_Robins_Today.png,Warner Robins Today,http://warnerrobinstoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Warren-Clinton_News.png,Warren-Clinton News,http://warrenclintonnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Washoe_News.png,Washoe News,http://washoenews.com,MIXED,RIGHT-CENTER,near_duplicate
+cluster_00_train,train,Wastach_News.png,Wastach News,http://wastachnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Waterford_Today.png,Waterford Today,http://waterfordtoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Waterloo_Times.png,Waterloo Times,http://waterlootimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Wayne_County_Today.png,Wayne County Today,http://waynecountytoday.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Weber_Times.png,Weber Times,http://webertimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,West_Atlanta_News.png,West Atlanta News,http://westatlantanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,West_Central_Alabama_News.png,West Central Alabama News,http://wcalabamanews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,West_Central_Michigan_News.png,West Central Michigan News,http://wcmichigannews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,West_Cleveland_News.png,West Cleveland News,http://westclevelandnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,West_Contra_Costa_News.png,West Contra Costa News,http://westcontracostanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,West_Cook_News.png,West Cook News,http://westcooknews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,West_DSM_News.png,West DSM News,http://westdsmnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,West_El_Dorado_News.png,West El Dorado News,http://westeldoradonews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,West_Florida_News.png,West Florida News,http://westflnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,West_Hamilton_News.png,West Hamilton News,http://westhamiltonnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,West_Hillsborough_News.png,West Hillsborough News,http://westhillsboroughnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,West_Indy_News.png,West Indy News,http://westindynews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,West_LA_Times.png,West LA Times,http://westlatimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,West_Lake_Norman_News.png,West Lake Norman News,http://westlakenormannews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,West_Lucas_News.png,West Lucas News,http://westlucasnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,West_OC_Times.png,West OC Times,http://westoctimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,West_PDX_Today.png,West PDX Today,http://westpdxtoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,West_Pennyroyal_News.png,West Pennyroyal News,http://westpennyroyalnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,West_SBV_Times.png,West SBV Times,http://westsbvtimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,West_SFV_Today.png,West SFV Today,http://westsfvtoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,West_SGV_News.png,West SGV News,http://westsgvnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,West_SLC_News.png,West SLC News,http://westslcnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,West_STL_News.png,West STL News,http://stlwestnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,West_Twin_Cities.png,West Twin Cities,http://westtwincities.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,West_Ventura_News.png,West Ventura News,http://westventuranews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,West_Volusia_News.png,West Volusia News,http://westvolusianews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,West_Wake_News.png,West Wake News,http://westwakenews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Westbank_Louisiana_News.png,Westbank Louisiana News,http://westbanklanews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Western_ND_News.png,Western ND News,http://westernndnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Western_South_Dakota_News.png,Western South Dakota News,http://westernsdnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Western_Wayne_Today.png,Western Wayne Today,http://westernwaynetoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Wichita_Standard.png,Wichita Standard,http://wichitastandard.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Will_County_Gazette.png,Will County Gazette,http://willcountygazette.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Williamson_News.png,Williamson News,http://williamsonnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Wine_Country_Times.png,Wine Country Times,http://winecountrytimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Winston_Salem_Times.png,Winston Salem Times,http://winstonsalemtimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Wiregrass_Times.png,Wiregrass Times,http://wiregrasstimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Wyandotte_Times.png,Wyandotte Times,http://wyandottetimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Yadkin_Valley_News.png,Yadkin Valley News,http://yadkinvalleynews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Yavapai_News.png,Yavapai News,http://yavapainews.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Yellowhammer_Times.png,Yellowhammer Times,http://yellowhammertimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Yellowstone_Times.png,Yellowstone Times,http://yellowstonetimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_00_train,train,Youngstown_Times.png,Youngstown Times,http://youngstowntimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_00_train,train,Yuba-Sutter_Times.png,Yuba-Sutter Times,http://yubasuttertimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,ABQ_Times.png,ABQ Times,http://abqtimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Abilene_Times.png,Abilene Times,http://abilenetimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Alabama_Business_Daily.png,Alabama Business Daily,http://businessdailynetwork.com/states/al,MIXED,RIGHT-CENTER,cluster+same_website
+cluster_01_test,test,Altoona_Times.png,Altoona Times,http://altoonatimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Amarillo_Gazette.png,Amarillo Gazette,http://amarillogazette.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,American_Pharmacy_News.png,American Pharmacy News,http://americanpharmacynews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Arkansas_Business_Daily.png,Arkansas Business Daily,http://businessdailynetwork.com/states/ar,MIXED,RIGHT-CENTER,cluster+same_website
+cluster_01_test,test,Atlantic_County_Times.png,Atlantic County Times,http://atlanticcotimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Austin_News.png,Austin News,http://austintxnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Bay_State_News.png,Bay State News,http://baystatenews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Bean_Town_Times.png,Bean Town Times,http://beantowntimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Berks_County_News.png,Berks County News,http://berksconews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Buffalo_Ledger.png,Buffalo Ledger,http://buffaloledger.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Burlington_Review.png,Burlington Review,http://burlingtonreview.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Butler_County_News.png,Butler County News,http://butlerconews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,California_Business_Daily.png,California Business Daily,http://businessdailynetwork.com/states/ca,MIXED,RIGHT-CENTER,cluster+same_website
+cluster_01_test,test,Cambria_Times.png,Cambria Times,http://cambriatimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Cape_Cod_Ledger.png,Cape Cod Ledger,http://capecodledger.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Capital_District_Times.png,Capital District Times,http://capitaldistricttimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Central_Bucks_Today.png,Central Bucks Today,http://centralbuckstoday.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Central_Chester_Today.png,Central Chester Today,http://centralchestertoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Central_PA_News.png,Central PA News,http://centralpanews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Central_Texas_News.png,Central Texas News,http://centraltxnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Coal_Region_News.png,Coal Region News,http://coalregionnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Collin_Times.png,Collin Times,http://collintimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Colorado_Business_Daily.png,Colorado Business Daily,https://businessdailynetwork.com/states/co,MIXED,RIGHT-CENTER,cluster+same_website
+cluster_01_test,test,Concho_Valley_News.png,Concho Valley News,http://conchovalleynews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Concord_Ledger.png,Concord Ledger,http://concordledger.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Connecticut_Business_Daily.png,Connecticut Business Daily,http://businessdailynetwork.com/states/ct,MIXED,RIGHT-CENTER,cluster+same_website
+cluster_01_test,test,Corpus_Christi_Sun.png,Corpus Christi Sun,http://corpuschristisun.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Crawford_Times.png,Crawford Times,http://crawfordtimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Cumberland_Valley_News.png,Cumberland Valley News,http://cumberlandvalleynews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Dallas_City_Wire.png,Dallas City Wire,http://dallascitywire.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Dauphin_News.png,Dauphin News,http://dauphinnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Delaware_Business_Daily.png,Delaware Business Daily,http://businessdailynetwork.com/states/de,MIXED,RIGHT-CENTER,cluster+same_website
+cluster_01_test,test,District_of_Columbia_Business_Daily.png,District of Columbia Business Daily,http://businessdailynetwork.com/states/dc,MIXED,RIGHT-CENTER,same_website
+cluster_01_test,test,Down_East_Times.png,Down East Times,http://downeasttimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,EC_Oklahoma_News.png,EC Oklahoma News,http://ecoklahomanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,East_Central_Texas_News.png,East Central Texas News,http://ectexasnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,East_DFW_News.png,East DFW News,http://eastdfwnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,East_Houston_News.png,East Houston News,http://easthoustonnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,East_Hudson_Valley_News.png,East Hudson Valley News,http://easthudvalleynews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,East_New_Mexico_News.png,East New Mexico News,http://eastnewmexiconews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,East_OKC_News.png,East OKC News,http://eastokcnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,East_RGV_News.png,East RGV News,http://eastrgvnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,El_Paso_Standard.png,El Paso Standard,http://elpasostandard.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Empire_State_Today.png,Empire State Today,http://empirestatetoday.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Enchantment_State_News.png,Enchantment State News,http://enchantmentstatenews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Erie_County_Times.png,Erie County Times,http://eriecotimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Finger_Lakes_Today.png,Finger Lakes Today,http://fingerlakestoday.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Florida_Business_Daily.png,Florida Business Daily,https://businessdailynetwork.com/states/fl,MIXED,RIGHT-CENTER,cluster+same_website
+cluster_01_test,test,Florida_Parish_News.png,Florida Parish News,http://floridaparishnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Garden_State_Times.png,Garden State Times,http://gardenstatetimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Georgia_Business_Daily.png,Georgia Business Daily,http://businessdailynetwork.com/states/ga,MIXED,RIGHT-CENTER,cluster+same_website
+cluster_01_test,test,Gloucester_Today.png,Gloucester Today,http://gloucestertoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Happy_Valley_Times.png,Happy Valley Times,http://happyvalleytimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Hartford_Reporter.png,Hartford Reporter,http://hartfordreporter.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Hawaii_Business_Daily.png,Hawaii Business Daily,http://businessdailynetwork.com/states/hi,MIXED,RIGHT-CENTER,cluster+same_website
+cluster_01_test,test,Hillsborough_Sun.png,Hillsborough Sun,http://hillsboroughsun.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Housatonic_Valley_News.png,Housatonic Valley News,http://housatonicvalleynews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Hudson_Today.png,Hudson Today,http://hudsontoday.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Idaho_Business_Daily.png,Idaho Business Daily,https://businessdailynetwork.com/states/id,MIXED,RIGHT-CENTER,cluster+same_website
+cluster_01_test,test,Illinois_Business_Daily.png,Illinois Business Daily,http://businessdailynetwork.com/states/il,MIXED,RIGHT-CENTER,cluster+same_website
+cluster_01_test,test,Indiana_Business_Daily.png,Indiana Business Daily,http://businessdailynetwork.com/states/in,MIXED,RIGHT-CENTER,cluster+same_website
+cluster_01_test,test,Iowa_Business_Daily.png,Iowa Business Daily,http://businessdailynetwork.com/states/ia,MIXED,RIGHT-CENTER,cluster+same_website
+cluster_01_test,test,Kansas_Business_Daily.png,Kansas Business Daily,http://businessdailynetwork.com/states/ks,MIXED,RIGHT-CENTER,same_website
+cluster_01_test,test,Kentucky_Business_Daily.png,Kentucky Business Daily,http://businessdailynetwork.com/states/ky,MIXED,RIGHT-CENTER,cluster+same_website
+cluster_01_test,test,Keystone_Today.png,Keystone Today,http://keystonetoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Laurel_Highlands_Today.png,Laurel Highlands Today,http://laurelhighlandstoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Lawrence_Times.png,Lawrence Times,http://lawrencetimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Lebanon_PA_News.png,Lebanon PA News,http://lebanonpanews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Lehigh_Times.png,Lehigh Times,http://lehightimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Lewiston_Times.png,Lewiston Times,http://lewistontimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Litchfield_Hills_Today.png,Litchfield Hills Today,http://litchfieldhillstoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Louisiana_Business_Daily.png,Louisiana Business Daily,http://businessdailynetwork.com/states/la,MIXED,RIGHT-CENTER,cluster+same_website
+cluster_01_test,test,Lower_Bucks_Today.png,Lower Bucks Today,http://lowerbuckstoday.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Luzerne_Times.png,Luzerne Times,http://luzernetimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Lycoming_News.png,Lycoming News,http://lycomingnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Maine_Business_Daily.png,Maine Business Daily,https://mainebusinessdaily.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Maine_Highlands_News.png,Maine Highlands News,http://mainehighlandsnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Maine_Lakes_News.png,Maine Lakes News,http://mainelakesnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Maryland_Business_Daily.png,Maryland Business Daily,http://mdbusinessdaily.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Massachusetts_Business_Daily.png,Massachusetts Business Daily,http://mabusinessdaily.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Mat-Su_Times.png,Mat-Su Times,https://matsutimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Mercer_Times.png,Mercer Times,http://mercertimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Merrimack_Valley_News.png,Merrimack Valley News,http://merrimackvalleynews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Metro_West_Times.png,Metro West Times,http://metrowesttimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Michigan_Business_Daily.png,Michigan Business Daily,http://mibusinessdaily.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Mid_Coast_Today.png,Mid Coast Today,http://midcoasttoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Mid_Massachusetts_News.png,Mid Massachusetts News,http://midmassnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Minnesota_Business_Daily.png,Minnesota Business Daily,http://mnbusinessdaily.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Mississippi_Business_Daily.png,Mississippi Business Daily,http://msbusinessdaily.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Missouri_Business_Daily.png,Missouri Business Daily,http://mobusinessdaily.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Mohawk_Valley_Times.png,Mohawk Valley Times,http://mohawkvalleytimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Monmouth_Times.png,Monmouth Times,http://monmouthtimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Monroe_County_News.png,Monroe County News,http://monroeconews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Monroe_NY_News.png,Monroe NY News,http://monroenynews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Morris_Leader.png,Morris Leader,http://morrisleader.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,NC_Business_Daily.png,NC Business Daily,http://ncbusinessdaily.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,NC_Massachusetts_News.png,NC Massachusetts News,http://ncmassnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,NC_Oklahoma_News.png,NC Oklahoma News,http://ncoklahomanews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,NE_Bergen_News.png,NE Bergen News,http://nebergennews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,NE_Connecticut_News.png,NE Connecticut News,http://neconnnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,NE_New_Mexico_News.png,NE New Mexico News,http://nenewmexiconews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,NE_New_York_Today.png,NE New York Today,http://nenewyorktoday.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,NW_Bergen_News.png,NW Bergen News,http://nwbergennews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,NW_Connecticut_News.png,NW Connecticut News,http://nwconnnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,NW_Jersey_News.png,NW Jersey News,http://nwjerseynews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,NW_New_Mexico_News.png,NW New Mexico News,http://nwnewmexiconews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,NW_Oklahoma_News.png,NW Oklahoma News,http://nwoklahomanews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,NYC_Gazette.png,NYC Gazette,http://nycgazette.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Nassau_Standard.png,Nassau Standard,http://nassaustandard.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Naugatuck_Times.png,Naugatuck Times,http://naugatucktimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Nebraska_Business_Daily.png,Nebraska Business Daily,http://nebraskabusinessdaily.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Nevada_Business_Daily.png,Nevada Business Daily,http://nvbusinessdaily.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,New_Hampshire_Business_Daily.png,New Hampshire Business Daily,http://nhbusinessdaily.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,New_Mexico_Business_Daily.png,New Mexico Business Daily –,http://nmbusinessdaily.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Newark_Reporter.png,Newark Reporter,http://newarkreporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Niagara_Leader.png,Niagara Leader,http://niagaraleader.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Norfolk_Reporter.png,Norfolk Reporter,http://norfolkreporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,North_Allegheny_News.png,North Allegheny News,http://northalleghenynews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,North_Boston_News.png,North Boston News,http://northbostonnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,North_Central_PA_Times.png,North Central PA Times,http://ncpatimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,North_Chester_Today.png,North Chester Today,http://northchestertoday.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,North_Country_Leader.png,North Country Leader,http://northcountryleader.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,North_Dakota_Business_Daily.png,North Dakota Business Daily,http://ndbusinessdaily.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,North_Essex_News.png,North Essex News,http://northessexnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,North_Lancaster_News.png,North Lancaster News,http://northlancasternews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,North_OKC_News.png,North OKC News,http://northokcnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,North_Pocono_News.png,North Pocono News,http://northpocononews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,North_Tulsa_Today.png,North Tulsa Today,http://northtulsatoday.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Northern_Tier_News.png,Northern Tier News,http://northerntiernews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Northhampton_News.png,Northhampton News,http://northhamptonnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Northwest_PA_News.png,Northwest PA News,http://nwpanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,OKC_Standard.png,OKC Standard,http://okcstandard.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Ocean_County_Leader.png,Ocean County Leader,http://oceancountyleader.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Ohio_Business_Daily.png,Ohio Business Daily,http://businessdailynetwork.com/states/oh/,MIXED,RIGHT-CENTER,cluster+same_website
+cluster_01_test,test,Oklahoma_Business_Daily.png,Oklahoma Business Daily,http://businessdailynetwork.com/states/ok/,MIXED,RIGHT-CENTER,cluster+same_website
+cluster_01_test,test,Oneida_Times.png,Oneida Times,http://oneidatimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Oregon_Business_Daily.png,Oregon Business Daily,http://businessdailynetwork.com/states/or/,MIXED,RIGHT-CENTER,cluster+same_website
+cluster_01_test,test,Pennsylvania_Business_Daily.png,Pennsylvania Business Daily,http://businessdailynetwork.com/states/pa/,MIXED,RIGHT-CENTER,cluster+same_website
+cluster_01_test,test,SC_Connecticut_News.png,SC Connecticut News,http://scconnnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,SC_New_York_News.png,SC New York News,http://scnewyorknews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,SC_Oklahoma_News.png,SC Oklahoma News,http://scoklahomanews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,SE_Connecticut_News.png,SE Connecticut News,http://seconnnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,SE_Oklahoma_News.png,SE Oklahoma News,http://seoklahomanews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,SW_Connecticut_News.png,SW Connecticut News,http://swconnnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,SW_New_Mexico_News.png,SW New Mexico News,http://swnewmexiconews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,SW_Oklahoma_News.png,SW Oklahoma News,http://swoklahomanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Scranton_Reporter.png,Scranton Reporter,http://scrantonreporter.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Shenango_Valley_News.png,Shenango Valley News,http://shenangovalleynews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Somerset_Times.png,Somerset Times,http://somersettimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Sooner_State_News.png,Sooner State News,http://soonerstatenews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,South_ABQ_News.png,South ABQ News,http://southabqnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,South_Bergen_News.png,South Bergen News,http://southbergennews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,South_Carolina_Business_Daily.png,South Carolina Business Daily,http://businessdailynetwork.com/states/sc,MIXED,RIGHT-CENTER,cluster+same_website
+cluster_01_test,test,South_Central_PA_News.png,South Central PA News,http://scpanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,South_Chester_Today.png,South Chester Today,http://southchestertoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,South_County_Times.png,South County Times,http://southcotimes.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,South_Dakota_Business_Daily.png,South Dakota Business Daily,http://businessdailynetwork.com/states/sd,MIXED,RIGHT-CENTER,cluster+same_website
+cluster_01_test,test,South_Delco_News.png,South Delco News,http://southdelconews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,South_Jersey_Sun.png,South Jersey Sun,http://southjerseysun.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,South_Maine_News.png,South Maine News,http://southmainenews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,South_OKC_News.png,South OKC News,http://southokcnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,South_Tulsa_Today.png,South Tulsa Today,http://southtulsatoday.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Southwest_PA_news.png,Southwest PA news,http://swpanews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Staten_Island_Reporter.png,Staten Island Reporter,http://statenislandreporter.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Strafford_News.png,Strafford News,http://straffordnews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Suffolk_Reporter.png,Suffolk Reporter,http://suffolkreporter.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Syracuse_Sun.png,Syracuse Sun,http://syracusesun.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,Tennessee_Business_Daily.png,Tennessee Business Daily,http://businessdailynetwork.com/states/tn,MIXED,RIGHT-CENTER,cluster+same_website
+cluster_01_test,test,Tulsa_Standard.png,Tulsa Standard,http://tulsastandard.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Union_County_Review.png,Union County Review,http://unioncountyreview.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Utah_Business_Daily.png,Utah Business Daily,http://businessdailynetwork.com/states/ut,MIXED,RIGHT-CENTER,cluster+same_website
+cluster_01_test,test,WC_New_Mexico_News.png,WC New Mexico News –,http://wcnewmexiconews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,West_Central_PA_News.png,West Central PA News,http://wcpanews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,West_Essex_News.png,West Essex News,http://westessexnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,West_Hudson_Valley_News.png,West Hudson Valley News,http://westhudvalleynews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,West_Massachusetts_News.png,West Massachusetts News,http://westmassnews.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,West_Montgomery_Times.png,West Montgomery Times,http://westmonttimes.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,West_NY_News.png,West NY News,http://westnynews.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Westchester_Reporter.png,Westchester Reporter,http://westchesterreporter.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_01_test,test,Westmoreland_Review.png,Westmoreland Review,http://westmorelandreview.com,MIXED,RIGHT-CENTER,cluster
+cluster_01_test,test,York_County_News.png,York County News,http://yorkconews.com,MIXED,RIGHT-CENTER,cluster
+cluster_02_train,train,Alabama_Reflector.png,Alabama Reflector,https://alabamareflector.com,HIGH,LEFT,cluster
+cluster_02_train,train,AllAfrica.png,AllAfrica,https://allafrica.com,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Banbury_Guardian.png,Banbury Guardian,https://banburyguardian.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Basildon_Echo.png,Basildon Echo,https://echo-news.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Biggleswade_Chronicle.png,Biggleswade Chronicle,https://biggleswadetoday.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Bucks_Herald.png,Bucks Herald,https://bucksherald.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Burnley_Express.png,Burnley Express,https://burnleyexpress.net,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Buxton_Advertiser.png,Buxton Advertiser,https://buxtonadvertiser.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Cumberland_News_Star.png,Cumberland News & Star,https://newsandstar.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Daily_Business_Review.png,Daily Business Review,https://law.com/dailybusinessreview,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,East_London_and_West_Essex_Guardian.png,East London and West Essex Guardian,https://guardian-series.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,East_Lothian_Courier.png,East Lothian Courier,https://eastlothiancourier.com,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Empty_Wheel.png,Empty Wheel,https://emptywheel.net,HIGH,LEFT-CENTER,cluster
+cluster_02_train,train,Enfield_Independent.png,Enfield Independent,https://enfieldindependent.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Enniskillen_Impartial_Reporter.png,Enniskillen Impartial Reporter,https://impartialreporter.com,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Evesham_Journal.png,Evesham Journal,https://eveshamjournal.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Falmouth_Packet.png,Falmouth Packet,https://falmouthpacket.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Glasgow_Times.png,Glasgow Times,https://glasgowtimes.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Greenock_Telegraph.png,Greenock Telegraph,https://greenocktelegraph.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Halstead_Gazette.png,Halstead Gazette,https://halsteadgazette.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Hampshire_Chronicle.png,Hampshire Chronicle,https://hampshirechronicle.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Harrow_Times.png,Harrow Times,https://harrowtimes.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Harwich_and_Manningtree_Standard.png,Harwich and Manningtree Standard,https://harwichandmanningtreestandard.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Helensburgh_Advertiser.png,Helensburgh Advertiser,https://helensburghadvertiser.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Hereford_Times.png,Hereford Times,https://herefordtimes.com,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Hexham_Courant.png,Hexham Courant,https://hexham-courant.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Honolulu_Civil_Beat.png,Honolulu Civil Beat,https://civilbeat.org,HIGH,LEFT-CENTER,cluster
+cluster_02_train,train,Ilkley_Gazette.png,Ilkley Gazette,https://ilkleygazette.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Irvine_Times.png,Irvine Times,https://irvinetimes.com,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Keighley_News.png,Keighley News,https://keighleynews.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Kentucky_Lantern.png,Kentucky Lantern,https://kentuckylantern.com,HIGH,LEFT,cluster
+cluster_02_train,train,Kidderminster_Shuttle.png,Kidderminster Shuttle,https://kidderminstershuttle.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Knutsford_Guardian.png,Knutsford Guardian,https://knutsfordguardian.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Largs_Millport_News.png,Largs & Millport News,https://largsandmillportnews.com,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Ledbury_Reporter.png,Ledbury Reporter,https://ledburyreporter.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Leigh_Journal.png,Leigh Journal,https://leighjournal.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Ludlow_Advertiser.png,Ludlow Advertiser,https://ludlowadvertiser.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Maine_Morning_Star.png,Maine Morning Star,https://mainemorningstar.com,HIGH,LEFT,cluster
+cluster_02_train,train,Maldon_Standard.png,Maldon Standard,https://maldonandburnhamstandard.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Malvern_Gazette.png,Malvern Gazette,https://malverngazette.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Nebraska_Examiner.png,Nebraska Examiner,https://nebraskaexaminer.com,HIGH,LEFT,cluster+near_duplicate
+cluster_02_train,train,North_Dakota_Monitor.png,North Dakota Monitor,https://northdakotamonitor.com,HIGH,LEFT,cluster
+cluster_02_train,train,North_Wales_Chronicle.png,North Wales Chronicle,https://northwaleschronicle.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,North_Wales_Pioneer.png,North Wales Pioneer,https://northwalespioneer.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Northumberland_Gazette.png,Northumberland Gazette,https://northumberlandgazette.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Northwich_Guardian.png,Northwich Guardian,https://northwichguardian.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Oklahoma_Voice.png,Oklahoma Voice,https://oklahomavoice.com,HIGH,LEFT,cluster
+cluster_02_train,train,South_Carolina_Daily_Gazette.png,South Carolina Daily Gazette,https://scdailygazette.com,HIGH,LEFT,cluster
+cluster_02_train,train,Stateline.png,Stateline,https://stateline.org,HIGH,LEFT,cluster+near_duplicate
+cluster_02_train,train,ThinkPol.png,ThinkPol,https://thinkpol.ca,HIGH,LEFT,cluster
+cluster_02_train,train,Utah_News_Dispatch.png,Utah News Dispatch,https://utahnewsdispatch.com,HIGH,LEFT,cluster
+cluster_02_train,train,Washington_State_Standard.png,Washington State Standard,https://washingtonstatestandard.com,HIGH,LEFT,cluster
+cluster_02_train,train,West_Virginia_Watch.png,West Virginia Watch,https://westvirginiawatch.com/,HIGH,LEFT,cluster
+cluster_02_train,train,Wiltshire_Gazette_Herald.png,Wiltshire Gazette & Herald,https://gazetteandherald.co.uk,HIGH,LEAST BIASED,cluster
+cluster_02_train,train,Yorkshire_Post.png,Yorkshire Post,https://yorkshirepost.co.uk,HIGH,LEAST BIASED,cluster
+cluster_03_train,train,Abakan_News.png,Abakan News,http://abakan-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Amur_News.png,Amur News,http://amur-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Astrakhan_News.png,Astrakhan News,http://astrakhan-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Baikal_News.png,Baikal News,http://baikal-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Barnaul_News.png,Barnaul News,http://barnaul-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Belgorod_News.png,Belgorod News,http://belgorod-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Birobidzhan-news.png,Birobidzhan-news,http://Birobidzhan-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Bryansk-news.png,Bryansk-news,http://Bryansk-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Cheb_News.png,Cheb News,http://cheb-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Chelyabinsk-news.png,Chelyabinsk-news,http://Chelyabinsk-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Cherkessk-news.png,Cherkessk-news,http://Cherkessk-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Chita_News.png,Chita News,http://chita-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Chukotka-News.png,Chukotka-News,http://Chukotka-News.net,LOW,RIGHT,cluster
+cluster_03_train,train,Crimea_News.png,Crimea News,http://crimea-news.com,LOW,RIGHT,cluster
+cluster_03_train,train,Dagestan_News.png,Dagestan News,http://dagestan-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Grozny_News.png,Grozny News,http://grozny-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Ingushetiya_News.png,Ingushetiya News,http://ingushetiya-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Irkutsk_News.png,Irkutsk News,http://irkutsk-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Ivanovo_News.png,Ivanovo News,http://ivanovo-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Izhevsk_News.png,Izhevsk News,http://izhevsk-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Kaliningrad_News.png,Kaliningrad News,http://kaliningrad-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Kalmykia_News.png,Kalmykia News,http://kalmykia-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Kaluga_News.png,Kaluga News,http://kaluga-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Kamchatka_News.png,Kamchatka News,http://kamchatka-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Karelia_News.png,Karelia News,http://karelia-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Kazan_News.png,Kazan News,http://kazan-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Kemerovo_News.png,Kemerovo News,http://kemerovo-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Khabarovsk_News.png,Khabarovsk News,http://khabarovsk-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Kirov_News.png,Kirov News,http://kirov-news.net,LOW,RIGHT,cluster+near_duplicate
+cluster_03_train,train,Komi_News.png,Komi News,http://komi-news.net,LOW,RIGHT,cluster+near_duplicate
+cluster_03_train,train,Kostroma_News.png,Kostroma News,http://kostroma-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Krasnodar_News.png,Krasnodar News,http://krasnodar-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Krasnoyark_News.png,Krasnoyark News,http://krasnoyarsk-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Kurgan_News.png,Kurgan News,http://kurgan-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Lipetsk_News.png,Lipetsk News,http://lipetsk-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,MSK_News.png,MSK News,http://msk-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Magadan_News.png,Magadan News,http://magadan-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Mariel_News.png,Mariel News,http://mariel-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Murmansk_News.png,Murmansk News,http://murmansk-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,NAO_News.png,NAO News,http://nao-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,NK_News.png,NK News,http://nk-news.ru,LOW,RIGHT,cluster
+cluster_03_train,train,Nabchelny_News.png,Nabchelny News,http://nabchelny-news.ru,LOW,RIGHT,cluster
+cluster_03_train,train,Nalchik_News.png,Nalchik News,http://nalchik-news.net,LOW,RIGHT,cluster+near_duplicate
+cluster_03_train,train,Norilsk_News.png,Norilsk News,http://norilsk-news.ru,LOW,RIGHT,cluster
+cluster_03_train,train,Novosibirsk_News.png,Novosibirsk News,http://novosibirsk-news.net,LOW,RIGHT,cluster
+cluster_03_train,train,Surgut_News.png,Surgut News,http://news-surgut.ru,LOW,RIGHT,cluster
+cluster_04_test,test,Adams.News.png,Adams.News,https://adams.news,LOW,RIGHT,cluster
+cluster_04_test,test,Addiction.News.png,Addiction.News,https://addiction.news,LOW,RIGHT,cluster
+cluster_04_test,test,Antioxidants.News.png,Antioxidants.News,https://antioxidants.news,LOW,RIGHT,cluster
+cluster_04_test,test,Awakening.News.png,Awakening.News,https://awakening.news,LOW,RIGHT,cluster
+cluster_04_test,test,Banned.News.png,Banned.News,https://banned.news,LOW,RIGHT,cluster
+cluster_04_test,test,Biased.News.png,Biased.News,https://biased.news,LOW,RIGHT,cluster
+cluster_04_test,test,Big_Government_News.png,Big Government News,https://biggovernment.news,LOW,RIGHT,cluster
+cluster_04_test,test,Bioterrorism.News.png,Bioterrorism.News,https://bioterrorism.news,LOW,RIGHT,cluster
+cluster_04_test,test,CDC.News.png,CDC.News,https://cdc.news,LOW,RIGHT,cluster
+cluster_04_test,test,CaliforniaCollapse.News.png,CaliforniaCollapse.News,https://californiacollapse.news,LOW,RIGHT,cluster
+cluster_04_test,test,Censorship.News.png,Censorship.News,https://censorship.news,LOW,RIGHT,cluster
+cluster_04_test,test,ClimateScienceNews.png,ClimateScienceNews,https://climatesciencenews.com,LOW,RIGHT,cluster
+cluster_04_test,test,CyberWar.News.png,CyberWar.News,https://cyberwar.news,LOW,RIGHT,cluster+near_duplicate
+cluster_04_test,test,Discoveries.News.png,Discoveries.News,https://discoveries.news,LOW,RIGHT,cluster
+cluster_04_test,test,Ecology_News.png,Ecology News,https://ecology.news,LOW,RIGHT,cluster
+cluster_04_test,test,Evil.News.png,Evil.News,https://evil.news,LOW,RIGHT,cluster
+cluster_04_test,test,Extinction.News.png,Extinction.News,https://extinction.news,LOW,RIGHT,cluster
+cluster_04_test,test,FDA.News.png,FDA.News,https://fda.news,LOW,RIGHT,cluster
+cluster_04_test,test,FactCheck.News.png,FactCheck.News,https://factcheck.news,LOW,RIGHT,cluster
+cluster_04_test,test,Gear.News.png,Gear.News,https://gear.news,LOW,RIGHT,cluster
+cluster_04_test,test,Herbs.News.png,Herbs.News,https://herbs.news,LOW,RIGHT,cluster
+cluster_04_test,test,MedicalTyranny.png,MedicalTyranny,https://medicaltyranny.com,LOW,RIGHT,cluster
+cluster_04_test,test,Pandemic_News.png,Pandemic News,https://pandemic.news,LOW,RIGHT,cluster
+cluster_04_test,test,ScienceClowns.png,ScienceClowns,https://scienceclowns.com,LOW,RIGHT,cluster
+cluster_04_test,test,Survival.News_1.png,Survival.News,https://survival.news,LOW,RIGHT,cluster
+cluster_04_test,test,TechGiants.News_1.png,TechGiants.News,https://techgiants.news,LOW,RIGHT,cluster+near_duplicate
+cluster_04_test,test,Technocrats.News_1.png,Technocrats.News,https://technocrats.news,LOW,RIGHT,cluster+near_duplicate
+cluster_04_test,test,Trump.News.png,Trump.News,http://trump.news,LOW,RIGHT,cluster
+cluster_04_test,test,Tyranny.News_1.png,Tyranny.News,https://tyranny.news,LOW,RIGHT,cluster
+cluster_04_test,test,VaccineDamage.News.png,VaccineDamage.News,https://vaccinedamage.news,LOW,RIGHT,cluster
+cluster_04_test,test,VaccineInjuryNews.png,VaccineInjuryNews,https://vaccineinjurynews.com,LOW,RIGHT,cluster
+cluster_05_train,train,100_Mile_Free_Press.png,100 Mile Free Press,https://100milefreepress.net,HIGH,LEFT-CENTER,cluster
+cluster_05_train,train,Arrow_Lakes_News.png,Arrow Lakes News,https://arrowlakesnews.com,HIGH,LEFT-CENTER,cluster+near_duplicate
+cluster_05_train,train,Bashaw_Star.png,Bashaw Star,https://bashawstar.com,HIGH,LEFT-CENTER,cluster
+cluster_05_train,train,Bellevue_Reporter.png,Bellevue Reporter,https://bellevuereporter.com,HIGH,LEAST BIASED,cluster
+cluster_05_train,train,Bothell_Reporter.png,Bothell Reporter,https://bothell-reporter.com,HIGH,LEAST BIASED,cluster
+cluster_05_train,train,Castlegar_News.png,Castlegar News,https://castlegarnews.com,HIGH,LEFT-CENTER,cluster+near_duplicate
+cluster_05_train,train,Castor_Advance.png,Castor Advance,https://castoradvance.com,HIGH,LEFT-CENTER,cluster
+cluster_05_train,train,Cranbrook_Townsman.png,Cranbrook Townsman,https://cranbrooktownsman.com,HIGH,LEFT-CENTER,cluster
+cluster_05_train,train,Creston_Valley_Advance.png,Creston Valley Advance,https://crestonvalleyadvance.ca,HIGH,LEFT-CENTER,cluster+near_duplicate
+cluster_05_train,train,Dekalb_Daily_Chronicle.png,Dekalb Daily Chronicle,https://shawlocal.com/daily-chronicle/,HIGH,LEAST BIASED,cluster
+cluster_05_train,train,Enumclaw_Courier-Herald.png,Enumclaw Courier-Herald,https://courierherald.com,HIGH,LEAST BIASED,cluster
+cluster_05_train,train,Fernie_Free_Press.png,Fernie Free Press,https://thefreepress.ca,HIGH,LEFT-CENTER,cluster
+cluster_05_train,train,Grand_Forks_Gazette.png,Grand Forks Gazette,https://grandforksgazette.ca,HIGH,LEFT-CENTER,cluster
+cluster_05_train,train,Kimberley_Bulletin.png,Kimberley Bulletin,https://kimberleybulletin.com,HIGH,LEFT-CENTER,cluster
+cluster_05_train,train,Lacombe_Express.png,Lacombe Express,https://lacombeexpress.com,HIGH,LEFT-CENTER,cluster
+cluster_05_train,train,NNSL_Media.png,NNSL Media,https://nnsl.com,HIGH,LEFT-CENTER,cluster
+cluster_05_train,train,Nunavut_News.png,Nunavut News,https://nunavutnews.com,HIGH,LEFT-CENTER,cluster
+cluster_05_train,train,Oak_Bay_News.png,Oak Bay News,https://oakbaynews.com,HIGH,LEFT-CENTER,cluster
+cluster_05_train,train,Similkameen_Spotlight.png,Similkameen Spotlight,https://similkameenspotlight.com,HIGH,LEFT-CENTER,cluster
+cluster_05_train,train,South_Whidbey_Record.png,South Whidbey Record,https://southwhidbeyrecord.com,HIGH,LEAST BIASED,cluster
+cluster_05_train,train,Stettler_Independent.png,Stettler Independent,https://stettlerindependent.com,HIGH,LEFT-CENTER,cluster
+cluster_05_train,train,Summerland_Review.png,Summerland Review,https://summerlandreview.com,HIGH,LEFT-CENTER,cluster
+cluster_05_train,train,Sylvan_Lake_News.png,Sylvan Lake News,https://sylvanlakenews.com,HIGH,LEFT-CENTER,cluster
+cluster_05_train,train,Trail_Times.png,Trail Times,https://trailtimes.ca,HIGH,LEFT-CENTER,cluster
+cluster_05_train,train,West_K_News.png,West K News,https://westknews.com,HIGH,LEFT-CENTER,cluster
+cluster_05_train,train,Wetaskiwin_Pipestone_Flyer.png,Wetaskiwin Pipestone Flyer,https://pipestoneflyer.ca,HIGH,LEFT-CENTER,cluster
+cluster_05_train,train,Yukon_News.png,Yukon News,https://yukon-news.com,HIGH,LEFT-CENTER,cluster
+cluster_06_train,train,Alchevsk_News.png,Alchevsk News,http://alchevsk-news.ru,LOW,RIGHT,cluster
+cluster_06_train,train,Berdyansk_News.png,Berdyansk News,http://berdyansk-news.ru,LOW,RIGHT,cluster
+cluster_06_train,train,Cherkassy-news.png,Cherkassy-news,http://Cherkassy-news.ru,LOW,RIGHT,cluster
+cluster_06_train,train,DNR-news.png,DNR-news,http://DNR-news.ru,LOW,RIGHT,cluster
+cluster_06_train,train,Daily_Headlines.png,Daily Headlines,http://dailyheadlines.net,LOW,RIGHT,cluster
+cluster_06_train,train,Delfi.png,Delfi,https://delfi.lt,HIGH,RIGHT-CENTER,cluster
+cluster_06_train,train,Dnepr-news.png,Dnepr-news,http://Dnepr-news.ru,LOW,RIGHT,cluster
+cluster_06_train,train,Dneprodzerzhinsk-News.png,Dneprodzerzhinsk-News,http://Dneprodzerzhinsk-News.ru,LOW,RIGHT,cluster
+cluster_06_train,train,Donetsk-News.png,Donetsk-News,http://Donetsk-News.ru,LOW,RIGHT,cluster
+cluster_06_train,train,FashionDive.png,FashionDive,https://fashiondive.com,HIGH,LEAST BIASED,cluster
+cluster_06_train,train,Ivano-Frankivsk_News.png,Ivano-Frankivsk News,http://if-news.ru,LOW,RIGHT,cluster
+cluster_06_train,train,Kharkov_News.png,Kharkov News,http://news-kharkov.ru,LOW,RIGHT,cluster
+cluster_06_train,train,Kherson-News.png,Kherson-News,http://Kherson-News.ru,LOW,RIGHT,cluster
+cluster_06_train,train,Khmelnitskiy-News.png,Khmelnitskiy-News,http://Khmelnitskiy-News.ru,LOW,RIGHT,cluster
+cluster_06_train,train,Kremenchug_News.png,Kremenchug News,http://kremenchug-news.ru,LOW,RIGHT,cluster
+cluster_06_train,train,Krivoy_Rog_News.png,Krivoy Rog News,http://krivoy-rog-news.ru,LOW,RIGHT,cluster
+cluster_06_train,train,LNR_News.png,LNR News,http://lnr-news.ru,LOW,RIGHT,cluster
+cluster_06_train,train,Lugansk_News.png,Lugansk News,http://lugansk-news.ru,LOW,RIGHT,cluster
+cluster_06_train,train,Mariupol_News.png,Mariupol News,http://mariupol-news.ru,LOW,RIGHT,cluster
+cluster_06_train,train,Melitopol_News.png,Melitopol News,http://melitopol-news.ru,LOW,RIGHT,cluster
+cluster_06_train,train,News-Kiev.png,News-Kiev,http://News-Kiev.ru,LOW,RIGHT,cluster
+cluster_06_train,train,Nikolaev_News.png,Nikolaev News,http://nikolaev-news.ru,LOW,RIGHT,cluster
+cluster_06_train,train,Nikopol_News.png,Nikopol News,http://nikopol-news.ru,LOW,RIGHT,cluster
+cluster_06_train,train,Odessa_News.png,Odessa News,http://news-odessa.ru,LOW,RIGHT,cluster
+cluster_06_train,train,St._Albert_Gazette.png,St. Albert Gazette,https://stalbertgazette.com,HIGH,LEFT-CENTER,cluster
+cluster_07_train,train,Bossip.png,Bossip,http://bossip.com,MIXED,LEFT,cluster
+cluster_07_train,train,I24_News.png,I24 News,https://i24news.tv,MIXED,RIGHT-CENTER,cluster
+cluster_07_train,train,KABC_-_790_AM_-_Los_Angeles.png,KABC - 790 AM - Los Angeles,https://kabc.com,MIXED,RIGHT,cluster+near_duplicate
+cluster_07_train,train,KARN_-_102.9_-_Little_Rock.png,KARN - 102.9 - Little Rock,https://newsradio1029.com,MIXED,RIGHT,cluster+near_duplicate
+cluster_07_train,train,KBOI_-_93.1_-_Boise.png,KBOI - 93.1 - Boise,https://kboi.com,MIXED,RIGHT,cluster
+cluster_07_train,train,KCMO_-_95.7_-_Kansas_City.png,KCMO - 95.7 - Kansas City,https://kcmotalkradio.com,MIXED,RIGHT,cluster
+cluster_07_train,train,KKAT_-_860_AM_-_Salt_Lake_City.png,KKAT - 860 AM - Salt Lake City,https://860kkat.com,MIXED,RIGHT,cluster
+cluster_07_train,train,KKOB_-_96.3_-_Albuquerque.png,KKOB - 96.3 - Albuquerque,https://newsradiokkob.com,MIXED,RIGHT,cluster
+cluster_07_train,train,KKOH_-_780_AM_-_Reno.png,KKOH - 780 AM - Reno,https://kkoh.com,MIXED,RIGHT,cluster
+cluster_07_train,train,KLIF_-_570AM_-_Dallas.png,KLIF - 570AM - Dallas,https://klif.com,MIXED,RIGHT,cluster
+cluster_07_train,train,KMAJ_-_1440_AM_-_Topeka.png,KMAJ - 1440 AM - Topeka,https://kmaj1440.com,MIXED,RIGHT,cluster
+cluster_07_train,train,KMJNow_-_Fresno.png,KMJNow - Fresno,https://kmjnow.com,MIXED,RIGHT,cluster
+cluster_07_train,train,KSFO_-_560_AM_-_San_Francisco.png,KSFO - 560 AM - San Francisco,https://ksfo.com,MIXED,RIGHT,cluster+near_duplicate
+cluster_07_train,train,KUGN_-_590_AM_-_Eugene.png,KUGN - 590 AM - Eugene,https://kugn.com,MIXED,RIGHT,cluster
+cluster_07_train,train,KVOR_-_740AM_-_Colorado_Springs.png,KVOR - 740AM - Colorado Springs,https://kvor.com,MIXED,RIGHT,cluster
+cluster_07_train,train,WAAV_-_980_AM_-_Wilmington.png,WAAV - 980 AM - Wilmington,https://980waav.com,MIXED,RIGHT,cluster
+cluster_07_train,train,WBAP_-_820AM_-_Dallas.png,WBAP - 820AM - Dallas,https://wbap.com,MIXED,RIGHT,cluster
+cluster_07_train,train,WFNC_-_640_AM_-_Fayetteville.png,WFNC - 640 AM  - Fayetteville,https://wfnc640am.com,MIXED,RIGHT,cluster
+cluster_07_train,train,WGOW_-_1150AM_-_Chattanooga.png,WGOW - 1150AM - Chattanooga,https://wgowam.com,MIXED,RIGHT,cluster+near_duplicate
+cluster_07_train,train,WJBC_-_1230AM_-_Bloomington.png,WJBC - 1230AM - Bloomington,https://wjbc.com,HIGH,RIGHT-CENTER,cluster
+cluster_07_train,train,WMAL_-_105.9_FM_-_WMAL.png,WMAL - 105.9 FM - WMAL,https://wmal.com,MIXED,RIGHT,cluster
+cluster_07_train,train,WPIC_-_790_AM_-_Youngstown.png,WPIC - 790 AM - Youngstown,https://790wpic.com,MIXED,RIGHT,cluster
+cluster_07_train,train,WSBA_-_93.5_FM_-_York.png,WSBA - 93.5 FM - York,https://newstalkwsba.com,HIGH,RIGHT-CENTER,cluster
+cluster_07_train,train,WTMA_-_1250AM_-_Charleston.png,WTMA - 1250AM - Charleston,https://wtma.com,MIXED,RIGHT,cluster
+cluster_07_train,train,WVLK_-_590_AM_-_Lexington.png,WVLK - 590 AM - Lexington,https://wvlkam.com,MIXED,RIGHT,cluster+near_duplicate
+cluster_08_train,train,Aguascalientes_Daily_Post.png,Aguascalientes Daily Post,http://aguascalientesdailypost.com,MIXED,LEFT-CENTER,cluster
+cluster_08_train,train,Baja_California_Post.png,Baja California Post,http://bajacaliforniapost.com,MIXED,LEFT-CENTER,cluster
+cluster_08_train,train,Campeche_Post.png,Campeche Post,http://campechepost.com,MIXED,LEFT-CENTER,cluster
+cluster_08_train,train,Cancun_Post.png,Cancun Post,http://thecancunpost.com,MIXED,LEFT-CENTER,cluster
+cluster_08_train,train,Guadalajara_Post.png,Guadalajara Post,http://theguadalajarapost.com,MIXED,LEFT-CENTER,cluster
+cluster_08_train,train,Guerrero_Post.png,Guerrero Post,http://theguerreropost.com,MIXED,LEFT-CENTER,cluster
+cluster_08_train,train,Hidalgo_Daily_Post.png,Hidalgo Daily Post,http://hidalgodailypost.com,MIXED,LEFT-CENTER,cluster
+cluster_08_train,train,Mazatlan_Post.png,Mazatlan Post,http://themazatlanpost.com,MIXED,LEFT-CENTER,cluster
+cluster_08_train,train,Mexico_Daily_Post.png,Mexico Daily Post,http://mexicodailypost.com,MIXED,LEFT-CENTER,cluster
+cluster_08_train,train,Michoacan_Post.png,Michoacan Post,http://michoacanpost.com,MIXED,LEFT-CENTER,cluster
+cluster_08_train,train,Monterrey_Daily_Post.png,Monterrey Daily Post,http://monterreydailypost.com,MIXED,LEFT-CENTER,cluster
+cluster_08_train,train,Nayarit_Post.png,Nayarit Post,http://thenayaritpost.com,MIXED,LEFT-CENTER,cluster
+cluster_08_train,train,Oaxaca_Post.png,Oaxaca Post,http://theoaxacapost.com,MIXED,LEFT-CENTER,cluster
+cluster_08_train,train,Sonora_Post.png,Sonora Post,http://thesonorapost.com,MIXED,LEFT-CENTER,cluster
+cluster_08_train,train,St._Louis_Record.png,St. Louis Record,https://stlrecord.com,MIXED,RIGHT-CENTER,cluster
+cluster_08_train,train,Tabasco_Post.png,Tabasco Post,http://tabascopost.com,MIXED,LEFT-CENTER,cluster
+cluster_08_train,train,Tamaulipas_Post.png,Tamaulipas Post,http://tamaulipaspost.com,MIXED,LEFT-CENTER,cluster
+cluster_08_train,train,Torreon_Post.png,Torreon Post,http://thetorreonpost.com,MIXED,LEFT-CENTER,cluster
+cluster_08_train,train,Up_North_News.png,Up North News,http://upnorthnewswi.com,MIXED,LEFT-CENTER,cluster
+cluster_08_train,train,Veracruz_Daily_Post.png,Veracruz Daily Post,http://veracruzdailypost.com,MIXED,LEFT-CENTER,cluster
+cluster_08_train,train,Yucatan_Post.png,Yucatan Post,http://theyucatanpost.com,MIXED,LEFT-CENTER,cluster
+cluster_08_train,train,Zacatecas_Post.png,Zacatecas Post,http://zacatecaspost.com,MIXED,LEFT-CENTER,cluster
+cluster_09_train,train,Belleville_Community_Press.png,Belleville Community Press,https://communitypress.ca,HIGH,RIGHT-CENTER,cluster
+cluster_09_train,train,Downsizing_the_Federal_Government.png,Downsizing the Federal Government,https://downsizinggovernment.org,HIGH,RIGHT-CENTER,cluster
+cluster_09_train,train,Exposed_by_CMD.png,Exposed by CMD,https://exposedbycmd.org,HIGH,LEFT,cluster
+cluster_09_train,train,Leading_Report.png,Leading Report,http://theleadingreport.com,LOW,RIGHT,cluster
+cluster_09_train,train,Seaforth_Huron_Expositor.png,Seaforth Huron Expositor,https://seaforthhuronexpositor.com,HIGH,RIGHT-CENTER,cluster
+cluster_09_train,train,Shoreline_Beacon.png,Shoreline Beacon,https://shorelinebeacon.com,HIGH,RIGHT-CENTER,cluster
+cluster_09_train,train,Simcoe_Reformer.png,Simcoe Reformer,https://simcoereformer.ca,HIGH,RIGHT-CENTER,cluster
+cluster_09_train,train,St._Thomas_Times-Journal.png,St. Thomas Times-Journal,https://stthomastimesjournal.com,HIGH,RIGHT-CENTER,cluster
+cluster_09_train,train,Stopping_Socialism.png,Stopping Socialism,http://stoppingsocialism.com,MIXED,RIGHT,cluster
+cluster_09_train,train,Stratford_Beacon-Herald.png,Stratford Beacon-Herald,https://stratfordbeaconherald.com,HIGH,RIGHT-CENTER,cluster
+cluster_09_train,train,Sudbury_Star.png,Sudbury Star,https://thesudburystar.com,HIGH,RIGHT-CENTER,cluster
+cluster_09_train,train,The_Dispatch.png,The Dispatch,https://thedispatch.com,HIGH,RIGHT-CENTER,cluster
+cluster_09_train,train,The_Province.png,The Province,https://theprovince.com,HIGH,RIGHT-CENTER,cluster
+cluster_09_train,train,Timmins_Press.png,Timmins Press,https://timminspress.com,HIGH,RIGHT-CENTER,cluster
+cluster_09_train,train,Trentonian.png,Trentonian,https://trentonian.ca,HIGH,RIGHT-CENTER,cluster
+cluster_09_train,train,Wallaceburg_Courier_Press.png,Wallaceburg Courier Press,https://wallaceburgcourierpress.com,HIGH,RIGHT-CENTER,cluster
+cluster_09_train,train,West_Elgin_Chronicle.png,West Elgin Chronicle,https://thechronicle-online.com,HIGH,RIGHT-CENTER,cluster
+cluster_09_train,train,World_of_Buzz.png,World of Buzz,http://worldofbuzz.com,MIXED,LEAST BIASED,cluster
+cluster_10_train,train,Arizona_Sun_Times.png,Arizona Sun Times,http://arizonasuntimes.com,MIXED,RIGHT,cluster+near_duplicate
+cluster_10_train,train,Connecticut_Star.png,Connecticut Star,http://theconnecticutstar.com,MIXED,RIGHT,cluster+near_duplicate
+cluster_10_train,train,Florida_Capital_Star.png,Florida Capital Star,http://floridacapitalstar.com,MIXED,RIGHT,cluster+near_duplicate
+cluster_10_train,train,Georgia_Star_News.png,Georgia Star News,http://georgiastarnews.com,MIXED,RIGHT,cluster+near_duplicate
+cluster_10_train,train,Iowa_Star.png,Iowa Star,http://theiowastar.com,MIXED,RIGHT,cluster+near_duplicate
+cluster_10_train,train,Michigan_Star.png,Michigan Star,http://themichiganstar.com,MIXED,RIGHT,cluster+near_duplicate
+cluster_10_train,train,Minnesota_Sun.png,Minnesota Sun,http://theminnesotasun.com,MIXED,RIGHT,cluster+near_duplicate
+cluster_10_train,train,The_Ohio_Star.png,The Ohio Star,http://theohiostar.com,MIXED,RIGHT,cluster+near_duplicate
+cluster_10_train,train,The_Tennessee_Star.png,The Tennessee Star,http://tennesseestar.com,MIXED,RIGHT,cluster
+cluster_10_train,train,Virginia_Star.png,Virginia Star,http://thevirginiastar.com,MIXED,RIGHT,cluster+near_duplicate
+cluster_10_train,train,Wisconsin_Daily_Star.png,Wisconsin Daily Star,http://wisconsindailystar.com,MIXED,RIGHT,cluster+near_duplicate
+cluster_11_train,train,Autoblog.png,Autoblog,https://autoblog.com,HIGH,LEFT-CENTER,cluster
+cluster_11_train,train,Canadaland.png,Canadaland,https://canadaland.com,MIXED,LEFT-CENTER,cluster
+cluster_11_train,train,Center_for_a_Stateless_Society.png,Center for a Stateless Society,https://c4ss.org,HIGH,LEFT,cluster
+cluster_11_train,train,Competitive_Enterprise_Institute.png,Competitive Enterprise Institute,http://cei.org,LOW,RIGHT,cluster
+cluster_11_train,train,Current_Affairs.png,Current Affairs,https://currentaffairs.org,HIGH,LEFT,cluster
+cluster_11_train,train,Echo_Check.png,Echo Check,http://echocheck.org,LOW,RIGHT,cluster
+cluster_11_train,train,Full_Fact_UK.png,Full Fact UK,https://fullfact.org,HIGH,LEAST BIASED,cluster
+cluster_11_train,train,Gript.png,Gript,http://Gript.ie,MIXED,RIGHT,cluster
+cluster_11_train,train,Grunge.png,Grunge,http://Grunge.com,MIXED,LEFT-CENTER,cluster
+cluster_11_train,train,Military_Watch_Magazine.png,Military Watch Magazine,http://militarywatchmagazine.com,MIXED,RIGHT-CENTER,cluster
+cluster_12_train,train,Catholic_Tribune_Arizona.png,Catholic Tribune – Arizona,http://azcatholictribune.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_12_train,train,Catholic_Tribune_Minnesota.png,Catholic Tribune – Minnesota,http://mncatholictribune.com,MIXED,RIGHT-CENTER,cluster+near_duplicate
+cluster_12_train,train,Catholic_Tribune_Pennsylvania.png,Catholic Tribune – Pennsylvania,http://pacatholictribune.com,MIXED,RIGHT-CENTER,cluster+near_duplicate

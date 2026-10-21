@@ -1,0 +1,10 @@
+{"task":"factuality","reviewed_ranges":[[146,175]],"decisions":{
+"149":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["vaguely recall an MBFC-style rating of Right bias/Mixed factual reporting"]},
+"150":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["LOW / MBFC-style 'Questionable' or low factual reporting (approximate recall)"]},
+"154":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["weak, uncertain recollection of an MBFC profile rating it High in factual reporting with Left-Center bias"]},
+"156":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["moderate-confidence recollection that MBFC profiled 'News Hour First' as a Questionable, low-factual, far-right site"]},
+"157":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["MBFC, which I recall rating it Questionable/LOW factual","I report only my uncertain recollection"]},
+"159":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["moderately recall an MBFC page rating it High factual / Left-Center biased"]},
+"166":{"category":"uncertain_recall","rating_scope":"named_family","family_link":"tentative_or_inferred","evidence":["Questionable/Mixed factual reporting recalled for the Metric Media network (low confidence)"]},
+"172":{"category":"asserted","rating_scope":"named_family","family_link":"identified_by_response","evidence":["I recall MBFC treating Natural News as low-credibility conspiracy/pseudoscience"]}
+}}

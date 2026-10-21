@@ -1,0 +1,585 @@
+{
+  "scope": "Manual coding of common structured self-report text, not unequal provider-only summaries",
+  "record_count": 848,
+  "reviewed_decisions": 848,
+  "subset_sha256": "ae1fb1f60617c1073b7c1643d272b6afe125d263250b03a0aa311219aa5254d5",
+  "snapshot_sha256": "1bad8495f80cd58570647930af927f4c00841b7bc996b538fa5cfe9b78a57d48",
+  "rubric_sha256": "1ddf8052d44af3abe004955cb044210ed4d4eeea15ac2a5bbfd27a28b5975e19",
+  "annotation_sources": [
+    {
+      "path": "artifacts/audits/current_probe_manual_review_complete_20261010/annotations/gpt56_bias_001_045.json",
+      "sha256": "eb72831b27f0b710350add00bb4a846ebebc659c486705ae72598fd7e32d7a18"
+    },
+    {
+      "path": "artifacts/audits/current_probe_manual_review_complete_20261010/annotations/gpt56_bias_046_100.json",
+      "sha256": "6862ebe08eb4093b829e799f1847938c421cf1139ff00cd8132e13ab220917a1"
+    },
+    {
+      "path": "artifacts/audits/current_probe_manual_review_complete_20261010/annotations/gpt56_bias_101_140.json",
+      "sha256": "ca419f7289876f528126d6ff6fc63457cca1f5fad52adec275fcabfe788ddcbd"
+    },
+    {
+      "path": "artifacts/audits/current_probe_manual_review_complete_20261010/annotations/gpt56_bias_141_180.json",
+      "sha256": "b8f5cd51792fcd2173b11545eeba5b9879c11f068609142f89ad66e9e3561add"
+    },
+    {
+      "path": "artifacts/audits/current_probe_manual_review_complete_20261010/annotations/gpt56_bias_181_212.json",
+      "sha256": "a9f296d9bcb76ef4eb59395c9880e304a44c6c5e66953447321292b7de22d63e"
+    },
+    {
+      "path": "artifacts/audits/current_probe_manual_review_complete_20261010/annotations/gpt56_factuality_001_040.json",
+      "sha256": "1db1d4d69b4ac6aa662634d2f3ff3cb0d088e145f7bd033c00087bec9b0b31a8"
+    },
+    {
+      "path": "artifacts/audits/current_probe_manual_review_complete_20261010/annotations/gpt56_factuality_041_085.json",
+      "sha256": "04edeaeff90f8967949a0e9ed71eb0e517fe81224906ad55f159332d89e35742"
+    },
+    {
+      "path": "artifacts/audits/current_probe_manual_review_complete_20261010/annotations/gpt56_factuality_086_130.json",
+      "sha256": "8fc5623e4cff6762e61d80d5a61febd6d17920a4333e31a20bc093715b52ad2f"
+    },
+    {
+      "path": "artifacts/audits/current_probe_manual_review_complete_20261010/annotations/gpt56_factuality_131_172.json",
+      "sha256": "a91e9a4f29864db73389c5e1be525554e4f70229e9a1db5f6f3a7cf648eb9fc4"
+    },
+    {
+      "path": "artifacts/audits/current_probe_manual_review_complete_20261010/annotations/gpt56_factuality_173_212.json",
+      "sha256": "e452c349b77b71c56bce1235146cb49b3bcee6830200341efb23821305be5017"
+    },
+    {
+      "path": "artifacts/audits/current_probe_manual_review_complete_20261010/annotations/opus5_bias_001_035.json",
+      "sha256": "5b7eca26aa2894c441b8d0956ab3f5d878c22f67d8bd4a3733f88603f59b62d2"
+    },
+    {
+      "path": "artifacts/audits/current_probe_manual_review_complete_20261010/annotations/opus5_bias_036_070.json",
+      "sha256": "aaeb9fd5f60d1126d899fd41840ee92d145d16795813229adfbcb103048c33d4"
+    },
+    {
+      "path": "artifacts/audits/current_probe_manual_review_complete_20261010/annotations/opus5_bias_071_105.json",
+      "sha256": "bfe8f248f8408fd551f2f9b3d83e7b6f55e9f8a17fadee6d844b4aa52b2ff30b"
+    },
+    {
+      "path": "artifacts/audits/current_probe_manual_review_complete_20261010/annotations/opus5_bias_106_140.json",
+      "sha256": "03d3adaccbc1535af2978fba71cec849005a416cf0ce092c56b5f70b50460c94"
+    },
+    {
+      "path": "artifacts/audits/current_probe_manual_review_complete_20261010/annotations/opus5_bias_141_166.json",
+      "sha256": "b981f3dd2d1f78550d7a31641fa0471efc67d3322004c696201d7fd7685155d3"
+    },
+    {
+      "path": "artifacts/audits/current_probe_manual_review_complete_20261010/annotations/opus5_bias_167_191.json",
+      "sha256": "9b212eb7759745832619678464165b494bed30cb35315610cd834f73eb2dc85f"
+    },
+    {
+      "path": "artifacts/audits/current_probe_manual_review_complete_20261010/annotations/opus5_bias_192_212.json",
+      "sha256": "ee5a27e6b254b4350b0889c0288ebf3c3819ec711a275043cd7b9a5ed051b791"
+    },
+    {
+      "path": "artifacts/audits/current_probe_manual_review_complete_20261010/annotations/opus5_factuality_001_035.json",
+      "sha256": "506cd82207d7727094ba78696599fcf8969894cd221c183449b706570995d401"
+    },
+    {
+      "path": "artifacts/audits/current_probe_manual_review_complete_20261010/annotations/opus5_factuality_036_070.json",
+      "sha256": "b9585efa43528968c7e4a5551013ad9c44694cfba160b5e1f3b456bc122135a6"
+    },
+    {
+      "path": "artifacts/audits/current_probe_manual_review_complete_20261010/annotations/opus5_factuality_071_105.json",
+      "sha256": "0c327fc5d903d0f8b1726973760ac023079b44560d9b1d65386d9f210d9a8131"
+    },
+    {
+      "path": "artifacts/audits/current_probe_manual_review_complete_20261010/annotations/opus5_factuality_106_140.json",
+      "sha256": "57f0bf92c9f2a563d0dd1f9f096d50dd9c1d865c6a68e7d84471f96beb4262ea"
+    },
+    {
+      "path": "artifacts/audits/current_probe_manual_review_complete_20261010/annotations/opus5_factuality_141_166.json",
+      "sha256": "89c6eae64283a5170514eaa16b9b9cf0dd6a42d3ba1f4e0e9813d3475ebc4eec"
+    },
+    {
+      "path": "artifacts/audits/current_probe_manual_review_complete_20261010/annotations/opus5_factuality_167_191.json",
+      "sha256": "420a56c1adf5cf7ca8dd551dc38dc3373b3a4146835658d1ef3d48856b17cf4c"
+    },
+    {
+      "path": "artifacts/audits/current_probe_manual_review_complete_20261010/annotations/opus5_factuality_192_212.json",
+      "sha256": "e244dea6948136ea42b23b4b10bc6655ea3fc708a71778aec8f075c4e74210be"
+    }
+  ],
+  "models": {
+    "opus5": {
+      "factuality": {
+        "n": 212,
+        "expected": 212,
+        "complete": true,
+        "categories": {
+          "asserted": 23,
+          "uncertain_recall": 81,
+          "ambiguous": 0,
+          "generic": 7,
+          "none": 101
+        },
+        "explicit_references": 104,
+        "reference_rate": 0.49056603773584906,
+        "correct_reference_predictions": 87,
+        "accuracy_among_references": 0.8365384615384616,
+        "correct_predictions": 191,
+        "overall_accuracy": 0.9009433962264151,
+        "provider_summaries": 211,
+        "structured_explanations": 212
+      },
+      "bias": {
+        "n": 212,
+        "expected": 212,
+        "complete": true,
+        "categories": {
+          "asserted": 21,
+          "uncertain_recall": 98,
+          "ambiguous": 1,
+          "generic": 13,
+          "none": 79
+        },
+        "explicit_references": 119,
+        "reference_rate": 0.5613207547169812,
+        "correct_reference_predictions": 99,
+        "accuracy_among_references": 0.8319327731092437,
+        "correct_predictions": 156,
+        "overall_accuracy": 0.7358490566037735,
+        "provider_summaries": 211,
+        "structured_explanations": 212
+      }
+    },
+    "gpt56": {
+      "factuality": {
+        "n": 212,
+        "expected": 212,
+        "complete": true,
+        "categories": {
+          "asserted": 44,
+          "uncertain_recall": 53,
+          "ambiguous": 0,
+          "generic": 0,
+          "none": 115
+        },
+        "explicit_references": 97,
+        "reference_rate": 0.45754716981132076,
+        "correct_reference_predictions": 86,
+        "accuracy_among_references": 0.8865979381443299,
+        "correct_predictions": 167,
+        "overall_accuracy": 0.7877358490566038,
+        "provider_summaries": 129,
+        "structured_explanations": 212
+      },
+      "bias": {
+        "n": 212,
+        "expected": 212,
+        "complete": true,
+        "categories": {
+          "asserted": 28,
+          "uncertain_recall": 15,
+          "ambiguous": 0,
+          "generic": 0,
+          "none": 169
+        },
+        "explicit_references": 43,
+        "reference_rate": 0.2028301886792453,
+        "correct_reference_predictions": 38,
+        "accuracy_among_references": 0.8837209302325582,
+        "correct_predictions": 125,
+        "overall_accuracy": 0.589622641509434,
+        "provider_summaries": 89,
+        "structured_explanations": 212
+      }
+    }
+  },
+  "matched": {
+    "outlet_count": 212,
+    "outlet_indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      212
+    ],
+    "models": {
+      "opus5": {
+        "factuality": {
+          "n": 212,
+          "expected": 212,
+          "complete": true,
+          "categories": {
+            "asserted": 23,
+            "uncertain_recall": 81,
+            "ambiguous": 0,
+            "generic": 7,
+            "none": 101
+          },
+          "explicit_references": 104,
+          "reference_rate": 0.49056603773584906,
+          "correct_reference_predictions": 87,
+          "accuracy_among_references": 0.8365384615384616,
+          "correct_predictions": 191,
+          "overall_accuracy": 0.9009433962264151,
+          "provider_summaries": 211,
+          "structured_explanations": 212
+        },
+        "bias": {
+          "n": 212,
+          "expected": 212,
+          "complete": true,
+          "categories": {
+            "asserted": 21,
+            "uncertain_recall": 98,
+            "ambiguous": 1,
+            "generic": 13,
+            "none": 79
+          },
+          "explicit_references": 119,
+          "reference_rate": 0.5613207547169812,
+          "correct_reference_predictions": 99,
+          "accuracy_among_references": 0.8319327731092437,
+          "correct_predictions": 156,
+          "overall_accuracy": 0.7358490566037735,
+          "provider_summaries": 211,
+          "structured_explanations": 212
+        }
+      },
+      "gpt56": {
+        "factuality": {
+          "n": 212,
+          "expected": 212,
+          "complete": true,
+          "categories": {
+            "asserted": 44,
+            "uncertain_recall": 53,
+            "ambiguous": 0,
+            "generic": 0,
+            "none": 115
+          },
+          "explicit_references": 97,
+          "reference_rate": 0.45754716981132076,
+          "correct_reference_predictions": 86,
+          "accuracy_among_references": 0.8865979381443299,
+          "correct_predictions": 167,
+          "overall_accuracy": 0.7877358490566038,
+          "provider_summaries": 129,
+          "structured_explanations": 212
+        },
+        "bias": {
+          "n": 212,
+          "expected": 212,
+          "complete": true,
+          "categories": {
+            "asserted": 28,
+            "uncertain_recall": 15,
+            "ambiguous": 0,
+            "generic": 0,
+            "none": 169
+          },
+          "explicit_references": 43,
+          "reference_rate": 0.2028301886792453,
+          "correct_reference_predictions": 38,
+          "accuracy_among_references": 0.8837209302325582,
+          "correct_predictions": 125,
+          "overall_accuracy": 0.589622641509434,
+          "provider_summaries": 89,
+          "structured_explanations": 212
+        }
+      }
+    }
+  },
+  "review_provenance": {
+    "previous_review": "artifacts/audits/current_probe_manual_review_20261010",
+    "reused_decisions": 756,
+    "previous_snapshot_sha256": "0cfb93f4ce768226fa2754a8afd7c9ae5fbbbf0b82deb4d1e30b0064807308d1",
+    "previous_rubric_sha256": "8549c88cda227651745a8bc6cdba2242806915837c085f9f04070845fa34bd7a",
+    "previous_annotation_sources": [
+      {
+        "path": "artifacts/audits/current_probe_manual_review_20261010/annotations/gpt56_bias_001_045.json",
+        "sha256": "eb72831b27f0b710350add00bb4a846ebebc659c486705ae72598fd7e32d7a18"
+      },
+      {
+        "path": "artifacts/audits/current_probe_manual_review_20261010/annotations/gpt56_bias_046_100.json",
+        "sha256": "6862ebe08eb4093b829e799f1847938c421cf1139ff00cd8132e13ab220917a1"
+      },
+      {
+        "path": "artifacts/audits/current_probe_manual_review_20261010/annotations/gpt56_bias_101_140.json",
+        "sha256": "ca419f7289876f528126d6ff6fc63457cca1f5fad52adec275fcabfe788ddcbd"
+      },
+      {
+        "path": "artifacts/audits/current_probe_manual_review_20261010/annotations/gpt56_bias_141_180.json",
+        "sha256": "b8f5cd51792fcd2173b11545eeba5b9879c11f068609142f89ad66e9e3561add"
+      },
+      {
+        "path": "artifacts/audits/current_probe_manual_review_20261010/annotations/gpt56_bias_181_212.json",
+        "sha256": "a9f296d9bcb76ef4eb59395c9880e304a44c6c5e66953447321292b7de22d63e"
+      },
+      {
+        "path": "artifacts/audits/current_probe_manual_review_20261010/annotations/gpt56_factuality_001_040.json",
+        "sha256": "1db1d4d69b4ac6aa662634d2f3ff3cb0d088e145f7bd033c00087bec9b0b31a8"
+      },
+      {
+        "path": "artifacts/audits/current_probe_manual_review_20261010/annotations/gpt56_factuality_041_085.json",
+        "sha256": "04edeaeff90f8967949a0e9ed71eb0e517fe81224906ad55f159332d89e35742"
+      },
+      {
+        "path": "artifacts/audits/current_probe_manual_review_20261010/annotations/gpt56_factuality_086_130.json",
+        "sha256": "8fc5623e4cff6762e61d80d5a61febd6d17920a4333e31a20bc093715b52ad2f"
+      },
+      {
+        "path": "artifacts/audits/current_probe_manual_review_20261010/annotations/gpt56_factuality_131_172.json",
+        "sha256": "a91e9a4f29864db73389c5e1be525554e4f70229e9a1db5f6f3a7cf648eb9fc4"
+      },
+      {
+        "path": "artifacts/audits/current_probe_manual_review_20261010/annotations/gpt56_factuality_173_212.json",
+        "sha256": "e452c349b77b71c56bce1235146cb49b3bcee6830200341efb23821305be5017"
+      },
+      {
+        "path": "artifacts/audits/current_probe_manual_review_20261010/annotations/opus5_bias_001_035.json",
+        "sha256": "5b7eca26aa2894c441b8d0956ab3f5d878c22f67d8bd4a3733f88603f59b62d2"
+      },
+      {
+        "path": "artifacts/audits/current_probe_manual_review_20261010/annotations/opus5_bias_036_070.json",
+        "sha256": "aaeb9fd5f60d1126d899fd41840ee92d145d16795813229adfbcb103048c33d4"
+      },
+      {
+        "path": "artifacts/audits/current_probe_manual_review_20261010/annotations/opus5_bias_071_105.json",
+        "sha256": "bfe8f248f8408fd551f2f9b3d83e7b6f55e9f8a17fadee6d844b4aa52b2ff30b"
+      },
+      {
+        "path": "artifacts/audits/current_probe_manual_review_20261010/annotations/opus5_bias_106_140.json",
+        "sha256": "03d3adaccbc1535af2978fba71cec849005a416cf0ce092c56b5f70b50460c94"
+      },
+      {
+        "path": "artifacts/audits/current_probe_manual_review_20261010/annotations/opus5_bias_141_166.json",
+        "sha256": "b981f3dd2d1f78550d7a31641fa0471efc67d3322004c696201d7fd7685155d3"
+      },
+      {
+        "path": "artifacts/audits/current_probe_manual_review_20261010/annotations/opus5_factuality_001_035.json",
+        "sha256": "506cd82207d7727094ba78696599fcf8969894cd221c183449b706570995d401"
+      },
+      {
+        "path": "artifacts/audits/current_probe_manual_review_20261010/annotations/opus5_factuality_036_070.json",
+        "sha256": "b9585efa43528968c7e4a5551013ad9c44694cfba160b5e1f3b456bc122135a6"
+      },
+      {
+        "path": "artifacts/audits/current_probe_manual_review_20261010/annotations/opus5_factuality_071_105.json",
+        "sha256": "0c327fc5d903d0f8b1726973760ac023079b44560d9b1d65386d9f210d9a8131"
+      },
+      {
+        "path": "artifacts/audits/current_probe_manual_review_20261010/annotations/opus5_factuality_106_140.json",
+        "sha256": "57f0bf92c9f2a563d0dd1f9f096d50dd9c1d865c6a68e7d84471f96beb4262ea"
+      },
+      {
+        "path": "artifacts/audits/current_probe_manual_review_20261010/annotations/opus5_factuality_141_166.json",
+        "sha256": "89c6eae64283a5170514eaa16b9b9cf0dd6a42d3ba1f4e0e9813d3475ebc4eec"
+      }
+    ],
+    "saved_responses_unchanged": true,
+    "rubric_change": "Coverage wording made conditional; all semantic coding rules unchanged."
+  }
+}

@@ -1,0 +1,6 @@
+{"task":"factuality","reviewed_ranges":[[176,212]],"decisions":{
+"197":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["I do recall that MBFC rates Turley Talks low for factuality and extreme-right for bias"]},
+"199":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["Right / extreme-right bias","recalled prior ratings of this outlet as right-leaning/low-factuality"],"note":"The right-bias claim is unqualified; the exact factuality tier is recalled imprecisely."},
+"210":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["Media Bias/Fact Check-style coverage of WyoFile as high-factual, low-bias","High factuality (recalled, unverified)"]},
+"211":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["Mixed/Generally Reliable (recalled imperfectly; MBFC has listed Yellowhammer News around 'Mixed' or right-center factuality in some assessments)"]}
+}}

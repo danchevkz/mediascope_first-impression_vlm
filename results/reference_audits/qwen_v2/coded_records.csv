@@ -1,0 +1,425 @@
+id,task,media_name,observed,category,rating_scope,family_link,evidence,note,source_sha256
+bias:001,bias,9 News,True,none,none,not_applicable,[],,09f4f6eed459867cf7fbc1aee95415037a881b7c3bb8f515316d0519600e9346
+bias:002,bias,ABQ Times,True,none,none,not_applicable,[],,b78d9b4b9045544a62d5c761d391a1a6236aa509223ce78d72bf991bb92e0e44
+bias:003,bias,Adams.News,True,asserted,named_family,identified_by_response,"[""Right / extreme right (conspiratorial, anti-establishment right)"", ""matching my recalled knowledge of Mike Adams' Natural News network""]",,ef37262f875db37b104028f5bfcc170fab01ee22c81755b26019f9b407161bd1
+bias:004,bias,Addiction.News,True,none,none,not_applicable,[],,d2e2f3f3aad72505f7c6fbb3918ae53d6e105f1d3c86737d2c2d28b60718f602
+bias:005,bias,Al Monitor,False,unobserved,none,not_applicable,[],,5e777af4ddae59257990b851f5e8f78e61ae70bd7acb84be4ebcc62808d257ab
+bias:006,bias,Alabama Business Daily,True,none,none,not_applicable,[],,bd69da49c6dda3ae08391633a0ad06a1e39d1f5f215685bb61027da60289f7f5
+bias:007,bias,Altoona Times,True,none,none,not_applicable,[],,5ea0dbb827547ede2c62f538fe9d9aa79d450d637f4405d126e60155d5ab2fef
+bias:008,bias,Amarillo Gazette,True,none,none,not_applicable,[],,55ab7fec932923d7de313b7318309e1e7a0dddd05eddbe9592ed221968ef9b31
+bias:009,bias,American Affairs Journal,True,none,none,not_applicable,[],,427e04d363a6994ca8e498a25bbea9eb759027d8d4e4b63cdbe3b8b09c303a1a
+bias:010,bias,American Pharmacy News,False,unobserved,none,not_applicable,[],,034c46418fd26ac1ed63c5105ca32f7748e70133969d9c62f845c6589b339414
+bias:011,bias,American Renaissance Magazine,True,none,none,not_applicable,[],,a1aa95bb4bb6fe6f7e0b2c8ead6380b8d177bb5d807e2841332cf1aede807fab
+bias:012,bias,"American Society for the Defense of Tradition, Family, and Property",True,asserted,outlet,not_applicable,"[""I recognize the outlet and recall that MBFC rates TFP as right-wing bias""]",,e422761717ad2b3b8599d0d2ba4ebcae6ba9dce920cc7413b0122566139fb79c
+bias:013,bias,Amnesty International,False,unobserved,none,not_applicable,[],,329119682581a7591dd518bb482756e86eb2dbdd15fd35b42dc05aaee108be35
+bias:014,bias,Anthropocene Alliance,False,unobserved,none,not_applicable,[],,e2f1e98443557190dc774c22929974a75ac6a3b89eae2d7e38e934790ac25b25
+bias:015,bias,ArcaMax,True,none,none,not_applicable,[],,240c2c75e3a3721b7ca1ec435f5436571e745fe504c026336fd28faa611d9575
+bias:016,bias,Arkansas Times,True,asserted,outlet,not_applicable,"[""recalled MBFC Left-Center/High factuality rating""]",,38f0ae4b5cd7d9d0e2dcb21b66bc9fcadfcf27f09630a241e78ce64a5e0075f8
+bias:017,bias,Atlanta Black Star,False,unobserved,none,not_applicable,[],,78c616f2faecb03b5afa970e777dce037a615313c49b5ffc193605ff3de04b7a
+bias:018,bias,Auburn Reporter,True,none,none,not_applicable,[],,55c9c38421c11229911b0eb3b5d5c48ee5115d9be4c0e090e9a28e50aaf899df
+bias:019,bias,Awakening.News,False,unobserved,none,not_applicable,[],,4d4a69a9d93a09c563de0fdbe6b929ec9478cebe8a5dd509055aca78f9d2dcc0
+bias:020,bias,Baha Breaking News,True,none,none,not_applicable,[],,0ca0be64abe0791a3351aa6dc7bf7ad4319f52e64dcad52801dc65a2973d8717
+bias:021,bias,Bare Naked Islam,False,unobserved,none,not_applicable,[],,8a44e48200edbdc8386aa18f867267de32a365c48867fa621da2c9565a2d3519
+bias:022,bias,Being Liberal,True,none,none,not_applicable,[],,a4e6b083759bacd746db66204ec03f518f29363b81e5fe98a08fb2a8ce3c0ee8
+bias:023,bias,Belfer Center for Science and International Affairs,True,none,none,not_applicable,[],,fb375bf000c23b6ed2750ecd301f615c9c84b4d1e625e987455f33fce248c7d1
+bias:024,bias,Bioterrorism.News,False,unobserved,none,not_applicable,[],,62b5bee688f80e8829a8ce1b9d9910e5a1a2e4323bb9da22086ca89d58d1eee8
+bias:025,bias,Black Community NEws,True,none,none,not_applicable,[],,4d97dceb8bca4870b7c12aefc01a634d014cdbe1644bf7fd519c4b6f3154a3b7
+bias:026,bias,Blacknews,True,asserted,outlet,not_applicable,"[""I recognize the outlet and recall MBFC rating it Left-Center""]",,0cd286899b242bf6ea57278d6fdce36d27ca7a4679f3de32f692898b3857fc5b
+bias:027,bias,Borgen Project,True,none,none,not_applicable,[],,6b5baeef60e38d5c2b2e7d8c9fcf9398a842b6ae11e518f1b441b97dfb42277e
+bias:028,bias,Breakthrough Institute,True,none,none,not_applicable,[],,f4bd2df06299635074bc4ce976189e1bb77346467bb26641a934bca8c8c9aa49
+bias:029,bias,Burlington Review,True,none,none,not_applicable,[],,8e8272f041cbb176bc1ca62b7755728067778ed5986d62a183fd4b95757c0baa
+bias:030,bias,Butler County News,True,none,none,not_applicable,[],,19246e61f98248e87b4b346568ef31db1449072ec48b074fe2b5537933276f36
+bias:031,bias,CTV News,True,uncertain_recall,outlet,not_applicable,"[""I recall a generic external characterization of CTV as centrist/least-biased with high factuality, but I cannot verify any specific rating entry""]",,9870a1a0b9a3aa4c5c12bf8677ec2e3a75d04522854ef1fca6ff15b5d04fac86
+bias:032,bias,California Business Daily,True,none,none,not_applicable,[],,3cc472c421f05111b64bd187bbf4fb08cee4b0ca826bd31f8ab723879192369d
+bias:033,bias,CaliforniaCollapse.News,True,asserted,named_family,identified_by_response,"[""NaturalNews/NewsTarget network, which MBFC rates as right-wing bias with low factuality""]",,75f20c41c76c33ca94b3057d9757b067371378d12585da28f862d2f99363b856
+bias:034,bias,Cambria Times,True,none,none,not_applicable,[],,be4349e8affee4500266042609f90d8c2f2e3b8682f8987760c9104745567507
+bias:035,bias,Capital District Times,False,unobserved,none,not_applicable,[],,4a5210cc9a47daba1989f8a432cc3c0704aeec8149b662379c9d89ef20953994
+bias:036,bias,Censorship.News,True,asserted,outlet,not_applicable,"[""I recognize the outlet name and recall an MBFC-style rating of right bias with mixed/poor factuality""]",,04ac86d7affb3678fc655b3629f543212ecd11084367b1d833f026bf0fe555d5
+bias:037,bias,Center for Democracy and Technology,True,none,none,not_applicable,[],,7f22e0cf709ef021eeb92df91c91afb5f33809d88be876a5052509b7f7766ac5
+bias:038,bias,Central Bucks Today,True,none,none,not_applicable,[],,5738eb9f82b8ec59512f7afca1f4855e27e125382f274d34fa5df473ec29c2f5
+bias:039,bias,Check Your Fact,True,none,none,not_applicable,[],,25217445e0a88900eb5522319611ed29f3472c8d6e8b44bf892e7c982a12a6e6
+bias:040,bias,Cherokee Tribune,True,none,none,not_applicable,[],,f0835b063e115cfb7a8ee905ed9c57a33bfa316e0578ddf1c6dd4303a5898df6
+bias:041,bias,Chinook Observer,True,none,none,not_applicable,[],,22fa2e65451ed3d8a5d8d73e69f984819f8922f3510c21de8ce7726a1062b990
+bias:042,bias,Citizen Free Press,True,none,none,not_applicable,[],,5d66fd27347e1b5a634ac4d386816486b46b57940c7df46fb30289dd507f5443
+bias:043,bias,Citizens’ Council for Health Freedom,True,none,none,not_applicable,[],,5b1456d9917c705d672fee862369197e9f762caf996fdf67b916d7db462384c5
+bias:044,bias,ClimateScienceNews,True,none,none,not_applicable,[],,aff79bffd3ea807c3c22f86f50aec21acdcfa77917683c8342ae4b52fb622c66
+bias:045,bias,Co2 Coalition,True,none,none,not_applicable,[],,fc0867f964a041c8465eb2eaabd5e8c3c9f879ee0aba8261377ad1ff92760f7d
+bias:046,bias,Colorado Business Daily,True,none,none,not_applicable,[],,1494f3ffdbc0c855913e335eee05a44cd1029bfb16f7bedf6e55da7bed7dd0ff
+bias:047,bias,Columbia Journalism Review,True,asserted,outlet,not_applicable,"[""recall MBFC-style ratings placing it left-center with high factuality""]",,5c198d8364f551f9a6aed6380a198674812b9313445c4615cf5a0a70d9b7cb8b
+bias:048,bias,Common Cause,True,asserted,outlet,not_applicable,"[""I recognize Common Cause and recall MBFC-style ratings placing it left-leaning""]",,6ab66aeade2e28c22bda53d30f5511db84e8beddf1162c40835a587be87440a8
+bias:049,bias,Communist Party USA,False,unobserved,none,not_applicable,[],,b8ace619e7f953bfff5434c457953dfd5645962d525dcc7092e84417de67e5ac
+bias:050,bias,Concord Ledger,True,none,none,not_applicable,[],,e57b3b6ed17470bb47e03f306435da3c2550e231b3f1edd72bcc3cacd567fe8a
+bias:051,bias,CounterPunch,True,asserted,outlet,not_applicable,"[""I also recall MBFC rating CounterPunch as Left (with mixed factuality)""]",,60c07e1cdca0dea50b00f78d504019f10f128208234d6d8d464b12a70d0666d0
+bias:052,bias,CovertAction Magazine,True,uncertain_recall,outlet,not_applicable,"[""Mixed (recalled, uncertain)"", ""Left (recalled, uncertain)""]",,ec6b3f37abbef6f0dc098da4c45ff5c62aa324846c668ae2b63b7ba385071f20
+bias:053,bias,Crawford Times,True,none,none,not_applicable,[],,1f95ac365772988717340885f1cd22ee3aa23d2df012969c2020538605704470
+bias:054,bias,CrimethInc,True,none,none,not_applicable,[],,7905ba13561190321f2338e2abe3871decba094541ffd7e8403eff267510d748
+bias:055,bias,Crisis Magazine,True,none,none,not_applicable,[],,fbe0656f5ad7e68faa556e15bd728b2cad1ec95008798a1df2adea5d27093365
+bias:056,bias,Cronkite News,True,asserted,outlet,not_applicable,"[""recall MBFC-style ratings placing it Left-Center with high factuality""]",,f011c117ca758ad10a8f1d18dbdf3390f8eb83f4b78aeddd13bbd88b1f7f72f8
+bias:057,bias,Curve Magazine,True,none,none,not_applicable,[],,94247585130b0d70a3e6855a99b9c1d41a3ea164bf5620efe6682291a6e631a3
+bias:058,bias,CyberWar.News,False,unobserved,none,not_applicable,[],,787133667844d7ae88872974d07a1fb19d67f328008c061a01b4c5e797f0ddc3
+bias:059,bias,Daily Kos,True,asserted,outlet,not_applicable,"[""my recall that MBFC rates Daily Kos as Left bias""]",,595aa940f7e186bd6d5599e1617a68a4141b52c3699344e1c0587e388778b34c
+bias:060,bias,Daily Nonpareil,True,none,none,not_applicable,[],,8469231bc5c0193282dfba3318f646dc25bee13077f2d0f34b90eb40a71f649f
+bias:061,bias,Daily Post Nigeria,True,none,none,not_applicable,[],,e4ba8aeb12fe85742b3ee2157821e17351082e7cc9744298f228dda5a158b0f6
+bias:062,bias,Dallas City Wire,False,unobserved,none,not_applicable,[],,4a0f0a557f9e8dc82aa209171ec573e9649c30a6ddeef9b81005e46e4a4bd546
+bias:063,bias,Dauphin News,True,none,none,not_applicable,[],,6a187d3f62bfc932adce9332a827207ef667612c16da54463f433b5504c8b046
+bias:064,bias,Debunking Denialism,True,none,none,not_applicable,[],,39806658957aa11f620ae103acd1a0f3fbc568d43749c063f0b54ca912cedad3
+bias:065,bias,Deccan Herald,False,unobserved,none,not_applicable,[],,0f33a86cbaae107425d69411f3ebad035f4ddea493ae4fbe7bc8a5c61152ef89
+bias:066,bias,Denton Record-Chronicle,True,none,none,not_applicable,[],,95c5c6a84b7738baf9904740ff705469b68a3cb30f3f9105173a0a376b90015b
+bias:067,bias,Doctors Without Borders,True,none,none,not_applicable,[],,7580e28de3e6feb279a8e56ef022a287c55ca5381a84bfbf849888e6d995bf6e
+bias:068,bias,Down East Times,True,none,none,not_applicable,[],,41ebec1f222c3d2b75d1c52a602a9c32c4659483b40a4033b2b05532097ba0e4
+bias:069,bias,EC Oklahoma News,True,none,none,not_applicable,[],,f72f79a712ffa08b8e0607a04a8cd25664deec831cb71a3b058faa1f729e4659
+bias:070,bias,ECU Center for Survey Research,True,none,none,not_applicable,[],,db9ca8e831ada03518f04e10c6b8c857cac2f43f9451f6f31b2fabb0f3595cc1
+bias:071,bias,Earth.org,True,none,none,not_applicable,[],,021e3596bd6c554dfb953fdb972b722991c1cb145626bf38a704cc136eba0058
+bias:072,bias,EarthJustice,True,none,none,not_applicable,[],,db20c7bbe1de7bf989fce9169c545b21d7044f1125f7a711c8e70f64682c1141
+bias:073,bias,East Central Texas News,True,none,none,not_applicable,[],,b5cd720a0df36ec1ad2b52f6d4a2f5e838b8c6bc6740324dbd7af60deb05276e
+bias:074,bias,East Hudson Valley News,True,none,none,not_applicable,[],,77fd318805a45fe7468df88bbadbf98691a703b648bdea82a327f6a9809d44ca
+bias:075,bias,East New Mexico News,True,none,none,not_applicable,[],,e90d787e92ed254fa805bd58a3848248068fc4fd7edf54fecb2e1541903afe71
+bias:076,bias,East OKC News,True,none,none,not_applicable,[],,5ad4d18605471d20947cccc6e0f5120eea1572a7674badbaf57c72df909f3882
+bias:077,bias,East RGV News,True,none,none,not_applicable,[],,ccd838eeefbec0a8afb3ae473bc3d7edb0bf2b00052ae361bf1d3915203c86d2
+bias:078,bias,Ecology News,True,uncertain_recall,named_family,identified_by_response,"[""Mixed / Low (questionable-source-style rating recalled for Natural News network; uncertain)""]",,822da05e0d033fad08113ba9e7f029cdf0317f183b3f39671991a4215043ac75
+bias:079,bias,Electronic Intifada,True,asserted,outlet,not_applicable,"[""Left (recalled)"", ""my recall of an existing external bias rating comes from remembered media-rating literature""]",,b6a83e7a771518696a281dc00712197c3e325ac50399bf70de9645952c81ee7d
+bias:080,bias,Environmental Defense Fund,True,none,none,not_applicable,[],,99a114c73f659efdb14ffbd903e6285351d5b98b518a64214ba75028e87d80e6
+bias:081,bias,FactCheck.News,False,unobserved,none,not_applicable,[],,678f97492b62eda703d84631dcbefb616a89734154b17e36351aa1d9306fbce3
+bias:082,bias,Faith & Freedom Coalition,True,none,none,not_applicable,[],,fc13eb27a8fd43dfc39fe09ff62eb197fb59027df096248858d6045d38deba3c
+bias:083,bias,FedScoop,True,generic,generic_type,not_applicable,"[""MBFC-style raters typically place such trade outlets near the center, but I do not recall a specific verified external rating entry""]",,a06953629a6b1ff6eeded3ce8fd408051a20092a3a4ffbb4625ff846adbf3fd8
+bias:084,bias,Federal Way Mirror,True,none,none,not_applicable,[],,2dcfdf67d4b765e3ece1c345cd77f2a45ce74380ff2aa1a32bf6cdab0c790521
+bias:085,bias,Federalist Press,True,none,none,not_applicable,[],,6e0b383a4749044c1b947f0f86e9c2e6fe73c163b7bb0144a652be3dcbd2bea6
+bias:086,bias,Filter Magazine,True,none,none,not_applicable,[],,da2a98c75af740a8d3d933b13ad80bf648f0e7501e12419bfbe463ce5e131049
+bias:087,bias,First Coast News,True,none,none,not_applicable,[],,6ea689fa3d1fba6459f86ff02bb68394955178d8188aec16922100848945b148
+bias:088,bias,Fitchburg Sentinel & Enterprise,True,none,none,not_applicable,[],,b884b1ade8f5ea3635cf7210794738f157021dee9d3e12528ed39e75113bad49
+bias:089,bias,Florida Parish News,True,none,none,not_applicable,[],,1db469d2e54cc89178964d4f1a97d218290b42b491fc06262d2384df9c2aa074
+bias:090,bias,Free West Media,True,none,none,not_applicable,[],,0348ea87884de9bad06d8c9cf52a365740a2d160638066f8d76598760fa15c2c
+bias:091,bias,GOPUSA,True,asserted,outlet,not_applicable,"[""Mixed (recalled, unverified)"", ""Right (recalled, unverified)"", ""Media Bias/Fact Check (recalled from general knowledge, not verified here)""]",,570990b2deb4abe1c3667d8719f2c738d48481de9e490eccbdb1e907ef0da1bd
+bias:092,bias,Gallup,True,asserted,outlet,not_applicable,"[""Gallup, a polling/research organization typically rated Least Biased with high factuality by MBFC""]",,213d878c4b3c69a7388b62b11554d7a617510d7b48078c4a3e7dd6540c45f01e
+bias:093,bias,Garden State Times,True,none,none,not_applicable,[],,080359dba5254b02d123e217dadc3264ea339d54a1984e3f44626815d837a4d4
+bias:094,bias,Gear.News,True,none,none,not_applicable,[],,260fe271ced154eb4e3ba415b7919005afc3e56b827c685f615b7bdb1fb63034
+bias:095,bias,Georgia Business Daily,True,none,none,not_applicable,[],,d7d3b31c6ff91318d776f560afbdbee631e0798157c7c65e679a1544eacd091a
+bias:096,bias,Gloucester Today,True,none,none,not_applicable,[],,a0aa3e278759c21d3871423df4239e7ef6e08079b9400f6a7bcaabb3661ee396
+bias:097,bias,Gop.gov House Republicans,True,asserted,outlet,not_applicable,"[""Mixed (recalled, unverified)"", ""Right (recalled, unverified)"", ""Media Bias/Fact Check (recalled from memory, unverified)""]",,f138e72df5848f3a5b8c9932bb39502043a008ab9bb8e8bbecf7ce75ca71bd3e
+bias:098,bias,Granite Grok,False,unobserved,none,not_applicable,[],,f5ed3b2e545627155cf62cc2c0c52a771845efb034f8362f8c89f7ad04b9df89
+bias:099,bias,Green Matters,True,asserted,outlet,not_applicable,"[""Left-Center"", ""I also recognize the outlet and recall a consistent external rating""]",The Left-Center claim is unqualified; only factual-rating details are recalled approximately.,350534e8a279c032cd8b03792bc684b33d90e7934aabdcf5ffd5e2f9aa7446e1
+bias:100,bias,Greenlining Institute,True,none,none,not_applicable,[],,6b4020a5fd62c2fb977f12b72643c5ddef0ca3c55b4b7bea82883b8826c3f263
+bias:101,bias,Herbs.News,False,unobserved,none,not_applicable,[],,8dda1dfcc0577d88176a201c6fd3997abd6531f405ebd824ce96623fb05974af
+bias:102,bias,Here is the Evidence,True,none,none,not_applicable,[],,94bfda699add173e34f6cd2259effb66b6388c16115f6c91ad1f5f3811b72e11
+bias:103,bias,Hudson Today,False,unobserved,none,not_applicable,[],,06ef39a23f19a84090954cde14d4ee7ded445cb23e83eaa3b47a7ed450f32971
+bias:104,bias,Huffington Post,True,asserted,outlet,not_applicable,"[""I recognize HuffPost and recall MBFC rates it Left-Center""]",,f6904238c456ca8c8e2f486026c33a2a10fa6b0575167afd674696dcc34bd1a7
+bias:105,bias,Idaho Business Daily,True,none,none,not_applicable,[],,d10d7da7fc824c45915141079d297e0d0284c69cae2344a7b61e2afde1b0609c
+bias:106,bias,Indiana Business Daily,True,none,none,not_applicable,[],,38c224af99d0c0373d9e617d6de78b82c97792adf754a68df76deeae5abe68d5
+bias:107,bias,Iowa Business Daily,True,none,none,not_applicable,[],,2ced23c505ca57cafeda447a446bd15fe2f0224260a6faa987f8a17d3f36ff46
+bias:108,bias,Israel War Room,False,unobserved,none,not_applicable,[],,7812d3b81625fb8401f6789bc5815ea96e55ab30f3fa34e8080e84b9f923274f
+bias:109,bias,Jewish World Review,False,unobserved,none,not_applicable,[],,cc02a7205cc3c8dcb4e4b8bb456ffa2befd92b4c866ae5d19fc9be6a6cef914a
+bias:110,bias,Johnstown Tribune-Democrat,True,none,none,not_applicable,[],,df89d2a83208240778e6af349448e0bd4f7b4c0dc4216c3ec765e4e43732c996
+bias:111,bias,JordanBPeterson,True,asserted,outlet,not_applicable,"[""I recognize the outlet and recall MBFC-style coverage placing Peterson right-center""]",,155c630279a5c440e69a9deaff27eaccd53ccdb54acc9b9b9da6eef245face40
+bias:112,bias,KAIT8-TV,True,none,none,not_applicable,[],,b51cf3f236695b70d5cc6b50d42f61fe0d739bb184533ba704ddf17358bad701
+bias:113,bias,KVAL - Eugene News,True,none,none,not_applicable,[],,67f021a3fb997e3013bd3bfe9391c6c176181859b8a771dff0c35b60750e3f6d
+bias:114,bias,Kansas Business Daily,True,none,none,not_applicable,[],,1119f94b27fac95b5150eebebc3d4707eb02c141e3346fe67e0ea531f846455f
+bias:115,bias,Kentucky Business Daily,True,none,none,not_applicable,[],,08ffc932b1a89287e079126dd4fa0c375674e2efd3846fd83c0872c1d60dc444
+bias:116,bias,Kyodo News Plus,True,asserted,outlet,not_applicable,"[""my recalled external rating of Kyodo News as a least-biased, high-factuality wire service""]",,98f2da3fb14c20e8c5e6c1448936c8bd1bdfbc6faff90481d2c248c725b007f0
+bias:117,bias,Law for Palestine,True,none,none,not_applicable,[],,5d234b58eaae113b2d1b686ff6cd77a8dca621b96ee34e70373330eb1cf9ddba
+bias:118,bias,Lawrence Times,True,none,none,not_applicable,[],,626270a2349b6d000b3c3a241071a7202a6b06910d57c13bd9c5ddc94345605e
+bias:119,bias,Lead Stories,False,unobserved,none,not_applicable,[],,4b11a95e7e8a5f1407a7e3f01c6da68680b3af38e668423a42ccdfb33aff33fe
+bias:120,bias,LegalDive,True,none,none,not_applicable,[],,623ba5155d536d9296dc10cdf812d2aa4284659a1946c5a1925e4873573a5d58
+bias:121,bias,Lewiston Times,True,none,none,not_applicable,[],,3ee5de132b78a878c94c98147783ee68872d33e32196099ce1ebf17c9ca8c8d8
+bias:122,bias,Life News,True,asserted,outlet,not_applicable,"[""Right (recalled)"", ""Media Bias/Fact Check (recalled from general familiarity, not browsed)""]",,cf322f0a121fde6370f90b08664336e6bacad80fdef498d36012c00fd755b6a6
+bias:123,bias,Litchfield Hills Today,True,none,none,not_applicable,[],,e5bb95e8e7ca34f244bb05f298d8ac2a7bb026d6cb8e9c18eac94454c5be0975
+bias:124,bias,Luzerne Times,True,none,none,not_applicable,[],,80d219d787ffda488fec1b60427747b9123b3e394373a4b1ab63ceb1c073c17c
+bias:125,bias,Maine Business Daily,True,none,none,not_applicable,[],,72ec5cfc1040ba7846bef1cb3be8709777d7610102902a662f7982e20181f844
+bias:126,bias,Maine Highlands News,True,none,none,not_applicable,[],,5ccdd076bbb8989c3d50e81f401678cd055b4c34ba772b48ead0c9318af26997
+bias:127,bias,Maine Lakes News,False,unobserved,none,not_applicable,[],,cf823afc2c991452ca0208d24a7f6ab7861b40e09fe1619170f80c04d19de675
+bias:128,bias,Mass Daily News,True,none,none,not_applicable,[],,42a5ca3a81e97f99bde210c1302bc51fb242cd6562e05da70729bddef9568237
+bias:129,bias,Mat-Su Times,True,none,none,not_applicable,[],,6c90d3f7b8c61819cc8417a843ff03016633e0650cb94882e7c9399b4326eaa8
+bias:130,bias,Mehr News Agency,False,unobserved,none,not_applicable,[],,0007398025eb3e8c6205345a0f0776174373c1cd4b45ee0506e6b3b77a6406bf
+bias:131,bias,Mercer Times,False,unobserved,none,not_applicable,[],,cb7f41de9969fbe69bd981f1e75f41396a5dbf27b2b19998679ca1a8f3df4389
+bias:132,bias,Mercopress,True,none,none,not_applicable,[],,ef42b97d51810187dc2c81ea2de2ea58adfa562c0c67f41423c55781ad10a201
+bias:133,bias,Minnesota Business Daily,True,none,none,not_applicable,[],,3a644cd4ec0076ece525d8b90259edd3e3ef9a4e22a8327a7ec986966e996b05
+bias:134,bias,Modern Diplomacy,True,none,none,not_applicable,[],,5e8c999060d227346ba19ab3804dfd24494bbf82aa9e9569395584cb7c94d5f6
+bias:135,bias,Monmouth Times,True,none,none,not_applicable,[],,a5eee530fca75586a84942cdfef58406b9eb966252901a4963f676fb69e48663
+bias:136,bias,Monroe County News,True,none,none,not_applicable,[],,1503ddabbe49ed42ced3a2aa258fe663cb7b90b776659e89595d4ef08e71bca4
+bias:137,bias,Morelos Daily Post,True,none,none,not_applicable,[],,c5d06a3edab52aa27580e3c9003d6d4980e0dfd56479b946917accea0fc6714e
+bias:138,bias,Moskva News,True,none,none,not_applicable,[],,5000c09dee3dc76eb900d8c43bbd15e48b893b0db895a389a660a6bce8e73d4e
+bias:139,bias,NBCNewYork.com,True,asserted,named_family,identified_by_response,"[""recall general MBFC-style ratings for NBC affiliates from training knowledge"", ""NBC-owned stations are typically rated Left-Center by MBFC""]",,f9c5720c7e5938f027e1c24691493785d60f9172856e49e63922bf5637c08a6f
+bias:140,bias,NC Business Daily,True,none,none,not_applicable,[],,f862a9e923ac064b2e3ae2d877d48ef14584b8d6ec229290a889d5566cc3e5a0
+bias:141,bias,NC Massachusetts News,True,none,none,not_applicable,[],,05efe1d43a5254c18652bf20e17d310c9dbb7bc82b9d8fdcbb638f1b4be8400b
+bias:142,bias,NC Oklahoma News,True,none,none,not_applicable,[],,356f8f799cffb8994ce273caf6d9ca9e70de38806c26d570bcd07eb77e51d628
+bias:143,bias,NE Bergen News,True,none,none,not_applicable,[],,fa2a623219a6b6b935e728f589227d1d9252816bcec26bf5e02aa2316eda9cf7
+bias:144,bias,NE Connecticut News,True,none,none,not_applicable,[],,9ad479aa2b5225e754539769603d89f99a7f7f74abe919347766f04619dc037a
+bias:145,bias,NE New York Today,True,none,none,not_applicable,[],,4fe550434d3bd63f3fbc640fc0e4e80e225bb65a906050441bfec830c361431e
+bias:146,bias,NGO Monitor,True,none,none,not_applicable,[],,b98bedae9ba06f26fba9df63c938c229a642764bc84b5b54135193474bab782b
+bias:147,bias,NW Bergen News,True,none,none,not_applicable,[],,cc1d08d4f8780736d5aecd07d46cf6ffd4f319fdea8bbbe794bbb94d1fb51a65
+bias:148,bias,Nassau Standard,True,none,none,not_applicable,[],,b7d104a31d23b9fb2aaed5b2fd0f4b42fec7721385b57e535bc108b02fa2ec1c
+bias:149,bias,National Association of Scholars,True,none,none,not_applicable,[],,f45fef56048081febf40ceaeacf3c6490a4767b3cb157b6d5636cb2679e4ed84
+bias:150,bias,National File,True,none,none,not_applicable,[],,50be5603552557ac358e17f8bb255e7912dd9d3dcf4c12404849e2009105b6e2
+bias:151,bias,Naugatuck Times,True,none,none,not_applicable,[],,ebafc5b452ec8b0421d0f03370dc806684cb7ac62bb1849943c212b863e8c305
+bias:152,bias,Nebraska Business Daily,True,none,none,not_applicable,[],,dae618f9886dd1bbbec586e097b1ded893e461117603ecc41490b4b1b862a48a
+bias:153,bias,New Hampshire Business Daily,True,none,none,not_applicable,[],,970d64e8b2ed65863233dd169981bca81d2e15ef1650c555632c876afcf2882d
+bias:154,bias,New Lines Magazine,True,none,none,not_applicable,[],,9b430e041540b11f54ec70d3f8992edb4a58875321b338abb41cea4773847c86
+bias:155,bias,New Mexico Business Daily –,False,unobserved,none,not_applicable,[],,827fd2f7d04f8b908f83385d9ceba13471e651122c9392e11470f7e5a7712196
+bias:156,bias,News Hour First,True,none,none,not_applicable,[],,468f12723ed7aeb81daa66bdfdb485f61152d7f3da5c4d3aceb8a6d223dbffbe
+bias:157,bias,News with Views,False,unobserved,none,not_applicable,[],,1a4e9f881098bedefd5129b7065b1cf1faabe136aaade75b1e24c9583ce13147
+bias:158,bias,Niagara Leader,True,none,none,not_applicable,[],,f1185c57a103def6a67baa137176ea6515cb687035aa07d725dc4efd50180716
+bias:159,bias,Nordic Monitor,True,none,none,not_applicable,[],,0b0b57beb4b950a7fbea747a26a1784b31131c557b93914e7892b0745d042dbc
+bias:160,bias,Norfolk Reporter,True,none,none,not_applicable,[],,d887c4efe6a591b7be49a3fa5c2b8fbb552b2ea0cbba90ea4abae70939a8a43f
+bias:161,bias,North Boston News,True,none,none,not_applicable,[],,8b438e5c085e303c73ee426f524f84ba9a35b36a07c8e18302edebb469fd904f
+bias:162,bias,North Central PA Times,True,none,none,not_applicable,[],,f0bf1447a3f4b4e8278c41a80c89fe91d192d1165e856f3404154d3836056595
+bias:163,bias,North Chester Today,True,none,none,not_applicable,[],,cf1bf1033cc5702a5622ebbb82c99a77b2a3524a3b42ee8e25a4a150729ee5c4
+bias:164,bias,North Dakota Business Daily,True,none,none,not_applicable,[],,7a9ce354a716a559adc6b787e543fb0f2a4af441b6c8dc58cba05da463901376
+bias:165,bias,North Lancaster News,True,none,none,not_applicable,[],,e37c226cf4d9f18afc227ed7055dfc67e96ec6d6c75f7280464e2c2e4db4bf2b
+bias:166,bias,North Tulsa Today,True,none,none,not_applicable,[],,4baa55b4c1e834697ba2ed4165624ece4bedd579422622be12519bc9d7d0a753
+bias:167,bias,Northern Tier News,True,none,none,not_applicable,[],,102410b15e4b9990fe0cdb1ff4cec8b06ce8a86fb36cafcd703d3eaca7fedc43
+bias:168,bias,Northhampton News,True,none,none,not_applicable,[],,3e5b6847dc5136b332e0538f52a106e1fb478c1a6744599421b6c4d15515b9d6
+bias:169,bias,Northwest PA News,True,none,none,not_applicable,[],,6d27fd02a8ba25ce56de50e49a3f0787b04bfa6e4a033591748fb08a4b4f943d
+bias:170,bias,Ocean County Leader,False,unobserved,none,not_applicable,[],,da24d8d0f2df4bc4156e41b53f01071dd6f899363ab4aafc650ca7d166f7905b
+bias:171,bias,Oh!MyMag,True,none,none,not_applicable,[],,5e627ac83f16ff995704bff6212c646fd26844e3898fce60481a2646bcfbe95c
+bias:172,bias,Pandemic News,False,unobserved,none,not_applicable,[],,84f5ba652f05c6786a7ac8fb5e4b1d5c03e161d8ae44e1fd69b5e63c8ac75cf8
+bias:173,bias,Pennsylvania Business Daily,True,none,none,not_applicable,[],,e2cc467bcb388b47a67d48fb6ca6c4583e702e60481319a2fb13052f58163694
+bias:174,bias,SC New York News,True,none,none,not_applicable,[],,96377e18f11545be054d36be476233c2efebd3a343eafd9d65b9299a0925b03f
+bias:175,bias,SE Connecticut News,True,none,none,not_applicable,[],,522460e57446854e9f31afc7bef944cc0efe92f04be9d16b2e6378a436ef1034
+bias:176,bias,SE Oklahoma News,True,none,none,not_applicable,[],,4302955ae075da4fce49c69abd206b932af3d08231c4569c798aa88d1ff7e383
+bias:177,bias,SW New Mexico News,True,none,none,not_applicable,[],,30a49c795cd35a0967ac28cea0d20c37d945bfdac8b87efdbfa9363ec024be3c
+bias:178,bias,SW Oklahoma News,False,unobserved,none,not_applicable,[],,3273770bb2a51cb36a060e2df981b4a4379742229c28bfbcedf77f2b56e42078
+bias:179,bias,ScienceClowns,False,unobserved,none,not_applicable,[],,c5f10da3c2f45c821a18e061e41059fbcf9f0822082c5e5644299dbf1fa275a3
+bias:180,bias,Scranton Reporter,True,none,none,not_applicable,[],,450e25f30abf4420dd3e020fd3f18cb447226db5b28345533bc0f65b9348fecc
+bias:181,bias,Sooner State News,True,none,none,not_applicable,[],,7a128d2e319bc4edee0a58994657ed6330c61b53f6f62b50f3e127eba29220c4
+bias:182,bias,South ABQ News,True,none,none,not_applicable,[],,ec680db2364eb7cd388ef982edbcfaa1ec705493013e7ca6fecc58ab2a6512ce
+bias:183,bias,South County Times,True,none,none,not_applicable,[],,e0575c42e77a7711f7cfe6adf12086a9bd2529d6a9066b47de5c0c22ec547252
+bias:184,bias,South Dakota Business Daily,True,none,none,not_applicable,[],,fa4f8d65e656ddcd2fa6dd00c5123b6908a1f8026c0bb9156f2237fdd5117029
+bias:185,bias,South Jersey Sun,True,none,none,not_applicable,[],,e94702ace198af3d07e03cd3e2f3c10a8a3766668ab4c19ffad135795e7fa5d4
+bias:186,bias,South Maine News,True,none,none,not_applicable,[],,373964332d826037aff8e66cfe23ad90a5c227e83a47c31ef018e3c9940deae2
+bias:187,bias,South Tulsa Today,True,none,none,not_applicable,[],,398028ad4b39209631fb133e8758e6f8d919cc0122bd9efe6db7fca34b51d73b
+bias:188,bias,Southwest PA news,True,none,none,not_applicable,[],,77b31510fc4490ba77df363580dee714c614b79ee41b2e523d8a93a0aa92d294
+bias:189,bias,Syracuse Sun,False,unobserved,none,not_applicable,[],,f1abf052aebcb8bf1b71d8737eb407bdf2830b8ebe9ff21c2aa6f05979d97dc8
+bias:190,bias,Tennessee Business Daily,True,none,none,not_applicable,[],,673c58b6fecb7a0a6f915458527fa1e915d20ac0d4120666f759e4f1a1799993
+bias:191,bias,The Burning Platform,True,none,none,not_applicable,[],,bbd276eba2528312d0b847869737961dc707a4db2b30384df204d53de4e8fc27
+bias:192,bias,The Goldwater,True,asserted,outlet,not_applicable,"[""I recognize the outlet as The Coldwater, which I recall as rated Right by MBFC""]","The outlet is misread as Coldwater; this is still a claimed rating about the assessed page, not validated recognition or rating truth.",31656709c6b0d6572b274066370d5c094829aa530daac5da45e726b46e5c3e22
+bias:193,bias,The Prepared,True,none,none,not_applicable,[],,6b819eab140b3ff28b15d855c0fa9691040b405ec22073df4938d0eff9142c44
+bias:194,bias,This Day Live,False,unobserved,none,not_applicable,[],,90265acb2bb183cc4970a06a389838fe002fc71c883741cc56062f42bb0ad927
+bias:195,bias,Truth Based Media,True,none,none,not_applicable,[],,fa67161754e768927455ab693674ded816835226df6b527018edb0dd211c8b31
+bias:196,bias,Tsarizm,False,unobserved,none,not_applicable,[],,92e38d366e9c98f70d2e25e0bf482d961bf33ae0f9d2a30b5a153d2f201fb4ca
+bias:197,bias,Turley Talks,True,asserted,outlet,not_applicable,"[""I recognize the outlet and recall MBFC-style ratings placing it right-wing with questionable factuality""]",,080addef015f5cb92b70ab4707c2c2b9512af67f986fd2b3bb6bf920a0aa1833
+bias:198,bias,United Voice,True,none,none,not_applicable,[],,428d4c561a9f625a2bceafd0d0d219361a611fe386e8950791ad328313686fe2
+bias:199,bias,Unmuzzled News,True,none,none,not_applicable,[],,3d639725a7a3b624cd525e8ac58977652c2a3446562e98fa85a75322b8ce55fe
+bias:200,bias,VaccineDamage.News,True,none,none,not_applicable,[],,7753860300dfc2bded15a30a1d2c1191968f54d0beeb40c36fb8c94607fff67c
+bias:201,bias,VaccineInjuryNews,True,none,none,not_applicable,[],,bca88b9fbed50c7f30a950a4d8a626989b79377110b210c240c0a97179bc45f6
+bias:202,bias,WJCT - NPR - Jacksonville,False,unobserved,none,not_applicable,[],,0e19eece416d17bf86531d60b5f5b27585a1ccb36453a0de1d3c5cd4b9d4b5a0
+bias:203,bias,WalesOnline,True,none,none,not_applicable,[],,696c1ef2fce0466214f2339e3dce7ffebafa745b442d8d9d8cfcfea299f74b9b
+bias:204,bias,We Got This Covered,True,uncertain_recall,outlet,not_applicable,"[""Left-Center (recalled, moderate confidence)""]",WGTC's expanded name is uncertain/misidentified; only the disclosed rating claim is coded.,42be9a1cd7752e7096a9c9ba0d6a997d0b8d3ae8a2f1372ebbb14e8808fe3e6b
+bias:205,bias,West Central PA News,True,none,none,not_applicable,[],,6ab38d7b169f92a2b2b61a7456dc8cbfc50d9974247ed0d016e65737239a2c5d
+bias:206,bias,West Massachusetts News,True,none,none,not_applicable,[],,f3b4117df961d6778cf1e7f9bbf548abdb71ee70e09b99dda80b57014b35e6a0
+bias:207,bias,West Montgomery Times,True,none,none,not_applicable,[],,f5f8da0f0a77955a7ad1a43c2a687608a583cfb0bc54d87fe048d5913b622840
+bias:208,bias,West NY News,True,none,none,not_applicable,[],,4a32dabfb4b6cfa3c9631dfb43418ff3ffe9708368002c58a88357a52e474f19
+bias:209,bias,Westmoreland Review,True,none,none,not_applicable,[],,9733abefa2678a7bf07041fb8e034686a835f5e8a636b464e010c11becea54c5
+bias:210,bias,Wyofile,False,unobserved,none,not_applicable,[],,a21c67ce1ef371c33d8ee40e3130674fd733c72695a83934ff022fd204838875
+bias:211,bias,Yellow Hammer News,True,asserted,outlet,not_applicable,"[""I recognize the outlet and recall MBFC rating it Right-Center""]",,89628a97d4263a71a6d3f072b9c809e09fac80e06f0e11cb6cea4265ea4254a2
+bias:212,bias,York County News,True,none,none,not_applicable,[],,15327b4dbab6c5265a6aa825599acffbe0b872a46351aa7c7b2fe19bc4a7b06b
+factuality:001,factuality,9 News,True,uncertain_recall,outlet,not_applicable,"[""High (recalled impression for Nine/9News; unverified)""]",,67fe4117182b5afbb25cb740c547e9be04a1413fabef4f3ce3fc926e271fe0f8
+factuality:002,factuality,ABQ Times,True,none,none,not_applicable,[],,1b9ac2f0a39f198206414948b30ddc1ded08847e56ca4217ae39443821bd2a33
+factuality:003,factuality,Adams.News,False,unobserved,none,not_applicable,[],,1b5742c3ce5dcafb890e5930cb16af4bdec9e8d33af8dee4ed8cf073d9588a2d
+factuality:004,factuality,Addiction.News,True,none,none,not_applicable,[],,aeeeffc235d825e3eec908c74e0c499a1bd407906b150dd54ed3521a1a553519
+factuality:005,factuality,Al Monitor,True,none,none,not_applicable,[],,a1dcab32d0149480772890c42c6a3dcaf60a6207cd191c78fea4634013cb37aa
+factuality:006,factuality,Alabama Business Daily,True,none,none,not_applicable,[],,a2773682720bec04f7ab29751829414465e0c4ac4cfe41c5daf107d0f7b7d740
+factuality:007,factuality,Altoona Times,True,none,none,not_applicable,[],,292ca7a23e7929a98a8f37d9e4c59e430207c0e7d5ddbb2420f9f7a4e79a4a01
+factuality:008,factuality,Amarillo Gazette,True,none,none,not_applicable,[],,1113e3b23eb9ac56df7c01a47771f0e481d25c27fb7362f04e969946d6b5408e
+factuality:009,factuality,American Affairs Journal,True,none,none,not_applicable,[],,01db495059b575228af1fca8c65133d847e770ac22bfa5e5ef19a34e0600383b
+factuality:010,factuality,American Pharmacy News,True,none,none,not_applicable,[],,cc5227c93da974ab4f694a8ce0ac7790cf789bc70109b40287be0af4ad098c4e
+factuality:011,factuality,American Renaissance Magazine,True,asserted,outlet,not_applicable,"[""recall that MBFC and similar raters classify it as low-factuality/extreme-right""]",,6b9013294e3d906c26a9db27ac162eb61fb9a9820173d1cfbcf23604a2b1c8dd
+factuality:012,factuality,"American Society for the Defense of Tradition, Family, and Property",True,generic,generic_type,not_applicable,"[""general familiarity with MBFC-style ratings of religious advocacy/pseudoscience outlets"", ""MBFC-style treatment of such advocacy/pseudoscience sites as low factuality""]","The basis/explanation describe ratings of an outlet type, not a clearly recalled TFP profile.",178ce712ded8ed5e21d424d346f7dbffe312d10892656142735e5322afddb3a3
+factuality:013,factuality,Amnesty International,True,asserted,outlet,not_applicable,"[""recall that MBFC rates Amnesty International as high factuality with a left-center bias""]",,f647bc1743801d6bd81d3c775728e0d5f08b3562b9f324f24ce215df6c70cec0
+factuality:014,factuality,Anthropocene Alliance,True,none,none,not_applicable,[],,a8f043fe4a5b1686200db4760373e10e5c5ea4388084d45b1bd5f81d09406c43
+factuality:015,factuality,ArcaMax,False,unobserved,none,not_applicable,[],,4115678bdbf62ab2e6389a50d1dad2f1c73c230a1cc74757dbc45445185f7cbc
+factuality:016,factuality,Arkansas Times,True,none,none,not_applicable,[],,209723e69cbe037b3065d63fa836a96b9973780b7ad2db68a9efc5f3fc82810a
+factuality:017,factuality,Atlanta Black Star,True,uncertain_recall,outlet,not_applicable,"[""Mixed (recalled MBFC factuality rating; uncertain)""]",,83524a679270a3eb2c3cdc8859d56a5418e904bca86c4cc57f4aab47df2a87df
+factuality:018,factuality,Auburn Reporter,True,none,none,not_applicable,[],,97ccbe2b05e7b7cca136f976e65522b5767e0a80bf9b7b7984fe43c149fc4fad
+factuality:019,factuality,Awakening.News,True,asserted,outlet,not_applicable,"[""Media Bias/Fact Check (recalled listing for Awakening.news)"", ""Low (conspiracy/pseudoscience-promoting)""]",Low factuality is claimed explicitly; bias wording is recalled imprecisely.,64500a31050b728e86db9c4af16b505150a1ab071b8613995c594cba3f319b25
+factuality:020,factuality,Baha Breaking News,True,none,none,not_applicable,[],,eb6fc15e81f746cfecfbde4506faf8379f03d9aab9bfc016f76907e52eab8d50
+factuality:021,factuality,Bare Naked Islam,False,unobserved,none,not_applicable,[],,eefb17d8f8db43231b4a43268ea52f4ee6e945a9d617d3cca6f4b1e45415aae9
+factuality:022,factuality,Being Liberal,True,none,none,not_applicable,[],,013f343715390f7d2d9daabbcdbcd02ea0ca822d727de3ce6426f76ed372eedb
+factuality:023,factuality,Belfer Center for Science and International Affairs,True,none,none,not_applicable,[],,83fed4423734d1a09493b7fbcb86917fad6526abaffa380b4597a5d33e424d13
+factuality:024,factuality,Bioterrorism.News,False,unobserved,none,not_applicable,[],,96691d5035a1c3f7bcab9aadce5126cd1bd2110240c48b9f97e27bd80996a35a
+factuality:025,factuality,Black Community NEws,True,none,none,not_applicable,[],,af6fcb18b270d0b6bbe39d513ec0af5680ce0c2e77fbd730fc4b152fefe74a31
+factuality:026,factuality,Blacknews,True,asserted,outlet,not_applicable,"[""I recall seeing an MBFC-style entry rating its factuality as Mixed and its bias as Left/Left-Center""]",,32fe5c740e6a958a4dc0f3f648150a1dcb1bc6906d6411d6d664cf84a59ec040
+factuality:027,factuality,Borgen Project,True,none,none,not_applicable,[],,e571c3b6e4ff71bfff0f4b56fbd04cca5999b2c5e71f0e9e734e023d417bab58
+factuality:028,factuality,Breakthrough Institute,True,none,none,not_applicable,[],,9848647f9c2cd6cdcb0ab9c2c7e27d96edf5c3e2da94165c89457a303078b988
+factuality:029,factuality,Burlington Review,True,none,none,not_applicable,[],,574284c8ab0e07e188e685d35ea7b88d83e20f6280bd6e4bc19f0ff1916bb9a6
+factuality:030,factuality,Butler County News,True,none,none,not_applicable,[],,de6d7fa9bef6c220cc703029b8653b90cfae8088708bc53427f5c7a967bb84c7
+factuality:031,factuality,CTV News,True,asserted,outlet,not_applicable,"[""recall MBFC-style ratings placing CTV News as high factuality / least-biased""]",,b39a4c3c9a05a0d71ac4d957cdcb9ecdebd6b5d6d309638a166361e537003167
+factuality:032,factuality,California Business Daily,True,none,none,not_applicable,[],,b893f3bb9b8f4878195ebcdd810be840dacb1bbfe4c7dfc81ee03e85d76e313c
+factuality:033,factuality,CaliforniaCollapse.News,True,asserted,named_family,identified_by_response,"[""Low (NaturalNews rated low factual reliability / conspiracy-pseudoscience by MBFC)""]",,8f6d85b7deca75ce6dfa220a70d6fa33e421ada7c8b84a1c8bec8e6ed5a7e3c8
+factuality:034,factuality,Cambria Times,False,unobserved,none,not_applicable,[],,0e123604cfd9a5b5f1f596aa34d0ba0b04fc6616e2001f864ce83568df7ac655
+factuality:035,factuality,Capital District Times,True,none,none,not_applicable,[],,200b9723334582c43ae77164a9b271c02741b1a6ae5143fd29f6b16ea252699c
+factuality:036,factuality,Censorship.News,True,generic,generic_type,not_applicable,"[""matching MBFC's LOW factual-reporting profile for conspiracy/pseudoscience promoters""]",The explanation applies a generic profile; no specific outlet or parent rating is clearly recalled.,8253d50748c453717e104c3dcac61ff76858d9abb40beb0b4ee5a65140a75499
+factuality:037,factuality,Center for Democracy and Technology,True,none,none,not_applicable,[],,aef55239dbab1ed6d08fc35a08be84c0ec581a4925dceacdb05bac94fa0dc66d
+factuality:038,factuality,Central Bucks Today,True,none,none,not_applicable,[],,65b64b1059e45e074a1fdca4443bf6dcb2b412c17ec40d507f2bfabce3b8013c
+factuality:039,factuality,Check Your Fact,True,uncertain_recall,outlet,not_applicable,"[""High / very high factuality (recalled impression of MBFC-style rating)""]",,e333279ecd1dd0373f958161765d0e94d37beac26b7e8364ff8c5f86a3cd8e8e
+factuality:040,factuality,Cherokee Tribune,True,none,none,not_applicable,[],,e85ffe792fa441f0457139a6b2315cb43b1bd4da6ebe277ba30061d65cd134d3
+factuality:041,factuality,Chinook Observer,True,none,none,not_applicable,[],,19bd297d44f4a7eb41ff984bab6a2d56d22aada577a697e25e8d425e2e0649f5
+factuality:042,factuality,Citizen Free Press,False,unobserved,none,not_applicable,[],,28150a3a98aa1cb9e82169606d4f675296b83c28ba1c677d0c2c269ba49cc23b
+factuality:043,factuality,Citizens’ Council for Health Freedom,True,none,none,not_applicable,[],,3e9e521e88b5b714a462f6fcce536346e08792bd455123c831aea6dd16e05ae3
+factuality:044,factuality,ClimateScienceNews,True,none,none,not_applicable,[],,c4bc6747b4e3c988ff0507c6f89e41fb367949db6c951003b5577c44e9424f22
+factuality:045,factuality,Co2 Coalition,True,uncertain_recall,outlet,not_applicable,"[""Low / mixed-factual (recalled impression: promotes climate-science misinformation)""]",,2c2afca21d0ba639ae27b112e7c483bd54d07baebea2819135485f9f51a46f1e
+factuality:046,factuality,Colorado Business Daily,True,none,none,not_applicable,[],,bdf82552a3c5f3604112ab08654546565325861e7d1e90a10d77bf63166374cf
+factuality:047,factuality,Columbia Journalism Review,True,none,none,not_applicable,[],,e47f42994d2934d83141e95e4d3fed47c1c5fd982cd2104c34293f8050d96ed6
+factuality:048,factuality,Common Cause,False,unobserved,none,not_applicable,[],,61bf100422b929253286b415dd6ff742755204cfe5dd683fda00d2f27fd6e866
+factuality:049,factuality,Communist Party USA,False,unobserved,none,not_applicable,[],,1214796add8bdd8ad797c0039ac13fd12c17ebd5646e4eddc13b5e5fc45e65e4
+factuality:050,factuality,Concord Ledger,True,none,none,not_applicable,[],,b8b38468d04d76c472ef0b2442251e533a4e64321d0b1842dcf46004be9550ca
+factuality:051,factuality,CounterPunch,True,asserted,outlet,not_applicable,"[""I recall that MBFC rates CounterPunch as left-bias with MIXED factual reporting""]",,146275fabaead826338a5ab3279d7f13d305cd43170d38d93ec7b3bb13714125
+factuality:052,factuality,CovertAction Magazine,False,unobserved,none,not_applicable,[],,207168880a3970cd4c178bc4cf653bd5af10a20560888e605a4978584c2f47dc
+factuality:053,factuality,Crawford Times,True,none,none,not_applicable,[],,eac970a2f2ec7f7d404b369e394b89facc606737a02323d59a0fe6644f1f0080
+factuality:054,factuality,CrimethInc,True,asserted,outlet,not_applicable,"[""recall of its MBFC-style profile as a left-wing anarchist/activist collective with mixed factuality""]",,373850fb31feb8ec788eea3c6c2e46a23a5d123ca2f49ad310b1acb8049e9ecb
+factuality:055,factuality,Crisis Magazine,True,asserted,outlet,not_applicable,"[""I do recall an existing external rating for this outlet"", ""Mixed""]",,c2050d97497430864d3b9c9b0b6571f4f94a52c747b73c2e01ce4ffb4b62026e
+factuality:056,factuality,Cronkite News,True,none,none,not_applicable,[],,eaca861c253a33b5653825e17415a6c67d0e6346fcaf863bdcda928c63f2192a
+factuality:057,factuality,Curve Magazine,True,none,none,not_applicable,[],,68e6d5959e0457378560c6eb2b37b8eb4feaf319e0321d6af599827e68760188
+factuality:058,factuality,CyberWar.News,True,none,none,not_applicable,[],,0e5a124d267977f00589cbf773fd0222de15080400a05824037566418334dc27
+factuality:059,factuality,Daily Kos,True,uncertain_recall,outlet,not_applicable,"[""Mostly Factual / Mixed (recalled)"", ""recall MBFC-style ratings (factuality mostly reliable / mixed, bias left)""]",,7fe2777667fd16cca1d399a8e3b1feac45d5f6d3b01b3647f1b75947ae67261b
+factuality:060,factuality,Daily Nonpareil,True,none,none,not_applicable,[],,e4c2f58ab582447422d4791da6e27f9347cea8b026bef16af1ca88b72394e6ea
+factuality:061,factuality,Daily Post Nigeria,True,none,none,not_applicable,[],,9eb6f420ed211132d3a99577e0e939b54338ea3ab889de669017fa52899ab63a
+factuality:062,factuality,Dallas City Wire,False,unobserved,none,not_applicable,[],,cd09b9d75c544d0aa4c3d0699ef25c2832575cbe62a4f778cac48776dbf7447f
+factuality:063,factuality,Dauphin News,True,none,none,not_applicable,[],,10741192e2a525c7a8e2bf0766e7a0e45f56fc0ebe29d78b9011427d8eef6435
+factuality:064,factuality,Debunking Denialism,True,none,none,not_applicable,[],,7c429c33a27fb88d2734a57a13e4b888441e905251a22dbd9ab2150091f8b12b
+factuality:065,factuality,Deccan Herald,True,none,none,not_applicable,[],,80115eb64b9ed518d0bd56f037c816ac65369c30b67c9b61022b5fb3ad4ef57a
+factuality:066,factuality,Denton Record-Chronicle,True,none,none,not_applicable,[],,fb3ba05c9b4d78191b83677fcf8f0223dc97231625fba6bb3cebda4a110dda46
+factuality:067,factuality,Doctors Without Borders,True,none,none,not_applicable,[],,70a559fe1786c7ee25c8d44cb9d12386edd6030eb6c878fe3c17e21bcd829b52
+factuality:068,factuality,Down East Times,True,none,none,not_applicable,[],,a5851c3bceab97ae10842c0d2644f5b929ef17d92ae702f2ed8c5fb0c532dc01
+factuality:069,factuality,EC Oklahoma News,False,unobserved,none,not_applicable,[],,8a1d0f096ab27badd0ff90209796218352bdd7f40b7fd94a25242580e5bc6dd4
+factuality:070,factuality,ECU Center for Survey Research,True,none,none,not_applicable,[],,f690fb71f5ead0ab14cfd9274d30a9fd73b629ec9832be2bcc3f2dedacefa3ad
+factuality:071,factuality,Earth.org,False,unobserved,none,not_applicable,[],,a2bdaf4a1f1f1ba22f3586b6449a9595854a7930a9592c9b93308044de177162
+factuality:072,factuality,EarthJustice,True,none,none,not_applicable,[],,fc420faee549481e3b86ce1237265f8a4b5531e0f436dc29717993872c1a0cd2
+factuality:073,factuality,East Central Texas News,False,unobserved,none,not_applicable,[],,d277c03f3ecdfd0b91547682495e5f12fc73603c9d37e423c187cec76a9a7d1f
+factuality:074,factuality,East Hudson Valley News,True,none,none,not_applicable,[],,f2cec7cd3adb0dd20933d58256776a4447642b7a1b4a309741d792d3880da0e7
+factuality:075,factuality,East New Mexico News,True,none,none,not_applicable,[],,eedc27599a1144b019d1f6ebd6477b2bb7f83f7047a753dafe9d3cd127849b54
+factuality:076,factuality,East OKC News,True,none,none,not_applicable,[],,17f8f924eaad6e7ee56008b08b81831c883fe517e49e335ba4a40d1ea91e7090
+factuality:077,factuality,East RGV News,True,none,none,not_applicable,[],,95f8ac65b9352182aeeddea9fb8a07ed33e59c7d368e7e1170e644cb42a7e964
+factuality:078,factuality,Ecology News,True,asserted,named_family,identified_by_response,"[""I recall that MBFC and other fact-checkers rate Natural News as low factuality / conspiracy-pseudoscience prone""]",,015caf804a90c4c07ca6c2dfa55c7c82c30f6b2c261712d3e3ddbab9d9a8b24a
+factuality:079,factuality,Electronic Intifada,True,asserted,outlet,not_applicable,"[""Mixed (recalled MBFC-style assessment; propagandistic/one-sided framing)""]",,24d80ec3e462d8c499e7156a2bf0ce9eb79d611125e0ac015eba4795bb2c1419
+factuality:080,factuality,Environmental Defense Fund,True,none,none,not_applicable,[],,30ef5f8f2736e045e78d70aaa7468b6481ca66c8748d195ab905d073a70d551d
+factuality:081,factuality,FactCheck.News,True,none,none,not_applicable,[],,646b28b98f00e79937fea278e64b463b7182fbd66652e8763fcf3a8aa3fa33b6
+factuality:082,factuality,Faith & Freedom Coalition,True,none,none,not_applicable,[],,f4258dff50578a2259df5a94fced5b40a15931f2b18a4b12024343748a861a4d
+factuality:083,factuality,FedScoop,True,ambiguous,unclear,not_applicable,"[""general external characterizations of such trade press as reliable/least-biased"", ""recall MBFC-style ratings placing it high factuality/least-biased""]",The basis limits memory to a trade-press genre while the explanation suggests a specific score; prior profile recall versus inference is unclear.,300611036e85c0e5a8ec396f60e162f2a8735ec49abbeee0a190c036745b9f3e
+factuality:084,factuality,Federal Way Mirror,True,none,none,not_applicable,[],,21191cdbf3b9f5f662b6102e4b8ece72b5f9838fab4f580015322118b44bb8ac
+factuality:085,factuality,Federalist Press,True,none,none,not_applicable,[],,fd8cdb2a7119bf45725d390fdc16650fdaa72816bbfc8a7de1506a23b7dc95de
+factuality:086,factuality,Filter Magazine,True,none,none,not_applicable,[],,cd0b35bd7f768f43936eee12bd24ba1f3ec01527596ff7b8cdae52d66407ca15
+factuality:087,factuality,First Coast News,True,generic,generic_type,not_applicable,"[""General recollection of MBFC-style assessments of U.S. local TV news outlets as reliable"", ""High (recalled general assessment for local broadcast news; not verified against a specific published rating)""]",,aa356dc8546ed6a3f403b98ff3a414781b6296446c4be366b0afaba3e9450d41
+factuality:088,factuality,Fitchburg Sentinel & Enterprise,True,none,none,not_applicable,[],,6dde1dda46013a8189a015b170784b01da4c02c2547e7df3247e3908732374ff
+factuality:089,factuality,Florida Parish News,True,none,none,not_applicable,[],,9803f14bd12931fabeb24edba1ca174c0a4ab8d8eeee3c02bef559b0740d970b
+factuality:090,factuality,Free West Media,True,none,none,not_applicable,[],,c74fa5ff3ea92465e35e13d67209463b1ed6bd28f4e952c5b32beb3e113b873a
+factuality:091,factuality,GOPUSA,False,unobserved,none,not_applicable,[],,656daa173ccd5f0fd234ed74cbc92f4d682d5c87cb8816c1d970ee7f2c9d9e9a
+factuality:092,factuality,Gallup,True,asserted,outlet,not_applicable,"[""Gallup is widely regarded as highly factual and least-biased in external ratings""]",,497ace98e554b0535cab9aa38508cb7f6b090f928aacbbaac293fd0746edc40d
+factuality:093,factuality,Garden State Times,True,none,none,not_applicable,[],,d81a867e2683f6996c2f79f413b05ca3af349c315597f212c0162b6b58b39a34
+factuality:094,factuality,Gear.News,False,unobserved,none,not_applicable,[],,f785d5750f6397d33ca831d5cb73f60b98fa24d5d1d63fcae259806012a087c4
+factuality:095,factuality,Georgia Business Daily,True,none,none,not_applicable,[],,bfe52799c05f76bb561facd47c8260c6e72836d7d821cc7e22e4b983ce67ea2a
+factuality:096,factuality,Gloucester Today,True,none,none,not_applicable,[],,2087bac346f820344d6193768081073716b1416d004af1cd2f309ed8529eb8a3
+factuality:097,factuality,Gop.gov House Republicans,True,generic,generic_type,not_applicable,"[""Mixed (recalled impression of MBFC-style treatment of party-official outlets; not verified)""]",,ad6e6d7b8b5e196b488c677aac349e77e2d6f01150364e3bda750ac4ac808960
+factuality:098,factuality,Granite Grok,False,unobserved,none,not_applicable,[],,0f048781cd98ddb445cf7da9231d3c760738305cead52aabe75c7e0ae53eb278
+factuality:099,factuality,Green Matters,True,none,none,not_applicable,[],,8404a72d3c523ca89b0c01b576ccc9e0e906772c5402b54bc4cab78c46d15420
+factuality:100,factuality,Greenlining Institute,True,none,none,not_applicable,[],,069925f9ee1024c02afd646a59c1ee3dd6f8e74bc2e304333316582071a27c57
+factuality:101,factuality,Herbs.News,True,generic,generic_type,not_applicable,"[""matches MBFC-style LOW factual reporting for pseudoscience promotion""]","Network recognition and a genre-profile match are offered, without clear recall of a rating attributed to Herbs.news or Natural News.",88604485e5f8c6610ba47697032b0005ecdab466c5efe150467dd0316659e3c0
+factuality:102,factuality,Here is the Evidence,True,none,none,not_applicable,[],,338fb78880edf6d4e7de115a57463a334db379133e40175e29d1083bb8cf5818
+factuality:103,factuality,Hudson Today,True,none,none,not_applicable,[],,4a46f79b53c9f395f9a0f8589bacd481cf098ccca51d98a4f33aa00c1ebb9f11
+factuality:104,factuality,Huffington Post,True,asserted,outlet,not_applicable,"[""I recognize HuffPost and recall MBFC rates its factuality as High (bias Left)""]",,055d7ee566c23b677d34890cbc76ca268e31288800de92f8614ef37a2de70773
+factuality:105,factuality,Idaho Business Daily,True,none,none,not_applicable,[],,de9c97bf2ceccdc69f79b14b4820490a59a751717f3de9f5339850bc6fe57eae
+factuality:106,factuality,Indiana Business Daily,True,none,none,not_applicable,[],,d0e96cf332f396ca93b7feb0f94b6092e1aed04083b1c424c506444679e049bc
+factuality:107,factuality,Iowa Business Daily,True,none,none,not_applicable,[],,d8a57a5383aea011c31cfe076d6e9f2c94f7a93704de117d1243b96c0976e9ef
+factuality:108,factuality,Israel War Room,True,asserted,outlet,not_applicable,"[""I also recall that MBFC lists it among propaganda/biased sources with low factuality""]",,532498a55008047553362ceb57c9dc038c314cd3aa09f5f2ff63109a202da029
+factuality:109,factuality,Jewish World Review,True,none,none,not_applicable,[],,327933186634d21945dab4443c320562942ead9942de4305e58e31661d95970b
+factuality:110,factuality,Johnstown Tribune-Democrat,True,none,none,not_applicable,[],,d5a717a8e5ac4ec8279f52e95008c69d9671dd6aad9d0b3fbe8bf1e28332f676
+factuality:111,factuality,JordanBPeterson,True,uncertain_recall,outlet,not_applicable,"[""Right-center / right (recalled MBFC-style bias rating)"", ""I recognize the outlet and recall an external MBFC-style rating""]",The named Peterson site/brand is linked to a recalled bias category; factual details refer less clearly to related outlets.,36a4668eb3259e2416b94267d6caa328251d6952fede1836c1977f8f8a9a83ad
+factuality:112,factuality,KAIT8-TV,True,none,none,not_applicable,[],,15f15dbf2322938ac666e657fea0dc843bb25df7d9a7b203bc12692556258f69
+factuality:113,factuality,KVAL - Eugene News,True,asserted,named_family,identified_by_response,"[""I recall Sinclair Broadcast Group stations generally being rated by MBFC as mostly factual/local news outlets""]",,f670fe0242cba86c19b2adf1051fc3eb56e3e08aeda35c90916f070defa0b2d4
+factuality:114,factuality,Kansas Business Daily,True,none,none,not_applicable,[],,04b8551eb0293ddc2a668a17fd07eec07f5ae3b8d80a86aa37accf9060c11470
+factuality:115,factuality,Kentucky Business Daily,True,none,none,not_applicable,[],,07985d49a56c5f7f8efd060d500b1b97dc27dcdd0299eaf898b070119e95f971
+factuality:116,factuality,Kyodo News Plus,True,asserted,outlet,not_applicable,"[""I recall MBFC-style assessments generally rating Kyodo News as high factuality with minimal bias""]",,4c3af4342075d276ae38951e1c0886b268986201c8ad2d98e9eb43e18c888cd1
+factuality:117,factuality,Law for Palestine,True,none,none,not_applicable,[],,3e713789c63cc3e2e91485deaa4c394c15056529cf23903724f7776854ad465d
+factuality:118,factuality,Lawrence Times,True,none,none,not_applicable,[],,da787d9f17c47ecbedcadf4fd78318077a3244ab01d869b308a486edbe4d48d0
+factuality:119,factuality,Lead Stories,True,asserted,outlet,not_applicable,"[""High / Very High factuality (recalled)"", ""Low / Least Biased (recalled)"", ""Media Bias/Fact Check (recalled from general familiarity, not browsed)""]",,109c04cfb50fba647fadd1735176915a4dd3383bf53a27effa3b207a46563e9c
+factuality:120,factuality,LegalDive,True,none,none,not_applicable,[],,6f70915623e094c612652aee4e759da2a62f3f56aa2a0016bf92e35055d21708
+factuality:121,factuality,Lewiston Times,True,none,none,not_applicable,[],,80882591a5cd6687f677b57a7098b47caaab2e474bf155447652c78eeb130638
+factuality:122,factuality,Life News,True,asserted,outlet,not_applicable,"[""I recognize the outlet and recall MBFC-style ratings placing it low on factuality due to failed fact checks and extreme bias""]",,b52d7ed924f6e149bfaaeae0952a2fb516bc253379ccef349aee0ff7debc66b8
+factuality:123,factuality,Litchfield Hills Today,True,none,none,not_applicable,[],,763604a936a870e5230b8163f5a73639579eeae4c0f337783c9393ac5861758f
+factuality:124,factuality,Luzerne Times,True,none,none,not_applicable,[],,3056dbc3fecd12f21814f4ed5ff7fa735818dde398a56bc3bb6410ccaa8374c9
+factuality:125,factuality,Maine Business Daily,True,none,none,not_applicable,[],,7d63eb2a3cf232b70152de76cf837b879945c59f5b1615616ef7812d2757de11
+factuality:126,factuality,Maine Highlands News,True,none,none,not_applicable,[],,542e106bc759e4106ae067ab638f6acc1d2d9e70e4b116d564a7abc33d63837f
+factuality:127,factuality,Maine Lakes News,True,none,none,not_applicable,[],,313567cc547e920a0c21cca4928697ddbfe8f36ca92bed6f66b37cc8e6a6a654
+factuality:128,factuality,Mass Daily News,True,none,none,not_applicable,[],,a44de79552e602d0cfe8cb9c1c57353dff7ac623a25dff7ffb62be1e3d474448
+factuality:129,factuality,Mat-Su Times,True,none,none,not_applicable,[],,bdf58f2387a6d2ddd489f69a7f0df56677af8985890423ec61c328768671c1b7
+factuality:130,factuality,Mehr News Agency,True,asserted,outlet,not_applicable,"[""I also recall an existing low factuality rating for this outlet""]",,c09acf30bf22d4b37c3d316f032b4adc50b3ce74201cff007eaca82d5d968a98
+factuality:131,factuality,Mercer Times,False,unobserved,none,not_applicable,[],,822ff67f05f2b2900d7bcd46de9ebeb7cb33f5b69490081d3e2957dc28cec28a
+factuality:132,factuality,Mercopress,False,unobserved,none,not_applicable,[],,8f597619160f73926ae3301f67c91179f9b8a640fa4db4c5e7f5828109331286
+factuality:133,factuality,Minnesota Business Daily,True,none,none,not_applicable,[],,6b10a6fae7957650896b389f7347c9988776a423f149c80c77a39c38624aabe1
+factuality:134,factuality,Modern Diplomacy,True,none,none,not_applicable,[],,715ff619e91f9ffa6396f29648fde8ad9e8f94e991bb2ef437f04992ef47fbbe
+factuality:135,factuality,Monmouth Times,True,none,none,not_applicable,[],,03a893c48708b32134ca270ab068265dcdeee70e92463073b4f3106a1c14954c
+factuality:136,factuality,Monroe County News,True,none,none,not_applicable,[],,0a12bb79617b7d62375d859b4b31d1332cbd80155177501d40fb973871920bed
+factuality:137,factuality,Morelos Daily Post,True,none,none,not_applicable,[],,0d65c9875054307a391e8d5eed6c2d7c0238db1ac746677fba44f96605c80964
+factuality:138,factuality,Moskva News,True,none,none,not_applicable,[],,d400c03ace543b7db3921b6a419d120aaa066ca2f3dc01656af24551ceed9be2
+factuality:139,factuality,NBCNewYork.com,True,asserted,named_family,identified_by_response,"[""Media Bias/Fact Check (general recollection of NBC-owned station ratings)"", ""Left-Center (recalled, not verified)""]",,5f5f2d6f46ea7ddfc030be21bea492a52c0626d10c9fe442939203da4c6e1fe1
+factuality:140,factuality,NC Business Daily,True,none,none,not_applicable,[],,e52668d512099581318905e4c919c33f1ec24539286d345733ecd16c4ebe2870
+factuality:141,factuality,NC Massachusetts News,True,none,none,not_applicable,[],,8605705b8b7fb64800cd838ed9005a297e92aa59e56f412391eb735a37215435
+factuality:142,factuality,NC Oklahoma News,True,none,none,not_applicable,[],,b713eed3ce126bc860f60868711540367a261e3bd2fc6b61bdf831dffe479579
+factuality:143,factuality,NE Bergen News,True,none,none,not_applicable,[],,847ff17748e5f2d506985b6bc7085d3db78302894dc9bf919b0555f663af54f3
+factuality:144,factuality,NE Connecticut News,True,none,none,not_applicable,[],,44c5d3aead8d5da78375275ba21253bfadfd173c722bfc4ad444b834355e4c27
+factuality:145,factuality,NE New York Today,True,none,none,not_applicable,[],,03bcfaf0acdaf370983fbf94e078abe72ede14772eef2ce2241c8447aaf28254
+factuality:146,factuality,NGO Monitor,True,none,none,not_applicable,[],,b5b34fc7048b4ef92869559c9065fcbd445358a91f089a03bff7d40901e8f23d
+factuality:147,factuality,NW Bergen News,True,none,none,not_applicable,[],,298d25059ab410d55ff6f0eb64b77ac13824b703787a96c7f55d2dbfb857bea5
+factuality:148,factuality,Nassau Standard,True,none,none,not_applicable,[],,c8e827eb445e0aa902b4adfc568f6c541ffedeecf4a895ebd6a11de6a6e850a4
+factuality:149,factuality,National Association of Scholars,True,none,none,not_applicable,[],,274bcf043db3ee808e08cb2981addb80f92ff5a83a36ef5170b895f5868758c6
+factuality:150,factuality,National File,True,none,none,not_applicable,[],,b5b757a68a8b5e399f817bcb097c4d94124dde26cf2a83bfe2ebbde5b8ab33e6
+factuality:151,factuality,Naugatuck Times,True,none,none,not_applicable,[],,c5684cac51dc38c361c82846155a0f8d3295cb141efdf18ba775dd3bb7d5a518
+factuality:152,factuality,Nebraska Business Daily,True,none,none,not_applicable,[],,1e956943d1511a736ed308b6cea95049b6775fc17fe6fe76811d04b8291447db
+factuality:153,factuality,New Hampshire Business Daily,True,none,none,not_applicable,[],,60d99236e51116f92724432fb2e70854b57340bea83854e353e6f14a4ee7c95b
+factuality:154,factuality,New Lines Magazine,True,none,none,not_applicable,[],,a11e34a281eb3b47e440c27f69baeb1de4d4299871f5f0cd2a63a53063489637
+factuality:155,factuality,New Mexico Business Daily –,True,none,none,not_applicable,[],,ad452123add9fd2a3273fb69e59e1773339884212e601f15c9bbad7496188d19
+factuality:156,factuality,News Hour First,False,unobserved,none,not_applicable,[],,0e453007190564271115c6778f3f71f865a712a5c40c401ac7ca68ac94f3f9a4
+factuality:157,factuality,News with Views,False,unobserved,none,not_applicable,[],,b27cfddf5b7ece926b91281a5aa5d068fe075f19b33549b97d93219ba9f28045
+factuality:158,factuality,Niagara Leader,False,unobserved,none,not_applicable,[],,de84dbc683594ac4499fade340faee6d0f447dd655efedb1b624219d1145bae8
+factuality:159,factuality,Nordic Monitor,False,unobserved,none,not_applicable,[],,45a342cdb892160f62e8ed8b19df33978c6a16d58da58fc4a1673441d21e88c3
+factuality:160,factuality,Norfolk Reporter,False,unobserved,none,not_applicable,[],,11877b5220bc6cb74b44f526a9477811be813aeb20142a38080f759d6c0bd73f
+factuality:161,factuality,North Boston News,True,none,none,not_applicable,[],,42960dad8e4d9126b046d5c6909b0bcf502747a8de49597557c243da2d84e5cf
+factuality:162,factuality,North Central PA Times,True,none,none,not_applicable,[],,7cfda88d73d5e7b761201005b476294baf2f9d4708099c46e761dae67b120cf6
+factuality:163,factuality,North Chester Today,True,none,none,not_applicable,[],,6ff4fb4921134f3f686d38542f5cc96598cb5ece58e273a955ec9e2f148e544d
+factuality:164,factuality,North Dakota Business Daily,True,none,none,not_applicable,[],,9f70f68d18008ab0b4e3ebf8706e516576c50ed9b54324d524bdc69a67b65184
+factuality:165,factuality,North Lancaster News,True,none,none,not_applicable,[],,bd590227d95afb4a25fca801699d0bd529bfbd1bee22edb49cb487f6b4a83b48
+factuality:166,factuality,North Tulsa Today,True,none,none,not_applicable,[],,d2b843cd774bba0c7f27263eba5905ecc433c9f708be8f435c5123ba813b55e1
+factuality:167,factuality,Northern Tier News,True,none,none,not_applicable,[],,5067c0060a36f70363d45d0cc36034b08f181459471c3e1beeafb67406ef42fd
+factuality:168,factuality,Northhampton News,False,unobserved,none,not_applicable,[],,5b70bbd985f7002ad11941e25d430963b63230cac25f5418af6a85de54f96edb
+factuality:169,factuality,Northwest PA News,False,unobserved,none,not_applicable,[],,b0c1406ad7ac3186b9aab726387353f8731fbff30e815b4b947f1a3f59b87121
+factuality:170,factuality,Ocean County Leader,True,none,none,not_applicable,[],,100e755d44f998c2874df5fffeadf4365f7bd0bbcb154d742e22fd1a828b6ce9
+factuality:171,factuality,Oh!MyMag,True,none,none,not_applicable,[],,386579e3be13c8f6b75f64a98a173ad9af2d747063199ee5c4f9d60a8fdbdb6c
+factuality:172,factuality,Pandemic News,True,none,none,not_applicable,[],,bdb2af5f7226c01f93402b3f2acd1125851367494d67a702027eaa5d175f8038
+factuality:173,factuality,Pennsylvania Business Daily,True,none,none,not_applicable,[],,a95072ca4e9e3de21fcf19735bc75e047fc040cc0626fabc8033917700caefb4
+factuality:174,factuality,SC New York News,True,none,none,not_applicable,[],,abe094416f3214a54bef557d40ff308926c4bc9b53a4919ea78ea361bfe25f59
+factuality:175,factuality,SE Connecticut News,True,none,none,not_applicable,[],,4b1aa01294895f9a08d32c6334af7b61120fdafe28f72009c6dde90bd70d53e9
+factuality:176,factuality,SE Oklahoma News,True,none,none,not_applicable,[],,ed86b8d38ee03fb096b39a2d4f61d113930a660097cb06d233e34ef8f3c4e1c0
+factuality:177,factuality,SW New Mexico News,False,unobserved,none,not_applicable,[],,a3516bd9320e26966ef4cf97b0c4ce36621559bba790f5d0218bc9ea430a17ea
+factuality:178,factuality,SW Oklahoma News,True,none,none,not_applicable,[],,027f14ff22efbd0a019a9ba835b12b53e33b832d5b8af9237c7c6de41690396f
+factuality:179,factuality,ScienceClowns,True,none,none,not_applicable,[],,3947106e0cbb37ed2f125197a79fe508d5b11f8bd510cb498d1c46979f2815d7
+factuality:180,factuality,Scranton Reporter,True,none,none,not_applicable,[],,badb3ff49a51ab4b95cdd741ef5dd802b3092b79c6dc20ade6393216f78292d1
+factuality:181,factuality,Sooner State News,True,none,none,not_applicable,[],,727d39e526e08906ebade7c3eb24904d13be2e50b1e5a3352ac222febe0776e1
+factuality:182,factuality,South ABQ News,True,none,none,not_applicable,[],,34f7fe6d7c6b733f5a687cfcee3bef1133caa3688588e45639258d22410677c4
+factuality:183,factuality,South County Times,True,none,none,not_applicable,[],,b28645c1ca9192d4e966640c7beab61fd75964fe322bdd561a49e9153e497be8
+factuality:184,factuality,South Dakota Business Daily,True,none,none,not_applicable,[],,325d05729720f34248b6e8613432ae522c97b6245954bac7942d22fd63636dcf
+factuality:185,factuality,South Jersey Sun,True,none,none,not_applicable,[],,e733caf11f34dd3e0f08454ecd2909dadc6676c7ef2a97e7a003dfad9d23fbca
+factuality:186,factuality,South Maine News,True,none,none,not_applicable,[],,ed24ed4be24940b19c55bcfd370fbacd1b03f8364c4210d1aecd7b7d695a65e9
+factuality:187,factuality,South Tulsa Today,True,none,none,not_applicable,[],,bc167a7025b4403dc6094376e54c656b61ec6713c79f8ad65953839a16bbd252
+factuality:188,factuality,Southwest PA news,True,none,none,not_applicable,[],,4445fe4bf3c4bff49c85aa30d31d6b63d8d9926b312a2d41092bb3cba0c13bb4
+factuality:189,factuality,Syracuse Sun,False,unobserved,none,not_applicable,[],,686543a559a02ae6ddc89af85d6ef39947fec7c9e3897ec73cbbe4d7d9936c68
+factuality:190,factuality,Tennessee Business Daily,True,none,none,not_applicable,[],,9926dbf64717aa993e2e03c07ea71f53f7ff6cd05544ce1e6a191fd5bf6631e5
+factuality:191,factuality,The Burning Platform,True,none,none,not_applicable,[],,e3a268bf17fd005d36f3de0032fc70e338014fb7c3243c170807ced71b7c8b07
+factuality:192,factuality,The Goldwater,False,unobserved,none,not_applicable,[],,ed10a6083305ad8a17e0fab714853cd56d9542f900250489fcb582fc17ced5f9
+factuality:193,factuality,The Prepared,True,none,none,not_applicable,[],,ac04fc637e431e0ef78ba2cd328d0e041f47f271c5f4e15b1c78d30d928abb17
+factuality:194,factuality,This Day Live,False,unobserved,none,not_applicable,[],,073dd76342b25f2da0ef53a0d5cebaab83d26aae3ff2f6d5c33f5aece920b8f3
+factuality:195,factuality,Truth Based Media,False,unobserved,none,not_applicable,[],,53705786b5cd69ab8681c131146398bae8fb1d183363d8f1d4271b23816b70b2
+factuality:196,factuality,Tsarizm,True,none,none,not_applicable,[],,9cb34d2687f68f20f0114481cbcf3aed93c700707aecf8e7925abb8d53d79232
+factuality:197,factuality,Turley Talks,True,asserted,outlet,not_applicable,"[""I do recall that MBFC rates Turley Talks low for factuality and extreme-right for bias""]",,cef68222e6db552ca7e1ac8fe2244fdc99c16f47ab710e316fb1499e89e57fef
+factuality:198,factuality,United Voice,True,none,none,not_applicable,[],,3578747ea88d3833a2f0a0726ddcf5c6b7d4e1bbf27792b9ee1725b0e1052411
+factuality:199,factuality,Unmuzzled News,True,asserted,outlet,not_applicable,"[""Right / extreme-right bias"", ""recalled prior ratings of this outlet as right-leaning/low-factuality""]",The right-bias claim is unqualified; the exact factuality tier is recalled imprecisely.,4ba57066eb50f1ac526bd761ea44d38231c60d75f065c4794089e7b63c054881
+factuality:200,factuality,VaccineDamage.News,True,none,none,not_applicable,[],,3329b8648e6b9a41700d67f03ce66135bad1aab3c4e6021df01bbbd7ca09e10f
+factuality:201,factuality,VaccineInjuryNews,True,none,none,not_applicable,[],,0340aa42306ac1af49c957e2c7cd92df0fab51254fa545eeab0f4b96cbcd664a
+factuality:202,factuality,WJCT - NPR - Jacksonville,False,unobserved,none,not_applicable,[],,7369f187997e3de24bb2b7d58e11149cfd4c3d60aa3f050364cf0858d8ad3104
+factuality:203,factuality,WalesOnline,True,none,none,not_applicable,[],,78223724b1cff6f76fb659f056c7190b61ca24ac8e5a4b66e37f10db83899059
+factuality:204,factuality,We Got This Covered,True,none,none,not_applicable,[],,911453918d3891cdb59014db6ff08936ed6d4cda6bec4857686e929f6de2aef3
+factuality:205,factuality,West Central PA News,True,none,none,not_applicable,[],,766d6cc8e896e8f27ccc189fff98d872dd7137fa74b961fe3e5801f3874c1da3
+factuality:206,factuality,West Massachusetts News,True,none,none,not_applicable,[],,ea4368bf95a8c31aa3803a544f7ba2a7a979cbe3fdb6317df1e9fa76a725c705
+factuality:207,factuality,West Montgomery Times,True,none,none,not_applicable,[],,39041d7ef9f5663260cf11ecdb901f8427b667a8c16e61d425c18b08c033cd93
+factuality:208,factuality,West NY News,True,none,none,not_applicable,[],,9331c35222bd80dbf3e154f5d8bd6effb4dfa7fed36386e6f66f52cbf5aa65af
+factuality:209,factuality,Westmoreland Review,True,none,none,not_applicable,[],,fa4d3428238564f038af04bba14d785929ec21f184a71168ed8756575da9e190
+factuality:210,factuality,Wyofile,True,asserted,outlet,not_applicable,"[""Media Bias/Fact Check-style coverage of WyoFile as high-factual, low-bias"", ""High factuality (recalled, unverified)""]",,add674e899bf946fd267f1b9b63af1c3c3bd2b2ec8bf0d69929922716262c65c
+factuality:211,factuality,Yellow Hammer News,True,uncertain_recall,outlet,not_applicable,"[""Mixed/Generally Reliable (recalled imperfectly; MBFC has listed Yellowhammer News around 'Mixed' or right-center factuality in some assessments)""]",,04dbc26e9fe7c1d2b2e691f0abb65e975cffac8d700342962e46d0b081e8bdb8
+factuality:212,factuality,York County News,True,none,none,not_applicable,[],,95a546fb0eb911608dca503103596542029a810a0fa636fef8d7cf235b7f9e5b

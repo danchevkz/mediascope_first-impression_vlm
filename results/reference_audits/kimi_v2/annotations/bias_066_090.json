@@ -1,0 +1,7 @@
+{"task":"bias","reviewed_ranges":[[66,90]],"decisions":{
+"70":{"category":"none","rating_scope":"none","family_link":"not_applicable","evidence":["FiveThirtyEight pollster ratings (mentioned in screenshot; no MBFC rating recalled)"],"note":"Pollster prediction-accuracy badge, not a recalled factual-reporting or political-bias rating."},
+"78":{"category":"uncertain_recall","rating_scope":"named_family","family_link":"tentative_or_inferred","evidence":["Right/conspiracy-pseudoscience recalled for Natural News network; Ecology.news-specific rating unknown","ratings are uncertain memories"]},
+"79":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["I recall an MBFC rating (Left bias, Mixed factual reporting) but state this as uncertain recollection"]},
+"81":{"category":"asserted","rating_scope":"named_family","family_link":"identified_by_response","evidence":["I recall prior external assessments of this network","Natural News / NewsTarget network (Mike Adams)","Very low factuality (conspiracy/pseudoscience)"],"note":"The basis explicitly describes the remembered assessments as network-level."},
+"89":{"category":"asserted","rating_scope":"named_family","family_link":"tentative_or_inferred","evidence":["I recall MBFC rating Metric Media network sites as right-biased/questionable"],"note":"Affiliation inferred from sister-publication naming patterns, not explicit ownership branding."}
+}}

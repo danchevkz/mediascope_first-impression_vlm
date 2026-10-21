@@ -1,0 +1,6 @@
+{"task":"bias","reviewed_ranges":[[176,212]],"decisions":{
+"192":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["I recognize the outlet as The Coldwater, which I recall as rated Right by MBFC"],"note":"The outlet is misread as Coldwater; this is still a claimed rating about the assessed page, not validated recognition or rating truth."},
+"197":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["I recognize the outlet and recall MBFC-style ratings placing it right-wing with questionable factuality"]},
+"204":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["Left-Center (recalled, moderate confidence)"],"note":"WGTC's expanded name is uncertain/misidentified; only the disclosed rating claim is coded."},
+"211":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["I recognize the outlet and recall MBFC rating it Right-Center"]}
+}}

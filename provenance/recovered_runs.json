@@ -1,0 +1,134 @@
+{
+  "source_root": "/workspace/mediascope/artifacts/experiments/runpod_20261001",
+  "files": [
+    {
+      "path": "qwen35/zero_shot.audit/manifest.json",
+      "bytes": 224950,
+      "sha256": "2e8d1a9596ffb3ed1caea4450381756c83fa8bdaa4a43b625d092c983b400e76"
+    },
+    {
+      "path": "qwen35/zero_shot.audit/metrics.json",
+      "bytes": 4460,
+      "sha256": "dc90038c25a85995436e5f1fa806ae394bb1e5ffcf7c42be24ea585df7e665df"
+    },
+    {
+      "path": "qwen35/zero_shot.audit/predictions.jsonl",
+      "bytes": 2215781,
+      "sha256": "3ffdb943a58bf000b37aea378b673937240b6f8574301ba94229996591fd1617"
+    },
+    {
+      "path": "qwen35/zero_shot.audit/writer.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "qwen35/zero_shot.csv",
+      "bytes": 156272,
+      "sha256": "44cc9614f33c24f5136d48453942e0fb32473a629ee43de0b77d451df07655b3"
+    },
+    {
+      "path": "qwen35/finetuned_factuality.audit/manifest.json",
+      "bytes": 682010,
+      "sha256": "9ff56e9bacc7e3fe12fc7ad9133609fd740d3caa0a832f15950b3537cea23d3f"
+    },
+    {
+      "path": "qwen35/finetuned_factuality.audit/metrics.json",
+      "bytes": 1925,
+      "sha256": "f7b08280790a6fff1d2c71452ba03acfacd7d6c7558476ce36e93518de2e25a7"
+    },
+    {
+      "path": "qwen35/finetuned_factuality.audit/predictions.jsonl",
+      "bytes": 1208038,
+      "sha256": "b55c0329a857dfde5a480f75e4cdab2a89b5ff75c63abaee6faa69c7e348d238"
+    },
+    {
+      "path": "qwen35/finetuned_factuality.audit/writer.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "qwen35/finetuned_factuality.csv",
+      "bytes": 132293,
+      "sha256": "6b8c94916146ccc4485e61f2e6ba325e9532a6233f16940ac85428d787e7daa7"
+    },
+    {
+      "path": "qwen35/finetuned_bias.audit/manifest.json",
+      "bytes": 690030,
+      "sha256": "e8bc8bdd0dc5a0a6bb7309bf52cef0c7ebbf7eff6645c5e00a41ce1f865647d5"
+    },
+    {
+      "path": "qwen35/finetuned_bias.audit/metrics.json",
+      "bytes": 2756,
+      "sha256": "93baac1f29379a6135b9764dd49238249bcf53f9cd1ab2bae215663545cf8f75"
+    },
+    {
+      "path": "qwen35/finetuned_bias.audit/predictions.jsonl",
+      "bytes": 1009925,
+      "sha256": "71eeb79bcc1d6f6e8f9b42300a66a76b927690098de2a9cb993090df522527e2"
+    },
+    {
+      "path": "qwen35/finetuned_bias.audit/writer.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "qwen35/finetuned_bias.csv",
+      "bytes": 138626,
+      "sha256": "16d346c06a367d9fa9c5d57f7273539f63699e36f512002826361b84add6a66c"
+    },
+    {
+      "path": "ministral/zero_shot.audit/manifest.json",
+      "bytes": 229153,
+      "sha256": "50b8b00a78e49b3f63f9e810406979880ad17501a5abf68bef8abcfb0fb2383d"
+    },
+    {
+      "path": "ministral/zero_shot.audit/metrics.json",
+      "bytes": 4510,
+      "sha256": "fac8dc31ba672bc4c230af00775b6f28593d1aff815d10988eddbf3bfb780f15"
+    },
+    {
+      "path": "ministral/zero_shot.audit/predictions.jsonl",
+      "bytes": 4073766,
+      "sha256": "aac551e51e9165c549ba86603ab631961860b4bcecf46f1d61c116e9f8ee0e3a"
+    },
+    {
+      "path": "ministral/zero_shot.audit/writer.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "ministral/zero_shot.csv",
+      "bytes": 156232,
+      "sha256": "8617115b235c0d44c47a6dc6cfab0c846baad2b5ab9b8f8c0caee48b574eb977"
+    },
+    {
+      "path": "ministral/finetuned_factuality.audit/manifest.json",
+      "bytes": 686212,
+      "sha256": "0d4603967c4faf5293b1826e8a50c069705930cf6453ae018e7d7a513b58a377"
+    },
+    {
+      "path": "ministral/finetuned_factuality.audit/metrics.json",
+      "bytes": 1897,
+      "sha256": "3dcc9915d207129cd0b3bfd05d790fd54a9e61d990723dceeee4a66c581664f6"
+    },
+    {
+      "path": "ministral/finetuned_factuality.audit/predictions.jsonl",
+      "bytes": 2133513,
+      "sha256": "45dba54af591a5b8ced06c48c7ed53fccbe004f54bb67bcf22f4b8f2cf879b57"
+    },
+    {
+      "path": "ministral/finetuned_factuality.audit/writer.lock",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "ministral/finetuned_factuality.csv",
+      "bytes": 131066,
+      "sha256": "c42fd1bf86b2639c0d94667a1433c8e6f8fd27fd8804881a4feb8849b82a5ea3"
+    }
+  ],
+  "total_bytes": 13883415,
+  "retrieved_at": "2026-10-21T06:05:03.003165+00:00",
+  "transport": "SSH/rsync",
+  "verified_files": 25
+}

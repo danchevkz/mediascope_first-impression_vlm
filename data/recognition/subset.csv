@@ -1,0 +1,213 @@
+media_name,url,true_label_factuality,true_label_bias,cluster_group,stratum
+9 News,https://www.9news.com.au/,HIGH,RIGHT-CENTER,unclustered,unclustered|HIGH|RIGHT-CENTER
+ABQ Times,http://abqtimes.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Adams.News,https://adams.news,LOW,RIGHT,cluster_04_test,cluster_04_test|LOW|RIGHT
+Addiction.News,https://addiction.news,LOW,RIGHT,cluster_04_test,cluster_04_test|LOW|RIGHT
+Al Monitor,https://al-monitor.com,HIGH,LEFT-CENTER,unclustered,unclustered|HIGH|LEFT-CENTER
+Alabama Business Daily,http://businessdailynetwork.com/states/al,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Altoona Times,http://altoonatimes.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Amarillo Gazette,http://amarillogazette.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+American Affairs Journal,https://americanaffairsjournal.org,HIGH,RIGHT-CENTER,unclustered,unclustered|HIGH|RIGHT-CENTER
+American Pharmacy News,http://americanpharmacynews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+American Renaissance Magazine,http://www.amren.com,LOW,RIGHT,unclustered,unclustered|LOW|RIGHT
+"American Society for the Defense of Tradition, Family, and Property",http://www.tfp.org,LOW,RIGHT,unclustered,unclustered|LOW|RIGHT
+Amnesty International,https://amnesty.org,HIGH,LEFT-CENTER,unclustered,unclustered|HIGH|LEFT-CENTER
+Anthropocene Alliance,https://anthropocenealliance.org,HIGH,LEFT,unclustered,unclustered|HIGH|LEFT
+ArcaMax,https://arcamax.com,HIGH,RIGHT-CENTER,unclustered,unclustered|HIGH|RIGHT-CENTER
+Arkansas Times,https://arktimes.com,HIGH,LEFT-CENTER,unclustered,unclustered|HIGH|LEFT-CENTER
+Atlanta Black Star,https://atlantablackstar.com,HIGH,LEFT-CENTER,unclustered,unclustered|HIGH|LEFT-CENTER
+Auburn Reporter,https://auburn-reporter.com,HIGH,LEAST BIASED,unclustered,unclustered|HIGH|LEAST BIASED
+Awakening.News,https://awakening.news,LOW,RIGHT,cluster_04_test,cluster_04_test|LOW|RIGHT
+Baha Breaking News,https://breakingthenews.net,HIGH,LEAST BIASED,unclustered,unclustered|HIGH|LEAST BIASED
+Bare Naked Islam,https://barenakedislam.com,LOW,RIGHT,unclustered,unclustered|LOW|RIGHT
+Being Liberal,https://beingliberal.org,HIGH,LEFT,unclustered,unclustered|HIGH|LEFT
+Belfer Center for Science and International Affairs,https://belfercenter.org,HIGH,LEFT-CENTER,unclustered,unclustered|HIGH|LEFT-CENTER
+Bioterrorism.News,https://bioterrorism.news,LOW,RIGHT,cluster_04_test,cluster_04_test|LOW|RIGHT
+Black Community NEws,https://blackcommunitynews.com,MIXED,RIGHT,unclustered,unclustered|MIXED|RIGHT
+Blacknews,http://Blacknews.com,MIXED,LEFT,unclustered,unclustered|MIXED|LEFT
+Borgen Project,https://borgenproject.org,HIGH,LEFT-CENTER,unclustered,unclustered|HIGH|LEFT-CENTER
+Breakthrough Institute,https://thebreakthrough.org,HIGH,RIGHT-CENTER,unclustered,unclustered|HIGH|RIGHT-CENTER
+Burlington Review,http://burlingtonreview.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Butler County News,http://butlerconews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+CTV News,https://ctvnews.ca,HIGH,LEAST BIASED,unclustered,unclustered|HIGH|LEAST BIASED
+California Business Daily,http://businessdailynetwork.com/states/ca,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+CaliforniaCollapse.News,https://californiacollapse.news,LOW,RIGHT,cluster_04_test,cluster_04_test|LOW|RIGHT
+Cambria Times,http://cambriatimes.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Capital District Times,http://capitaldistricttimes.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Censorship.News,https://censorship.news,LOW,RIGHT,cluster_04_test,cluster_04_test|LOW|RIGHT
+Center for Democracy and Technology,https://cdt.org,HIGH,LEAST BIASED,unclustered,unclustered|HIGH|LEAST BIASED
+Central Bucks Today,http://centralbuckstoday.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Check Your Fact,https://checkyourfact.com,HIGH,RIGHT-CENTER,unclustered,unclustered|HIGH|RIGHT-CENTER
+Cherokee Tribune,https://tribuneledgernews.com,HIGH,LEAST BIASED,unclustered,unclustered|HIGH|LEAST BIASED
+Chinook Observer,https://chinookobserver.com,HIGH,LEAST BIASED,unclustered,unclustered|HIGH|LEAST BIASED
+Citizen Free Press,https://citizenfreepress.com,MIXED,RIGHT,unclustered,unclustered|MIXED|RIGHT
+Citizens’ Council for Health Freedom,http://cchfreedom.org,MIXED,RIGHT,unclustered,unclustered|MIXED|RIGHT
+ClimateScienceNews,https://climatesciencenews.com,LOW,RIGHT,cluster_04_test,cluster_04_test|LOW|RIGHT
+Co2 Coalition,http://co2coalition.org,LOW,RIGHT,unclustered,unclustered|LOW|RIGHT
+Colorado Business Daily,https://businessdailynetwork.com/states/co,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Columbia Journalism Review,https://cjr.org,HIGH,LEFT-CENTER,unclustered,unclustered|HIGH|LEFT-CENTER
+Common Cause,https://commoncause.org,HIGH,LEFT-CENTER,unclustered,unclustered|HIGH|LEFT-CENTER
+Communist Party USA,https://cpusa.org,MIXED,LEFT,unclustered,unclustered|MIXED|LEFT
+Concord Ledger,http://concordledger.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+CounterPunch,https://counterpunch.org,HIGH,LEFT,unclustered,unclustered|HIGH|LEFT
+CovertAction Magazine,http://covertactionmagazine.com,MIXED,LEFT,unclustered,unclustered|MIXED|LEFT
+Crawford Times,http://crawfordtimes.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+CrimethInc,https://crimethinc.com,HIGH,LEFT,unclustered,unclustered|HIGH|LEFT
+Crisis Magazine,https://crisismagazine.com,MIXED,RIGHT,unclustered,unclustered|MIXED|RIGHT
+Cronkite News,https://cronkitenews.azpbs.org,HIGH,LEFT-CENTER,unclustered,unclustered|HIGH|LEFT-CENTER
+Curve Magazine,https://curvemag.com,HIGH,LEFT,unclustered,unclustered|HIGH|LEFT
+CyberWar.News,https://cyberwar.news,LOW,RIGHT,cluster_04_test,cluster_04_test|LOW|RIGHT
+Daily Kos,https://dailykos.com,MIXED,LEFT,unclustered,unclustered|MIXED|LEFT
+Daily Nonpareil,https://nonpareilonline.com,HIGH,LEAST BIASED,unclustered,unclustered|HIGH|LEAST BIASED
+Daily Post Nigeria,https://dailypost.ng,HIGH,LEAST BIASED,unclustered,unclustered|HIGH|LEAST BIASED
+Dallas City Wire,http://dallascitywire.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Dauphin News,http://dauphinnews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Debunking Denialism,https://debunkingdenialism.com,HIGH,LEFT-CENTER,unclustered,unclustered|HIGH|LEFT-CENTER
+Deccan Herald,https://deccanherald.com,MIXED,LEFT-CENTER,unclustered,unclustered|MIXED|LEFT-CENTER
+Denton Record-Chronicle,https://dentonrc.com,HIGH,LEAST BIASED,unclustered,unclustered|HIGH|LEAST BIASED
+Doctors Without Borders,https://doctorswithoutborders.org,HIGH,LEAST BIASED,unclustered,unclustered|HIGH|LEAST BIASED
+Down East Times,http://downeasttimes.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+EC Oklahoma News,http://ecoklahomanews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+ECU Center for Survey Research,https://surveyresearch.ecu.edu,HIGH,LEFT-CENTER,unclustered,unclustered|HIGH|LEFT-CENTER
+Earth.org,https://earth.org,HIGH,LEFT-CENTER,unclustered,unclustered|HIGH|LEFT-CENTER
+EarthJustice,https://earthjustice.org,HIGH,LEFT-CENTER,unclustered,unclustered|HIGH|LEFT-CENTER
+East Central Texas News,http://ectexasnews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+East Hudson Valley News,http://easthudvalleynews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+East New Mexico News,http://eastnewmexiconews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+East OKC News,http://eastokcnews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+East RGV News,http://eastrgvnews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Ecology News,https://ecology.news,LOW,RIGHT,cluster_04_test,cluster_04_test|LOW|RIGHT
+Electronic Intifada,https://electronicintifada.net,HIGH,LEFT,unclustered,unclustered|HIGH|LEFT
+Environmental Defense Fund,https://edf.org,HIGH,LEFT-CENTER,unclustered,unclustered|HIGH|LEFT-CENTER
+FactCheck.News,https://factcheck.news,LOW,RIGHT,cluster_04_test,cluster_04_test|LOW|RIGHT
+Faith & Freedom Coalition,https://ffcoalition.com,MIXED,RIGHT,unclustered,unclustered|MIXED|RIGHT
+FedScoop,https://fedscoop.com,HIGH,LEAST BIASED,unclustered,unclustered|HIGH|LEAST BIASED
+Federal Way Mirror,https://federalwaymirror.com,HIGH,LEAST BIASED,unclustered,unclustered|HIGH|LEAST BIASED
+Federalist Press,http://federalistpress.com,MIXED,RIGHT,unclustered,unclustered|MIXED|RIGHT
+Filter Magazine,https://filtermag.org,HIGH,LEFT-CENTER,unclustered,unclustered|HIGH|LEFT-CENTER
+First Coast News,https://firstcoastnews.com,HIGH,LEAST BIASED,unclustered,unclustered|HIGH|LEAST BIASED
+Fitchburg Sentinel & Enterprise,https://sentinelandenterprise.com,HIGH,LEAST BIASED,unclustered,unclustered|HIGH|LEAST BIASED
+Florida Parish News,http://floridaparishnews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Free West Media,http://freewestmedia.com,MIXED,RIGHT,unclustered,unclustered|MIXED|RIGHT
+GOPUSA,http://www.gopusa.com,MIXED,RIGHT,unclustered,unclustered|MIXED|RIGHT
+Gallup,https://gallup.com,HIGH,LEAST BIASED,unclustered,unclustered|HIGH|LEAST BIASED
+Garden State Times,http://gardenstatetimes.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Gear.News,https://gear.news,LOW,RIGHT,cluster_04_test,cluster_04_test|LOW|RIGHT
+Georgia Business Daily,http://businessdailynetwork.com/states/ga,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Gloucester Today,http://gloucestertoday.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Gop.gov House Republicans,http://gop.gov,MIXED,RIGHT,unclustered,unclustered|MIXED|RIGHT
+Granite Grok,http://granitegrok.com,LOW,RIGHT,unclustered,unclustered|LOW|RIGHT
+Green Matters,https://greenmatters.com,MIXED,LEFT-CENTER,unclustered,unclustered|MIXED|LEFT-CENTER
+Greenlining Institute,https://greenlining.org,HIGH,LEFT,unclustered,unclustered|HIGH|LEFT
+Herbs.News,https://herbs.news,LOW,RIGHT,cluster_04_test,cluster_04_test|LOW|RIGHT
+Here is the Evidence,http://hereistheevidence.com,LOW,RIGHT,unclustered,unclustered|LOW|RIGHT
+Hudson Today,http://hudsontoday.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Huffington Post,https://huffpost.com,HIGH,LEFT,unclustered,unclustered|HIGH|LEFT
+Idaho Business Daily,https://businessdailynetwork.com/states/id,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Indiana Business Daily,http://businessdailynetwork.com/states/in,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Iowa Business Daily,http://businessdailynetwork.com/states/ia,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Israel War Room,http://israelwarroom.com,MIXED,RIGHT,unclustered,unclustered|MIXED|RIGHT
+Jewish World Review,https://jewishworldreview.com,MIXED,RIGHT,unclustered,unclustered|MIXED|RIGHT
+Johnstown Tribune-Democrat,https://tribdem.com,HIGH,LEFT-CENTER,unclustered,unclustered|HIGH|LEFT-CENTER
+JordanBPeterson,http://JordanBPeterson.com,MIXED,RIGHT,unclustered,unclustered|MIXED|RIGHT
+KAIT8-TV,https://kait8.com,HIGH,LEAST BIASED,unclustered,unclustered|HIGH|LEAST BIASED
+KVAL - Eugene News,https://kval.com,HIGH,RIGHT-CENTER,unclustered,unclustered|HIGH|RIGHT-CENTER
+Kansas Business Daily,http://businessdailynetwork.com/states/ks,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Kentucky Business Daily,http://businessdailynetwork.com/states/ky,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Kyodo News Plus,https://english.kyodonews.net,HIGH,LEAST BIASED,unclustered,unclustered|HIGH|LEAST BIASED
+Law for Palestine,https://law4palestine.org,HIGH,LEFT-CENTER,unclustered,unclustered|HIGH|LEFT-CENTER
+Lawrence Times,http://lawrencetimes.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Lead Stories,https://leadstories.com,HIGH,LEAST BIASED,unclustered,unclustered|HIGH|LEAST BIASED
+LegalDive,https://legaldive.com,HIGH,LEAST BIASED,unclustered,unclustered|HIGH|LEAST BIASED
+Lewiston Times,http://lewistontimes.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Life News,http://www.lifenews.com,LOW,RIGHT,unclustered,unclustered|LOW|RIGHT
+Litchfield Hills Today,http://litchfieldhillstoday.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Luzerne Times,http://luzernetimes.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Maine Business Daily,https://mainebusinessdaily.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Maine Highlands News,http://mainehighlandsnews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Maine Lakes News,http://mainelakesnews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Mass Daily News,http://massdailynews.com,MIXED,RIGHT,unclustered,unclustered|MIXED|RIGHT
+Mat-Su Times,https://matsutimes.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Mehr News Agency,http://en.mehrnews.com,MIXED,RIGHT,unclustered,unclustered|MIXED|RIGHT
+Mercer Times,http://mercertimes.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Mercopress,http://en.mercopress.com,MIXED,LEFT-CENTER,unclustered,unclustered|MIXED|LEFT-CENTER
+Minnesota Business Daily,http://mnbusinessdaily.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Modern Diplomacy,https://moderndiplomacy.eu,MIXED,RIGHT,unclustered,unclustered|MIXED|RIGHT
+Monmouth Times,http://monmouthtimes.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Monroe County News,http://monroeconews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Morelos Daily Post,http://morelosdailypost.com,MIXED,LEFT-CENTER,unclustered,unclustered|MIXED|LEFT-CENTER
+Moskva News,http://moskva-news.com,LOW,RIGHT,unclustered,unclustered|LOW|RIGHT
+NBCNewYork.com,https://nbcnewyork.com,HIGH,LEFT-CENTER,unclustered,unclustered|HIGH|LEFT-CENTER
+NC Business Daily,http://ncbusinessdaily.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+NC Massachusetts News,http://ncmassnews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+NC Oklahoma News,http://ncoklahomanews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+NE Bergen News,http://nebergennews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+NE Connecticut News,http://neconnnews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+NE New York Today,http://nenewyorktoday.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+NGO Monitor,https://ngo-monitor.org,MIXED,RIGHT,unclustered,unclustered|MIXED|RIGHT
+NW Bergen News,http://nwbergennews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Nassau Standard,http://nassaustandard.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+National Association of Scholars,https://nas.org,MIXED,RIGHT,unclustered,unclustered|MIXED|RIGHT
+National File,https://nationalfile.com,LOW,RIGHT,unclustered,unclustered|LOW|RIGHT
+Naugatuck Times,http://naugatucktimes.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Nebraska Business Daily,http://nebraskabusinessdaily.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+New Hampshire Business Daily,http://nhbusinessdaily.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+New Lines Magazine,https://newlinesmag.com,HIGH,LEFT-CENTER,unclustered,unclustered|HIGH|LEFT-CENTER
+New Mexico Business Daily –,http://nmbusinessdaily.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+News Hour First,http://newshourfirst.com,LOW,RIGHT,unclustered,unclustered|LOW|RIGHT
+News with Views,http://www.newswithviews.com,LOW,RIGHT,unclustered,unclustered|LOW|RIGHT
+Niagara Leader,http://niagaraleader.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Nordic Monitor,http://nordicmonitor.com,MIXED,LEFT-CENTER,unclustered,unclustered|MIXED|LEFT-CENTER
+Norfolk Reporter,http://norfolkreporter.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+North Boston News,http://northbostonnews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+North Central PA Times,http://ncpatimes.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+North Chester Today,http://northchestertoday.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+North Dakota Business Daily,http://ndbusinessdaily.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+North Lancaster News,http://northlancasternews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+North Tulsa Today,http://northtulsatoday.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Northern Tier News,http://northerntiernews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Northhampton News,http://northhamptonnews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Northwest PA News,http://nwpanews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Ocean County Leader,http://oceancountyleader.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Oh!MyMag,https://ohmymag.co.uk,MIXED,LEAST BIASED,unclustered,unclustered|MIXED|LEAST BIASED
+Pandemic News,https://pandemic.news,LOW,RIGHT,cluster_04_test,cluster_04_test|LOW|RIGHT
+Pennsylvania Business Daily,http://businessdailynetwork.com/states/pa/,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+SC New York News,http://scnewyorknews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+SE Connecticut News,http://seconnnews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+SE Oklahoma News,http://seoklahomanews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+SW New Mexico News,http://swnewmexiconews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+SW Oklahoma News,http://swoklahomanews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+ScienceClowns,https://scienceclowns.com,LOW,RIGHT,cluster_04_test,cluster_04_test|LOW|RIGHT
+Scranton Reporter,http://scrantonreporter.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Sooner State News,http://soonerstatenews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+South ABQ News,http://southabqnews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+South County Times,http://southcotimes.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+South Dakota Business Daily,http://businessdailynetwork.com/states/sd,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+South Jersey Sun,http://southjerseysun.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+South Maine News,http://southmainenews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+South Tulsa Today,http://southtulsatoday.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Southwest PA news,http://swpanews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Syracuse Sun,http://syracusesun.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Tennessee Business Daily,http://businessdailynetwork.com/states/tn,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+The Burning Platform,http://theburningplatform.com,LOW,RIGHT,unclustered,unclustered|LOW|RIGHT
+The Goldwater,http://thegoldwater.com,LOW,RIGHT,unclustered,unclustered|LOW|RIGHT
+The Prepared,https://theprepared.com,HIGH,LEAST BIASED,unclustered,unclustered|HIGH|LEAST BIASED
+This Day Live,https://thisdaylive.com,HIGH,RIGHT-CENTER,unclustered,unclustered|HIGH|RIGHT-CENTER
+Truth Based Media,http://truthbasedmedia.com,LOW,RIGHT,unclustered,unclustered|LOW|RIGHT
+Tsarizm,http://tsarizm.com,LOW,RIGHT,unclustered,unclustered|LOW|RIGHT
+Turley Talks,http://turleytalks.com,LOW,RIGHT,unclustered,unclustered|LOW|RIGHT
+United Voice,http://unitedvoice.com,MIXED,RIGHT,unclustered,unclustered|MIXED|RIGHT
+Unmuzzled News,http://unmuzzlednews.com,MIXED,RIGHT,unclustered,unclustered|MIXED|RIGHT
+VaccineDamage.News,https://vaccinedamage.news,LOW,RIGHT,cluster_04_test,cluster_04_test|LOW|RIGHT
+VaccineInjuryNews,https://vaccineinjurynews.com,LOW,RIGHT,cluster_04_test,cluster_04_test|LOW|RIGHT
+WJCT - NPR - Jacksonville,https://news.wjct.org,HIGH,LEFT-CENTER,unclustered,unclustered|HIGH|LEFT-CENTER
+WalesOnline,https://walesonline.co.uk,HIGH,LEFT-CENTER,unclustered,unclustered|HIGH|LEFT-CENTER
+We Got This Covered,https://wegotthiscovered.com,HIGH,LEAST BIASED,unclustered,unclustered|HIGH|LEAST BIASED
+West Central PA News,http://wcpanews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+West Massachusetts News,http://westmassnews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+West Montgomery Times,http://westmonttimes.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+West NY News,http://westnynews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Westmoreland Review,http://westmorelandreview.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER
+Wyofile,https://wyofile.com,HIGH,LEFT,unclustered,unclustered|HIGH|LEFT
+Yellow Hammer News,https://yellowhammernews.com,HIGH,RIGHT,unclustered,unclustered|HIGH|RIGHT
+York County News,http://yorkconews.com,MIXED,RIGHT-CENTER,cluster_01_test,cluster_01_test|MIXED|RIGHT-CENTER

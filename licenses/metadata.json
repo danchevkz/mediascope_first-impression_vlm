@@ -1,0 +1,39 @@
+{
+  "code": {
+    "name": "AI Pubs OpenRAIL-S v0.1",
+    "identifier": "LicenseRef-AI-Pubs-OpenRAIL-S-0.1",
+    "file": "LICENSE",
+    "sha256": "a068a051387a1985294c37291aff47f839c44c9c542560c55da5f98d6ed11250",
+    "source_url": "https://www.licenses.ai/ai-pubs-open-rails-vz1",
+    "version_date": "2023-03-02"
+  },
+  "adapters": {
+    "name": "AI Pubs OpenRAIL-M v0.1",
+    "identifier": "LicenseRef-AI-Pubs-OpenRAIL-M-0.1",
+    "file": "licenses/AI-Pubs-OpenRAIL-M-0.1.txt",
+    "sha256": "27ab45623b2c93779a44b72b0429bf5ecfd8c3853dd8fd6232ff20ed1a03a661",
+    "source_url": "https://www.licenses.ai/ai-pubs-open-railm-vz1",
+    "version_date": "2023-03-02",
+    "scope": "MeFI-trained LoRA weight contributions"
+  },
+  "upstream_models": {
+    "Qwen/Qwen3.5-4B": {
+      "revision": "851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a",
+      "license": "Apache-2.0",
+      "license_file": "licenses/Apache-2.0.txt",
+      "source_url": "https://huggingface.co/Qwen/Qwen3.5-4B/blob/851bf6e806efd8d0a36b00ddf55e13ccb7b8cd0a/LICENSE",
+      "notice": "Copyright 2026 Alibaba Cloud"
+    },
+    "mistralai/Ministral-3-8B-Instruct-2512-BF16": {
+      "revision": "f6fae9795746f63c9be8344932f01275f3c63734",
+      "license": "Apache-2.0",
+      "license_file": "licenses/Apache-2.0.txt",
+      "source_url": "https://huggingface.co/mistralai/Ministral-3-8B-Instruct-2512-BF16/blob/f6fae9795746f63c9be8344932f01275f3c63734/README.md",
+      "notice": "Publisher: Mistral AI"
+    }
+  },
+  "dataset": {
+    "distribution": "separate",
+    "terms": "Provided with the separate dataset release; third-party content retains its source terms."
+  }
+}

@@ -1,0 +1,11 @@
+{"task":"factuality","reviewed_ranges":[[1,35]],"decisions":{
+"1":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["High (recalled impression for Nine/9News; unverified)"]},
+"11":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["recall that MBFC and similar raters classify it as low-factuality/extreme-right"]},
+"12":{"category":"generic","rating_scope":"generic_type","family_link":"not_applicable","evidence":["general familiarity with MBFC-style ratings of religious advocacy/pseudoscience outlets","MBFC-style treatment of such advocacy/pseudoscience sites as low factuality"],"note":"The basis/explanation describe ratings of an outlet type, not a clearly recalled TFP profile."},
+"13":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["recall that MBFC rates Amnesty International as high factuality with a left-center bias"]},
+"17":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["Mixed (recalled MBFC factuality rating; uncertain)"]},
+"19":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["Media Bias/Fact Check (recalled listing for Awakening.news)","Low (conspiracy/pseudoscience-promoting)"],"note":"Low factuality is claimed explicitly; bias wording is recalled imprecisely."},
+"26":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["I recall seeing an MBFC-style entry rating its factuality as Mixed and its bias as Left/Left-Center"]},
+"31":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["recall MBFC-style ratings placing CTV News as high factuality / least-biased"]},
+"33":{"category":"asserted","rating_scope":"named_family","family_link":"identified_by_response","evidence":["Low (NaturalNews rated low factual reliability / conspiracy-pseudoscience by MBFC)"]}
+}}

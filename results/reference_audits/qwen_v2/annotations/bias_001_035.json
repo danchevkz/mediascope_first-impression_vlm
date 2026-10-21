@@ -1,0 +1,8 @@
+{"task":"bias","reviewed_ranges":[[1,35]],"decisions":{
+"3":{"category":"asserted","rating_scope":"named_family","family_link":"identified_by_response","evidence":["Right / extreme right (conspiratorial, anti-establishment right)","matching my recalled knowledge of Mike Adams' Natural News network"]},
+"12":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["I recognize the outlet and recall that MBFC rates TFP as right-wing bias"]},
+"16":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["recalled MBFC Left-Center/High factuality rating"]},
+"26":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["I recognize the outlet and recall MBFC rating it Left-Center"]},
+"31":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["I recall a generic external characterization of CTV as centrist/least-biased with high factuality, but I cannot verify any specific rating entry"]},
+"33":{"category":"asserted","rating_scope":"named_family","family_link":"identified_by_response","evidence":["NaturalNews/NewsTarget network, which MBFC rates as right-wing bias with low factuality"]}
+}}

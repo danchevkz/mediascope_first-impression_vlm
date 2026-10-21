@@ -1,0 +1,9 @@
+{"task":"factuality","reviewed_ranges":[[116,145]],"decisions":{
+"119":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["recall MBFC listing it as Least Biased with High factual reporting"]},
+"122":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["recall MBFC listing it as Right-biased with Mixed factual reporting"]},
+"130":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["MBFC 'Questionable' with mixed/low factual reporting due to state propaganda (approximate recollection, not verified)"]},
+"132":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["general, uncertain recollection of an MBFC profile rating it high for factual reporting"]},
+"134":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["uncertain recollection that MBFC has profiled it with a low/questionable factual rating"]},
+"136":{"category":"asserted","rating_scope":"named_family","family_link":"tentative_or_inferred","evidence":["Mixed to Questionable (per MBFC assessments of Metric Media network sites)"]},
+"139":{"category":"asserted","rating_scope":"named_family","family_link":"identified_by_response","evidence":["NBC News nationally: High by general recall; WNBC-specific factuality rating unknown"]}
+}}

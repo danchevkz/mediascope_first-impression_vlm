@@ -1,0 +1,7 @@
+{"task":"bias","reviewed_ranges":[[146,175]],"decisions":{
+"146":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["Right-Center bias (uncertain recall)","low-confidence recollection of an MBFC rating"]},
+"150":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["RIGHT (uncertain recall)"]},
+"152":{"category":"uncertain_recall","rating_scope":"named_family","family_link":"tentative_or_inferred","evidence":["I vaguely recall MBFC rating Metric Media network sites as Right Biased, but I am not confident in this recall"]},
+"169":{"category":"uncertain_recall","rating_scope":"named_family","family_link":"tentative_or_inferred","evidence":["Uncertain recall of a Right Bias rating for Metric Media network sites from MBFC"]},
+"172":{"category":"uncertain_recall","rating_scope":"named_family","family_link":"tentative_or_inferred","evidence":["Extreme right / conspiracy-pseudoscience (recalled for the Natural News network; specific rating for Pandemic.News uncertain)","my recalled ratings are uncertain memories"]}
+}}

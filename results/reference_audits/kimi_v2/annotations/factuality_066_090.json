@@ -1,0 +1,12 @@
+{"task":"factuality","reviewed_ranges":[[66,90]],"decisions":{
+"71":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["MBFC profile rating it High for factual reporting with a Left environmental bias"]},
+"72":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["vague, uncertain recollection that MBFC has rated Earthjustice as High in factual reporting"]},
+"73":{"category":"asserted","rating_scope":"named_family","family_link":"tentative_or_inferred","evidence":["I recall that MBFC has rated many Metric Media/'pink slime' local news sites as right-biased with mixed factual reporting"],"note":"The recalled claim explicitly names Metric Media; the outlet's own classification and family connection are inferred."},
+"75":{"category":"generic","rating_scope":"generic_type","family_link":"not_applicable","evidence":["Media Bias/Fact Check has rated similar Metric Media-style local news networks","prior awareness of similar networks being rated poorly by external evaluators"]},
+"78":{"category":"asserted","rating_scope":"named_family","family_link":"identified_by_response","evidence":["Low factual / conspiracy-pseudoscience for NaturalNews network (recalled); Ecology.news-specific rating unknown"]},
+"79":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["MIXED (uncertain)","unverified memory of MBFC-style coverage describing strong left/pro-Palestinian bias and around-mixed factuality"]},
+"81":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["recall MBFC rating FactCheck.news as Low factual / Conspiracy-Pseudoscience"]},
+"82":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["uncertain recollection of an MBFC rating listing it as right-biased with mixed/questionable factual reporting"]},
+"87":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["I recall MBFC rating First Coast News/TEGNA local stations as High factual and Least Biased"]},
+"90":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["LOW / Questionable (recalled with moderate confidence, not verified)"]}
+}}

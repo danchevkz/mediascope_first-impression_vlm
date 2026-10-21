@@ -1,0 +1,9 @@
+{"task":"bias","reviewed_ranges":[[36,70]],"decisions":{
+"36":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["I recognize the outlet name and recall an MBFC-style rating of right bias with mixed/poor factuality"]},
+"47":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["recall MBFC-style ratings placing it left-center with high factuality"]},
+"48":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["I recognize Common Cause and recall MBFC-style ratings placing it left-leaning"]},
+"51":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["I also recall MBFC rating CounterPunch as Left (with mixed factuality)"]},
+"52":{"category":"uncertain_recall","rating_scope":"outlet","family_link":"not_applicable","evidence":["Mixed (recalled, uncertain)","Left (recalled, uncertain)"]},
+"56":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["recall MBFC-style ratings placing it Left-Center with high factuality"]},
+"59":{"category":"asserted","rating_scope":"outlet","family_link":"not_applicable","evidence":["my recall that MBFC rates Daily Kos as Left bias"]}
+}}

@@ -1,0 +1,80 @@
+{
+  "protocol": "proportional-stratified-outlet-sample-v1",
+  "seed": 42,
+  "requested_fraction": 0.5,
+  "population_records": 423,
+  "selected_records": 212,
+  "realized_fraction": 0.5011820330969267,
+  "stratification": "recorded test cluster membership x factuality label x bias label",
+  "test_csv_sha256": "09b4f926b1dafab298e66573b09a3858126751497e81316e64b5ad2aecd94103",
+  "clusters_csv_sha256": "949f49db8f28747580f336b8fe5da17d9c0cf0fc553ce6d5ab6af8df978aee82",
+  "subset_csv_sha256": "ae1fb1f60617c1073b7c1643d272b6afe125d263250b03a0aa311219aa5254d5",
+  "population_counts": {
+    "factuality": {
+      "HIGH": 116,
+      "LOW": 64,
+      "MIXED": 243
+    },
+    "bias": {
+      "LEAST BIASED": 45,
+      "LEFT": 26,
+      "LEFT-CENTER": 52,
+      "RIGHT": 101,
+      "RIGHT-CENTER": 199
+    },
+    "cluster_group": {
+      "cluster_01_test": 184,
+      "cluster_04_test": 31,
+      "unclustered": 208
+    },
+    "joint_stratum": {
+      "cluster_01_test|MIXED|RIGHT-CENTER": 184,
+      "cluster_04_test|LOW|RIGHT": 31,
+      "unclustered|HIGH|LEAST BIASED": 41,
+      "unclustered|HIGH|LEFT": 17,
+      "unclustered|HIGH|LEFT-CENTER": 41,
+      "unclustered|HIGH|RIGHT": 2,
+      "unclustered|HIGH|RIGHT-CENTER": 15,
+      "unclustered|LOW|LEAST BIASED": 1,
+      "unclustered|LOW|LEFT": 1,
+      "unclustered|LOW|RIGHT": 31,
+      "unclustered|MIXED|LEAST BIASED": 3,
+      "unclustered|MIXED|LEFT": 8,
+      "unclustered|MIXED|LEFT-CENTER": 11,
+      "unclustered|MIXED|RIGHT": 37
+    }
+  },
+  "selected_counts": {
+    "factuality": {
+      "HIGH": 59,
+      "LOW": 32,
+      "MIXED": 121
+    },
+    "bias": {
+      "LEAST BIASED": 22,
+      "LEFT": 13,
+      "LEFT-CENTER": 26,
+      "RIGHT": 52,
+      "RIGHT-CENTER": 99
+    },
+    "cluster_group": {
+      "cluster_01_test": 92,
+      "cluster_04_test": 16,
+      "unclustered": 104
+    },
+    "joint_stratum": {
+      "cluster_01_test|MIXED|RIGHT-CENTER": 92,
+      "cluster_04_test|LOW|RIGHT": 16,
+      "unclustered|HIGH|LEAST BIASED": 21,
+      "unclustered|HIGH|LEFT": 9,
+      "unclustered|HIGH|LEFT-CENTER": 21,
+      "unclustered|HIGH|RIGHT": 1,
+      "unclustered|HIGH|RIGHT-CENTER": 7,
+      "unclustered|LOW|RIGHT": 16,
+      "unclustered|MIXED|LEAST BIASED": 1,
+      "unclustered|MIXED|LEFT": 4,
+      "unclustered|MIXED|LEFT-CENTER": 5,
+      "unclustered|MIXED|RIGHT": 19
+    }
+  }
+}
